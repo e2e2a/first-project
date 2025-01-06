@@ -28,8 +28,8 @@ function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
 const captcha = async (page, url) => {
-  let doloop = true
- let i = 1;
+  let doloop = true;
+  let i = 1;
   while (doloop) {
     await safeNavigate(page, url);
     const captchaDetected = await page.evaluate(() => {
@@ -42,7 +42,7 @@ const captcha = async (page, url) => {
       console.log('No CAPTCHA detected.');
       break;
     }
-    i = i + 1
+    i = i + 1;
   }
   return true;
 };
