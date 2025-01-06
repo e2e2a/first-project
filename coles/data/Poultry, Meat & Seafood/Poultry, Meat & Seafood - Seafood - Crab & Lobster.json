@@ -1,0 +1,68 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/kb's-deli-thawed-msc-wa-cooked-rock-lobster-1-each-4165217",
+    "name": "KB's Deli Thawed MSC WA Cooked Rock Lobster | 1 Each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4165217.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "7238",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kb's-deli-thawed-msc-wa-cooked-rock-lobster-1-each-4165396",
+    "name": "KB's Deli Thawed MSC WA Cooked Rock Lobster | 1 Each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4165396.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "7238",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

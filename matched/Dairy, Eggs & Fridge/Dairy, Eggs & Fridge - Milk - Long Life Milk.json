@@ -1,0 +1,690 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/a2-full-cream-uht-milk-1l-4873250",
+    "name": "A2 Full Cream UHT Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4873250.jpg&w=640&q=90",
+    "barcode": "9335390002206",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/207328/a2-milk-full-cream-uht-milk",
+    "name": "A2 Milk Full Cream Uht Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/207328.jpg",
+    "barcode": "9335390002206",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-a2-protein-full-cream-milk-1l-3179680",
+    "name": "Australia's Own A2 Protein Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3179680.jpg&w=640&q=90",
+    "barcode": "9315090206975",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "294",
+        "price_per_unit": "294",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109483/australia-s-own-a2-protein-full-cream-uht-milk",
+    "name": "Australia's Own A2 Protein Full Cream UHT Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/109483.jpg",
+    "barcode": "9315090206975",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-full-cream-milk-1l-3179657",
+    "name": "Australia's Own Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3179657.jpg&w=640&q=90",
+    "barcode": "9315090206944",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109502/australia-s-own-full-cream-long-life-milk",
+    "name": "Australia's Own Full Cream Long Life Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/109502.jpg",
+    "barcode": "9315090206944",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-semi-skim-long-life-milk-1l-4824856",
+    "name": "Devondale Semi Skim Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4824856.jpg&w=640&q=90",
+    "barcode": "9300639600383",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230367/devondale-semi-skim-milk-long-life-uht-milk",
+    "name": "Devondale Semi Skim Milk Long Life UHT Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230367.jpg",
+    "barcode": "9300639600383",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/living-planet-goats-long-life-milk-1l-9972158",
+    "name": "Living Planet Goats Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9972158.jpg&w=640&q=90",
+    "barcode": "9312231224072",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/721421/living-planet-uht-goats-milk",
+    "name": "Living Planet UHT Goats Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/721421.jpg",
+    "barcode": "9312231224072",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-cholesterol-lowering-milk-1l-6506589",
+    "name": "Australia's Own Cholesterol Lowering Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6506589.jpg&w=640&q=90",
+    "barcode": "9315090214307",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "294",
+        "price_per_unit": "294",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/276707/australia-s-own-lower-cholesterol-milk",
+    "name": "Australia's Own Lower Cholesterol Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/276707.jpg",
+    "barcode": "9315090214307",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvey-fresh-long-life-milk-1l-1263559",
+    "name": "Harvey Fresh Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1263559.jpg&w=640&q=90",
+    "barcode": "9311697100173",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/21820/harvey-fresh-full-cream-long-life-milk",
+    "name": "Harvey Fresh Full Cream Long Life Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/021820.jpg",
+    "barcode": "9311697100173",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

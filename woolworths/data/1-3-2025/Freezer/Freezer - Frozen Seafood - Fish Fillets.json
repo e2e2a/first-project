@@ -1,0 +1,3392 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/948000/birds-eye-air-baked-barramundi-crumbed-fish",
+    "name": "Birds Eye Air Baked Barramundi Crumbed Fish 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/948000.jpg",
+    "source_id": "Woolworths - 948000",
+    "barcode": "9310081134596",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1315",
+        "price_per_unit": "5260",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953652/birds-eye-air-baked-deep-sea-dory-crumbed-fish",
+    "name": "Birds Eye Air Baked Deep Sea Dory Crumbed Fish 380g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/953652.jpg",
+    "source_id": "Woolworths - 953652",
+    "barcode": "9310081134589",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1315",
+        "price_per_unit": "3461",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/947981/birds-eye-air-baked-south-american-flathead-crumbed-fish",
+    "name": "Birds Eye Air Baked South American Flathead Crumbed Fish 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/947981.jpg",
+    "source_id": "Woolworths - 947981",
+    "barcode": "9310081134602",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1315",
+        "price_per_unit": "5260",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944638/birds-eye-air-baked-southern-blue-whiting-crumbed-fish",
+    "name": "Birds Eye Air Baked Southern Blue Whiting Crumbed Fish 380g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944638.jpg",
+    "source_id": "Woolworths - 944638",
+    "barcode": "9310081134572",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "3289",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1315",
+        "price_per_unit": "3461",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/674914/birds-eye-deli-australian-hoki-fillets-light-batter",
+    "name": "Birds Eye Deli Australian Hoki Fillets Light Batter 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/674914.jpg",
+    "source_id": "Woolworths - 674914",
+    "barcode": "9310081121664",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780289/birds-eye-deli-barramundi-fillets-light-batter",
+    "name": "Birds Eye Deli Barramundi Fillets Light Batter 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/780289.jpg",
+    "source_id": "Woolworths - 780289",
+    "barcode": "9310081122616",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/691284/birds-eye-deli-new-zealand-whiting-fillets-light-batter",
+    "name": "Birds Eye Deli New Zealand Whiting Fillets Light Batter 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/691284.jpg",
+    "source_id": "Woolworths - 691284",
+    "barcode": "9310081118992",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/60993/birds-eye-deli-south-atlantic-flathead-fillets-light-batter",
+    "name": "Birds Eye Deli South Atlantic Flathead Fillets Light Batter 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/060993.jpg",
+    "source_id": "Woolworths - 60993",
+    "barcode": "9310081124948",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38910/birds-eye-oven-bake-fish-lemon-crumb",
+    "name": "Birds Eye Oven Bake Fish Lemon Crumb 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038910.jpg",
+    "source_id": "Woolworths - 38910",
+    "barcode": "9310081414711",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1482",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/45940/birds-eye-oven-bake-fish-lightly-battered",
+    "name": "Birds Eye Oven Bake Fish Lightly Battered 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/045940.jpg",
+    "source_id": "Woolworths - 45940",
+    "barcode": "9310081414698",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1482",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/45916/birds-eye-oven-bake-fish-original-crumb",
+    "name": "Birds Eye Oven Bake Fish Original Crumb 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/045916.jpg",
+    "source_id": "Woolworths - 45916",
+    "barcode": "9310081414704",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1482",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780110/birds-eye-steam-fresh-parsley-citrus-sauce",
+    "name": "Birds Eye Steam Fresh Parsley & Citrus Sauce 380G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/780110.jpg",
+    "source_id": "Woolworths - 780110",
+    "barcode": "9310081122647",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/372175/i-j-australian-hoki-fish-beer-battered",
+    "name": "I&J Australian Hoki Fish Beer Battered 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/372175.jpg",
+    "source_id": "Woolworths - 372175",
+    "barcode": "9310139131713",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "1729",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/571927/i-j-salt-pepper-squid-bites-lightly-crumbed",
+    "name": "I&J Salt & Pepper Squid Bites Lightly Crumbed 360g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/571927.jpg",
+    "source_id": "Woolworths - 571927",
+    "barcode": "9310139117847",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245544/just-caught-classic-crumbed-whiting-fillets",
+    "name": "Just Caught Classic Crumbed Whiting Fillets 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245544.jpg",
+    "source_id": "Woolworths - 245544",
+    "barcode": "9315822019293",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247612/ocean-chef-fish-barramundi-portions-skin-on",
+    "name": "Ocean Chef Fish Barramundi Portions Skin On 10 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247612.jpg",
+    "source_id": "Woolworths - 247612",
+    "barcode": "9323015021930",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/763541/ocean-chef-salmon-portions-skin-on",
+    "name": "Ocean Chef Salmon Portions Skin On 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/763541.jpg",
+    "source_id": "Woolworths - 763541",
+    "barcode": "9323015013300",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143661/sealord-fish-of-the-day-whiting-tempura-batter-fillets",
+    "name": "Sealord Fish Of The Day Whiting Tempura Batter Fillets 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143661.jpg",
+    "source_id": "Woolworths - 143661",
+    "barcode": "9415022014354",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "2633",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355490/sealord-hoki-fillets-classic-crumb",
+    "name": "Sealord Hoki Fillets Classic Crumb 480g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/355490.jpg",
+    "source_id": "Woolworths - 355490",
+    "barcode": "9415022026081",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1105",
+        "price_per_unit": "2302",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355541/sealord-hoki-fillets-tempura-battered",
+    "name": "Sealord Hoki Fillets Tempura Battered 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/355541.jpg",
+    "source_id": "Woolworths - 355541",
+    "barcode": "9415022010608",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1105",
+        "price_per_unit": "2456",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178458/sealord-hoki-wholemeal-sealord",
+    "name": "Sealord Hoki Wholemeal 150g x 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178458.jpg",
+    "source_id": "Woolworths - 178458",
+    "barcode": "9415022020614",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/674710/sealord-southern-blue-whiting-classic-crumb-bites",
+    "name": "Sealord Southern Blue Whiting Classic Crumb Bites 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/674710.jpg",
+    "source_id": "Woolworths - 674710",
+    "barcode": "9415022021017",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "945",
+        "price_per_unit": "2363",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445352/woolworths-frozen-basa-fillets",
+    "name": "Woolworths Frozen Basa Fillets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/445352.jpg",
+    "source_id": "Woolworths - 445352",
+    "barcode": "9300633582449",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140267/asp-scottish-fish-kippers",
+    "name": "ASP Scottish Fish Kippers 335g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140267.jpg",
+    "source_id": "Woolworths - 140267",
+    "barcode": "9318312500547",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2388",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905726/better-choice-fisheries-australian-whiting-fillets",
+    "name": "Better Choice Fisheries Australian Whiting Fillets 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/905726.jpg",
+    "source_id": "Woolworths - 905726",
+    "barcode": "9319270001473",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/950566/birds-eye-air-baked-southern-blue-whiting-crumbed-fish",
+    "name": "Birds Eye Air Baked Southern Blue Whiting Crumbed Fish 890g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/950566.jpg",
+    "source_id": "Woolworths - 950566",
+    "barcode": "9310081134565",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "2247",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "2247",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "2247",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "2247",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "2247",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "2247",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789429/birds-eye-deli-new-zealand-whiting-fillets-salt-pepper-crumb",
+    "name": "Birds Eye Deli New Zealand Whiting Fillets Salt & Pepper Crumb 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789429.jpg",
+    "source_id": "Woolworths - 789429",
+    "barcode": "9310081116363",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/246736/birds-eye-oven-bake-fish-lemon-pepper-crumb",
+    "name": "Birds Eye Oven Bake Fish Lemon & Pepper Crumb 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/246736.jpg",
+    "source_id": "Woolworths - 246736",
+    "barcode": "9310081410065",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1412",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1482",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445885/birds-eye-oven-bake-fish-original-crumb",
+    "name": "Birds Eye Oven Bake Fish Original Crumb 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/445885.jpg",
+    "source_id": "Woolworths - 445885",
+    "barcode": "9310081106234",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780212/birds-eye-steam-fresh-thai-red-curry-sauce",
+    "name": "Birds Eye Steam Fresh Thai Red Curry Sauce 380g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/780212.jpg",
+    "source_id": "Woolworths - 780212",
+    "barcode": "9310081122654",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2368",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399584/humpty-doo-australian-saltwater-barramundi",
+    "name": "Humpty Doo Australian Saltwater Barramundi 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/399584.jpg",
+    "source_id": "Woolworths - 399584",
+    "barcode": "9357156000073",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245436/i-j-australian-hoki-fish-original-crumb",
+    "name": "I&J Australian Hoki Fish Original Crumb 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245436.jpg",
+    "source_id": "Woolworths - 245436",
+    "barcode": "9310139131690",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/110895/i-j-new-zealand-hoki-fish-original-crumb",
+    "name": "I&J New Zealand Hoki Fish Original Crumb 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/110895.jpg",
+    "source_id": "Woolworths - 110895",
+    "barcode": "9310139127815",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/891961/just-caught-atlantic-salmon-skinless",
+    "name": "Just Caught Atlantic Salmon Skinless 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/891961.jpg",
+    "source_id": "Woolworths - 891961",
+    "barcode": "9315822009126",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/373909/just-caught-crunchy-battered-whiting-fillets",
+    "name": "Just Caught Crunchy Battered Whiting Fillets 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/373909.jpg",
+    "source_id": "Woolworths - 373909",
+    "barcode": "9315822019866",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394858/just-caught-skinless-basa-fillets-frozen",
+    "name": "Just Caught Skinless Basa Fillets Frozen 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/394858.jpg",
+    "source_id": "Woolworths - 394858",
+    "barcode": "9315822020312",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346571/just-caught-whiting-fillets-skin-on",
+    "name": "Just Caught Whiting Fillets Skin On 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/346571.jpg",
+    "source_id": "Woolworths - 346571",
+    "barcode": "9315822002394",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/665989/ocean-chef-hoki-fillets",
+    "name": "Ocean Chef Hoki Fillets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/665989.jpg",
+    "source_id": "Woolworths - 665989",
+    "barcode": "9323015017827",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/782326/ocean-chef-salmon-parcels-in-leek-cheese-sauce",
+    "name": "Ocean Chef Salmon Parcels In Leek & Cheese Sauce 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/782326.jpg",
+    "source_id": "Woolworths - 782326",
+    "barcode": "9323015014000",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/811474/ocean-chef-salmon-portions-mediterranean-style",
+    "name": "Ocean Chef Salmon Portions Mediterranean Style 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/811474.jpg",
+    "source_id": "Woolworths - 811474",
+    "barcode": "9323015018831",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682485/ocean-chef-south-american-flathead-fillets",
+    "name": "Ocean Chef South American Flathead Fillets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/682485.jpg",
+    "source_id": "Woolworths - 682485",
+    "barcode": "9323015018183",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/782001/ocean-chef-tuna-yellowfin-tuna-steaks",
+    "name": "Ocean Chef Tuna Yellowfin Tuna Steaks 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/782001.jpg",
+    "source_id": "Woolworths - 782001",
+    "barcode": "9323015014031",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95875/petuna-atlantic-salmon-fillets",
+    "name": "Petuna Atlantic Salmon Fillets 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/095875.jpg",
+    "source_id": "Woolworths - 95875",
+    "barcode": "9317967001454",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3200",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791490/sealord-dory-fillets-tempura-batter",
+    "name": "Sealord Dory Fillets Tempura Batter 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/791490.jpg",
+    "source_id": "Woolworths - 791490",
+    "barcode": "9415022010028",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "2633",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143659/sealord-fish-of-the-day-whiting-classic-crumb-fillets",
+    "name": "Sealord Fish Of The Day Whiting Classic Crumb Fillets 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143659.jpg",
+    "source_id": "Woolworths - 143659",
+    "barcode": "9415022020423",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "2469",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178418/sealord-hoki-classic-crumb-bites-sealord",
+    "name": "Sealord Hoki Classic Crumb Bites 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178418.jpg",
+    "source_id": "Woolworths - 178418",
+    "barcode": "9415022020645",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "945",
+        "price_per_unit": "2363",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/697972/sealord-hoki-fillets-pub-style",
+    "name": "Sealord Hoki Fillets Pub Style 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/697972.jpg",
+    "source_id": "Woolworths - 697972",
+    "barcode": "9415022010493",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178457/sealord-hoki-parmesan-rosemary-ciabatta",
+    "name": "Sealord Hoki Parmesan & Rosemary Ciabatta 150g x 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178457.jpg",
+    "source_id": "Woolworths - 178457",
+    "barcode": "9415022020638",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178453/sealord-hoki-thai-lime-coconut-sealord",
+    "name": "Sealord Hoki Thai Lime & Coconut 150g x 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178453.jpg",
+    "source_id": "Woolworths - 178453",
+    "barcode": "9415022020607",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700545/woolworths-battered-fish-fillets",
+    "name": "Woolworths Battered Fish Fillets 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700545.jpg",
+    "source_id": "Woolworths - 700545",
+    "barcode": "9300633226220",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700541/woolworths-fish-fillets-crumbed",
+    "name": "Woolworths Fish Fillets Crumbed 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700541.jpg",
+    "source_id": "Woolworths - 700541",
+    "barcode": "9300633226183",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "1153",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/664737/woolworths-frozen-barramundi",
+    "name": "Woolworths Frozen Barramundi 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/664737.jpg",
+    "source_id": "Woolworths - 664737",
+    "barcode": "9339687013456",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700546/woolworths-frozen-fish-crumbed",
+    "name": "Woolworths Frozen Fish Crumbed 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700546.jpg",
+    "source_id": "Woolworths - 700546",
+    "barcode": "9300633226237",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/759044/woolworths-frozen-fish-fillets-battered",
+    "name": "Woolworths Frozen Fish Fillets Battered 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/759044.jpg",
+    "source_id": "Woolworths - 759044",
+    "barcode": "9300633423780",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/372425/blueline-seafood-classic-crumbed-fish-fillets",
+    "name": "Blueline Seafood Classic Crumbed Fish Fillets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/372425.jpg",
+    "source_id": "Woolworths - 372425",
+    "barcode": "9315822019897",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310437/findus-lightly-dusted-fish-fillets-with-parsley",
+    "name": "Findus Lightly Dusted Fish Fillets With Parsley 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310437.jpg",
+    "source_id": "Woolworths - 310437",
+    "barcode": "5000116128532",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/373137/i-j-australian-hoki-fish-lemon-crumb",
+    "name": "I&J Australian Hoki Fish Lemon Crumb 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/373137.jpg",
+    "source_id": "Woolworths - 373137",
+    "barcode": "9310139131706",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1647",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109742/i-j-new-zealand-hoki-fish-lemon-crumb",
+    "name": "I&J New Zealand Hoki Fish Lemon Crumb 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/109742.jpg",
+    "source_id": "Woolworths - 109742",
+    "barcode": "9310139127839",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/571926/i-j-salt-pepper-calamari-rings-lightly-crumbed",
+    "name": "I&J Salt & Pepper Calamari Rings Lightly Crumbed 360g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/571926.jpg",
+    "source_id": "Woolworths - 571926",
+    "barcode": "9310139117830",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245434/just-caught-tempura-battered-whiting-fillets",
+    "name": "Just Caught Tempura Battered Whiting Fillets 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245434.jpg",
+    "source_id": "Woolworths - 245434",
+    "barcode": "9315822019279",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/567279/sealord-dory-classic-crumb-fillets",
+    "name": "Sealord Dory Classic Crumb Fillets 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/567279.jpg",
+    "source_id": "Woolworths - 567279",
+    "barcode": "9415022027972",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "2344",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "2469",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178455/sealord-hoki-3-seed-premium-sealord",
+    "name": "Sealord Hoki 3 Seed Premium 150g x 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178455.jpg",
+    "source_id": "Woolworths - 178455",
+    "barcode": "9415022020621",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355537/sealord-hoki-fillets-lemon-pepper",
+    "name": "Sealord Hoki Fillets Lemon Pepper 480g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/355537.jpg",
+    "source_id": "Woolworths - 355537",
+    "barcode": "9415022026074",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2188",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1105",
+        "price_per_unit": "2302",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222822/woolworths-lemon-crumb-barramundi",
+    "name": "Woolworths Lemon Crumb Barramundi 320g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/222822.jpg",
+    "source_id": "Woolworths - 222822",
+    "barcode": "9339687304714",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "3594",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "3594",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "3594",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "3594",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "3594",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310433/findus-lightly-dusted-fish-fillets-with-lemon-rosemary",
+    "name": "Findus Lightly Dusted Fish Fillets With Lemon & Rosemary 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310433.jpg",
+    "source_id": "Woolworths - 310433",
+    "barcode": "5000116128518",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

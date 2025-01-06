@@ -1,0 +1,5606 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-breakfast-cereal-1.2kg-9393015",
+    "name": "Sanitarium Weet-Bix Breakfast Cereal | 1.2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9393015.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652010794",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1.2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "50",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-nutri-grain-protein-breakfast-cereal-large-pack-765g-5103929",
+    "name": "Kellogg's Nutri Grain Protein Breakfast Cereal Large Pack | 765g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103929.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105843",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "765g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "141",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "148",
+        "price_per_unit": "1134",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-coco-pops-650g-8494298",
+    "name": "Kellogg's Coco Pops | 650g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8494298.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055537194",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "154",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "162",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-sultana-bran-high-fibre-breakfast-cereal-420g-8491212",
+    "name": "Kellogg's Sultana Bran High Fibre Breakfast Cereal | 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491212.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536364",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "420g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "175",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-corn-flakes-breakfast-cereal-725g-8496249",
+    "name": "Kellogg's Corn Flakes Breakfast Cereal | 725g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8496249.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055559653",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "725g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "83",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-breakfast-cereal-620g-7019324",
+    "name": "Nestle Milo Breakfast Cereal | 620g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019324.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153578",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "620g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "153",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "161",
+        "price_per_unit": "998",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-fruity-bites-wildberry-flavour-cereal-500g-5362610",
+    "name": "Uncle Tobys Fruity Bites Wildberry Flavour Cereal | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5362610.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310060407727",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "137",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-all-bran-wheat-flakes-breakfast-cereal-330g-8491948",
+    "name": "Kellogg's All-Bran Wheat Flakes Breakfast Cereal | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491948.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536517",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "197",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "207",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/freedom-classic-maple-crunch-cereal-360g-5235464",
+    "name": "Freedom Classic Maple Crunch Cereal | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5235464.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9326666610102",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-coco-pops-chocolatey-breakfast-cereal-375g-8490209",
+    "name": "Kellogg's Coco Pops Chocolatey Breakfast Cereal | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8490209.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536333",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "187",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "196",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-nutri-grain-protein-breakfast-cereal-290g-8491755",
+    "name": "Kellogg's Nutri-Grain Protein Breakfast Cereal | 290g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491755.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536395",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "290g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-corn-flakes-440g-6751469",
+    "name": "Coles Corn Flakes | 440g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6751469.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645422145",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "440g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "57",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-rice-bubbles-410g-8495803",
+    "name": "Kellogg's Rice Bubbles | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8495803.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055537392",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "143",
+        "price_per_unit": "585",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rice-puffs-475g-4769496",
+    "name": "Coles Rice Puffs | 475g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4769496.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645350257",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "475g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "84",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-corn-flakes-breakfast-cereal-380g-8494505",
+    "name": "Kellogg's Corn Flakes Breakfast Cereal | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8494505.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055537224",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "132",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "138",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-just-right-breakfast-cereal-with-whole-grains-apricot-pieces-and-sultanas-460g-8492678",
+    "name": "Kellogg's Just Right Breakfast Cereal With Whole Grains Apri ... 460g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492678.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536616",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "152",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-breakfast-cereal-575g-2001784",
+    "name": "Sanitarium Weet-Bix Breakfast Cereal | 575g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2001784.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652805048",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "575g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "77",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "462",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-bites-wild-berry-breakfast-cereal-500g-4951398",
+    "name": "Sanitarium Weet-Bix Bites Wild Berry Breakfast Cereal | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4951398.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652801286",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "126",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-crunchy-nut-corn-flakes-breakfast-cereal-380g-8492044",
+    "name": "Kellogg's Crunchy Nut Corn Flakes Breakfast Cereal | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492044.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536579",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "184",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "193",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-froot-loops-breakfast-cereal-285g-8492066",
+    "name": "Kellogg's Froot Loops Breakfast Cereal | 285g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492066.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536586",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "285g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "246",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "246",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "246",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "246",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "246",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "246",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "258",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-wheat-biscuits-1.12-kg-7299242",
+    "name": "Coles Wheat Biscuits | 1.12 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7299242.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601395583",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1.12kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "45",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-breakfast-cereal-375g-133117",
+    "name": "Sanitarium Weet-Bix Breakfast Cereal | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F133117.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9414942010378",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "93",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-rice-bubbles-value-pack-860g-5103940",
+    "name": "Kellogg's Rice Bubbles Value Pack | 860g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103940.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105867",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "860g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "116",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-all-bran-original-high-fibre-breakfast-cereal-530g-8491915",
+    "name": "Kellogg's All-Bran Original High Fibre Breakfast Cereal | 530g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491915.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536494",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "530g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "151",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-special-k-original-300g-8491653",
+    "name": "Kellogg's Special K Original | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491653.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536449",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "233",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-vita-brits-cereal-1kg-133015",
+    "name": "Uncle Tobys Vita Brits Cereal | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F133015.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310060100130",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "60",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-vita-weeties-breakfast-cereal-510g-7019517",
+    "name": "Uncle Tobys Vita Weeties Breakfast Cereal | 510g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019517.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153752",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "510g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-little-kids-essentials-breakfast-cereal-400g-4233292",
+    "name": "Sanitarium Weet-Bix Little Kids Essentials Breakfast Cereal | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4233292.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652810257",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "113",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "118",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-crunchy-nut-clusters-breakfast-cereal-450g-8492000",
+    "name": "Kellogg's Crunchy Nut Clusters Breakfast Cereal | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492000.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536531",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "163",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-bites-honey-crunch-breakfast-cereal-510g-9623884",
+    "name": "Sanitarium Weet-Bix Bites Honey Crunch Breakfast Cereal | 510g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9623884.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652801309",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "510g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "118",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "124",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-sultana-bran-high-fibre-breakfast-cereal-1.32-kg-5105630",
+    "name": "Kellogg's Sultana Bran High Fibre Breakfast Cereal | 1.32 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5105630.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105911",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1.32kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "91",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-cheerios-wholegrain-breakfast-cereal-560g-7019380",
+    "name": "Uncle Tobys Cheerios Wholegrain Breakfast Cereal | 560g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019380.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153721",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "560g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "134",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "141",
+        "price_per_unit": "788",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-antioxidant-breakfast-cereal-675g-7019583",
+    "name": "Uncle Tobys Plus Antioxidant Breakfast Cereal | 675g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019583.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153776",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "675g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "130",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "137",
+        "price_per_unit": "924",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mighty-grain-cereal-495g-6751447",
+    "name": "Coles Mighty Grain Cereal | 495g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6751447.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645422138",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "495g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "101",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "101",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "101",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "101",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "101",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "101",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-crunchy-nut-corn-flakes-breakfast-cereal-640g-5116239",
+    "name": "Kellogg's Crunchy Nut Corn Flakes Breakfast Cereal | 640g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5116239.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105805",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "640g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "164",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-just-right-breakfast-cereal-with-whole-grains-apricot-pieces-and-sultanas-740g-5103634",
+    "name": "Kellogg's Just Right Breakfast Cereal With Whole Grains Apri ... 740g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103634.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105829",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "740g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "135",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "142",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-iron-breakfast-cereal-630g-7019619",
+    "name": "Uncle Tobys Plus Iron Breakfast Cereal | 630g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019619.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153783",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "924",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-protein-breakfast-cereal-620g-7019630",
+    "name": "Uncle Tobys Plus Protein Breakfast Cereal | 620g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019630.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153806",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "620g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "142",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "149",
+        "price_per_unit": "924",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-multi-grain-breakfast-cereal-575g-429612",
+    "name": "Sanitarium Weet-Bix Multi-Grain Breakfast Cereal | 575g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F429612.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652014396",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "575g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "104",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "110",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cocoa-puffs-475g-4769500",
+    "name": "Coles Cocoa Puffs | 475g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4769500.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645350264",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "475g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "95",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "95",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "95",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "95",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "95",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "95",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-antioxidant-cereal-435g-8953282",
+    "name": "Uncle Tobys Plus Antioxidant Cereal | 435g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8953282.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605132900",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "435g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "149",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "157",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-cheerios-honey-breakfast-cereal-520g-7019437",
+    "name": "Uncle Tobys Cheerios Honey Breakfast Cereal | 520g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019437.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153738",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "520g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "144",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "152",
+        "price_per_unit": "788",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-froot-loops-breakfast-cereal-460g-5103248",
+    "name": "Kellogg's Froot Loops Breakfast Cereal | 460g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103248.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105812",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "217",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "228",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-all-bran-honey-almond-420g-8491857",
+    "name": "Kellogg's All-Bran Honey Almond | 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491857.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536463",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "420g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-organic-breakfast-cereal-750g-4975895",
+    "name": "Sanitarium Weet-Bix Organic Breakfast Cereal | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4975895.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652014457",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "87",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "91",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-cholesterol-lowering-breakfast-cereal-440g-3049630",
+    "name": "Sanitarium Weet-Bix Cholesterol Lowering Breakfast Cereal | 440g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3049630.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652808339",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "440g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "159",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frooty-rings-300g-2057574",
+    "name": "Coles Frooty Rings | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2057574.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645097367",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-coco-pops-chocos-multigrain-breakfast-cereal-260g-7547592",
+    "name": "Kellogg's Coco Pops Chocos Multigrain Breakfast Cereal | 260g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7547592.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "8852756323108",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "269",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "283",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-sustain-whole-grain-flakes-breakfast-cereal-460g-5105651",
+    "name": "Kellogg's Sustain Whole Grain Flakes Breakfast Cereal | 460g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5105651.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105928",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "141",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-special-k-forest-berries-380g-8492758",
+    "name": "Kellogg's Special K Forest Berries | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492758.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536685",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "205",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "216",
+        "price_per_unit": "819",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/freedom-classic-xo-cocoa-crunch-cereal-360g-5235442",
+    "name": "Freedom Classic Xo Cocoa Crunch Cereal | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5235442.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9326666610096",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-whole-grain-energy-and-fibre-milo-cereal-350g-9579760",
+    "name": "Nestle Whole Grain Energy & Fibre Milo Cereal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9579760.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605010826",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/freedom-classic-rice-puffs-cereal-250g-5235431",
+    "name": "Freedom Classic Rice Puffs Cereal | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5235431.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9326666610072",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "224",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "235",
+        "price_per_unit": "588",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/freedom-classic-honey-o-crunch-cereal-360g-5235486",
+    "name": "Freedom Classic Honey-O Crunch Cereal | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5235486.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9326666610126",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "156",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-special-k-original-breakfast-cereal-bulk-pack-920g-5292344",
+    "name": "Kellogg's Special K Original Breakfast Cereal Bulk Pack | 920g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5292344.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055103917",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "920g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "130",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-just-right-original-breakfast-cereal-1.15kg-7058880",
+    "name": "Kellogg's Just Right Original Breakfast Cereal | 1.15kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7058880.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055106468",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1.15kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "109",
+        "price_per_unit": "1250",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-nutri-grain-vanilla-malt-25percent-less-sugar-450g-450g-6733693",
+    "name": "Kellogg's Nutri Grain Vanilla Malt 25% Less Sugar 450g | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6733693.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055106567",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-cheerios-multigrain-cereal-320g-1175134",
+    "name": "Uncle Tobys Cheerios Multigrain Cereal | 320g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1175134.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605088092",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "320g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "203",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "213",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bran-flakes-with-sultanas-580g-5650670",
+    "name": "Coles Bran Flakes With Sultanas | 580g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5650670.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645393285",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "580g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "71",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "71",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "71",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "71",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "71",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "71",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-iron-cereal-410g-2353067",
+    "name": "Uncle Tobys Plus Iron Cereal | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2353067.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605132863",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "159",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "159",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "159",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "159",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "159",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "159",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-bites-coco-crunch-breakfast-cereal-500g-8127832",
+    "name": "Sanitarium Weet-Bix Bites Coco Crunch Breakfast Cereal | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8127832.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "126",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-sultana-bran-oat-clusters-480g-5103951",
+    "name": "Kellogg's Sultana Bran Oat Clusters | 480g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103951.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105874",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "480g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "164",
+        "price_per_unit": "788",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-high-fibre-bran-530g-1-each-5116625",
+    "name": "Coles High Fibre Bran 530g | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5116625.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645359687",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "57",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-all-bran-original-high-fibre-breakfast-cereal-350g-9269209",
+    "name": "Kellogg's All-Bran Original High Fibre Breakfast Cereal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9269209.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055122994",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "186",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "195",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-fibre-breakfast-cereal-430g-3789476",
+    "name": "Uncle Tobys Plus Fibre Breakfast Cereal | 430g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3789476.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605132856",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "430g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "151",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "159",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-duo-breakfast-cereal-580g-7019335",
+    "name": "Nestle Milo Duo Breakfast Cereal | 580g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019335.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153585",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "580g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "164",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "172",
+        "price_per_unit": "998",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-cheerios-original-wholegrain-breakfast-cereal-895g-9035037",
+    "name": "Nestle Cheerios Original Wholegrain Breakfast Cereal | 895g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9035037.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "895g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "106",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "106",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "106",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "106",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "106",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "112",
+        "price_per_unit": "998",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-nesquik-cereal-600g-7870554",
+    "name": "Nestle Nesquik Cereal | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7870554.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "147",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "154",
+        "price_per_unit": "924",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-protein-breakfast-cereal-535g-7019313",
+    "name": "Nestle Milo Protein Breakfast Cereal | 535g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019313.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153615",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "535g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "178",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "187",
+        "price_per_unit": "998",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-right-start-fruit-and-fibre-cereal-420g-2024098",
+    "name": "Coles Right Start Fruit & Fibre Cereal | 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2024098.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645097312",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "420g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "107",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "107",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "107",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "107",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "107",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-coco-pops-chocolatey-breakfast-cereal-bulk-pack-950g-8129463",
+    "name": "Kellogg's Coco Pops Chocolatey Breakfast Cereal Bulk Pack | 950g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8129463.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "950g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "124",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "124",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "124",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "124",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "124",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "124",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "130",
+        "price_per_unit": "1239",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-fibre-breakfast-cereal-700g-7019620",
+    "name": "Uncle Tobys Plus Fibre Breakfast Cereal | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019620.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153790",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "126",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "132",
+        "price_per_unit": "924",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-cheerios-low-sugar-breakfast-cereal-450g-7019368",
+    "name": "Uncle Tobys Cheerios Low Sugar Breakfast Cereal | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019368.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153714",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "167",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "167",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/freedom-classic-corn-flakes-cereal-270g-5235500",
+    "name": "Freedom Classic Corn Flakes Cereal | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5235500.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9326666610089",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "588",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-bites-apricot-breakfast-cereal-500g-4951376",
+    "name": "Sanitarium Weet-Bix Bites Apricot Breakfast Cereal | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4951376.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652801293",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "126",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-honey-and-golden-oats-breakfast-cereal-450g-5002998",
+    "name": "Sanitarium Weet-Bix Honey & Golden Oats Breakfast Cereal | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5002998.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652811575",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-froot-loops-25percent-less-sugar-265g-6733707",
+    "name": "Kellogg's Froot Loops 25% Less Sugar | 265g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6733707.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055106550",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "265g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "264",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "277",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-weet-bix-cranberry-and-coconut-breakfast-cereal-450g-2715951",
+    "name": "Sanitarium Weet-Bix Cranberry & Coconut Breakfast Cereal | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2715951.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652806663",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-shredded-wheat-cereal-360g-7870598",
+    "name": "Uncle Tobys Shredded Wheat Cereal | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7870598.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-plus-muesli-flakes-705g-7019652",
+    "name": "Uncle Tobys Plus Muesli Flakes | 705g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019652.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153813",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "705g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "125",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "131",
+        "price_per_unit": "924",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dick-smith's-bush-foods-breakfast-cereal-500g-9307352",
+    "name": "Dick Smith's Bush Foods Breakfast Cereal | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9307352.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300652009408",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "116",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kelloggs-cereal-corn-flakes-220g-8491085",
+    "name": "Kelloggs Cereal Corn Flakes | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8491085.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536340",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "181",
+        "price_per_unit": "399",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-free-from-special-flakes-375g-4944439",
+    "name": "Coles I'M Free From Special Flakes | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4944439.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645356334",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-special-k-high-fibre-cereal-385g-5836420",
+    "name": "Kellogg's Special K High Fibre Cereal | 385g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5836420.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055105454",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "385g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "203",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "203",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "203",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-teeny-tiny-teddy-honey-cereal-350g-9037190",
+    "name": "Arnott's Teeny Tiny Teddy Honey Cereal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9037190.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-duo-340g-6778840",
+    "name": "Nestle Milo Duo | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6778840.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605040700",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "206",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "206",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "206",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "206",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "206",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "216",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-breakfast-cereal-990g-9035026",
+    "name": "Nestle Milo Breakfast Cereal | 990g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9035026.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "990g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "111",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "111",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "111",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "111",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "111",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "117",
+        "price_per_unit": "1155",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-cini-minis-churros-360g-4310837",
+    "name": "Nestle Cini Minis Churros | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4310837.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "7613287331373",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/uncle-tobys-oat-flakes-breakfast-cereal-650g-7019255",
+    "name": "Uncle Tobys Oat Flakes Breakfast Cereal | 650g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7019255.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300605153745",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "108",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "108",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "108",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "108",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "108",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "113",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-teeny-tiny-teddy-chocolate-cereal-350g-9037189",
+    "name": "Arnott's Teeny Tiny Teddy Chocolate Cereal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9037189.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "143",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-kit-kat-breakfast-cereal-330gram-9028993",
+    "name": "Nestle Kit Kat Breakfast Cereal | 330GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9028993.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "330gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NSW",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "WA",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "302",
+        "price_per_unit": "998",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-guardian-psyllium-breakfast-cereal-360g-8492237",
+    "name": "Kellogg's Guardian Psyllium Breakfast Cereal | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492237.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310055536609",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "181",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-coco-pops-pillows-choc-brownie-flavour-310g-8127923",
+    "name": "Kellogg's Coco Pops Pillows Choc Brownie Flavour | 310g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8127923.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "310g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "226",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "237",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-nutri-grain-high-protein-crunch-choc-malt-flavour-500g-8128201",
+    "name": "Kellogg's Nutri-Grain High Protein Crunch Choc Malt Flavour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8128201.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-trix-breakfast-cereal-310g-9029012",
+    "name": "Nestle Trix Breakfast Cereal | 310g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9029012.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "310g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "113",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-mini's-cereal-330g-7870623",
+    "name": "Nestle Milo Mini'S Cereal | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7870623.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-corn-flakes-multigrain-545g-9007993",
+    "name": "Kellogg's Corn Flakes Multigrain | 545g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9007993.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "545g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "116",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-just-right-wheat-flakes-575g-9007982",
+    "name": "Kellogg's Just Right Wheat Flakes | 575g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9007982.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "575g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "96",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "101",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lowan-cocoa-bombs-gluten-free-cereal-300g-7547606",
+    "name": "Lowan Cocoa Bombs Gluten Free Cereal | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7547606.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

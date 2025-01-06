@@ -1,0 +1,208 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/creative-gourmet-frozen-banana-chunks-500g-3059972",
+    "name": "Creative Gourmet Frozen Banana Chunks | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3059972.jpg&w=640&q=90",
+    "barcode": "9344372003179",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1080",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532199/creative-gourmet-frozen-banana-chunks",
+    "name": "Creative Gourmet Frozen Banana Chunks 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/532199.jpg",
+    "barcode": "9344372003179",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1080",
+        "price_per_unit": "540",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oob-organic-frozen-banana-450g-3987844",
+    "name": "Oob Organic Frozen Banana | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3987844.jpg&w=640&q=90",
+    "barcode": "9421017391447",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/533682/oob-organic-frozen-sliced-banana",
+    "name": "Oob Organic Frozen Sliced Banana 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/533682.jpg",
+    "barcode": "9421017391447",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1667",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1667",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1667",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1667",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1667",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1667",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

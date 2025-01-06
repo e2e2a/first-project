@@ -1,0 +1,456 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/maille-traditional-dijon-mustard-215g-5201123",
+    "name": "Maille Traditional Dijon Mustard | 215g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5201123.jpg&w=640&q=90",
+    "barcode": "8714100897935",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "215g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5558/maille-mustard-dijon",
+    "name": "Maille Mustard Dijon 215g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/005558.jpg",
+    "barcode": "8714100897935",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-american-mustard-for-sausages-and-hot-dogs-220ml-2777530",
+    "name": "Heinz American Mustard For Sausages & Hot Dogs | 220mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2777530.jpg&w=640&q=90",
+    "barcode": "9300657036270",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "220ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "145",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/522639/heinz-american-mustard-squeeze-bottle",
+    "name": "Heinz American Mustard Squeeze Bottle 220ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/522639.jpg",
+    "barcode": "9300657036270",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "173",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "155",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-mild-american-mustard-250g-6874345",
+    "name": "MasterFoods Mild American Mustard | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6874345.jpg&w=640&q=90",
+    "barcode": "9310012007104",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36557/masterfoods-mild-american-mustard-mild-american-mustard",
+    "name": "MasterFoods Mild American Mustard 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/036557.jpg",
+    "barcode": "9310012007104",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-mild-american-mustard-smooth-and-tangy-550g-8833305",
+    "name": "MasterFoods Mild American Mustard Smooth & Tangy | 550g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8833305.jpg&w=640&q=90",
+    "barcode": "9310012024958",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "87",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141604/masterfoods-mild-american-mustard-mild-american-squeeze",
+    "name": "MasterFoods Mild American Mustard 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141604.jpg",
+    "barcode": "9310012024958",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

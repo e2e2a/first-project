@@ -1,0 +1,668 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62992/blu-gourmet-pearl-couscous",
+    "name": "Blu Gourmet Pearl Couscous 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/062992.jpg",
+    "source_id": "Woolworths - 62992",
+    "barcode": "9312167245363",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161598/macro-organic-lsa-with-probiotics",
+    "name": "Macro Organic Lsa With Probiotics 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/161598.jpg",
+    "source_id": "Woolworths - 161598",
+    "barcode": "9339687263738",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698019/macro-australian-whole-grain-freekeh",
+    "name": "Macro Australian Whole Grain Freekeh 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/698019.jpg",
+    "source_id": "Woolworths - 698019",
+    "barcode": "9339687056767",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133477/macro-organic-australian-hulled-millet",
+    "name": "Macro Organic Australian Hulled Millet 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133477.jpg",
+    "source_id": "Woolworths - 133477",
+    "barcode": "9339687221813",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335080/macro-organic-buckwheat-raw",
+    "name": "Macro Organic Buckwheat Raw 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/335080.jpg",
+    "source_id": "Woolworths - 335080",
+    "barcode": "9300633203061",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335073/macro-organic-quinoa",
+    "name": "Macro Organic Quinoa 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/335073.jpg",
+    "source_id": "Woolworths - 335073",
+    "barcode": "9337803003237",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706627/macro-organic-quinoa-flakes",
+    "name": "Macro Organic Quinoa Flakes 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/706627.jpg",
+    "source_id": "Woolworths - 706627",
+    "barcode": "9300633253813",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717631/macro-organic-quinoa-tri-colour",
+    "name": "Macro Organic Quinoa Tri Colour 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717631.jpg",
+    "source_id": "Woolworths - 717631",
+    "barcode": "9300633284657",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112258/macro-organic-red-quinoa",
+    "name": "Macro Organic Red Quinoa 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/112258.jpg",
+    "source_id": "Woolworths - 112258",
+    "barcode": "9339687206278",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/499695/macro-white-quinoa",
+    "name": "Macro White Quinoa 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/499695.jpg",
+    "source_id": "Woolworths - 499695",
+    "barcode": "9300633539023",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25207/san-remo-cous-cous-medium-grain",
+    "name": "San Remo Cous Cous Medium Grain 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/025207.jpg",
+    "source_id": "Woolworths - 25207",
+    "barcode": "9310155305037",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24883/marco-polo-european-foods-polenta",
+    "name": "Marco Polo European Foods Polenta 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024883.jpg",
+    "source_id": "Woolworths - 24883",
+    "barcode": "9315248199654",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "325",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720060/woolworths-cous-cous",
+    "name": "Woolworths Cous Cous 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720060.jpg",
+    "source_id": "Woolworths - 720060",
+    "barcode": "9300633287016",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

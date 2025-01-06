@@ -1,0 +1,2316 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/ajax-eco-antibacterial-multipurpose-disinfectant-wipes-fresh-lemon-110-pack-3741800",
+    "name": "Ajax Eco Antibacterial Multipurpose Disinfectant ... 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3741800.jpg&w=640&q=90",
+    "barcode": "8850006930335",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "1155",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/852031/ajax-eco-antibacterial-disinfectant-cleaning-wipes-lemon",
+    "name": "Ajax Eco Antibacterial Disinfectant Cleaning Wipes Lemon 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/852031.jpg",
+    "barcode": "8850006930335",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5",
+        "price_per_unit": "575",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ajax-eco-antibacterial-multipurpose-disinfectant-wipes-vanilla-and-berries-110-pack-3741844",
+    "name": "Ajax Eco Antibacterial Multipurpose Disinfectant ... 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3741844.jpg&w=640&q=90",
+    "barcode": "8850006930342",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "1155",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/852032/ajax-eco-antibacterial-disinfectant-cleaning-wipes-vanilla",
+    "name": "Ajax Eco Antibacterial Disinfectant Cleaning Wipes Vanilla 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/852032.jpg",
+    "barcode": "8850006930342",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5",
+        "price_per_unit": "575",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-heavy-duty-superwipes-25-pack-2391474",
+    "name": "Chux Heavy Duty Superwipes | 25 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2391474.jpg&w=640&q=90",
+    "barcode": "9318191902944",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "25pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/363782/chux-heavy-duty-superwipes-roll",
+    "name": "Chux Heavy Duty Superwipes Roll 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/363782.jpg",
+    "barcode": "9318191902944",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "30",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-magic-eraser-bathroom-cleaner-block-2-pack-5099865",
+    "name": "Chux Magic Eraser Bathroom Cleaner Block | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5099865.jpg&w=640&q=90",
+    "barcode": "9318191902494",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "321",
+        "price_per_unit": "641",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247510/chux-magic-eraser-bathroom",
+    "name": "Chux Magic Eraser Bathroom 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247510.jpg",
+    "barcode": "9318191902494",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-magic-eraser-extra-thick-cleaner-block-2-pack-8687724",
+    "name": "Chux Magic Eraser Extra Thick Cleaner Block | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8687724.jpg&w=640&q=90",
+    "barcode": "9318191902746",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "347",
+        "price_per_unit": "693",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/339010/chux-magic-eraser-big-job-extra-thick",
+    "name": "Chux Magic Eraser Big Job Extra Thick 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/339010.jpg",
+    "barcode": "9318191902746",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-magic-eraser-cleaner-block-8-pack-4918031",
+    "name": "Chux Magic Eraser Cleaner Block | 8 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4918031.jpg&w=640&q=90",
+    "barcode": "9318191902401",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "8pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "44",
+        "price_per_unit": "350",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/207919/chux-magic-eraser-spot-cleaner",
+    "name": "Chux Magic Eraser Spot Cleaner 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/207919.jpg",
+    "barcode": "9318191902401",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "58",
+        "price_per_unit": "465",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-original-extra-large-superwipes-10-pack-165372",
+    "name": "Chux Original Extra Large Superwipes | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F165372.jpg&w=640&q=90",
+    "barcode": "9318191902296",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "68",
+        "price_per_unit": "683",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32193/chux-original-superwipes-giant",
+    "name": "Chux Original Superwipes Giant 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032193.jpg",
+    "barcode": "9318191902296",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "58",
+        "price_per_unit": "580",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "58",
+        "price_per_unit": "580",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "65",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-original-superwipes-25-pack-7074581",
+    "name": "Chux Original Superwipes | 25 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7074581.jpg&w=640&q=90",
+    "barcode": "9318191153711",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "25pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "28",
+        "price_per_unit": "688",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346720/chux-original-superwipes-roll",
+    "name": "Chux Original Superwipes Roll 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/346720.jpg",
+    "barcode": "9318191153711",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "26",
+        "price_per_unit": "655",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chux-superwipes-cloth-handy-roll-60-pack-5971492",
+    "name": "Chux Superwipes Cloth Handy Roll | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5971492.jpg&w=640&q=90",
+    "barcode": "9318191902548",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "21",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779785/chux-wipes",
+    "name": "Chux Wipes 60 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/779785.jpg",
+    "barcode": "9318191902548",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "20",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dettol-big-and-strong-disinfectant-lemon-lime-multipurpose-large-cleaning-wipes-1-pack-3455991",
+    "name": "Dettol Big & Strong Disinfectant Lemon Lime Multipurpose La ... 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3455991.jpg&w=640&q=90",
+    "barcode": "9300701787622",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "2520",
+        "price_per_unit": "630",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3981/dettol-kitchen-antibacterial-cleaning-wipes-citrus",
+    "name": "Dettol Kitchen Antibacterial Cleaning Wipes Citrus 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/003981.jpg",
+    "barcode": "9300701787622",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "24",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dettol-disinfectant-apple-multipurpose-cleaning-wipes-110-pack-6383296",
+    "name": "Dettol Disinfectant  Apple Multipurpose Cleaning Wipes | 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6383296.jpg&w=640&q=90",
+    "barcode": "9300631429203",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/284080/dettol-multipurpose-disinfectant-cleaning-wipes-apple",
+    "name": "Dettol Multipurpose Disinfectant Cleaning Wipes Apple 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/284080.jpg",
+    "barcode": "9300631429203",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dettol-disinfectant-fresh-multipurpose-cleaning-wipes-110-pack-6383037",
+    "name": "Dettol Disinfectant Fresh Multipurpose Cleaning Wipes | 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6383037.jpg&w=640&q=90",
+    "barcode": "9300631429197",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/284076/dettol-multipurpose-disinfectant-cleaning-wipes-fresh",
+    "name": "Dettol Multipurpose Disinfectant Cleaning Wipes Fresh 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/284076.jpg",
+    "barcode": "9300631429197",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dettol-disinfectant-lemon-multipurpose-cleaning-wipes-110-pack-6383285",
+    "name": "Dettol Disinfectant  Lemon Multipurpose Cleaning Wipes | 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6383285.jpg&w=640&q=90",
+    "barcode": "9300631430414",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "545",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309974/dettol-multipurpose-disinfectant-cleaning-wipes-lemon",
+    "name": "Dettol Multipurpose Disinfectant Cleaning Wipes Lemon 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/309974.jpg",
+    "barcode": "9300631430414",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oates-microfibre-cloth-3-pack-5446380",
+    "name": "Oates Microfibre Cloth | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5446380.jpg&w=640&q=90",
+    "barcode": "9310124715089",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "420",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/26239/oates-microfibre-cloth",
+    "name": "Oates Microfibre Cloth 3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/026239.jpg",
+    "barcode": "9310124715089",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dettol-disinfectant-fresh-multipurpose-cleaning-wipes-45-pack-6383230",
+    "name": "Dettol Disinfectant Fresh Multipurpose Cleaning Wipes | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6383230.jpg&w=640&q=90",
+    "barcode": "9300631430438",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "1333",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311044/dettol-multipurpose-disinfectant-cleaning-wipes-fresh",
+    "name": "Dettol Multipurpose Disinfectant Cleaning Wipes Fresh 45 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311044.jpg",
+    "barcode": "9300631430438",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "13",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "13",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "13",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "14",
+        "price_per_unit": "630",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pine-o-cleen-disinfectant-wipes-eucalyptus-110-pack-6329665",
+    "name": "Pine O Cleen Disinfectant Wipes Eucalyptus | 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6329665.jpg&w=640&q=90",
+    "barcode": "9300701457976",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345742/pine-o-cleen-disinfectant-wipes-eucalyptus",
+    "name": "Pine O Cleen Disinfectant Wipes Eucalyptus 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/345742.jpg",
+    "barcode": "9300701457976",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pine-o-cleen-disinfectant-wipes-lemon-110-pack-6329621",
+    "name": "Pine O Cleen Disinfectant Wipes Lemon | 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6329621.jpg&w=640&q=90",
+    "barcode": "9300701457938",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296150/pine-o-cleen-lemon-lime-disinfectant-cleaning-wipes",
+    "name": "Pine O Cleen Lemon Lime Disinfectant Cleaning Wipes 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296150.jpg",
+    "barcode": "9300701457938",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pine-o-cleen-disinfectant-wipes-lemon-150-pack-6332502",
+    "name": "Pine O Cleen Disinfectant Wipes Lemon | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6332502.jpg&w=640&q=90",
+    "barcode": "9300701457983",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "10",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306621/pine-o-cleen-lemon-lime-disinfectant-cleaning-wipes",
+    "name": "Pine O Cleen Lemon Lime Disinfectant Cleaning Wipes 150 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306621.jpg",
+    "barcode": "9300701457983",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "5",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "5",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pine-o-cleen-disinfectant-wipes-lemon-220-pack-6332557",
+    "name": "Pine O Cleen Disinfectant Wipes Lemon | 220 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6332557.jpg&w=640&q=90",
+    "barcode": "9300701510398",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "220pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "8",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "9",
+        "price_per_unit": "1890",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296736/pine-o-cleen-lemon-lime-disinfectant-cleaning-wipes",
+    "name": "Pine O Cleen Lemon Lime Disinfectant Cleaning Wipes 2 x 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296736.jpg",
+    "barcode": "9300701510398",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pine-o-cleen-disinfectant-wipes-tropical-blossom-110-pack-6329643",
+    "name": "Pine O Cleen Disinfectant Wipes Tropical Blossom | 110 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6329643.jpg&w=640&q=90",
+    "barcode": "9300701457945",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296151/pine-o-cleen-tropical-blossom-disinfectant-cleaning-wipes",
+    "name": "Pine O Cleen Tropical Blossom Disinfectant Cleaning Wipes 110 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296151.jpg",
+    "barcode": "9300701457945",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vileda-dish-washing-cloth-3-pack-5446481",
+    "name": "Vileda Dish Washing Cloth | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5446481.jpg&w=640&q=90",
+    "barcode": "9325005016889",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888591/vileda-dishwashing-cloth-3-pack",
+    "name": "Vileda Dishwashing Cloth 3-Pack 3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/888591.jpg",
+    "barcode": "9325005016889",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pine-o-cleen-24hour-protection-disinfectant-wipes-lemon-126-pack-6364611",
+    "name": "Pine O Cleen 24Hour Protection Disinfectant Wipes Lemon | 126 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6364611.jpg&w=640&q=90",
+    "barcode": "9300701431594",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "126pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "1190",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "1575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307933/pine-o-cleen-24h-protection-lemon-lime-disinfectant-cleaning-wipes",
+    "name": "Pine O Cleen 24h Protection Lemon Lime Disinfectant Cleaning Wipes 126 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307933.jpg",
+    "barcode": "9300701431594",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "6",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "6",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "6",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "6",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

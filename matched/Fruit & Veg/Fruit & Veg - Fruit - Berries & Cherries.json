@@ -1,0 +1,224 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blackberries-170g-3742202",
+    "name": "Coles Blackberries | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3742202.jpg&w=640&q=90",
+    "barcode": "9342373000296",
+    "shop": "coles",
+    "category_id": "2100",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2353",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2353",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80815/berry-blackberries",
+    "name": "Blackberries 170g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/080815.jpg",
+    "barcode": "9342373000296",
+    "shop": "Woolworths",
+    "category_id": "1-E5BEE36E",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2941",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2941",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2941",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2941",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2941",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-finest-blackberries-125g-3468665",
+    "name": "Coles Finest Blackberries | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3468665.jpg&w=640&q=90",
+    "barcode": "9342373004010",
+    "shop": "coles",
+    "category_id": "2100",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827719/driscoll-s-premium-blackberries-punnet",
+    "name": "Premium Blackberries 125g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/827719.jpg",
+    "barcode": "9342373004010",
+    "shop": "Woolworths",
+    "category_id": "1-E5BEE36E",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4400",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-raspberries-170g-7509673",
+    "name": "Coles Raspberries | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7509673.jpg&w=640&q=90",
+    "barcode": "9342373000463",
+    "shop": "coles",
+    "category_id": "2100",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2647",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2647",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453364/raspberries-punnet",
+    "name": "Raspberries Punnet 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/453364.jpg",
+    "barcode": "9342373000463",
+    "shop": "Woolworths",
+    "category_id": "1-E5BEE36E",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2765",
+        "price_per_unit": "470",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2765",
+        "price_per_unit": "470",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2765",
+        "price_per_unit": "470",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2765",
+        "price_per_unit": "470",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2647",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

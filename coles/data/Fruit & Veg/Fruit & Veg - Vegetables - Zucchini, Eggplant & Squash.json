@@ -1,0 +1,188 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-purple-eggplant-approx.-500g-each-4583206",
+    "name": "Fresh Purple Eggplant | approx 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4583206.jpg&w=640&q=90",
+    "source_id": "Coles - 4583206",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "500geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "425",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "425",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "425",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lebanese-eggplant-approx.-90g-each-4583261",
+    "name": "Coles Lebanese Eggplant | approx 90g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4583261.jpg&w=640&q=90",
+    "source_id": "Coles - 4583261",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "90geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-eggplant-1-each-4583830",
+    "name": "Coles Eggplant | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4583830.jpg&w=640&q=90",
+    "source_id": "Coles - 4583830",
+    "barcode": "9334536000144",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-yellow-squash-1-each-7083196",
+    "name": "Coles Yellow Squash | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7083196.jpg&w=640&q=90",
+    "source_id": "Coles - 7083196",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-tuscan-kale-1-each-6584243",
+    "name": "Coles Tuscan Kale | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6584243.jpg&w=640&q=90",
+    "source_id": "Coles - 6584243",
+    "barcode": "9323946000707",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-green-zucchini-1-each-157716",
+    "name": "Coles Green Zucchini | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F157716.jpg&w=640&q=90",
+    "source_id": "Coles - 157716",
+    "barcode": "9317528000834",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "130",
+        "price_per_unit": "130",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

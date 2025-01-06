@@ -1,0 +1,248 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-continental-cucumbers-loose-1-each-4575605",
+    "name": "Coles Continental Cucumbers Loose | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4575605.jpg&w=640&q=90",
+    "source_id": "Coles - 4575605",
+    "barcode": "9335329000013",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lebanese-cucumbers-approx.-160g-4575208",
+    "name": "Coles Lebanese Cucumbers | approx 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4575208.jpg&w=640&q=90",
+    "source_id": "Coles - 4575208",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "94",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "94",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-cucumbers-250g-4578148",
+    "name": "Coles Baby Cucumbers | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4578148.jpg&w=640&q=90",
+    "source_id": "Coles - 4578148",
+    "barcode": "9317948000742",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-green-cucumber-1-each-4559314",
+    "name": "Coles Green Cucumber | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4559314.jpg&w=640&q=90",
+    "source_id": "Coles - 4559314",
+    "barcode": "9300601213580",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-baby-cucumbers-family-pack-350g-9152212",
+    "name": "Fresh Baby Cucumbers Family Pack | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9152212.jpg&w=640&q=90",
+    "source_id": "Coles - 9152212",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

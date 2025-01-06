@@ -1,0 +1,944 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-coconut-water-straight-up-1l-1251527",
+    "name": "Cocobella Coconut Water Straight Up | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1251527.jpg&w=640&q=90",
+    "source_id": "Coles - 1251527",
+    "barcode": "9336243003166",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "288",
+        "price_per_unit": "288",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonsoy-sparkling-coconut-water-with-watermelon-320ml-6842225",
+    "name": "Bonsoy Sparkling Coconut Water With Watermelon | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6842225.jpg&w=640&q=90",
+    "source_id": "Coles - 6842225",
+    "barcode": "9312336048214",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonsoy-sparkling-coconut-water-with-passionfruit-320ml-6842269",
+    "name": "Bonsoy Sparkling Coconut Water With Passionfruit | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6842269.jpg&w=640&q=90",
+    "source_id": "Coles - 6842269",
+    "barcode": "9312336048283",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-g-active-sports-drinks-berry-water-electrolytes-and-vitamins-600ml-2925830",
+    "name": "Gatorade G Active Sports Drinks Berry Water Electrolytes & Vi ... 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2925830.jpg&w=640&q=90",
+    "source_id": "Coles - 2925830",
+    "barcode": "9310640000881",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonsoy-sparkling-coconut-water-320ml-6841368",
+    "name": "Bonsoy Sparkling Coconut Water | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6841368.jpg&w=640&q=90",
+    "source_id": "Coles - 6841368",
+    "barcode": "9312336048207",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/h2-coco-100percent-natural-coconut-water-1l-2048358",
+    "name": "H2 Coco 100% Natural Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2048358.jpg&w=640&q=90",
+    "source_id": "Coles - 2048358",
+    "barcode": "9339655002178",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raw-c-pure-natural-coconut-water-1l-3517705",
+    "name": "Raw C Pure Natural Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3517705.jpg&w=640&q=90",
+    "source_id": "Coles - 3517705",
+    "barcode": "9369999603052",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "578",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-natural-coconut-water-1l-3277452",
+    "name": "Coles Natural Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3277452.jpg&w=640&q=90",
+    "source_id": "Coles - 3277452",
+    "barcode": "9310645243726",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-watermelon-and-mint-flavour-coconut-water-1l-2586768",
+    "name": "Cocobella Watermelon & Mint Flavour Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2586768.jpg&w=640&q=90",
+    "source_id": "Coles - 2586768",
+    "barcode": "9336243003159",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "288",
+        "price_per_unit": "288",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pump-flavoured-water-lime-750ml-2099880",
+    "name": "Pump Flavoured Water Lime | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2099880.jpg&w=640&q=90",
+    "source_id": "Coles - 2099880",
+    "barcode": "9300675046190",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raw-c-straight-up-coconut-water-2l-3422518",
+    "name": "Raw C Straight Up Coconut Water | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3422518.jpg&w=640&q=90",
+    "source_id": "Coles - 3422518",
+    "barcode": "9349622000281",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-straight-up-pure-coconut-water-250ml-8496307",
+    "name": "Cocobella Straight Up Pure Coconut Water | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8496307.jpg&w=640&q=90",
+    "source_id": "Coles - 8496307",
+    "barcode": "9336243003036",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "215",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "840",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "840",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "225",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "860",
+        "price_per_unit": "215",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "944",
+        "price_per_unit": "236",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "860",
+        "price_per_unit": "215",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-chocolate-flavoured-coconut-water-1l-2819855",
+    "name": "Cocobella Chocolate Flavoured Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2819855.jpg&w=640&q=90",
+    "source_id": "Coles - 2819855",
+    "barcode": "9336243003456",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "578",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/h2-coco-100percent-natural-coconut-water-2l-3058313",
+    "name": "H2 Coco 100% Natural Coconut Water | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3058313.jpg&w=640&q=90",
+    "source_id": "Coles - 3058313",
+    "barcode": "9339655002437",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raw-c-coconut-water-4x250ml-4-pack-8848798",
+    "name": "Raw C Coconut Water 4x250mL | 4 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8848798.jpg&w=640&q=90",
+    "source_id": "Coles - 8848798",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "788",
+        "price_per_unit": "788",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-smoothie-starter-1l-6935042",
+    "name": "Cocobella Smoothie Starter | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6935042.jpg&w=640&q=90",
+    "source_id": "Coles - 6935042",
+    "barcode": "9336243008031",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      }
+    ]
+  }
+]

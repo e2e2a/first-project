@@ -1,0 +1,838 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/diggers-methylated-spirits-1l-7081237",
+    "name": "Diggers Methylated Spirits | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7081237.jpg&w=640&q=90",
+    "barcode": "9311052010017",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/10770/diggers-methylated-spirits",
+    "name": "Diggers Methylated Spirits 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/010770.jpg",
+    "barcode": "9311052010017",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "63",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/diggers-mineral-turpentine-1l-25191",
+    "name": "Diggers Mineral Turpentine | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F25191.jpg&w=640&q=90",
+    "barcode": "9311052020016",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "77",
+        "price_per_unit": "767",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23407/diggers-turpentine",
+    "name": "Diggers Turpentine 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/023407.jpg",
+    "barcode": "9311052020016",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "73",
+        "price_per_unit": "730",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/drano-bathroom-max-gel-drain-liquid-1.2l-6335260",
+    "name": "Drano Bathroom Max Gel Drain Liquid | 1.2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6335260.jpg&w=640&q=90",
+    "barcode": "9300622008417",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "1.2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/278262/drano-bathroom-max-gel-drain-cleaner",
+    "name": "Drano Bathroom Max Gel Drain Cleaner 1.2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/278262.jpg",
+    "barcode": "9300622008417",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "158",
+        "price_per_unit": "1900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "2000",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/drano-bathroom-max-gel-drain-cleaner-770ml-4256979",
+    "name": "Drano Bathroom Max Gel Drain Cleaner | 770mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4256979.jpg&w=640&q=90",
+    "barcode": "9300622005409",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "770ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "228",
+        "price_per_unit": "1754",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151702/drano-bathroom-max-gel-drain-cleaner-drain-cleaner",
+    "name": "Drano Bathroom Max Gel Drain Cleaner 770ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151702.jpg",
+    "barcode": "9300622005409",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "227",
+        "price_per_unit": "1750",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/drano-crystal-drain-cleaner-500g-76862",
+    "name": "Drano Crystal Drain Cleaner | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F76862.jpg&w=640&q=90",
+    "barcode": "9300622146027",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "316",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/84606/drano-crystals-drain-cleaner",
+    "name": "Drano Crystals Drain Cleaner 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/084606.jpg",
+    "barcode": "9300622146027",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "1575",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/drano-kitchen-max-gel-drain-cleaner-770ml-4258624",
+    "name": "Drano Kitchen Max Gel Drain Cleaner | 770mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4258624.jpg&w=640&q=90",
+    "barcode": "9300622005386",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "770ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "228",
+        "price_per_unit": "1754",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151099/drano-kitchen-max-gel-drain-cleaner-drain-cleaner",
+    "name": "Drano Kitchen Max Gel Drain Cleaner 770ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151099.jpg",
+    "barcode": "9300622005386",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "217",
+        "price_per_unit": "1670",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "227",
+        "price_per_unit": "1750",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/easy-off-drain-maintenance-odour-stop-750ml-5009476",
+    "name": "Easy Off Drain Maintenance Odour Stop | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5009476.jpg&w=640&q=90",
+    "barcode": "9300701176488",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221489/easy-off-bam-drain-maintainer-odour-stop-cleaner",
+    "name": "Easy Off Bam Drain Maintainer Odour Stop Cleaner 750mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221489.jpg",
+    "barcode": "9300701176488",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "1800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "252",
+        "price_per_unit": "1890",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/easy-off-drain-cleaner-bathroom-gel-1l-3742020",
+    "name": "Easy Off Drain Cleaner Bathroom Gel | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3742020.jpg&w=640&q=90",
+    "barcode": "9300701148447",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90065/easy-off-bam-drain-turbo-gel-cleaner",
+    "name": "Easy Off Bam Drain Turbo Gel Cleaner 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/090065.jpg",
+    "barcode": "9300701148447",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "1575",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

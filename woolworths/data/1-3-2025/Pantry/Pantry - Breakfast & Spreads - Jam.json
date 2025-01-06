@@ -1,0 +1,3446 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/326802/beerenberg-raspberry-jam",
+    "name": "Beerenberg Raspberry Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/326802.jpg",
+    "source_id": "Woolworths - 326802",
+    "barcode": "9311485600205",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321571/beerenberg-strawberry-jam",
+    "name": "Beerenberg Strawberry Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/321571.jpg",
+    "source_id": "Woolworths - 321571",
+    "barcode": "9311485600137",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63083/bonne-maman-apricot-jam",
+    "name": "Bonne Maman Apricot Jam 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/063083.jpg",
+    "source_id": "Woolworths - 63083",
+    "barcode": "3045320016062",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "705",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237080/bonne-maman-apricot-spread",
+    "name": "Bonne Maman Apricot Spread 335g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237080.jpg",
+    "source_id": "Woolworths - 237080",
+    "barcode": "3608580070344",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "730",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/49905/bonne-maman-raspberry-jam",
+    "name": "Bonne Maman Raspberry Jam 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/049905.jpg",
+    "source_id": "Woolworths - 49905",
+    "barcode": "3045320017052",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "705",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63040/bonne-maman-strawberry-conserve",
+    "name": "Bonne Maman Strawberry Conserve 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/063040.jpg",
+    "source_id": "Woolworths - 63040",
+    "barcode": "3045320016055",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "705",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237398/bonne-maman-strawberry-spread",
+    "name": "Bonne Maman Strawberry Spread 335g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237398.jpg",
+    "source_id": "Woolworths - 237398",
+    "barcode": "3608580070313",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "695",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "730",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249361/buderim-ginger-ginger-marmalade",
+    "name": "Buderim Ginger Marmalade 365g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249361.jpg",
+    "source_id": "Woolworths - 249361",
+    "barcode": "9310371293071",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/292599/cottee-s-apricot-jam",
+    "name": "Cottee's Apricot Jam 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/292599.jpg",
+    "source_id": "Woolworths - 292599",
+    "barcode": "9300657802066",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/291866/cottee-s-breakfast-marmalade",
+    "name": "Cottee's Breakfast Marmalade 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/291866.jpg",
+    "source_id": "Woolworths - 291866",
+    "barcode": "9300657801502",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/291867/cottee-s-plum-jam",
+    "name": "Cottee's Plum Jam 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/291867.jpg",
+    "source_id": "Woolworths - 291867",
+    "barcode": "9300657802073",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/292592/cottee-s-raspberry-jam",
+    "name": "Cottee's Raspberry Jam 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/292592.jpg",
+    "source_id": "Woolworths - 292592",
+    "barcode": "9300657802042",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/292796/cottee-s-strawberry-jam",
+    "name": "Cottee's Strawberry Jam 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/292796.jpg",
+    "source_id": "Woolworths - 292796",
+    "barcode": "9300657801755",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198247/gardener-orange-marmalade",
+    "name": "Gardener Orange Marmalade 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198247.jpg",
+    "source_id": "Woolworths - 198247",
+    "barcode": "9300733004384",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198522/gardener-strawberry-jam",
+    "name": "Gardener Strawberry Jam 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198522.jpg",
+    "source_id": "Woolworths - 198522",
+    "barcode": "9300733004360",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296178/rose-s-english-breakfast-marmalade",
+    "name": "Rose's English Breakfast Marmalade 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296178.jpg",
+    "source_id": "Woolworths - 296178",
+    "barcode": "9300657801199",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/299515/rose-s-lime-marmalade",
+    "name": "Rose's Lime Marmalade 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/299515.jpg",
+    "source_id": "Woolworths - 299515",
+    "barcode": "9300657801182",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/299528/rose-s-raspberry-conserve",
+    "name": "Rose's Raspberry Conserve 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/299528.jpg",
+    "source_id": "Woolworths - 299528",
+    "barcode": "9300657802127",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296809/rose-s-strawberry-conserve",
+    "name": "Rose's Strawberry Conserve 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296809.jpg",
+    "source_id": "Woolworths - 296809",
+    "barcode": "9300657802103",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/300202/rose-s-sweet-orange-marmalade",
+    "name": "Rose's Sweet Orange Marmalade 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/300202.jpg",
+    "source_id": "Woolworths - 300202",
+    "barcode": "9300657801243",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/17347/st-dalfour-apricot-284g",
+    "name": "St Dalfour Apricot 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/017347.jpg",
+    "source_id": "Woolworths - 17347",
+    "barcode": "84380957543",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/26662/st-dalfour-black-cherry-284g",
+    "name": "St Dalfour Black Cherry 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/026662.jpg",
+    "source_id": "Woolworths - 26662",
+    "barcode": "84380957048",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/17628/st-dalfour-orange-marmalade-284g",
+    "name": "St Dalfour Orange Marmalade 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/017628.jpg",
+    "source_id": "Woolworths - 17628",
+    "barcode": "84380957949",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59309/st-dalfour-raspberry-284g",
+    "name": "St Dalfour Raspberry 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059309.jpg",
+    "source_id": "Woolworths - 59309",
+    "barcode": "84380957741",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/17340/st-dalfour-strawberry-284g",
+    "name": "St Dalfour Strawberry 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/017340.jpg",
+    "source_id": "Woolworths - 17340",
+    "barcode": "84380957444",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249189/yackandandah-lemon-curd",
+    "name": "Yackandandah Lemon Curd 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249189.jpg",
+    "source_id": "Woolworths - 249189",
+    "barcode": "9323572006333",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/805353/adley-s-honey-nothing-but-honey",
+    "name": "Adley's Honey Nothing But Honey 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/805353.jpg",
+    "source_id": "Woolworths - 805353",
+    "barcode": "9327890001018",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "815",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "815",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/806599/adley-s-honey-nothing-but-honey-squeeze-pack",
+    "name": "Adley's Honey Nothing But Honey Squeeze Pack 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/806599.jpg",
+    "source_id": "Woolworths - 806599",
+    "barcode": "9327890001025",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/269914/barker-s-anathoth-farm-boysenberry-jam",
+    "name": "Barker's Anathoth Farm Boysenberry Jam 455g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/269914.jpg",
+    "source_id": "Woolworths - 269914",
+    "barcode": "9414732208480",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/269903/barker-s-anathoth-farm-strawberry-jam",
+    "name": "Barker's Anathoth Farm Strawberry Jam 455g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/269903.jpg",
+    "source_id": "Woolworths - 269903",
+    "barcode": "9414732208558",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/269871/barker-s-anathoth-farm-three-berry-jam",
+    "name": "Barker's Anathoth Farm Three Berry Jam 455g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/269871.jpg",
+    "source_id": "Woolworths - 269871",
+    "barcode": "9414732208565",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161106/barker-s-lemon-curd",
+    "name": "Barker's Lemon Curd 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/161106.jpg",
+    "source_id": "Woolworths - 161106",
+    "barcode": "9414732215242",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93090/barker-s-passionfruit-curd",
+    "name": "Barker's Passionfruit Curd 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/093090.jpg",
+    "source_id": "Woolworths - 93090",
+    "barcode": "9414732212883",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288167/barker-s-raspberry-redcurrant-jam",
+    "name": "Barker's Raspberry & Redcurrant Jam 455g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/288167.jpg",
+    "source_id": "Woolworths - 288167",
+    "barcode": "9414732216492",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "138",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/326800/beerenberg-blackberry-jam",
+    "name": "Beerenberg Blackberry Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/326800.jpg",
+    "source_id": "Woolworths - 326800",
+    "barcode": "9311485600212",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828149/beerenberg-blood-orange-marmalade",
+    "name": "Beerenberg Blood Orange Marmalade 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/828149.jpg",
+    "source_id": "Woolworths - 828149",
+    "barcode": "9311485600311",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769172/bonne-maman-caramel-spread",
+    "name": "Bonne Maman Caramel Spread 380g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/769172.jpg",
+    "source_id": "Woolworths - 769172",
+    "barcode": "3608580746485",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "705",
+        "price_per_unit": "186",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55874/bonne-maman-cherry-conserve",
+    "name": "Bonne Maman Cherry Conserve 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055874.jpg",
+    "source_id": "Woolworths - 55874",
+    "barcode": "3045320016048",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "705",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67146/bonne-maman-orange-marmalade",
+    "name": "Bonne Maman Orange Marmalade 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067146.jpg",
+    "source_id": "Woolworths - 67146",
+    "barcode": "3045320016086",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "705",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/291935/cottee-s-blackberry-jam",
+    "name": "Cottee's Blackberry Jam 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/291935.jpg",
+    "source_id": "Woolworths - 291935",
+    "barcode": "9300657802059",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198504/gardener-apricot-jam",
+    "name": "Gardener Apricot Jam 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198504.jpg",
+    "source_id": "Woolworths - 198504",
+    "barcode": "9300733004377",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198532/gardener-plum-jam",
+    "name": "Gardener Plum Jam 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198532.jpg",
+    "source_id": "Woolworths - 198532",
+    "barcode": "9300733004391",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39361/masterfoods-lemon-butter-spread",
+    "name": "MasterFoods Lemon Butter Spread 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039361.jpg",
+    "source_id": "Woolworths - 39361",
+    "barcode": "93718141",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913270/mayver-s-australian-apricot-fruit-spread",
+    "name": "Mayver's Australian Apricot Fruit Spread 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913270.jpg",
+    "source_id": "Woolworths - 913270",
+    "barcode": "9310885116637",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913537/mayver-s-australian-blueberry-fruit-spread",
+    "name": "Mayver's Australian Blueberry Fruit Spread 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913537.jpg",
+    "source_id": "Woolworths - 913537",
+    "barcode": "9310885116736",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913772/mayver-s-australian-raspberry-fruit-spread",
+    "name": "Mayver's Australian Raspberry Fruit Spread 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913772.jpg",
+    "source_id": "Woolworths - 913772",
+    "barcode": "9310885116705",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913281/mayver-s-australian-strawberry-fruit-spread",
+    "name": "Mayver's Australian Strawberry Fruit Spread 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913281.jpg",
+    "source_id": "Woolworths - 913281",
+    "barcode": "9310885116590",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/855610/natvia-raspberry-fruit-spread",
+    "name": "Natvia Raspberry Fruit Spread 240g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/855610.jpg",
+    "source_id": "Woolworths - 855610",
+    "barcode": "9342985000714",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/855607/natvia-strawberry-fruit-spread",
+    "name": "Natvia Strawberry Fruit Spread 240g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/855607.jpg",
+    "source_id": "Woolworths - 855607",
+    "barcode": "9342985000707",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814005/pure-peninsula-honey-comb-chunk",
+    "name": "Pure Peninsula Honey Comb Chunk 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814005.jpg",
+    "source_id": "Woolworths - 814005",
+    "barcode": "9331087000494",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "767",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814001/pure-peninsula-honey-eucalyptus",
+    "name": "Pure Peninsula Honey Eucalyptus 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814001.jpg",
+    "source_id": "Woolworths - 814001",
+    "barcode": "9331087000692",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814011/pure-peninsula-honey-eucalyptus",
+    "name": "Pure Peninsula Honey Eucalyptus 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814011.jpg",
+    "source_id": "Woolworths - 814011",
+    "barcode": "9331087000623",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814010/pure-peninsula-honey-local-flora",
+    "name": "Pure Peninsula Honey Local Flora 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814010.jpg",
+    "source_id": "Woolworths - 814010",
+    "barcode": "9331087000036",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814014/pure-peninsula-honey-local-flora",
+    "name": "Pure Peninsula Honey Local Flora 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814014.jpg",
+    "source_id": "Woolworths - 814014",
+    "barcode": "9331087000531",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/813889/pure-peninsula-honey-local-flora",
+    "name": "Pure Peninsula Honey Local Flora 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/813889.jpg",
+    "source_id": "Woolworths - 813889",
+    "barcode": "9331087000029",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814003/pure-peninsula-honey-manuka",
+    "name": "Pure Peninsula Honey Manuka 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814003.jpg",
+    "source_id": "Woolworths - 814003",
+    "barcode": "9331087000555",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1760",
+        "price_per_unit": "704",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814004/pure-peninsula-honey-red-gum",
+    "name": "Pure Peninsula Honey Red Gum 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814004.jpg",
+    "source_id": "Woolworths - 814004",
+    "barcode": "9331087000302",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814013/pure-peninsula-honey-red-gum",
+    "name": "Pure Peninsula Honey Red Gum 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814013.jpg",
+    "source_id": "Woolworths - 814013",
+    "barcode": "9331087000227",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814015/pure-peninsula-honey-yellow-box",
+    "name": "Pure Peninsula Honey Yellow Box 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814015.jpg",
+    "source_id": "Woolworths - 814015",
+    "barcode": "9331087000319",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814012/pure-peninsula-honey-yellow-box",
+    "name": "Pure Peninsula Honey Yellow Box 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814012.jpg",
+    "source_id": "Woolworths - 814012",
+    "barcode": "9331087000579",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814002/pure-peninsula-honey-yellow-box",
+    "name": "Pure Peninsula Honey Yellow Box 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814002.jpg",
+    "source_id": "Woolworths - 814002",
+    "barcode": "9331087000128",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814006/pure-peninsula-honey-yellow-box",
+    "name": "Pure Peninsula Honey Yellow Box 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814006.jpg",
+    "source_id": "Woolworths - 814006",
+    "barcode": "9331087000395",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59306/st-dalfour-four-fruits-284g",
+    "name": "St Dalfour Four Fruits 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059306.jpg",
+    "source_id": "Woolworths - 59306",
+    "barcode": "84380957840",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112406/st-dalfour-royal-fig-284g",
+    "name": "St Dalfour Royal Fig 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/112406.jpg",
+    "source_id": "Woolworths - 112406",
+    "barcode": "84380959042",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97724/st-dalfour-strawberry-rhubarb-284g",
+    "name": "St Dalfour Strawberry & Rhubarb 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097724.jpg",
+    "source_id": "Woolworths - 97724",
+    "barcode": "5014271003238",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/26837/st-dalfour-wild-blueberry-284g",
+    "name": "St Dalfour Wild Blueberry 284g 284g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/026837.jpg",
+    "source_id": "Woolworths - 26837",
+    "barcode": "84380957246",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "201",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687331/bush-honey-australia-honey-squeeze",
+    "name": "Bush Honey Australia Honey Squeeze 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/687331.jpg",
+    "source_id": "Woolworths - 687331",
+    "barcode": "9322857000042",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687316/bush-honey-australia-honey-tub",
+    "name": "Bush Honey Australia Honey Tub 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/687316.jpg",
+    "source_id": "Woolworths - 687316",
+    "barcode": "9322857000011",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687259/bush-honey-australia-ironbark-honey-squeeze",
+    "name": "Bush Honey Australia Ironbark Honey Squeeze 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/687259.jpg",
+    "source_id": "Woolworths - 687259",
+    "barcode": "9322857000479",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687206/bush-honey-australia-yellow-box-honey-squeeze",
+    "name": "Bush Honey Australia Yellow Box Honey Squeeze 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/687206.jpg",
+    "source_id": "Woolworths - 687206",
+    "barcode": "9322857000066",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717836/maleny-cuisine-maleny-cuisine-chilli-jam",
+    "name": "Maleny Cuisine Maleny Cuisine Chilli Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717836.jpg",
+    "source_id": "Woolworths - 717836",
+    "barcode": "9321374000962",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717867/maleny-cuisine-maleny-cuisine-spicy-tomato-relish",
+    "name": "Maleny Cuisine Maleny Cuisine Spicy Tomato Relish 275g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717867.jpg",
+    "source_id": "Woolworths - 717867",
+    "barcode": "9321374000740",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3273",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237430/lang-s-gourmet-mango-lime-jam",
+    "name": "Lang's Gourmet Mango Lime Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237430.jpg",
+    "source_id": "Woolworths - 237430",
+    "barcode": "9320024002639",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237079/lang-s-gourmet-pineapple-rum-jam",
+    "name": "Lang's Gourmet Pineapple Rum Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237079.jpg",
+    "source_id": "Woolworths - 237079",
+    "barcode": "9320024002646",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237992/lang-s-gourmet-strawberry-fig-jam",
+    "name": "Lang's Gourmet Strawberry Fig Jam 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237992.jpg",
+    "source_id": "Woolworths - 237992",
+    "barcode": "9320024002653",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717855/maleny-cuisine-maleny-cuisine-caramelised-onion-marmalade",
+    "name": "Maleny Cuisine Maleny Cuisine Caramelised Onion Marmalade 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717855.jpg",
+    "source_id": "Woolworths - 717855",
+    "barcode": "9321374000955",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/443948/swan-valley-honey-tub",
+    "name": "Swan Valley Honey Tub 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/443948.jpg",
+    "source_id": "Woolworths - 443948",
+    "barcode": "9314156800157",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1490",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237447/beerenberg-australian-breakfast-marmalade",
+    "name": "Beerenberg Australian Breakfast Marmalade 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237447.jpg",
+    "source_id": "Woolworths - 237447",
+    "barcode": "9311485600328",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/234339/beerenberg-strawberry-rose-jam",
+    "name": "Beerenberg Strawberry & Rose Jam 190g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/234339.jpg",
+    "source_id": "Woolworths - 234339",
+    "barcode": "9311485600564",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "560",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "560",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698805/the-old-factory-orange-marmalade",
+    "name": "The Old Factory Orange Marmalade 470g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/698805.jpg",
+    "source_id": "Woolworths - 698805",
+    "barcode": "9342420006059",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/510146/the-old-factory-raspberry-jam",
+    "name": "The Old Factory Raspberry Jam 470g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/510146.jpg",
+    "source_id": "Woolworths - 510146",
+    "barcode": "9342420006028",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699191/the-old-factory-strawberry-jam",
+    "name": "The Old Factory Strawberry Jam 470g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/699191.jpg",
+    "source_id": "Woolworths - 699191",
+    "barcode": "9342420006097",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

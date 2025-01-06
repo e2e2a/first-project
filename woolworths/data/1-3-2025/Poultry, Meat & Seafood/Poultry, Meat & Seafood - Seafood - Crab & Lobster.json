@@ -1,0 +1,104 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34321/woolworths-cooked-thawed-small-rock-lobster",
+    "name": "Woolworths Cooked Thawed Small Rock Lobster Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/034321.jpg",
+    "source_id": "Woolworths - 34321",
+    "barcode": "0272709000005",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3300",
+        "price_per_unit": "3300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "3300",
+        "price_per_unit": "3300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "3300",
+        "price_per_unit": "3300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "3300",
+        "price_per_unit": "3300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "3300",
+        "price_per_unit": "3300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "3300",
+        "price_per_unit": "3300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/441084/woolworths-thawed-lobster-tails",
+    "name": "Woolworths Thawed Lobster Tails Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/441084.jpg",
+    "source_id": "Woolworths - 441084",
+    "barcode": "0276252000000",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93998/woolworths-fresh-cooked-blue-swimmer-crab",
+    "name": "Woolworths Fresh Cooked Blue Swimmer Crab 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/093998.jpg",
+    "source_id": "Woolworths - 93998",
+    "barcode": "0278818000004",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

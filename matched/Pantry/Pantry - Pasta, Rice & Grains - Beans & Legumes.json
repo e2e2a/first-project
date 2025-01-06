@@ -1,0 +1,732 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-australian-grown-chick-peas-400g-9701489",
+    "name": "Edgell Australian Grown Chick Peas | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9701489.jpg&w=640&q=90",
+    "barcode": "9300462153889",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "231",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227107/edgell-australian-grown-chickpeas",
+    "name": "Edgell Australian Grown Chickpeas 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227107.jpg",
+    "barcode": "9300462153889",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "55000",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-butter-beans-400g-5071414",
+    "name": "Edgell Butter Beans | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5071414.jpg&w=640&q=90",
+    "barcode": "9310082429974",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "231",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/732217/edgell-canned-butter-beans-picked-and-soaked-legumes",
+    "name": "Edgell Canned Butter Beans Picked And Soaked Legumes 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/732217.jpg",
+    "barcode": "9310082429974",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-edamame-beans-ready-to-eat-125g-4-pack-3884014",
+    "name": "Edgell Edamame Beans Ready To Eat 125g | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3884014.jpg&w=640&q=90",
+    "barcode": "9310082123858",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/863919/edgell-edamame-beans-snack-packs-ready-to-eat",
+    "name": "Edgell Edamame Beans Snack Packs Ready To Eat 125g x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/863919.jpg",
+    "barcode": "9310082123858",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-australian-grown-chickpeas-snack-packs-4x125g-500g-6691050",
+    "name": "Edgell Australian Grown Chickpeas Snack Packs 4X125g | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6691050.jpg&w=640&q=90",
+    "barcode": "9300462118277",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "798",
+        "price_per_unit": "399",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301304/edgell-australian-grown-chickpeas-snack-packs-ready-to-eat",
+    "name": "Edgell Australian Grown Chickpeas Snack Packs Ready To Eat 125g x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/301304.jpg",
+    "barcode": "9300462118277",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "760",
+        "price_per_unit": "380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "798",
+        "price_per_unit": "399",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-cannellini-beans-400g-1227500",
+    "name": "Edgell Cannellini Beans | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1227500.jpg&w=640&q=90",
+    "barcode": "9310082429967",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "231",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/732240/edgell-beans-cannellini",
+    "name": "Edgell Beans Cannellini 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/732240.jpg",
+    "barcode": "9310082429967",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-black-beans-400g-2612766",
+    "name": "Edgell Black Beans | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2612766.jpg&w=640&q=90",
+    "barcode": "9310082108657",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "231",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/930176/edgell-black-beans-plant-protein",
+    "name": "Edgell Black Beans Plant Protein 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/930176.jpg",
+    "barcode": "9310082108657",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/edgell-brown-lentils-400g-1227497",
+    "name": "Edgell Brown Lentils | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1227497.jpg&w=640&q=90",
+    "barcode": "9310082429981",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "231",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/732195/edgell-brown-lentils",
+    "name": "Edgell Brown Lentils 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/732195.jpg",
+    "barcode": "9310082429981",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

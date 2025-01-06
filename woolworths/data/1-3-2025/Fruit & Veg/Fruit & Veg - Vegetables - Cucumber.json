@@ -1,0 +1,350 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137130/lebanese-cucumbers",
+    "name": "Lebanese Cucumbers Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/137130.jpg",
+    "source_id": "Woolworths - 137130",
+    "barcode": "0265222000003",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "70",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "124",
+        "price_per_unit": "124",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "124",
+        "price_per_unit": "124",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "124",
+        "price_per_unit": "124",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "124",
+        "price_per_unit": "124",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/78633/qukes-mini-qukes-loose",
+    "name": "Mini Qukes Loose Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/078633.jpg",
+    "source_id": "Woolworths - 78633",
+    "barcode": "0266499000000",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "44",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "44",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "44",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "44",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "44",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829360/the-odd-bunch-continental-cucumber",
+    "name": "The Odd Bunch Continental Cucumber Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829360.jpg",
+    "source_id": "Woolworths - 829360",
+    "barcode": "0260372000002",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137102/woolworths-continental-cucumbers",
+    "name": "Woolworths Continental Cucumbers Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/137102.jpg",
+    "source_id": "Woolworths - 137102",
+    "barcode": "0266052000003",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839573/woolworths-lebanese-cucumber",
+    "name": "Woolworths Lebanese Cucumber 500g Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/839573.jpg",
+    "source_id": "Woolworths - 839573",
+    "barcode": "9339687069491",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169067/woolworths-qukes-baby-cucumbers-punnet",
+    "name": "Woolworths Qukes Baby Cucumbers Punnet 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169067.jpg",
+    "source_id": "Woolworths - 169067",
+    "barcode": "9300633001674",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137122/cucumber-green",
+    "name": "Cucumber Green Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/137122.jpg",
+    "source_id": "Woolworths - 137122",
+    "barcode": "0266970000000",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24364/the-odd-bunch-lebanese-cucumber-punnet",
+    "name": "The Odd Bunch Lebanese Cucumber Punnet 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024364.jpg",
+    "source_id": "Woolworths - 24364",
+    "barcode": "9339687095322",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "410",
+        "price_per_unit": "547",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "410",
+        "price_per_unit": "547",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3944 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36655/bushells-blue-label-black-tea",
+    "name": "Bushells Blue Label Black Tea 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/036655.jpg",
+    "source_id": "Woolworths - 36655",
+    "barcode": "8720608629152",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5306/dilmah-ceylon-tea-bags",
+    "name": "Dilmah Ceylon Tea Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/005306.jpg",
+    "source_id": "Woolworths - 5306",
+    "barcode": "9312631801552",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196566/dilmah-extra-strength-tea-bags",
+    "name": "Dilmah Extra Strength Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/196566.jpg",
+    "source_id": "Woolworths - 196566",
+    "barcode": "9312631129625",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250036/dilmah-extra-strength-tea-bags",
+    "name": "Dilmah Extra Strength Tea Bags 200 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250036.jpg",
+    "source_id": "Woolworths - 250036",
+    "barcode": "9312631133233",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/199689/dilmah-extra-strength-tea-bags",
+    "name": "Dilmah Extra Strength Tea Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/199689.jpg",
+    "source_id": "Woolworths - 199689",
+    "barcode": "9312631129618",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18206/dilmah-premium-quality-loose-leaf-tea",
+    "name": "Dilmah Premium Quality Loose Leaf Tea 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018206.jpg",
+    "source_id": "Woolworths - 18206",
+    "barcode": "9312631808865",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38288/dilmah-premium-quality-tea-bags",
+    "name": "Dilmah Premium Quality Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038288.jpg",
+    "source_id": "Woolworths - 38288",
+    "barcode": "9312631801118",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/617101/essentials-black-tea-bags",
+    "name": "Essentials Black Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/617101.jpg",
+    "source_id": "Woolworths - 617101",
+    "barcode": "9339687174256",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159370/lipton-english-breakfast-tea-bags",
+    "name": "Lipton English Breakfast Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159370.jpg",
+    "source_id": "Woolworths - 159370",
+    "barcode": "8720608628728",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/587911/lipton-quality-black-tea-bags",
+    "name": "Lipton Quality Black Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/587911.jpg",
+    "source_id": "Woolworths - 587911",
+    "barcode": "8720608628803",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/427884/madura-black-leaf-tea-organic",
+    "name": "Madura Black Leaf Tea Organic 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/427884.jpg",
+    "source_id": "Woolworths - 427884",
+    "barcode": "9389978003499",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "770",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "810",
+        "price_per_unit": "540",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/65701/madura-earl-grey-tea-bags",
+    "name": "Madura Earl Grey Tea Bags 50 Pack 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/065701.jpg",
+    "source_id": "Woolworths - 65701",
+    "barcode": "89978000083",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55696/madura-premium-blend-tea-bags",
+    "name": "Madura Premium Blend Tea Bags 100 Pack 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055696.jpg",
+    "source_id": "Woolworths - 55696",
+    "barcode": "89978000168",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "860",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33072/nerada-loose-leaf-tea",
+    "name": "Nerada Loose Leaf Tea 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033072.jpg",
+    "source_id": "Woolworths - 33072",
+    "barcode": "9310551000017",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/76493/nerada-tea-bags",
+    "name": "Nerada Tea Bags 100 Pack 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/076493.jpg",
+    "source_id": "Woolworths - 76493",
+    "barcode": "9310551000086",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/75979/nerada-tea-bags",
+    "name": "Nerada Tea Bags 200 Pack 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/075979.jpg",
+    "source_id": "Woolworths - 75979",
+    "barcode": "9310551000062",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91963/nerada-tea-bags",
+    "name": "Nerada Tea Bags 50 Pack 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/091963.jpg",
+    "source_id": "Woolworths - 91963",
+    "barcode": "9310551000079",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "235",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/576100/taylors-of-harrogate-yorkshire-extra-strong-tea-bags",
+    "name": "Taylors Of Harrogate Yorkshire Extra Strong Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/576100.jpg",
+    "source_id": "Woolworths - 576100",
+    "barcode": "615357122796",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750176/taylors-of-harrogate-yorkshire-tea-bags",
+    "name": "Taylors Of Harrogate Yorkshire Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/750176.jpg",
+    "source_id": "Woolworths - 750176",
+    "barcode": "615357121423",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/156690/tetley-decaffeinated-tea-bags",
+    "name": "Tetley Decaffeinated Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/156690.jpg",
+    "source_id": "Woolworths - 156690",
+    "barcode": "9310122701862",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574823/tetley-extra-strong-tea-bags",
+    "name": "Tetley Extra Strong Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/574823.jpg",
+    "source_id": "Woolworths - 574823",
+    "barcode": "9310122704368",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "520",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574821/tetley-tea-bags",
+    "name": "Tetley Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/574821.jpg",
+    "source_id": "Woolworths - 574821",
+    "barcode": "9310122705709",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/728313/twinings-assam-bold-black-tea-bags-tea",
+    "name": "Twinings Assam Bold Black Tea Bags 80 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/728313.jpg",
+    "source_id": "Woolworths - 728313",
+    "barcode": "70177194826",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/714457/twinings-australian-afternoon-tea-bags-tea-bags",
+    "name": "Twinings Australian Afternoon Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/714457.jpg",
+    "source_id": "Woolworths - 714457",
+    "barcode": "70177187699",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41944/twinings-earl-grey-tea-bags-tea-bags",
+    "name": "Twinings Earl Grey Tea Bags 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041944.jpg",
+    "source_id": "Woolworths - 41944",
+    "barcode": "70177050603",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72617/twinings-earl-grey-tea-bags-tea-bags",
+    "name": "Twinings Earl Grey Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/072617.jpg",
+    "source_id": "Woolworths - 72617",
+    "barcode": "70177025694",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829549/twinings-english-breakfast-extra-strong-tea-bags",
+    "name": "Twinings English Breakfast Extra Strong Tea Bags 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829549.jpg",
+    "source_id": "Woolworths - 829549",
+    "barcode": "70177106195",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829281/twinings-english-breakfast-extra-strong-tea-bags",
+    "name": "Twinings English Breakfast Extra Strong Tea Bags 80 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829281.jpg",
+    "source_id": "Woolworths - 829281",
+    "barcode": "70177106348",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41853/twinings-english-breakfast-loose-leaf-tea",
+    "name": "Twinings English Breakfast Loose Leaf Tea 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041853.jpg",
+    "source_id": "Woolworths - 41853",
+    "barcode": "70177060749",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42982/twinings-english-breakfast-tea-bags-tea-bags",
+    "name": "Twinings English Breakfast Tea  Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042982.jpg",
+    "source_id": "Woolworths - 42982",
+    "barcode": "70177087616",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41946/twinings-english-breakfast-tea-bags-tea-bags",
+    "name": "Twinings English Breakfast Tea Bags 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041946.jpg",
+    "source_id": "Woolworths - 41946",
+    "barcode": "70177050610",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72618/twinings-english-breakfast-tea-bags-tea-bags",
+    "name": "Twinings English Breakfast Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/072618.jpg",
+    "source_id": "Woolworths - 72618",
+    "barcode": "70177025700",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307864/twinings-english-breakfast-tea-bags-decaffeinated",
+    "name": "Twinings English Breakfast Tea Bags Decaffeinated 80 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307864.jpg",
+    "source_id": "Woolworths - 307864",
+    "barcode": "70177231569",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307849/twinings-french-earl-grey",
+    "name": "Twinings French Earl Grey 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307849.jpg",
+    "source_id": "Woolworths - 307849",
+    "barcode": "70177231606",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309497/twinings-french-earl-grey",
+    "name": "Twinings French Earl Grey 80 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/309497.jpg",
+    "source_id": "Woolworths - 309497",
+    "barcode": "70177231590",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8647/twinings-irish-breakfast-tea-bags",
+    "name": "Twinings Irish Breakfast Tea Bags 100 Pack 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/008647.jpg",
+    "source_id": "Woolworths - 8647",
+    "barcode": "70177043117",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/257224/twinings-lady-grey-tea-bags-tea-bags",
+    "name": "Twinings Lady Grey Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/257224.jpg",
+    "source_id": "Woolworths - 257224",
+    "barcode": "70177156916",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/575832/twinings-morning-tea-bags",
+    "name": "Twinings Morning Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/575832.jpg",
+    "source_id": "Woolworths - 575832",
+    "barcode": "70177176174",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "675",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148131/bushells-black-tea-extra-strong",
+    "name": "Bushells Black Tea Extra Strong 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/148131.jpg",
+    "source_id": "Woolworths - 148131",
+    "barcode": "8720608629176",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "530",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90832/bushells-extra-strong-leaf-tea",
+    "name": "Bushells Extra Strong Leaf Tea 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/090832.jpg",
+    "source_id": "Woolworths - 90832",
+    "barcode": "9310062212503",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200148/dilmah-earl-grey-tea-bags",
+    "name": "Dilmah Earl Grey Tea Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/200148.jpg",
+    "source_id": "Woolworths - 200148",
+    "barcode": "9312631129953",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254408/dilmah-tea-bags",
+    "name": "Dilmah Tea Bags 300 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/254408.jpg",
+    "source_id": "Woolworths - 254408",
+    "barcode": "9312631136531",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/87040/lipton-black-tea-decaffeinated",
+    "name": "Lipton Black Tea Decaffeinated 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/087040.jpg",
+    "source_id": "Woolworths - 87040",
+    "barcode": "8720608629237",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228523/lipton-quality-black-leaf-tea-intense",
+    "name": "Lipton Quality Black Leaf Tea Intense 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/228523.jpg",
+    "source_id": "Woolworths - 228523",
+    "barcode": "9310021034160",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "780",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/591358/lipton-quality-black-tea",
+    "name": "Lipton Quality Black Tea 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/591358.jpg",
+    "source_id": "Woolworths - 591358",
+    "barcode": "8720608628827",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33817/lipton-quality-tips-loose-leaf-tea",
+    "name": "Lipton Quality Tips Loose Leaf Tea 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033817.jpg",
+    "source_id": "Woolworths - 33817",
+    "barcode": "9310021004798",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/627489/madame-flavour-melbourne-morning-blend",
+    "name": "Madame Flavour Melbourne Morning Blend 40 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/627489.jpg",
+    "source_id": "Woolworths - 627489",
+    "barcode": "9341007000749",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210277/madura-english-breakfast-leaf-tea",
+    "name": "Madura English Breakfast Leaf Tea 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/210277.jpg",
+    "source_id": "Woolworths - 210277",
+    "barcode": "89978000625",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/65702/madura-english-breakfast-tea-bags",
+    "name": "Madura English Breakfast Tea Bags 50 Pack 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/065702.jpg",
+    "source_id": "Woolworths - 65702",
+    "barcode": "89978000069",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613989/madura-organic-black-tea-bags",
+    "name": "Madura Organic Black Tea Bags 50 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/613989.jpg",
+    "source_id": "Woolworths - 613989",
+    "barcode": "9389978003765",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/627508/madura-organic-english-breakfast-tea-bags",
+    "name": "Madura Organic English Breakfast Tea Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/627508.jpg",
+    "source_id": "Woolworths - 627508",
+    "barcode": "9389978003871",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228520/madura-premium-blend-tea",
+    "name": "Madura Premium Blend Tea 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/228520.jpg",
+    "source_id": "Woolworths - 228520",
+    "barcode": "89978000953",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "358",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24833/madura-premium-blend-tea-bags",
+    "name": "Madura Premium Blend Tea Bags 50 Pack 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024833.jpg",
+    "source_id": "Woolworths - 24833",
+    "barcode": "89978000038",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726973/t2-tea-english-breakfast-black-tea-bags",
+    "name": "T2 Tea English Breakfast Black Tea Bags 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726973.jpg",
+    "source_id": "Woolworths - 726973",
+    "barcode": "9330462053384",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727013/t2-tea-french-earl-grey-black-tea-bags",
+    "name": "T2 Tea French Earl Grey Black Tea Bags 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/727013.jpg",
+    "source_id": "Woolworths - 727013",
+    "barcode": "9330462053216",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726937/t2-tea-melbourne-breakfast-black-tea-bags",
+    "name": "T2 Tea Melbourne Breakfast Black Tea Bags 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726937.jpg",
+    "source_id": "Woolworths - 726937",
+    "barcode": "9330462053223",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659104/tetley-gold-brew-tea-bags",
+    "name": "Tetley Gold Brew Tea Bags 100 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/659104.jpg",
+    "source_id": "Woolworths - 659104",
+    "barcode": "9310122705686",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574769/tetley-tagless-tea-bags",
+    "name": "Tetley Tagless Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/574769.jpg",
+    "source_id": "Woolworths - 574769",
+    "barcode": "9310122704306",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574822/tetley-tagless-tea-bags",
+    "name": "Tetley Tagless Tea Bags 200 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/574822.jpg",
+    "source_id": "Woolworths - 574822",
+    "barcode": "9310122704313",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/714439/twinings-australian-afternoon-black-tea-bags",
+    "name": "Twinings Australian Afternoon Black Tea Bags 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/714439.jpg",
+    "source_id": "Woolworths - 714439",
+    "barcode": "70177187668",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/257225/twinings-ceylon-orange-pekoe-tea-bags-tea-bags",
+    "name": "Twinings Ceylon Orange Pekoe Tea Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/257225.jpg",
+    "source_id": "Woolworths - 257225",
+    "barcode": "70177156893",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41949/twinings-darjeeling-tea-bags-tea-bags",
+    "name": "Twinings Darjeeling Tea Bags 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041949.jpg",
+    "source_id": "Woolworths - 41949",
+    "barcode": "70177050573",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41859/twinings-earl-grey-loose-leaf-tea-loose-leaf-tea",
+    "name": "Twinings Earl Grey Loose Leaf Tea 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041859.jpg",
+    "source_id": "Woolworths - 41859",
+    "barcode": "70177060732",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42980/twinings-earl-grey-tea-bags-tea-bags",
+    "name": "Twinings Earl Grey Tea Bags 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042980.jpg",
+    "source_id": "Woolworths - 42980",
+    "barcode": "70177087609",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306380/twinings-english-breakfast-loose-leaf-tea-extra-strong",
+    "name": "Twinings English Breakfast Loose Leaf Tea Extra Strong 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306380.jpg",
+    "source_id": "Woolworths - 306380",
+    "barcode": "70177231613",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42861/twinings-russian-caravan-loose-leaf-tea",
+    "name": "Twinings Russian Caravan Loose Leaf Tea 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042861.jpg",
+    "source_id": "Woolworths - 42861",
+    "barcode": "70177010270",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/10109/twinings-russian-caravan-tea-bags-tea-bags",
+    "name": "Twinings Russian Caravan Tea Bags 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/010109.jpg",
+    "source_id": "Woolworths - 10109",
+    "barcode": "70177102920",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710585/yorkshire-gold-tea-bags",
+    "name": "Yorkshire Gold Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/710585.jpg",
+    "source_id": "Woolworths - 710585",
+    "barcode": "615357122697",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33804/bushells-blue-label-loose-leaf-tea",
+    "name": "Bushells Blue Label Loose Leaf Tea 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033804.jpg",
+    "source_id": "Woolworths - 33804",
+    "barcode": "9310062010208",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/587903/lipton-quality-black-tea-bags",
+    "name": "Lipton Quality Black Tea Bags 200 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/587903.jpg",
+    "source_id": "Woolworths - 587903",
+    "barcode": "6281006868717",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "960",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "960",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "960",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "960",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727012/t2-tea-earl-gray-tea-bags",
+    "name": "T2 Tea Earl Gray Tea Bags 25 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/727012.jpg",
+    "source_id": "Woolworths - 727012",
+    "barcode": "9330462053209",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30568/billy-tea-campfire-brew-tea-bags",
+    "name": "Billy Tea Campfire Brew Tea Bags 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/030568.jpg",
+    "source_id": "Woolworths - 30568",
+    "barcode": "9310122651020",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "5",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

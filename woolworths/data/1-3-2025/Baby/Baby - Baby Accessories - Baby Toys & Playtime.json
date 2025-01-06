@@ -1,0 +1,746 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/625698/playgro-activity-rattle",
+    "name": "Playgro Activity Rattle Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/625698.jpg",
+    "source_id": "Woolworths - 625698",
+    "barcode": "9321104861610",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/858035/afl-footy-feud-game",
+    "name": "AFL Footy Feud Game Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/858035.jpg",
+    "source_id": "Woolworths - 858035",
+    "barcode": "750343858485",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62685/bluey-friends-plush-toy-assorted",
+    "name": "Bluey Friends Plush Toy Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/062685.jpg",
+    "source_id": "Woolworths - 62685",
+    "barcode": "630996180198",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906315/bluey-plush-clip-assorted",
+    "name": "Bluey Plush Clip Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906315.jpg",
+    "source_id": "Woolworths - 906315",
+    "barcode": "630996180372",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532197/cubeez-10cm-plush-assorted",
+    "name": "Cubeez 10cm Plush Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/532197.jpg",
+    "source_id": "Woolworths - 532197",
+    "barcode": "840150252986",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/241356/cutitos-soft-toy-assorted",
+    "name": "Cutitos Soft Toy Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/241356.jpg",
+    "source_id": "Woolworths - 241356",
+    "barcode": "885561392630",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/82811/disney-pixar-cars-mini-racers-assortment",
+    "name": "Disney Pixar Cars Mini Racers Assortment 3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/082811.jpg",
+    "source_id": "Woolworths - 82811",
+    "barcode": "887961825664",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1260",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1260",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1260",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1260",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242732/duncan-brain-game-combo-set",
+    "name": "Duncan Brain Game Combo Set Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/242732.jpg",
+    "source_id": "Woolworths - 242732",
+    "barcode": "71617097141",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906304/misfitten-kittens-assorted",
+    "name": "Misfitten Kittens Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906304.jpg",
+    "source_id": "Woolworths - 906304",
+    "barcode": "885561039467",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243815/oddballz-stress-ball-assorted",
+    "name": "Oddballz Stress Ball Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/243815.jpg",
+    "source_id": "Woolworths - 243815",
+    "barcode": "10984224002",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230430/play-forest-friends-squirters",
+    "name": "Play Forest Friends Squirters 3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230430.jpg",
+    "source_id": "Woolworths - 230430",
+    "barcode": "4892401184801",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/562967/playgro-twisting-barbell-rattle",
+    "name": "Playgro Twisting Barbell Rattle each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/562967.jpg",
+    "source_id": "Woolworths - 562967",
+    "barcode": "9321104887580",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913250/reversible-plush-reversible-plush-assorted",
+    "name": "Reversible Plush Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913250.jpg",
+    "source_id": "Woolworths - 913250",
+    "barcode": "9339687389704",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81628/squishmallows-5-inch-plush",
+    "name": "Squishmallows 5 Inch Plush Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/081628.jpg",
+    "source_id": "Woolworths - 81628",
+    "barcode": "734689217588",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953613/squishmallows-christmas-plush-5-inch-assorted",
+    "name": "Squishmallows Christmas Plush 5 Inch Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/953613.jpg",
+    "source_id": "Woolworths - 953613",
+    "barcode": "196566457850",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229256/zuru-coco-surprise",
+    "name": "Zuru Coco Surprise Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/229256.jpg",
+    "source_id": "Woolworths - 229256",
+    "barcode": "4894680023307",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180320/zuru-robo-alive-robo-fish-series-2",
+    "name": "Zuru Robo Alive Robo Fish Series 2 Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180320.jpg",
+    "source_id": "Woolworths - 180320",
+    "barcode": "193052032805",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/138005/bluey-vehicle-figure-playset-assorted",
+    "name": "Bluey Vehicle & Figure Playset Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/138005.jpg",
+    "source_id": "Woolworths - 138005",
+    "barcode": "630996175590",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "2700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/168901/lamaze-bitty-bite-bug-rattle",
+    "name": "Lamaze Bitty Bite Bug Rattle Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/168901.jpg",
+    "source_id": "Woolworths - 168901",
+    "barcode": "796714270784",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204697/reversible-moody-octopus-plush-reversible-moody-octopus-plush",
+    "name": "Reversible Moody Octopus Plush Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204697.jpg",
+    "source_id": "Woolworths - 204697",
+    "barcode": "9328936110862",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399202/tobar-neon-squish-balls-assorted",
+    "name": "Tobar Neon Squish Balls Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/399202.jpg",
+    "source_id": "Woolworths - 399202",
+    "barcode": "5038728149904",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

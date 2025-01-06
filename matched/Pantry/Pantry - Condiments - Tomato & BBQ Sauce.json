@@ -1,0 +1,2310 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/fountain-barbecue-sauce-value-pack-bbq-sauce-2l-2359267",
+    "name": "Fountain Barbecue Sauce Value Pack Bbq Sauce | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2359267.jpg&w=640&q=90",
+    "barcode": "9300681220737",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/845672/fountain-barbecue-bbq-sauce-value-pack",
+    "name": "Fountain Barbecue Bbq Sauce Value Pack 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/845672.jpg",
+    "barcode": "9300681220737",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fountain-tomato-sauce-value-pack-ketchup-2l-7265171",
+    "name": "Fountain Tomato Sauce Value Pack Ketchup | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7265171.jpg&w=640&q=90",
+    "barcode": "9300681216785",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175901/fountain-tomato-sauce-value-pack",
+    "name": "Fountain Tomato Sauce Value Pack 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/175901.jpg",
+    "barcode": "9300681216785",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "24",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "30",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-ketchup-tomato-sauce-500ml-5328995",
+    "name": "Heinz Ketchup Tomato Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5328995.jpg&w=640&q=90",
+    "barcode": "9300657114046",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83563/heinz-ketchup-tomato-sauce-ketchup",
+    "name": "Heinz Ketchup Tomato Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083563.jpg",
+    "barcode": "9300657114046",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "84",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-squeezy-sauce-barbecue-500ml-7716441",
+    "name": "Masterfoods Squeezy Sauce Barbecue | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7716441.jpg&w=640&q=90",
+    "barcode": "9310012021063",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99696/masterfoods-barbecue-sauce",
+    "name": "MasterFoods Barbecue Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/099696.jpg",
+    "barcode": "9310012021063",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-salt-reduced-tomato-sauce-475ml-5427895",
+    "name": "MasterFoods Salt Reduced Tomato Sauce | 475mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5427895.jpg&w=640&q=90",
+    "barcode": "9310012049142",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "475ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/608712/masterfoods-reduced-salt-sugar-tomato-sauce",
+    "name": "MasterFoods Reduced Salt & Sugar Tomato Sauce 475ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/608712.jpg",
+    "barcode": "9310012049142",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-smokey-barbecue-sauce-500ml-7447372",
+    "name": "Masterfoods Smokey Barbecue Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7447372.jpg&w=640&q=90",
+    "barcode": "9310012062578",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "103",
+        "price_per_unit": "515",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388036/masterfoods-sauce-smokey-barbecue",
+    "name": "Masterfoods Sauce Smokey Barbecue 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/388036.jpg",
+    "barcode": "9310012062578",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-tomato-sauce-500ml-7717331",
+    "name": "MasterFoods Tomato Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7717331.jpg&w=640&q=90",
+    "barcode": "9310012021049",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "56",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99633/masterfoods-tomato-sauce",
+    "name": "MasterFoods Tomato Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/099633.jpg",
+    "barcode": "9310012021049",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "50",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/beerenberg-tomato-sauce-300ml-5568900",
+    "name": "Beerenberg Tomato Sauce | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5568900.jpg&w=640&q=90",
+    "barcode": "9311485502103",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "224",
+        "price_per_unit": "672",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9297/beerenberg-tomato-sauce",
+    "name": "Beerenberg Tomato Sauce 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/009297.jpg",
+    "barcode": "9311485502103",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bull's-eye-original-bbq-sauce-barbecue-sauces-300ml-3499192",
+    "name": "Bull's-Eye Original BBQ Sauce Barbecue Sauces | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3499192.jpg&w=640&q=90",
+    "barcode": "9300657043605",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/880917/bull-s-eye-original-bbq-sauce",
+    "name": "Bull's-Eye Original Bbq Sauce 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/880917.jpg",
+    "barcode": "9300657043605",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "117",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "125",
+        "price_per_unit": "375",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-ketchup-tomato-sauce-1l-8303549",
+    "name": "Heinz Ketchup Tomato Sauce | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8303549.jpg&w=640&q=90",
+    "barcode": "9300657016555",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "55",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169592/heinz-ketchup-sauces-tomato-sauce",
+    "name": "Heinz Heinz Ketchup Sauces Tomato Sauce 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169592.jpg",
+    "barcode": "9300657016555",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "66",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "66",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "66",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "66",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-ketchup-tomato-sauce-50percent-less-added-sugar-and-salt-500ml-3091330",
+    "name": "Heinz Ketchup Tomato Sauce 50% Less Added Sugar & Salt | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3091330.jpg&w=640&q=90",
+    "barcode": "9300657114411",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/607577/heinz-ketchup-tomato-sauce-50-less-added-sugar-salt",
+    "name": "Heinz Ketchup Tomato Sauce 50% Less Added Sugar & Salt 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/607577.jpg",
+    "barcode": "9300657114411",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "84",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-organic-ketchup-tomato-sauce-500ml-9124079",
+    "name": "Heinz Organic Ketchup Tomato Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9124079.jpg&w=640&q=90",
+    "barcode": "9300657114053",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307263/heinz-organic-ketchup-tomato-sauce-ketchup-organic",
+    "name": "Heinz Organic Ketchup Tomato Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307263.jpg",
+    "barcode": "9300657114053",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "126",
+        "price_per_unit": "630",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hp-sauce-390ml-9899750",
+    "name": "HP Sauce | 390mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9899750.jpg&w=640&q=90",
+    "barcode": "9300657116408",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "390ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "178",
+        "price_per_unit": "693",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/728546/hp-original-barbecue-bbq-sauce-99-fat-free-brown-sauce",
+    "name": "HP Original Barbecue Bbq Sauce 99% Fat Free Brown Sauce 390ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/728546.jpg",
+    "barcode": "9300657116408",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "169",
+        "price_per_unit": "660",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/beerenberg-bbq-sauce-300ml-3748763",
+    "name": "Beerenberg BBQ Sauce | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3748763.jpg&w=640&q=90",
+    "barcode": "9311485504862",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27189/beerenberg-bbq-sauce",
+    "name": "Beerenberg Bbq Sauce 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/027189.jpg",
+    "barcode": "9311485504862",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "213",
+        "price_per_unit": "640",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-aussie-farmers-tomato-sauce-500ml-7447350",
+    "name": "Masterfoods Aussie Farmers Tomato Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7447350.jpg&w=640&q=90",
+    "barcode": "9310012062554",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "103",
+        "price_per_unit": "515",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387350/masterfoods-aussie-farmers-tomato-sauce",
+    "name": "MasterFoods Aussie Farmers Tomato Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387350.jpg",
+    "barcode": "9310012062554",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "68",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "98",
+        "price_per_unit": "490",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-bbq-sauce-reduced-salt-and-sugar-500ml-8575582",
+    "name": "MasterFoods BBQ Sauce Reduced Salt & Sugar | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8575582.jpg&w=640&q=90",
+    "barcode": "9310012049173",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "59",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/608711/masterfoods-barbecue-sauce-reduced-salt-sugar",
+    "name": "MasterFoods Barbecue Sauce Reduced Salt & Sugar 475ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/608711.jpg",
+    "barcode": "9310012049173",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "53",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-better-for-you-tangy-bbq-sauce-250g-7060248",
+    "name": "Mingle Better For You Tangy BBQ Sauce | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7060248.jpg&w=640&q=90",
+    "barcode": "9350465000338",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171282/mingle-better-tangy-bbq-sauce-pouch",
+    "name": "Mingle Better Tangy Bbq Sauce Pouch 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/171282.jpg",
+    "barcode": "9350465000338",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "158",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "158",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-better-for-you-tangy-tomato-sauce-250g-7060317",
+    "name": "Mingle Better For You Tangy Tomato Sauce | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7060317.jpg&w=640&q=90",
+    "barcode": "9350465000321",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170497/mingle-better-tangy-tomato-sauce-pouch",
+    "name": "Mingle Better Tangy Tomato Sauce Pouch 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170497.jpg",
+    "barcode": "9350465000321",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "238",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "158",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "158",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ozesauce-all-natural-tomato-sauce-500ml-1011750",
+    "name": "Ozesauce All Natural Tomato Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1011750.jpg&w=640&q=90",
+    "barcode": "9337944000331",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742407/ozesauce-tomato-sauce",
+    "name": "Ozesauce Tomato Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/742407.jpg",
+    "barcode": "9337944000331",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "72",
+        "price_per_unit": "360",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rosella-tomato-sauce-580ml-3574040",
+    "name": "Rosella Tomato Sauce | 580mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3574040.jpg&w=640&q=90",
+    "barcode": "9300660446561",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "580ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "76",
+        "price_per_unit": "441",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61679/rosella-tomato-sauce-glass",
+    "name": "Rosella Tomato Sauce Glass 580ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/061679.jpg",
+    "barcode": "9300660446561",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "72",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "76",
+        "price_per_unit": "440",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/three-threes-rib-bbq-sauce-275ml-7288122",
+    "name": "Three Threes Rib BBQ Sauce | 275mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7288122.jpg&w=640&q=90",
+    "barcode": "9310480334061",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "275ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340189/three-threes-bbq-rib-sauce",
+    "name": "Three Threes Bbq Rib Sauce 275ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/340189.jpg",
+    "barcode": "9310480334061",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "275",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "275",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "275",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "330",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/three-threes-tomato-sauce-275ml-7264816",
+    "name": "Three Threes Tomato Sauce | 275mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7264816.jpg&w=640&q=90",
+    "barcode": "9310480334054",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "275ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "91",
+        "price_per_unit": "250",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353695/three-threes-tomato-sauce",
+    "name": "Three Threes Tomato Sauce 275ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353695.jpg",
+    "barcode": "9310480334054",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "330",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

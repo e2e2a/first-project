@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mortein-outdoor-coil-burner-mosquito-repellent-30-pack-7683761",
+    "name": "Mortein Outdoor Coil Burner Mosquito Repellent | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7683761.jpg&w=640&q=90",
+    "barcode": "9300701985431",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54082/mortein-outdoor-coil-burner-mosquito-repellent",
+    "name": "Mortein Outdoor Coil Burner Mosquito Repellent 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054082.jpg",
+    "barcode": "9300701985431",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "23",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

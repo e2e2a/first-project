@@ -1,0 +1,668 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/avalanche-drinking-chocolate-200g-2445551",
+    "name": "Avalanche Drinking Chocolate | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2445551.jpg&w=640&q=90",
+    "barcode": "9421902404375",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "237",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/738745/avalanche-sugar-free-drinking-chocolate",
+    "name": "Avalanche Sugar Free Drinking Chocolate 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/738745.jpg",
+    "barcode": "9421902404375",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-drinking-chocolate-450g-3984857",
+    "name": "Cadbury Drinking Chocolate | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3984857.jpg&w=640&q=90",
+    "barcode": "9300617290988",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "163",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152988/cadbury-drinking-chocolate",
+    "name": "Cadbury Drinking Chocolate 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/152988.jpg",
+    "barcode": "9300617290988",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "156",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-neapolitan-drinking-chocolate-250g-4204487",
+    "name": "Cadbury Neapolitan Drinking Chocolate | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4204487.jpg&w=640&q=90",
+    "barcode": "9300617293194",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151863/cadbury-drinking-chocolate-neapolitan",
+    "name": "Cadbury Drinking Chocolate Neapolitan 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151863.jpg",
+    "barcode": "9300617293194",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lindt-hot-chocolate-flake-milk-tin-210g-6934039",
+    "name": "Lindt Hot Chocolate Flake Milk Tin | 210g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6934039.jpg&w=640&q=90",
+    "barcode": "9323966405971",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305554/lindt-hot-chocolate-flakes-milk",
+    "name": "Lindt Hot Chocolate Flakes Milk 210g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/305554.jpg",
+    "barcode": "9323966405971",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "476",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/starbucks-signature-hot-chocolate-42percent-cocoa-330g-5038645",
+    "name": "Starbucks Signature Hot Chocolate 42% Cocoa | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5038645.jpg&w=640&q=90",
+    "barcode": "7613287653192",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "302",
+        "price_per_unit": "998",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "288",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216282/starbucks-signature-hot-chocolate-42-cocoa-powder",
+    "name": "Starbucks Signature Hot Chocolate 42% Cocoa Powder 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/216282.jpg",
+    "barcode": "7613287653192",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "212",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-original-chocochino-375g-6999781",
+    "name": "Vittoria Original Chocochino | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6999781.jpg&w=640&q=90",
+    "barcode": "9310631001941",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "168",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24570/vittoria-chocochino-drinking-chocolate",
+    "name": "Vittoria Chocochino Drinking Chocolate 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024570.jpg",
+    "barcode": "9310631001941",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

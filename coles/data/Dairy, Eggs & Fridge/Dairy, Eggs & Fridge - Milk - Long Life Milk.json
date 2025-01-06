@@ -1,0 +1,986 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-full-cream-long-life-milk-1l-7667368",
+    "name": "Coles Australian Full Cream Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7667368.jpg&w=640&q=90",
+    "source_id": "Coles - 7667368",
+    "barcode": "9310645281599",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-full-cream-long-life-milk-1l-301721",
+    "name": "Devondale Full Cream Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F301721.jpg&w=640&q=90",
+    "source_id": "Coles - 301721",
+    "barcode": "9300639500683",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-semi-skim-long-life-milk-1l-4824856",
+    "name": "Devondale Semi Skim Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4824856.jpg&w=640&q=90",
+    "source_id": "Coles - 4824856",
+    "barcode": "9300639600383",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-skim-long-life-milk-1l-455849",
+    "name": "Devondale Skim Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F455849.jpg&w=640&q=90",
+    "source_id": "Coles - 455849",
+    "barcode": "9300639500300",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-skim-long-life-milk-1l-7667244",
+    "name": "Coles Australian Skim Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7667244.jpg&w=640&q=90",
+    "source_id": "Coles - 7667244",
+    "barcode": "9310645281582",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-lite-long-life-milk-1l-7239433",
+    "name": "Coles Australian Lite Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7239433.jpg&w=640&q=90",
+    "source_id": "Coles - 7239433",
+    "barcode": "9310645281575",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-uht-full-cream-multipack-milk-200ml-6-pack-5984520",
+    "name": "Devondale UHT Full Cream Multipack Milk 200mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5984520.jpg&w=640&q=90",
+    "source_id": "Coles - 5984520",
+    "barcode": "9300639605319",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "630",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-a2-protein-full-cream-milk-1l-3179680",
+    "name": "Australia's Own A2 Protein Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3179680.jpg&w=640&q=90",
+    "source_id": "Coles - 3179680",
+    "barcode": "9315090206975",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "294",
+        "price_per_unit": "294",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-uht-skim-multipack-milk-200ml-6-pack-5994046",
+    "name": "Devondale UHT Skim Multipack Milk 200mL | 6 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5994046.jpg&w=640&q=90",
+    "source_id": "Coles - 5994046",
+    "barcode": "9300639605326",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "630",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/a2-full-cream-uht-milk-1l-4873250",
+    "name": "A2 Full Cream UHT Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4873250.jpg&w=640&q=90",
+    "source_id": "Coles - 4873250",
+    "barcode": "9335390002206",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-multipack-full-cream-milk-6-pack-1200ml-8011532",
+    "name": "Coles Multipack Full Cream Milk 6 Pack | 1200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8011532.jpg&w=640&q=90",
+    "source_id": "Coles - 8011532",
+    "barcode": "",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "394",
+        "price_per_unit": "473",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-cholesterol-lowering-milk-1l-6506589",
+    "name": "Australia's Own Cholesterol Lowering Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6506589.jpg&w=640&q=90",
+    "source_id": "Coles - 6506589",
+    "barcode": "9315090214307",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "294",
+        "price_per_unit": "294",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-full-cream-milk-1l-3179657",
+    "name": "Australia's Own Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3179657.jpg&w=640&q=90",
+    "source_id": "Coles - 3179657",
+    "barcode": "9315090206944",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-multipack-skim-uht-milk-6-pack-1200ml-8011598",
+    "name": "Coles Multipack Skim Uht Milk 6 Pack | 1200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8011598.jpg&w=640&q=90",
+    "source_id": "Coles - 8011598",
+    "barcode": "",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "394",
+        "price_per_unit": "473",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/living-planet-goats-long-life-milk-1l-9972158",
+    "name": "Living Planet Goats Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9972158.jpg&w=640&q=90",
+    "source_id": "Coles - 9972158",
+    "barcode": "9312231224072",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-skim-milk-1l-3179679",
+    "name": "Australia's Own Skim Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3179679.jpg&w=640&q=90",
+    "source_id": "Coles - 3179679",
+    "barcode": "",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvey-fresh-long-life-milk-1l-1263559",
+    "name": "Harvey Fresh Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1263559.jpg&w=640&q=90",
+    "source_id": "Coles - 1263559",
+    "barcode": "9311697100173",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvey-fresh-skim-long-life-milk-1l-1263570",
+    "name": "Harvey Fresh Skim Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1263570.jpg&w=640&q=90",
+    "source_id": "Coles - 1263570",
+    "barcode": "9311697101583",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-full-cream-long-life-milk-2l-5230904",
+    "name": "Devondale Full Cream Long Life Milk | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5230904.jpg&w=640&q=90",
+    "source_id": "Coles - 5230904",
+    "barcode": "9300639600512",
+    "category_id": "1300",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "195",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      }
+    ]
+  }
+]

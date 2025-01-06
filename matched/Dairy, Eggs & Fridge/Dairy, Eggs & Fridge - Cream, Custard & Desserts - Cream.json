@@ -1,0 +1,1486 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-light-thickened-cooking-cream-300ml-5823407",
+    "name": "Bulla Light Thickened Cooking Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5823407.jpg&w=640&q=90",
+    "barcode": "9310161006249",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "133",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258746/bulla-cooking-cream",
+    "name": "Bulla Cooking Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/258746.jpg",
+    "barcode": "9310161006249",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "123",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-dollop-cream-200ml-6608148",
+    "name": "Bulla Dollop Cream | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6608148.jpg&w=640&q=90",
+    "barcode": "9310161007086",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312417/bulla-dollop-thick-cream-cup",
+    "name": "Bulla Dollop Thick Cream Cup 200ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/312417.jpg",
+    "barcode": "9310161007086",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-extra-thick-double-cream-200ml-3228468",
+    "name": "Bulla Extra Thick Double Cream | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3228468.jpg&w=640&q=90",
+    "barcode": "9310161011847",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/547134/bulla-double-cream",
+    "name": "Bulla Double Cream 200ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/547134.jpg",
+    "barcode": "9310161011847",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "215",
+        "price_per_unit": "430",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-light-thickened-cream-300ml-5089012",
+    "name": "Bulla Light Thickened Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5089012.jpg&w=640&q=90",
+    "barcode": "9310161001077",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37325/bulla-light-thickened-cream",
+    "name": "Bulla Light Thickened Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037325.jpg",
+    "barcode": "9310161001077",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-thickened-cream-300ml-381323",
+    "name": "Bulla Thickened Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F381323.jpg&w=640&q=90",
+    "barcode": "9310161001015",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42812/bulla-thickened-cream",
+    "name": "Bulla Thickened Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042812.jpg",
+    "barcode": "9310161001015",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-thickened-cream-600ml-381312",
+    "name": "Bulla Thickened Cream | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F381312.jpg&w=640&q=90",
+    "barcode": "9310161001022",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47022/bulla-thickened-cream",
+    "name": "Bulla Thickened Cream 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/047022.jpg",
+    "barcode": "9310161001022",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dairy-farmers-pure-cream-500ml-6436359",
+    "name": "Dairy Farmers Pure Cream | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6436359.jpg&w=640&q=90",
+    "barcode": "9300658410840",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310008/dairy-farmers-pure-cream",
+    "name": "Dairy Farmers Pure Cream 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310008.jpg",
+    "barcode": "9300658410840",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-plant-based-thickened-cream-31percent-500ml-6413590",
+    "name": "Flora Plant Based Thickened Cream 31% | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6413590.jpg&w=640&q=90",
+    "barcode": "9354237000717",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "702",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309487/flora-thickened-plant-cream",
+    "name": "Flora Thickened Plant Cream 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/309487.jpg",
+    "barcode": "9354237000717",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-zymil-regular-thickened-cream-300ml-5406294",
+    "name": "Pauls Zymil Regular Thickened Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5406294.jpg&w=640&q=90",
+    "barcode": "9310036043553",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "148",
+        "price_per_unit": "443",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/477605/pauls-zymil-thickened-cream-lactose-free",
+    "name": "Pauls Zymil Thickened Cream Lactose Free 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/477605.jpg",
+    "barcode": "9310036043553",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "137",
+        "price_per_unit": "410",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pura-double-thick-cream-300ml-5434992",
+    "name": "Pura Double Thick Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5434992.jpg&w=640&q=90",
+    "barcode": "9310073630525",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/49949/pura-double-thick-cream-dollop",
+    "name": "Pura Double Thick Cream Dollop 300mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/049949.jpg",
+    "barcode": "9310073630525",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pura-thick-cream-300ml-5435340",
+    "name": "Pura Thick Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5435340.jpg&w=640&q=90",
+    "barcode": "9300664642303",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48124/pura-thick-cream-dollop",
+    "name": "Pura Thick Cream Dollop 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048124.jpg",
+    "barcode": "9300664642303",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "157",
+        "price_per_unit": "470",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-pure-cream-600ml-5261737",
+    "name": "Pauls Pure Cream | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5261737.jpg&w=640&q=90",
+    "barcode": "9310036114703",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "99",
+        "price_per_unit": "595",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72632/pauls-pure-cream",
+    "name": "Pauls Pure Cream 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/072632.jpg",
+    "barcode": "9310036114703",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "99",
+        "price_per_unit": "595",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "99",
+        "price_per_unit": "595",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "99",
+        "price_per_unit": "595",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-pure-cream-300ml-5261748",
+    "name": "Pauls Pure Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5261748.jpg&w=640&q=90",
+    "barcode": "9310036114680",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "390",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44746/pauls-pure-cream",
+    "name": "Pauls Pure Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/044746.jpg",
+    "barcode": "9310036114680",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "390",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-thickened-cream-300ml-110472",
+    "name": "Pauls Thickened Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F110472.jpg&w=640&q=90",
+    "barcode": "9310036007296",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "125",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90612/pauls-thickened-cream",
+    "name": "Pauls Thickened Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/090612.jpg",
+    "barcode": "9310036007296",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "125",
+        "price_per_unit": "375",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brownes-whipping-cream-500ml-6436916",
+    "name": "Brownes Whipping Cream | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6436916.jpg&w=640&q=90",
+    "barcode": "9300662890904",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "92",
+        "price_per_unit": "460",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "92",
+        "price_per_unit": "460",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310992/brownes-dairy-pure-whipping-cream",
+    "name": "Brownes Dairy Pure Whipping Cream 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310992.jpg",
+    "barcode": "9300662890904",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "92",
+        "price_per_unit": "460",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brownes-thickened-cream-300ml-60159",
+    "name": "Brownes Thickened Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F60159.jpg&w=640&q=90",
+    "barcode": "9300662231844",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "127",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "127",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47786/brownes-dairy-dollop-cream-thickened",
+    "name": "Brownes Dollop Cream Thickened 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/047786.jpg",
+    "barcode": "9300662231844",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "127",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brownes-whipping-cream-300ml-318065",
+    "name": "Brownes Whipping Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F318065.jpg&w=640&q=90",
+    "barcode": "9300662092742",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/45308/brownes-dairy-whipping-fresh-cream",
+    "name": "Brownes Whipping Fresh Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/045308.jpg",
+    "barcode": "9300662092742",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "107",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvey-fresh-whipping-cream-600ml-7216290",
+    "name": "Harvey Fresh Whipping Cream | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7216290.jpg&w=640&q=90",
+    "barcode": "9311697105284",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "83",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "83",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755139/harvey-fresh-whipping-cream-fresh-esl",
+    "name": "Harvey Fresh Whipping Cream Fresh Esl 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755139.jpg",
+    "barcode": "9311697105284",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "83",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/betta-pateurised-cream-600ml-5048015",
+    "name": "Betta Pateurised Cream | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5048015.jpg&w=640&q=90",
+    "barcode": "9311572200073",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "540",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170874/betta-cream-fresh",
+    "name": "Betta Cream Fresh 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170874.jpg",
+    "barcode": "9311572200073",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "540",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/betta-pateurised-cream-300ml-5048037",
+    "name": "Betta Pateurised Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5048037.jpg&w=640&q=90",
+    "barcode": "9311572200066",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "103",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170872/betta-pure-cream",
+    "name": "Betta Pure Cream 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170872.jpg",
+    "barcode": "9311572200066",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "103",
+        "price_per_unit": "310",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

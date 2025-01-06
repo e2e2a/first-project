@@ -1,0 +1,734 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908273/woolworths-12-chicken-kebabs-hoisin",
+    "name": "Woolworths 12 Chicken Kebabs Hoisin 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908273.jpg",
+    "source_id": "Woolworths - 908273",
+    "barcode": "9339687387373",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907241/woolworths-12-chicken-kebabs-honey-soy",
+    "name": "Woolworths 12 Chicken Kebabs Honey Soy 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907241.jpg",
+    "source_id": "Woolworths - 907241",
+    "barcode": "9339687387342",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907628/woolworths-12-chicken-kebabs-smokey-bbq",
+    "name": "Woolworths 12 Chicken Kebabs Smokey BBQ 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907628.jpg",
+    "source_id": "Woolworths - 907628",
+    "barcode": "9339687387366",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909455/woolworths-12-chicken-kebabs-sweet-curry",
+    "name": "Woolworths 12 Chicken Kebabs Sweet Curry 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/909455.jpg",
+    "source_id": "Woolworths - 909455",
+    "barcode": "9339687387823",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908246/woolworths-6-chicken-kebabs-hoisin",
+    "name": "Woolworths 6 Chicken Kebabs Hoisin 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908246.jpg",
+    "source_id": "Woolworths - 908246",
+    "barcode": "9339687387359",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908166/woolworths-6-chicken-kebabs-honey-soy",
+    "name": "Woolworths 6 Chicken Kebabs Honey Soy 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908166.jpg",
+    "source_id": "Woolworths - 908166",
+    "barcode": "9339687387328",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907871/woolworths-6-chicken-kebabs-smokey-bbq",
+    "name": "Woolworths 6 Chicken Kebabs Smokey BBQ 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907871.jpg",
+    "source_id": "Woolworths - 907871",
+    "barcode": "9339687387335",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908700/woolworths-8-mini-chicken-kebabs-satay-style",
+    "name": "Woolworths 8 Mini Chicken Kebabs Satay Style 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908700.jpg",
+    "source_id": "Woolworths - 908700",
+    "barcode": "9339687387571",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908701/woolworths-8-mini-chicken-kebabs-sweet-chilli-lime",
+    "name": "Woolworths 8 Mini Chicken Kebabs Sweet Chilli & Lime 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908701.jpg",
+    "source_id": "Woolworths - 908701",
+    "barcode": "9339687387618",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935707/woolworths-cook-boneless-butterflied-chicken-greek-style",
+    "name": "Woolworths Cook Boneless Butterflied Chicken Greek Style 850g - 1.25Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935707.jpg",
+    "source_id": "Woolworths - 935707",
+    "barcode": "9339687207350",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906077/woolworths-4-jerk-spiced-chicken-kebabs",
+    "name": "Woolworths 4 Jerk Spiced Chicken Kebabs 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906077.jpg",
+    "source_id": "Woolworths - 906077",
+    "barcode": "9339687387076",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906075/woolworths-4-souvlaki-chicken-kebabs",
+    "name": "Woolworths 4 Souvlaki Chicken Kebabs 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906075.jpg",
+    "source_id": "Woolworths - 906075",
+    "barcode": "9339687387069",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910385/woolworths-6-chicken-kebabs-honey-soy",
+    "name": "Woolworths 6 Chicken Kebabs Honey Soy 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/910385.jpg",
+    "source_id": "Woolworths - 910385",
+    "barcode": "9339687388165",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908530/woolworths-8-mini-chicken-kebabs-satay-style",
+    "name": "Woolworths 8 Mini Chicken Kebabs Satay Style 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908530.jpg",
+    "source_id": "Woolworths - 908530",
+    "barcode": "9339687387601",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743951/woolworths-rspca-approved-chicken-kebab-satay-style",
+    "name": "Woolworths Rspca Approved Chicken Kebab Satay Style Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/743951.jpg",
+    "source_id": "Woolworths - 743951",
+    "barcode": "0270316000005",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742211/woolworths-rspca-approved-chicken-kebab-honey-soy",
+    "name": "Woolworths Rspca Approved Chicken Kebab Honey Soy Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/742211.jpg",
+    "source_id": "Woolworths - 742211",
+    "barcode": "0274848000007",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315147/woolworths-rspca-approved-chicken-kebab-satay",
+    "name": "Woolworths Rspca Approved Chicken Kebab Satay Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315147.jpg",
+    "source_id": "Woolworths - 315147",
+    "barcode": "0276820000005",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908475/woolworths-8-mini-chicken-kebabs-sweet-chilli-lime",
+    "name": "Woolworths 8 Mini Chicken Kebabs Sweet Chilli & Lime 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908475.jpg",
+    "source_id": "Woolworths - 908475",
+    "barcode": "9339687387410",
+    "category_id": "1_D5A2236",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

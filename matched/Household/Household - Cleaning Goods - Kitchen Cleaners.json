@@ -1,0 +1,226 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/ajax-professional-kitchen-trigger-500ml-1974036",
+    "name": "Ajax Professional Kitchen Trigger | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1974036.jpg&w=640&q=90",
+    "barcode": "9300632084203",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/778259/ajax-professional-kitchen-cleaner-trigger",
+    "name": "Ajax Professional Kitchen Cleaner Trigger 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/778259.jpg",
+    "barcode": "9300632084203",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "73",
+        "price_per_unit": "365",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hillmark-cerapol-ceramic-cooktop-cleaner-150ml-7139778",
+    "name": "Hillmark Cerapol Ceramic Cooktop Cleaner | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7139778.jpg&w=640&q=90",
+    "barcode": "9311597005097",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "451",
+        "price_per_unit": "677",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188082/hillmark-cerapol-ceramic-glass-induction-cooktop-cleaner",
+    "name": "Hillmark Cerapol Ceramic Glass & Induction Cooktop Cleaner 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/188082.jpg",
+    "barcode": "9311597005097",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "645",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "675",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

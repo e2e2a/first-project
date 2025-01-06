@@ -1,0 +1,2834 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/363951/woolworths-35hr-sourdough-loaf-seeded-seeds-and-grains",
+    "name": "Woolworths 35hr Sourdough Loaf Seeded each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/363951.jpg",
+    "source_id": "Woolworths - 363951",
+    "barcode": "0284749000006",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/363952/woolworths-35hr-sourdough-loaf-white-loaf",
+    "name": "Woolworths 35hr Sourdough Loaf White each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/363952.jpg",
+    "source_id": "Woolworths - 363952",
+    "barcode": "0284757000005",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353873/woolworths-bread-grains",
+    "name": "Woolworths Bread Grains 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353873.jpg",
+    "source_id": "Woolworths - 353873",
+    "barcode": "9300633167431",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353864/woolworths-bread-grains",
+    "name": "Woolworths Bread Grains 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353864.jpg",
+    "source_id": "Woolworths - 353864",
+    "barcode": "9300633167486",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353869/woolworths-bread-white",
+    "name": "Woolworths Bread White 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353869.jpg",
+    "source_id": "Woolworths - 353869",
+    "barcode": "9300633167417",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353857/woolworths-bread-white",
+    "name": "Woolworths Bread White 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353857.jpg",
+    "source_id": "Woolworths - 353857",
+    "barcode": "9300633167448",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353871/woolworths-bread-wholemeal",
+    "name": "Woolworths Bread Wholemeal 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353871.jpg",
+    "source_id": "Woolworths - 353871",
+    "barcode": "9300633167424",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353861/woolworths-bread-wholemeal",
+    "name": "Woolworths Bread Wholemeal 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353861.jpg",
+    "source_id": "Woolworths - 353861",
+    "barcode": "9300633167479",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74280/woolworths-cadbury-chocolate-hot-cross-buns",
+    "name": "Woolworths Cadbury Chocolate Hot Cross Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074280.jpg",
+    "source_id": "Woolworths - 74280",
+    "barcode": "0286608000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103022/woolworths-cinnamon-iced-scrolls",
+    "name": "Woolworths Cinnamon Iced Scrolls 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103022.jpg",
+    "source_id": "Woolworths - 103022",
+    "barcode": "0289247000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97078/woolworths-crafted-sourdough-loaf-rustic-dark-rye",
+    "name": "Woolworths Crafted Sourdough Loaf Rustic Dark Rye each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097078.jpg",
+    "source_id": "Woolworths - 97078",
+    "barcode": "0286270000005",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97077/woolworths-crafted-sourdough-loaf-signature-white",
+    "name": "Woolworths Crafted Sourdough Loaf Signature White each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097077.jpg",
+    "source_id": "Woolworths - 97077",
+    "barcode": "0286265000003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333360/woolworths-crusty-baguette-bread-stick",
+    "name": "Woolworths Crusty Baguette each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/333360.jpg",
+    "source_id": "Woolworths - 333360",
+    "barcode": "0284170000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799911/woolworths-crusty-cob-loaf",
+    "name": "Woolworths Crusty Cob Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799911.jpg",
+    "source_id": "Woolworths - 799911",
+    "barcode": "0281558000005",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799920/woolworths-crusty-vienna-loaf-loaf",
+    "name": "Woolworths Crusty Vienna Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799920.jpg",
+    "source_id": "Woolworths - 799920",
+    "barcode": "0281694000006",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/810003/woolworths-diamond-ciabatta-rolls-white-roll",
+    "name": "Woolworths Diamond Ciabatta Rolls 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/810003.jpg",
+    "source_id": "Woolworths - 810003",
+    "barcode": "0283469000006",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106321/woolworths-hot-dog-roll",
+    "name": "Woolworths Hot Dog Roll 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/106321.jpg",
+    "source_id": "Woolworths - 106321",
+    "barcode": "9339687199013",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114168/woolworths-indulgent-brioche-fruit-hot-cross-buns",
+    "name": "Woolworths Indulgent Brioche Fruit Hot Cross Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/114168.jpg",
+    "source_id": "Woolworths - 114168",
+    "barcode": "9339687207503",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "97",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "97",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "97",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101022/woolworths-mini-cheese-and-garlic-scrolls",
+    "name": "Woolworths Mini Cheese and Garlic Scrolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101022.jpg",
+    "source_id": "Woolworths - 101022",
+    "barcode": "0285965000009",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101011/woolworths-mini-mighty-cheese-scrolls",
+    "name": "Woolworths Mini Mighty Cheese Scrolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101011.jpg",
+    "source_id": "Woolworths - 101011",
+    "barcode": "0285964000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101008/woolworths-mini-pizza-scrolls",
+    "name": "Woolworths Mini Pizza Scrolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101008.jpg",
+    "source_id": "Woolworths - 101008",
+    "barcode": "0285963000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/107042/woolworths-multi-grain-rolls",
+    "name": "Woolworths Multi Grain Rolls 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/107042.jpg",
+    "source_id": "Woolworths - 107042",
+    "barcode": "9339687199006",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809965/woolworths-pane-di-casa-white-roll",
+    "name": "Woolworths Pane Di Casa White Roll 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/809965.jpg",
+    "source_id": "Woolworths - 809965",
+    "barcode": "0283473000009",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/746874/woolworths-plain-pane-di-casa-loaf-pane-di-casa",
+    "name": "Woolworths Plain Pane Di Casa Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/746874.jpg",
+    "source_id": "Woolworths - 746874",
+    "barcode": "0286589000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/505923/woolworths-plain-turkish-loaf-loaf",
+    "name": "Woolworths Plain Turkish Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/505923.jpg",
+    "source_id": "Woolworths - 505923",
+    "barcode": "0286164000005",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/107043/woolworths-white-round-roll",
+    "name": "Woolworths White Round Roll 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/107043.jpg",
+    "source_id": "Woolworths - 107043",
+    "barcode": "9339687198993",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106358/woolworths-wholemeal-bread-roll",
+    "name": "Woolworths Wholemeal Bread Roll 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/106358.jpg",
+    "source_id": "Woolworths - 106358",
+    "barcode": "9339687198986",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277884/woolworths-wholemeal-sandwich-sliced-bread-loaf",
+    "name": "Woolworths Wholemeal Sandwich Sliced Bread Loaf 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/277884.jpg",
+    "source_id": "Woolworths - 277884",
+    "barcode": "9339687336449",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162733/woolworths-baguette-half-half",
+    "name": "Woolworths Baguette Half 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/162733.jpg",
+    "source_id": "Woolworths - 162733",
+    "barcode": "0284667000003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "95",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103819/woolworths-bbq-meat-lovers-pizza-rolls",
+    "name": "Woolworths BBQ Meat Lovers Pizza Rolls 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103819.jpg",
+    "source_id": "Woolworths - 103819",
+    "barcode": "0285530000007",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/337151/woolworths-cheese-and-bacon-rolls",
+    "name": "Woolworths Cheese and Bacon Rolls 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/337151.jpg",
+    "source_id": "Woolworths - 337151",
+    "barcode": "0281021000006",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/337153/woolworths-cheese-rolls-roll",
+    "name": "Woolworths Cheese Rolls 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/337153.jpg",
+    "source_id": "Woolworths - 337153",
+    "barcode": "0281029000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/154935/woolworths-crusty-baguette-french-stick",
+    "name": "Woolworths Crusty Baguette each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/154935.jpg",
+    "source_id": "Woolworths - 154935",
+    "barcode": "0284494000009",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/154953/woolworths-crusty-cob-loaf-crusty-cobb",
+    "name": "Woolworths Crusty Cob Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/154953.jpg",
+    "source_id": "Woolworths - 154953",
+    "barcode": "0284498000005",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33908/woolworths-crusty-round-rolls-crusty-lunch",
+    "name": "Woolworths Crusty Round Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033908.jpg",
+    "source_id": "Woolworths - 33908",
+    "barcode": "0280017000006",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/366169/woolworths-crusty-tiger-tail-baguette-baguette",
+    "name": "Woolworths Crusty Tiger Tail Baguette each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/366169.jpg",
+    "source_id": "Woolworths - 366169",
+    "barcode": "0284912000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279665/woolworths-crusty-tiger-vienna-loaf-crusty-tiger-tummy-vienna",
+    "name": "Woolworths Crusty Tiger Vienna Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/279665.jpg",
+    "source_id": "Woolworths - 279665",
+    "barcode": "0280479000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/154927/woolworths-crusty-vienna-loaf",
+    "name": "Woolworths Crusty Vienna Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/154927.jpg",
+    "source_id": "Woolworths - 154927",
+    "barcode": "0284493000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/102723/woolworths-custard-and-pink-lady-apple-scrolls",
+    "name": "Woolworths Custard and Pink Lady Apple Scrolls 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/102723.jpg",
+    "source_id": "Woolworths - 102723",
+    "barcode": "0289671000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/747040/woolworths-extra-soft-fruitless-hot-cross-buns",
+    "name": "Woolworths Extra Soft Fruitless Hot Cross Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/747040.jpg",
+    "source_id": "Woolworths - 747040",
+    "barcode": "0284605000003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251478/woolworths-hawaiian-pizza-rolls-roll",
+    "name": "Woolworths Hawaiian Pizza Rolls 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/251478.jpg",
+    "source_id": "Woolworths - 251478",
+    "barcode": "0280392000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "415",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/157108/woolworths-iced-fruitless-finger-buns-extra-soft",
+    "name": "Woolworths Iced Fruitless Finger Buns 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/157108.jpg",
+    "source_id": "Woolworths - 157108",
+    "barcode": "0284525000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/308398/woolworths-iced-rainbow-sprinkle-finger-buns",
+    "name": "Woolworths Iced Rainbow Sprinkle Finger Buns 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/308398.jpg",
+    "source_id": "Woolworths - 308398",
+    "barcode": "0281016000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202570/woolworths-jumbo-crusty-long-rolls-crusty-jumbo-long",
+    "name": "Woolworths Jumbo Crusty Long Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/202570.jpg",
+    "source_id": "Woolworths - 202570",
+    "barcode": "0280091000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202563/woolworths-jumbo-crusty-round-rolls-crusty-jumbo-lunch",
+    "name": "Woolworths Jumbo Crusty Round Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/202563.jpg",
+    "source_id": "Woolworths - 202563",
+    "barcode": "0280089000003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757540/woolworths-jumbo-crusty-tiger-rolls",
+    "name": "Woolworths Jumbo Crusty Tiger Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/757540.jpg",
+    "source_id": "Woolworths - 757540",
+    "barcode": "0285069000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253306/woolworths-jumbo-multigrain-rolls-grain-jumbo",
+    "name": "Woolworths Jumbo Multigrain Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253306.jpg",
+    "source_id": "Woolworths - 253306",
+    "barcode": "0280429000007",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201252/woolworths-jumbo-soft-hamburger-rolls-jumbo-hamburger",
+    "name": "Woolworths Jumbo Soft Hamburger Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/201252.jpg",
+    "source_id": "Woolworths - 201252",
+    "barcode": "0280081000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262643/woolworths-jumbo-soft-hotdog-rolls-extra-soft-jumbo-hotdog",
+    "name": "Woolworths Jumbo Soft Hotdog Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262643.jpg",
+    "source_id": "Woolworths - 262643",
+    "barcode": "0280528000007",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201257/woolworths-jumbo-soft-round-rolls-extra-soft-jumbo",
+    "name": "Woolworths Jumbo Soft Round Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/201257.jpg",
+    "source_id": "Woolworths - 201257",
+    "barcode": "0280085000007",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253303/woolworths-jumbo-wholemeal-rolls-soft-wholemeal-jumbo",
+    "name": "Woolworths Jumbo Wholemeal Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253303.jpg",
+    "source_id": "Woolworths - 253303",
+    "barcode": "0280428000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "335",
+        "price_per_unit": "56",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253637/woolworths-mini-crusty-entertainer-rolls-entertainer",
+    "name": "Woolworths Mini Crusty Entertainer Rolls 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253637.jpg",
+    "source_id": "Woolworths - 253637",
+    "barcode": "0280448000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/747081/woolworths-mini-extra-soft-hot-cross-buns",
+    "name": "Woolworths Mini Extra Soft Hot Cross Buns 9 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/747081.jpg",
+    "source_id": "Woolworths - 747081",
+    "barcode": "0284606000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/278715/woolworths-mini-raspberry-scrolls",
+    "name": "Woolworths Mini Raspberry Scrolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/278715.jpg",
+    "source_id": "Woolworths - 278715",
+    "barcode": "0283226000003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720677/woolworths-mini-soft-hamburger-rolls-soft-hamburger",
+    "name": "Woolworths Mini Soft Hamburger Rolls 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720677.jpg",
+    "source_id": "Woolworths - 720677",
+    "barcode": "0286967000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720679/woolworths-mini-soft-hotdog-rolls-soft-hot-dog",
+    "name": "Woolworths Mini Soft Hotdog Rolls 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720679.jpg",
+    "source_id": "Woolworths - 720679",
+    "barcode": "0286969000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720678/woolworths-mini-soft-round-rolls-soft-lunch",
+    "name": "Woolworths Mini Soft Round Rolls 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720678.jpg",
+    "source_id": "Woolworths - 720678",
+    "barcode": "0286968000003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "32",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9223/woolworths-multigrain-loaf",
+    "name": "Woolworths Multigrain Loaf 680g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/009223.jpg",
+    "source_id": "Woolworths - 9223",
+    "barcode": "0280033000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233155/woolworths-multigrain-loaf-grain-loaf",
+    "name": "Woolworths Multigrain Loaf 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233155.jpg",
+    "source_id": "Woolworths - 233155",
+    "barcode": "0280180000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30718/woolworths-multigrain-rolls-grain-lunch",
+    "name": "Woolworths Multigrain Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/030718.jpg",
+    "source_id": "Woolworths - 30718",
+    "barcode": "0283311000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/686287/woolworths-soft-damper-rolls-rolls",
+    "name": "Woolworths Soft Damper Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/686287.jpg",
+    "source_id": "Woolworths - 686287",
+    "barcode": "0285758000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33878/woolworths-soft-hamburger-rolls-soft-hamburger",
+    "name": "Woolworths Soft Hamburger Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033878.jpg",
+    "source_id": "Woolworths - 33878",
+    "barcode": "0280080000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33909/woolworths-soft-hotdog-rolls-hotdog-extra-soft",
+    "name": "Woolworths Soft Hotdog Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033909.jpg",
+    "source_id": "Woolworths - 33909",
+    "barcode": "0280083000009",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/130502/woolworths-soft-round-rolls-extra-soft-lunch",
+    "name": "Woolworths Soft Round Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/130502.jpg",
+    "source_id": "Woolworths - 130502",
+    "barcode": "0281775000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55656/woolworths-soft-white-loaf-white-extra-soft-loaf",
+    "name": "Woolworths Soft White Loaf 680g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055656.jpg",
+    "source_id": "Woolworths - 55656",
+    "barcode": "0283273000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233160/woolworths-soft-white-loaf-white-extra-soft-loaf",
+    "name": "Woolworths Soft White Loaf 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233160.jpg",
+    "source_id": "Woolworths - 233160",
+    "barcode": "0280181000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/747039/woolworths-traditional-hot-cross-buns-buns",
+    "name": "Woolworths Traditional Hot Cross Buns Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/747039.jpg",
+    "source_id": "Woolworths - 747039",
+    "barcode": "0287463000000",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35496/woolworths-wholemeal-loaf-wholemeal-loaf",
+    "name": "Woolworths Wholemeal Loaf 680g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/035496.jpg",
+    "source_id": "Woolworths - 35496",
+    "barcode": "0280097000002",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "44",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233162/woolworths-wholemeal-loaf-wholemeal-soft-loaf",
+    "name": "Woolworths Wholemeal Loaf 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233162.jpg",
+    "source_id": "Woolworths - 233162",
+    "barcode": "0280182000009",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27806/woolworths-wholemeal-rolls-soft-wholemeal-lunch",
+    "name": "Woolworths Wholemeal Rolls 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/027806.jpg",
+    "source_id": "Woolworths - 27806",
+    "barcode": "0281460000001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252799/woolworths-soft-family-damper-extra-soft",
+    "name": "Woolworths Soft Family Damper 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252799.jpg",
+    "source_id": "Woolworths - 252799",
+    "barcode": "0280446000004",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39920/woolworths-iced-fruit-finger-buns",
+    "name": "Woolworths Iced Fruit Finger Buns 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039920.jpg",
+    "source_id": "Woolworths - 39920",
+    "barcode": "0280206000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/897795/woolworths-iced-fruit-loaf-iced",
+    "name": "Woolworths Iced Fruit Loaf each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/897795.jpg",
+    "source_id": "Woolworths - 897795",
+    "barcode": "0280725000008",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296810/eliza-s-bread-loaf-barley-seeds",
+    "name": "Eliza's Bread Loaf Barley & Seeds 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296810.jpg",
+    "source_id": "Woolworths - 296810",
+    "barcode": "9323975105954",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296728/eliza-s-bread-loaf-mixed-grain",
+    "name": "Eliza's Bread Loaf Mixed Grain 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296728.jpg",
+    "source_id": "Woolworths - 296728",
+    "barcode": "9323975105961",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/402269/gardman-zen-elephant-statue",
+    "name": "Gardman Zen Elephant Statue Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/402269.jpg",
+    "source_id": "Woolworths - 402269",
+    "barcode": "9310522073583",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": []
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/7397/mirabella-solar-fairy-lights-fairy-lights",
+    "name": "Mirabella Solar Fairy Lights 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/007397.jpg",
+    "source_id": "Woolworths - 7397",
+    "barcode": "9348641008513",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152031/mirabella-solar-led-black-spot-light",
+    "name": "Mirabella Solar Led Black Spot Light Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/152031.jpg",
+    "source_id": "Woolworths - 152031",
+    "barcode": "9348641015580",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/246662/easyliner-supergrip-mat-door-easyliner-50x200cm",
+    "name": "Easyliner Supergrip Mat Door Easyliner 50x200cm Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/246662.jpg",
+    "source_id": "Woolworths - 246662",
+    "barcode": "9312790500242",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158858/mirabella-solar-led-stainless-steel-garden-path-light",
+    "name": "Mirabella Solar Led Stainless Steel Garden Path Light Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/158858.jpg",
+    "source_id": "Woolworths - 158858",
+    "barcode": "9348641018970",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/429267/bell-farms-frozen-mash-potato",
+    "name": "Bell Farms Frozen Mash Potato 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/429267.jpg",
+    "source_id": "Woolworths - 429267",
+    "barcode": "9300633565084",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180582/birds-eye-mashed-potato",
+    "name": "Birds Eye Mashed Potato 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180582.jpg",
+    "source_id": "Woolworths - 180582",
+    "barcode": "9310081128779",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180109/birds-eye-potato-gems-bite-size-hash-brown",
+    "name": "Birds Eye Potato Gems Bite Size Hash Brown 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180109.jpg",
+    "source_id": "Woolworths - 180109",
+    "barcode": "9310081128793",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "685",
+        "price_per_unit": "761",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98299/mccain-hash-browns-shredded",
+    "name": "McCain Hash Browns Shredded 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/098299.jpg",
+    "source_id": "Woolworths - 98299",
+    "barcode": "9310174025084",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802639/birds-eye-deli-roast-vegetables",
+    "name": "Birds Eye Deli Roast Vegetables 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802639.jpg",
+    "source_id": "Woolworths - 802639",
+    "barcode": "9310081111863",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839429/birds-eye-deli-seasoned-roast-potatoes-rosemary-garlic",
+    "name": "Birds Eye Deli Seasoned Roast Potatoes Rosemary & Garlic 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/839429.jpg",
+    "source_id": "Woolworths - 839429",
+    "barcode": "9310081105961",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228797/birds-eye-golden-crunch-hash-browns",
+    "name": "Birds Eye Golden Crunch Hash Browns 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/228797.jpg",
+    "source_id": "Woolworths - 228797",
+    "barcode": "9300462406220",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "575",
+        "price_per_unit": "719",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903431/birds-eye-golden-crunch-sidewinders-twisty-potato-chips",
+    "name": "Birds Eye Golden Crunch Sidewinders Twisty Potato Chips 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/903431.jpg",
+    "source_id": "Woolworths - 903431",
+    "barcode": "9310081134657",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906273/lamb-weston-mini-potato-cakes-scallops-original",
+    "name": "Lamb Weston Mini Potato Cakes Scallops Original 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906273.jpg",
+    "source_id": "Woolworths - 906273",
+    "barcode": "9354066001404",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296227/potato-utopia-crispy-hash-browns",
+    "name": "Potato Utopia Crispy Hash Browns 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296227.jpg",
+    "source_id": "Woolworths - 296227",
+    "barcode": "9357668000158",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203424/potato-utopia-four-cheese-potato-gratin",
+    "name": "Potato Utopia Four Cheese Potato Gratin 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/203424.jpg",
+    "source_id": "Woolworths - 203424",
+    "barcode": "9357668000028",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "1725",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162738/the-real-yorkshire-pudding-co-yorkshire-puddings",
+    "name": "The Real Yorkshire Pudding Co. Yorkshire Puddings 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/162738.jpg",
+    "source_id": "Woolworths - 162738",
+    "barcode": "5021746001316",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "540",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "540",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/695650/woolworths-potato-minis",
+    "name": "Woolworths Potato Minis 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/695650.jpg",
+    "source_id": "Woolworths - 695650",
+    "barcode": "9300633327064",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903788/birds-eye-golden-crunch-lattice-potato-chips-criss-cross-french-fries",
+    "name": "Birds Eye Golden Crunch Lattice Potato Chips Criss Cross French Fries 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/903788.jpg",
+    "source_id": "Woolworths - 903788",
+    "barcode": "9310081134664",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4961/birds-eye-pommes-noisettes-mashed-potato-puffs",
+    "name": "Birds Eye Pommes Noisettes Mashed Potato Puffs 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/004961.jpg",
+    "source_id": "Woolworths - 4961",
+    "barcode": "9310081017202",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "530",
+        "price_per_unit": "1514",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "530",
+        "price_per_unit": "1514",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "530",
+        "price_per_unit": "1514",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "530",
+        "price_per_unit": "1514",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "530",
+        "price_per_unit": "1514",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906143/lamb-weston-jumbo-potato-cakes-scallops-original",
+    "name": "Lamb Weston Jumbo Potato Cakes Scallops Original 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906143.jpg",
+    "source_id": "Woolworths - 906143",
+    "barcode": "9354066001466",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1210",
+        "price_per_unit": "1613",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906295/lamb-weston-mini-potato-cakes-scallops-salt-vinegar",
+    "name": "Lamb Weston Mini Potato Cakes Scallops Salt & Vinegar 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906295.jpg",
+    "source_id": "Woolworths - 906295",
+    "barcode": "9354066001428",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219430/strong-roots-sweet-potato-hash-brown",
+    "name": "Strong Roots Sweet Potato Hash Brown 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/219430.jpg",
+    "source_id": "Woolworths - 219430",
+    "barcode": "5391528181339",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85796/bird-munchies-budgie-treat-budgie-canary-treat",
+    "name": "Bird Munchies Budgie Treat Budgie & Canary Treat 110g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/085796.jpg",
+    "source_id": "Woolworths - 85796",
+    "barcode": "9313175023103",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "209",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85684/bird-munchies-parrot-treat-parrot-peachface-blend",
+    "name": "Bird Munchies Parrot Treat Parrot & Peachface Blend 90g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/085684.jpg",
+    "source_id": "Woolworths - 85684",
+    "barcode": "9313175023097",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755536/frankie-friends-budgie-canary-bird-food-twin-pack-bar",
+    "name": "Frankie & Friends Budgie & Canary Bird Food Twin Pack Bar 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755536.jpg",
+    "source_id": "Woolworths - 755536",
+    "barcode": "9300633417291",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755539/frankie-friends-wild-bird-honey-fruit-treat",
+    "name": "Frankie & Friends Wild Bird Honey & Fruit Treat 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755539.jpg",
+    "source_id": "Woolworths - 755539",
+    "barcode": "9300633417321",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133992/lovitt-s-whistler-lorikeet-bars-tropical-fruit",
+    "name": "Lovitt's Whistler Lorikeet Bars Tropical Fruit 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133992.jpg",
+    "source_id": "Woolworths - 133992",
+    "barcode": "9323007000653",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173906/trill-bird-honey-stick-variety-budgerigar",
+    "name": "Trill Bird Honey Stick Variety Budgerigar 105g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/173906.jpg",
+    "source_id": "Woolworths - 173906",
+    "barcode": "9310022249686",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204507/trill-bird-honey-stick-variety-cockatiels",
+    "name": "Trill Bird Honey Stick Variety Cockatiels 105g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204507.jpg",
+    "source_id": "Woolworths - 204507",
+    "barcode": "9310022232138",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "405",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755535/frankie-friends-gourmet-parrot-treat",
+    "name": "Frankie & Friends Gourmet Parrot Treat 90g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755535.jpg",
+    "source_id": "Woolworths - 755535",
+    "barcode": "9300633417284",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755531/frankie-friends-wild-bird-block",
+    "name": "Frankie & Friends Wild Bird Block 1.4kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755531.jpg",
+    "source_id": "Woolworths - 755531",
+    "barcode": "9300633417246",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755534/frankie-friends-wild-bird-sunflower-seed-bell-treat",
+    "name": "Frankie & Friends Wild Bird Sunflower Seed Bell Treat 585g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755534.jpg",
+    "source_id": "Woolworths - 755534",
+    "barcode": "9300633417277",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755537/frankie-friends-parrot-peachface-bar-twin-pack",
+    "name": "Frankie & Friends Parrot & Peachface Bar Twin Pack 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755537.jpg",
+    "source_id": "Woolworths - 755537",
+    "barcode": "9300633417307",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "340",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "340",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755538/frankie-friends-small-bird-honey-fruit-treat",
+    "name": "Frankie & Friends Small Bird Honey & Fruit Treat 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755538.jpg",
+    "source_id": "Woolworths - 755538",
+    "barcode": "9300633417314",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/678280/frankie-friends-wild-bird-ring",
+    "name": "Frankie & Friends Wild Bird Ring 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/678280.jpg",
+    "source_id": "Woolworths - 678280",
+    "barcode": "9339687033430",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/889302/harmony-no-more-waste-seed-blocks",
+    "name": "Harmony No More Waste Seed Blocks 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/889302.jpg",
+    "source_id": "Woolworths - 889302",
+    "barcode": "9334214030173",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204515/trill-bird-millet-sprays",
+    "name": "Trill Bird Millet Sprays 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204515.jpg",
+    "source_id": "Woolworths - 204515",
+    "barcode": "9310022263316",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/936567/trill-mix-in-veggies-bird-treat",
+    "name": "Trill Mix In Veggies Bird Treat 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/936567.jpg",
+    "source_id": "Woolworths - 936567",
+    "barcode": "9334214036564",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/889301/trill-mix-in-fruit-nut-blend",
+    "name": "Trill Mix-In Fruit & Nut Blend 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/889301.jpg",
+    "source_id": "Woolworths - 889301",
+    "barcode": "9334214030210",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/672509/trill-toppers-bird-treat",
+    "name": "Trill Toppers Bird Treat 112g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/672509.jpg",
+    "source_id": "Woolworths - 672509",
+    "barcode": "9334214043081",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "446",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "446",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "446",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

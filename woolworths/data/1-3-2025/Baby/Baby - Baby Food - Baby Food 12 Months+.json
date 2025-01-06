@@ -1,0 +1,830 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/379237/baby-mum-mum-snack-banana-rice-rusk",
+    "name": "Baby Mum-Mum Snack Banana Rice Rusk 18 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/379237.jpg",
+    "source_id": "Woolworths - 379237",
+    "barcode": "4710144809907",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "385",
+        "price_per_unit": "1069",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "405",
+        "price_per_unit": "1125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227154/heinz-little-kids-1-3-years-fruit-salad-muesli-fingers",
+    "name": "Heinz Little Kids 1 - 3 Years Fruit Salad Muesli Fingers 90g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227154.jpg",
+    "source_id": "Woolworths - 227154",
+    "barcode": "9300657231767",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "467",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/756670/little-quacker-1-3-years-rice-biscuit-strawberry",
+    "name": "Little Quacker 1-3 Years Rice Biscuit Strawberry 40g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/756670.jpg",
+    "source_id": "Woolworths - 756670",
+    "barcode": "9329521006072",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/278392/only-organic-blueberry-banana-vanilla-oat-milk",
+    "name": "Only Organic Blueberry Banana & Vanilla Oat Milk 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/278392.jpg",
+    "source_id": "Woolworths - 278392",
+    "barcode": "9403145305688",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/681967/only-organic-chicken-bolognese",
+    "name": "Only Organic Chicken Bolognese 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/681967.jpg",
+    "source_id": "Woolworths - 681967",
+    "barcode": "9403145304667",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "159",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660268/only-organic-pasta-bolognese",
+    "name": "Only Organic Pasta Bolognese 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/660268.jpg",
+    "source_id": "Woolworths - 660268",
+    "barcode": "9403145304681",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "159",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335208/rafferty-s-garden-baby-food-apple-snack-bars-real-fruit-8-pack-12-months",
+    "name": "Rafferty's Garden Baby Food Apple Snack Bars Real Fruit 8 Pack 12+ Months 128g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/335208.jpg",
+    "source_id": "Woolworths - 335208",
+    "barcode": "9421901088408",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "453",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335206/rafferty-s-garden-baby-food-banana-fruit-snack-bars-12-months",
+    "name": "Rafferty's Garden Baby Food Banana Fruit Snack Bars 12+ Months 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/335206.jpg",
+    "source_id": "Woolworths - 335206",
+    "barcode": "9421901088415",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "453",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789941/rafferty-s-garden-baby-food-blueberry-banana-apple-snack-bars-12-months",
+    "name": "Rafferty's Garden Baby Food Blueberry, Banana & Apple Snack Bars 12+ Months 128g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789941.jpg",
+    "source_id": "Woolworths - 789941",
+    "barcode": "9421901088422",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "453",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720545/rafferty-s-garden-baby-food-strawberry-yoghurt-buttons-12-months",
+    "name": "Rafferty's Garden Baby Food Strawberry Yoghurt Buttons 12+ Months 28g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720545.jpg",
+    "source_id": "Woolworths - 720545",
+    "barcode": "9421901088491",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "2143",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "2143",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "2143",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "2143",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "2143",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "2143",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "2250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/498472/rafferty-s-garden-baby-snacks-apple-raspberry-bars-with-fruit-12-months",
+    "name": "Rafferty's Garden Baby Snacks Apple & Raspberry Bars With Fruit 12+ Months 128g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/498472.jpg",
+    "source_id": "Woolworths - 498472",
+    "barcode": "9340156000570",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "453",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407228/heinz-little-kids-chocolate-custard-toddler-food-pouch-1-3-years",
+    "name": "Heinz Little Kids Chocolate Custard Toddler Food Pouch 1-3 Years 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/407228.jpg",
+    "source_id": "Woolworths - 407228",
+    "barcode": "9300657131456",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407231/heinz-little-kids-vanilla-custard-toddler-food-pouch-1-3-years",
+    "name": "Heinz Little Kids Vanilla Custard Toddler Food Pouch 1-3 Years 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/407231.jpg",
+    "source_id": "Woolworths - 407231",
+    "barcode": "9300657131470",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333233/only-organic-yohurt-rice-cakes-with-wholegrains",
+    "name": "Only Organic Yohurt Rice Cakes With Wholegrains 60g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/333233.jpg",
+    "source_id": "Woolworths - 333233",
+    "barcode": "9403145302724",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710451/only-organic-food-rice-cakes-snack-strawberry-yoghurt",
+    "name": "Only Organic Food Rice Cakes Snack Strawberry Yoghurt 60g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/710451.jpg",
+    "source_id": "Woolworths - 710451",
+    "barcode": "9403145303370",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

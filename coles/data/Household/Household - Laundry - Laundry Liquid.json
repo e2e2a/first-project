@@ -1,0 +1,5954 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-laundry-liquid-lemon-2l-4484725",
+    "name": "Coles Simply Laundry Liquid Lemon | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4484725.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601245697",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-sensitive-front-and-top-2l-2731030",
+    "name": "OMO Laundry Liquid Sensitive Front & Top | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2731030.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830037179",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "2940",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-liquid-detergent-sensitive-40-washes-2l-5091637",
+    "name": "OMO Ultimate Laundry Liquid Detergent Sensitive 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5091637.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070428",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1680",
+        "price_per_unit": "3360",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-fragrance-laundry-liquid-detergent-sunset-dream-40-washes-2l-5486409",
+    "name": "OMO Fragrance Laundry Liquid Detergent Sunset Dream 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5486409.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830076574",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "2940",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-liquid-detergent-40-washes-2l-5004891",
+    "name": "OMO Ultimate Laundry Liquid Detergent 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5004891.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070411",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1680",
+        "price_per_unit": "3360",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-touch-of-comfort-3-in-1-laundry-capsules-28-washes-28-pack-6269086",
+    "name": "OMO Touch of Comfort 3 in 1 Laundry Capsules 28 Washes | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6269086.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830078530",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "2940",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-3-in-1-laundry-capsules-28-washes-28-pack-5006751",
+    "name": "OMO Ultimate 3 in 1 Laundry Capsules 28 Washes | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5006751.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "6902088941845",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "3360",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-touch-of-comfort-laundry-liquid-detergent-40-washes-2l-2900534",
+    "name": "OMO Touch of Comfort Laundry Liquid Detergent 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2900534.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830041596",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "2940",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-fragrance-laundry-liquid-detergent-floral-indulgence-40-washes-2l-5486577",
+    "name": "OMO Fragrance Laundry Liquid Detergent Floral Indulgence 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5486577.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830076598",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "2940",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/biozet-attack-regular-liquid-2l-2688214",
+    "name": "Biozet Attack Regular Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2688214.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4710363777698",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1260",
+        "price_per_unit": "2520",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tide-laundry-3-in-1-pods-clean-breeze-16-pack-8051151",
+    "name": "Tide Laundry 3 In 1 Pods Clean Breeze | 16 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8051151.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "16pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-advanced-clean-2l-3774581",
+    "name": "Cold Power Laundry Liquid Advanced Clean | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3774581.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376003848",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1260",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earth-choice-laundry-liquid-1l-5417381",
+    "name": "Earth Choice Laundry Liquid | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5417381.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310692122210",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-liquid-all-in-one-mixed-colours-2l-4144250",
+    "name": "Radiant Laundry Liquid All-In-One Mixed Colours | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4144250.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615092980",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-sensitive-2l-3774606",
+    "name": "Cold Power Laundry Liquid Sensitive | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3774606.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376003923",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1260",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/purity-concentrate-laundry-liquid-2l-3787969",
+    "name": "Purity Concentrate Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3787969.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310692702320",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "368",
+        "price_per_unit": "735",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-active-clean-front-and-top-2l-2731007",
+    "name": "OMO Laundry Liquid Active Clean Front & Top | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2731007.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830037070",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "2940",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-odour-removal-laundry-liquid-washing-detergent-1.8l-4317508",
+    "name": "Radiant Odour Removal Laundry Liquid Washing Detergent | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4317508.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615092546",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "583",
+        "price_per_unit": "1050",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-laundry-liquid-tropical-paradise-top-and-front-2l-2910232",
+    "name": "Coles Laundry Liquid Tropical Paradise Top & Front | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2910232.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645204444",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-frangipani-front-and-top-loader-laundry-liquid-2l-2899785",
+    "name": "FAB Frangipani Front & Top Loader Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2899785.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376001936",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-liquid-brightens-whites-or-colours-2l-4144352",
+    "name": "Radiant Laundry Liquid Brightens Whites Or Colours | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4144352.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615092997",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-odour-eliminating-laundry-liquid-2l-7035626",
+    "name": "Dynamo Professional Odour Eliminating Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035626.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006719",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1523",
+        "price_per_unit": "3045",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-laundry-7-in-1-liquid-2l-7035604",
+    "name": "Dynamo Professional Laundry 7 In 1 Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035604.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006702",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1523",
+        "price_per_unit": "3045",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earth-choice-ultra-concentrate-front-and-top-loader-laundry-liquid-1l-1726668",
+    "name": "Earth Choice Ultra Concentrate Front & Top Loader Laundry Liqu ... 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1726668.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310692122012",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "809",
+        "price_per_unit": "809",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-extreme-clean-2l-7035375",
+    "name": "Cold Power Laundry Liquid Extreme Clean | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035375.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006634",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1260",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-perfume-indulgence-laundry-liquid-gold-absolute-1.8l-3774694",
+    "name": "FAB Perfume Indulgence Laundry Liquid Gold Absolute | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3774694.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004081",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-liquid-detergent-tropical-40-washes-2l-3524358",
+    "name": "Surf Laundry Liquid Detergent Tropical 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3524358.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830023271",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-liquid-detergent-80-washes-4l-5101311",
+    "name": "OMO Ultimate Laundry Liquid Detergent 80 Washes | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5101311.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070473",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "5000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1313",
+        "price_per_unit": "5250",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-indulgent-escape-laundry-liquid-2l-3888117",
+    "name": "Coles Indulgent Escape Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3888117.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645319032",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-capsules-active-clean-28-pack-5109335",
+    "name": "Radiant Laundry Capsules Active Clean | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5109335.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615004013",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "39",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "41",
+        "price_per_unit": "1155",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earth-choice-concentrate-laundry-liquid-4l-1751111",
+    "name": "Earth Choice Concentrate Laundry Liquid | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1751111.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310692161448",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "463",
+        "price_per_unit": "1850",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-liquid-plus-softener-1.8l-5109448",
+    "name": "Radiant Laundry Liquid Plus Softener | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5109448.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615004570",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "556",
+        "price_per_unit": "1000",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "583",
+        "price_per_unit": "1050",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-liquid-detergent-coastal-luxury-40-washes-2l-3199010",
+    "name": "Surf Laundry Liquid Detergent Coastal Luxury 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3199010.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830045389",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-odour-fighter-2l-7035218",
+    "name": "Cold Power Laundry Liquid Odour Fighter | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035218.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006597",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1260",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-lemon-fresh-2l-3774592",
+    "name": "Cold Power Laundry Liquid Lemon Fresh | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3774592.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376003886",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1260",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bosisto's-sensitive-laundry-liquid-1.2l-3455459",
+    "name": "Bosisto's Sensitive Laundry Liquid | 1.2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3455459.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300710035127",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "780",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "679",
+        "price_per_unit": "815",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-triple-laundry-capsules-advanced-clean-18-pack-3989726",
+    "name": "Cold Power Triple Laundry Capsules Advanced Clean | 18 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989726.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004968",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "18pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "94",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "99",
+        "price_per_unit": "1785",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-capsules-tropical-50-washes-50-pack-4395556",
+    "name": "Surf Laundry Capsules Tropical 50 Washes | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4395556.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830066575",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "36",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-oxi-plus-laundry-liquid-2l-7035648",
+    "name": "Dynamo Professional Oxi Plus Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035648.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006726",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1523",
+        "price_per_unit": "3045",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-liquid-detergent-tropical-80-washes-4l-2899719",
+    "name": "Surf Laundry Liquid Detergent Tropical 80 Washes | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2899719.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830023356",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-sensitive-front-and-top-4l-2731186",
+    "name": "OMO Laundry Liquid Sensitive Front & Top | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2731186.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830037193",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1181",
+        "price_per_unit": "4725",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-fragrance-laundry-liquid-detergent-tropical-moment-40-washes-2l-5486522",
+    "name": "OMO Fragrance Laundry Liquid Detergent Tropical Moment 40 Washes | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5486522.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830076581",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "2940",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-active-clean-front-and-top-4l-2731142",
+    "name": "OMO Laundry Liquid Active Clean Front & Top | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2731142.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830037124",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1125",
+        "price_per_unit": "4500",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1181",
+        "price_per_unit": "4725",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-with-a-touch-of-fabric-softene-2l-7035353",
+    "name": "Cold Power Laundry Liquid With A Touch Of Fabric Softene | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035353.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006641",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1260",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-advanced-clean-laundry-liquid-4l-3774639",
+    "name": "Cold Power Advanced Clean Laundry Liquid | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3774639.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376003855",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "1890",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-capsules-tropical-30-washes-30-pack-3920016",
+    "name": "Surf Laundry Capsules Tropical 30 Washes | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3920016.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830061150",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-liquid-whites-and-colours-4l-5109460",
+    "name": "Radiant Laundry Liquid Whites & Colours | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5109460.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615409801",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "788",
+        "price_per_unit": "3150",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-triple-caps-reg-45-pack-3989737",
+    "name": "Cold Power Triple Caps Reg | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989737.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004982",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "41",
+        "price_per_unit": "1850",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "41",
+        "price_per_unit": "1850",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "41",
+        "price_per_unit": "1850",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "41",
+        "price_per_unit": "1850",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "41",
+        "price_per_unit": "1850",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "41",
+        "price_per_unit": "1850",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-oxi-laundry-capsules-28-pack-5093144",
+    "name": "Dynamo Professional Oxi Laundry Capsules | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5093144.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376005767",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "3360",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-eucalyptus-7-in-1-laundry-liquid-2l-7035579",
+    "name": "Dynamo Professional Eucalyptus 7 In 1 Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035579.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006733",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1523",
+        "price_per_unit": "3045",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultra-laundry-liquid-sensitive-2l-3888048",
+    "name": "Coles Ultra Laundry Liquid Sensitive | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3888048.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645319018",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-blacks-and-darks-laundry-liquid-black-wash-detergent-1l-3196667",
+    "name": "Radiant Blacks & Darks Laundry Liquid Black Wash Detergent | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3196667.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615412900",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1155",
+        "price_per_unit": "1155",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-active-clean-3-in-1-laundry-capsules-50-washes-50-pack-5005792",
+    "name": "OMO Active Clean 3 in 1 Laundry Capsules 50 Washes | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5005792.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070053",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-capsules-advanced-clean-regular-26-pack-8020690",
+    "name": "Cold Power Laundry Capsules Advanced Clean Regular | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8020690.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "48",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-intense-fresh-laundry-liquid-1.8l-4357557",
+    "name": "Fab Intense Fresh Laundry Liquid | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4357557.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004753",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "900",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tide-laundry-3-in-1-pods-clean-breeze-31-pack-8051162",
+    "name": "Tide Laundry 3 In 1 Pods Clean Breeze | 31 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8051162.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "31pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "64",
+        "price_per_unit": "1995",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-eliminator-2l-3465157",
+    "name": "Biozet Attack Liquid Plus Eliminator | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3465157.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4710363556996",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1365",
+        "price_per_unit": "2730",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tide-laundry-3-in-1-pods-original-31-pack-8050931",
+    "name": "Tide Laundry 3 In 1 Pods Original | 31 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050931.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "31pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "61",
+        "price_per_unit": "1900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "64",
+        "price_per_unit": "1995",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-sensitive-2l-6272375",
+    "name": "Biozet Attack Liquid Plus Sensitive | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6272375.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4710363061544",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1365",
+        "price_per_unit": "2730",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-active-clean-3-in-1-laundry-capsules-28-washes-28-pack-5005464",
+    "name": "OMO Active Clean 3 in 1 Laundry Capsules 28 Washes | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5005464.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070022",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "2940",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tide-laundry-3-in-1-pods-original-16-pack-8050909",
+    "name": "Tide Laundry 3 In 1 Pods Original | 16 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050909.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "16pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "138",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultra-laundry-liquid-concentrate-front-and-top-loader-2l-3919888",
+    "name": "Coles Ultra Laundry Liquid Concentrate Front & Top Loader | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3919888.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645319025",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-7-in-1-discs-28-pack-3989045",
+    "name": "Dynamo Professional 7 In 1 Discs | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989045.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004944",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-gold-absolute-laundry-liquid-3.6l-3921664",
+    "name": "Fab Gold Absolute Laundry Liquid | 3.6L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3921664.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376005002",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "3.6l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "458",
+        "price_per_unit": "1650",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "458",
+        "price_per_unit": "1650",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "458",
+        "price_per_unit": "1650",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "458",
+        "price_per_unit": "1650",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "458",
+        "price_per_unit": "1650",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "458",
+        "price_per_unit": "1650",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-7-in-1-laundry-liquid-4l-7035681",
+    "name": "Dynamo Professional 7 In 1 Laundry Liquid | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035681.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006672",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "2500",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "2500",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "2500",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "2500",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-capsules-sensitive-26-pack-8049499",
+    "name": "Cold Power Laundry Capsules Sensitive | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8049499.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "48",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earthwise-laundry-liquid-orange-and-eucalyptus-2l-8020045",
+    "name": "Earthwise Laundry Liquid Orange & Eucalyptus | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8020045.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-advanced-clean-laundry-liquid-1l-3774402",
+    "name": "Cold Power Advanced Clean Laundry Liquid | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3774402.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376003831",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-sensitive-3-in-1-laundry-capsules-50-washes-50-pack-5003684",
+    "name": "OMO Sensitive 3 in 1 Laundry Capsules 50 Washes | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5003684.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070060",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earthwise-laundry-liquid-sensitive-2l-8020293",
+    "name": "Earthwise Laundry Liquid Sensitive | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8020293.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-clean-and-fresh-machine-laundry-liquid-2l-7035670",
+    "name": "Dynamo Professional Clean & Fresh Machine Laundry Liquid | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035670.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006535",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1523",
+        "price_per_unit": "3045",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bosistos-power-+-laundry-liquid-1.2l-4353793",
+    "name": "Bosistos Power + Laundry Liquid | 1.2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4353793.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300710035134",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "840",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "840",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "840",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "840",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "840",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "733",
+        "price_per_unit": "880",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-capsules-sensitive-36pack-8882231",
+    "name": "Ion Laundry Capsules Sensitive | 36PACK",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8882231.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-frangipani-laundry-liquid-4l-3934509",
+    "name": "Fab Frangipani Laundry Liquid | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3934509.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376002575",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "413",
+        "price_per_unit": "1650",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "413",
+        "price_per_unit": "1650",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-odour-fighter-4l-7035386",
+    "name": "Cold Power Laundry Liquid Odour Fighter | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035386.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006603",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earthwise-3-in-1-laundry-capsules-sensitive-26-pack-8020475",
+    "name": "Earthwise 3 In 1 Laundry Capsules Sensitive | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8020475.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "81",
+        "price_per_unit": "2100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-advaned-clean-laundry-liquid-5.4l-7035422",
+    "name": "Cold Power Advaned Clean Laundry Liquid | 5.4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7035422.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006610",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "5.4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "476",
+        "price_per_unit": "2570",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "476",
+        "price_per_unit": "2570",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-odour-et-discs-28-pack-3989704",
+    "name": "Dynamo Professional Odour Et Discs | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989704.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004951",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-liquid-concentrate-colours-2l-3918488",
+    "name": "Ion Laundry Liquid Concentrate Colours | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3918488.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645320410",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "1155",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cold-power-laundry-capsules-odour-fighter-advanced-clean-26-pack-8049568",
+    "name": "Cold Power Laundry Capsules Odour Fighter Advanced Clean | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8049568.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "46",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-7-in-1-laundry-detergent-disc-45-pack-6260900",
+    "name": "Dynamo Professional 7 In 1 Laundry Detergent Disc | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6260900.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376006283",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "57",
+        "price_per_unit": "2580",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "57",
+        "price_per_unit": "2580",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "57",
+        "price_per_unit": "2580",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "57",
+        "price_per_unit": "2580",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "57",
+        "price_per_unit": "2580",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "60",
+        "price_per_unit": "2709",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-liquid-concentrate-2l-3918397",
+    "name": "Ion Laundry Liquid Concentrate | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3918397.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645320403",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "1155",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-liquid-concentrate-sensitive-2l-3918513",
+    "name": "Ion Laundry Liquid Concentrate Sensitive | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3918513.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645320397",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-capsules-aqua-fresh-30-washes-30-pack-3920038",
+    "name": "Surf Laundry Capsules Aqua Fresh 30 Washes | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3920038.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830061174",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "43",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earthwise-3-in-1-laundry-capsules-orange-and-eucalyptus-26-pack-8020453",
+    "name": "Earthwise 3 In 1 Laundry Capsules Orange & Eucalyptus | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8020453.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "77",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "81",
+        "price_per_unit": "2100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-touch-of-comfort-3-in-1-laundry-capsules-50-washes-50-pack-6269020",
+    "name": "OMO Touch of Comfort 3 in 1 Laundry Capsules 50 Washes | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6269020.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830081110",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "60",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-sensitive-1l-2730988",
+    "name": "OMO Laundry Liquid Sensitive | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2730988.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830037087",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-expert-laundry-liquid-odour-eliminator-2l-5091660",
+    "name": "OMO Expert Laundry Liquid Odour Eliminator | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5091660.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070459",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1680",
+        "price_per_unit": "3360",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-3-in-1-laundry-capsules-50-washes-50-pack-6269246",
+    "name": "OMO Ultimate 3 in 1 Laundry Capsules 50 Washes | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6269246.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "6902088956726",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultra-concentrate-laundry-liquid-capsules-24-pack-8882333",
+    "name": "Coles Ultra Concentrate Laundry Liquid Capsules | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8882333.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "40",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "40",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "40",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "40",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "40",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "42",
+        "price_per_unit": "998",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-active-clean-1l-2730966",
+    "name": "OMO Laundry Liquid Active Clean | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2730966.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830036615",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-capsules-colour-36pack-8882286",
+    "name": "Ion Laundry Capsules Colour | 36PACK",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8882286.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "47",
+        "price_per_unit": "1680",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-laundry-capsules-perfume-indulgence-spice-desire-26-pack-8050308",
+    "name": "Fab Laundry Capsules Perfume Indulgence Spice Desire | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050308.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-capsules-fragrance-36pack-8882300",
+    "name": "Ion Laundry Capsules Fragrance | 36PACK",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8882300.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "44",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "47",
+        "price_per_unit": "1680",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dynamo-professional-7-in-1-discs-14-pack-3989023",
+    "name": "Dynamo Professional 7 In 1 Discs | 14 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989023.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9350376004937",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "14pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "129",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "129",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "129",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "129",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-3-in-1-laundry-capsules-17-washes-17-pack-5006015",
+    "name": "OMO Ultimate 3 in 1 Laundry Capsules 17 Washes | 17 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5006015.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "6902088943504",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "17pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "135",
+        "price_per_unit": "2300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "135",
+        "price_per_unit": "2300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "135",
+        "price_per_unit": "2300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "2300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "135",
+        "price_per_unit": "2300",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "142",
+        "price_per_unit": "2415",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/biozet-attack-plus-stain-power-2l-5095627",
+    "name": "Biozet Attack Plus Stain Power | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5095627.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4710363014847",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1365",
+        "price_per_unit": "2730",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-sensitive-3-in-1-laundry-capsules-28-washes-28-pack-5005511",
+    "name": "OMO Sensitive 3 in 1 Laundry Capsules 28 Washes | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5005511.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070039",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "2940",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-softener-2l-3196430",
+    "name": "Biozet Attack Liquid Plus Softener | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3196430.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4710363527972",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1365",
+        "price_per_unit": "2730",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-laundry-capsules-tropical-18-washes-18-pack-6269042",
+    "name": "Surf Laundry Capsules Tropical 18 Washes | 18 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6269042.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830061167",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "18pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "56",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "56",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "56",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "56",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "56",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "56",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dr-beckmann-magic-leaves-universal-1-each-6276241",
+    "name": "Dr Beckmann Magic Leaves Universal | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6276241.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4008455585314",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-3-in-1-laundry-capsules-sensitive-17-each-5003990",
+    "name": "OMO 3 In 1 Laundry Capsules Sensitive | 17 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5003990.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830070008",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "17each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "130",
+        "price_per_unit": "2205",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-capsules-active-clean-45-pack-6267047",
+    "name": "Radiant Laundry Capsules Active Clean | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6267047.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300615013510",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "71",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "71",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "71",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "71",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "71",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "75",
+        "price_per_unit": "3360",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-3-in-1-laundry-capsules-sensitive-50-pack-8051640",
+    "name": "OMO Ultimate 3 In 1 Laundry Capsules Sensitive | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8051640.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "75",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fab-laundry-capsules-fresh-blossom-26-pack-8050137",
+    "name": "Fab Laundry Capsules Fresh Blossom | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050137.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "35",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dr-beckmann-magic-leaves-colour-1-each-6276274",
+    "name": "Dr Beckmann Magic Leaves Colour | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6276274.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4008455585413",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-3-in-1-laundry-capsules-active-17-each-5005216",
+    "name": "OMO 3 In 1 Laundry Capsules Active | 17 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5005216.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830069996",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "17each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "124",
+        "price_per_unit": "2100",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "130",
+        "price_per_unit": "2205",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-ultimate-3-in-1-laundry-capsules-sensitive-28-pack-3990146",
+    "name": "OMO Ultimate 3 In 1 Laundry Capsules Sensitive | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3990146.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300830061877",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "3360",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earthwise-laundry-liquid-orange-and-eucalyptus-4l-8020329",
+    "name": "Earthwise Laundry Liquid Orange & Eucalyptus | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8020329.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "3400",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "3400",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "3400",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "3400",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "893",
+        "price_per_unit": "3570",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-capsules-sensitive-36-pack-3871056",
+    "name": "Ion Laundry Capsules Sensitive | 36 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3871056.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645315256",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "18",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultra-concentrate-laundry-liquid-capsules-24-pack-3224092",
+    "name": "Coles Ultra Concentrate Laundry Liquid Capsules | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3224092.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645354484",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "32",
+        "price_per_unit": "760",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/one-4-in-1-laundry-liquid-fresh-scent-1l-8050385",
+    "name": "One 4 In 1 Laundry Liquid Fresh Scent | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050385.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ion-laundry-capsules-fragrance-36-pack-3871170",
+    "name": "Ion Laundry Capsules Fragrance | 36 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3871170.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645315270",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "27",
+        "price_per_unit": "960",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/radiant-laundry-3-in-1-capsules-stain-attack-26-pack-8050840",
+    "name": "Radiant Laundry 3 In 1 Capsules Stain Attack | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050840.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "85",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "85",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "85",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "85",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "85",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "89",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-essential-oils-2l-6272386",
+    "name": "Biozet Attack Liquid Plus Essential Oils | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6272386.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4710363061551",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/one-4-in-1-laundry-liquid-fresh-scent-2l-8050410",
+    "name": "One 4 In 1 Laundry Liquid Fresh Scent | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8050410.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1365",
+        "price_per_unit": "2730",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/omo-expert-laundry-capsules-3-in-1-odour-eliminator-28-pack-8051264",
+    "name": "OMO Expert Laundry Capsules 3 In 1 Odour Eliminator | 28 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8051264.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "28pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "114",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "3360",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

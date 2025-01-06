@@ -1,0 +1,164 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693777/woolworths-potato-wedges",
+    "name": "Woolworths Potato Wedges 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/693777.jpg",
+    "source_id": "Woolworths - 693777",
+    "barcode": "9300633285562",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249344/mccain-beer-batter-wedges",
+    "name": "McCain Beer Batter Wedges 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249344.jpg",
+    "source_id": "Woolworths - 249344",
+    "barcode": "9310174022861",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "610",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53205/mccain-pub-style-potato-wedges",
+    "name": "McCain Pub Style Potato Wedges 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/053205.jpg",
+    "source_id": "Woolworths - 53205",
+    "barcode": "9310174009152",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "840",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-broccoli-approx.-340g-each-407755",
+    "name": "Coles Broccoli | approx 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F407755.jpg&w=640&q=90",
+    "source_id": "Coles - 407755",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "340geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "221",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "255",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "235",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "187",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "221",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "221",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "255",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "221",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cauliflower-medium-1-each-4601603",
+    "name": "Coles Cauliflower Medium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4601603.jpg&w=640&q=90",
+    "source_id": "Coles - 4601603",
+    "barcode": "9300601214914",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-broccoli-1-each-5982477",
+    "name": "Coles Baby Broccoli | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5982477.jpg&w=640&q=90",
+    "source_id": "Coles - 5982477",
+    "barcode": "9369999048846",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-family-broccolini-1-each-4841775",
+    "name": "Coles Family Broccolini | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4841775.jpg&w=640&q=90",
+    "source_id": "Coles - 4841775",
+    "barcode": "9310645183497",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cauliflower-half-1-each-4601320",
+    "name": "Coles Cauliflower Half | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4601320.jpg&w=640&q=90",
+    "source_id": "Coles - 4601320",
+    "barcode": "9300601222803",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-half-cauliflower-precut-1-each-3395313",
+    "name": "Coles Half Cauliflower Precut | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3395313.jpg&w=640&q=90",
+    "source_id": "Coles - 3395313",
+    "barcode": "9310645283401",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

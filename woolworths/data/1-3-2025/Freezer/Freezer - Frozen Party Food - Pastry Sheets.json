@@ -1,0 +1,872 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81672/barossa-pastry-co-puff-pastry-sheets-2-pack",
+    "name": "Barossa Pastry Co. Puff Pastry Sheets 2 pack 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/081672.jpg",
+    "source_id": "Woolworths - 81672",
+    "barcode": "9339098005002",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/82061/barossa-pastry-co-shortcrust-pastry-sheets",
+    "name": "Barossa Pastry Co. Shortcrust Pastry Sheets 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/082061.jpg",
+    "source_id": "Woolworths - 82061",
+    "barcode": "9339098005019",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/759359/borg-s-pastry-puff-6-sheets",
+    "name": "Borg's Pastry Puff 6 Sheets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/759359.jpg",
+    "source_id": "Woolworths - 759359",
+    "barcode": "9311648000330",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173040/borg-s-traditional-puff-pastry",
+    "name": "Borg's Traditional Puff Pastry 1.9kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/173040.jpg",
+    "source_id": "Woolworths - 173040",
+    "barcode": "9311648000477",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96492/pampas-puff-pastry-6-sheets",
+    "name": "Pampas Puff Pastry 6 Sheets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096492.jpg",
+    "source_id": "Woolworths - 96492",
+    "barcode": "9310002011005",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186550/pampas-puff-pastry-reduced-fat",
+    "name": "Pampas Puff Pastry Reduced Fat 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186550.jpg",
+    "source_id": "Woolworths - 186550",
+    "barcode": "9310002088502",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18366/woolworths-puff-pastry-sheets",
+    "name": "Woolworths Puff Pastry Sheets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018366.jpg",
+    "source_id": "Woolworths - 18366",
+    "barcode": "9300633183660",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/76777/art-of-pastry-frozen-fillo-pastry-sheets",
+    "name": "Art Of Pastry Frozen Fillo Pastry Sheets 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/076777.jpg",
+    "source_id": "Woolworths - 76777",
+    "barcode": "5201063050116",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252659/borg-s-shortcrust-pastry-value",
+    "name": "Borg's Shortcrust Pastry Value 1.7kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252659.jpg",
+    "source_id": "Woolworths - 252659",
+    "barcode": "9311648000323",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/303851/careme-all-butter-puff-pastry-sheet",
+    "name": "Careme All Butter Puff Pastry Sheet 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/303851.jpg",
+    "source_id": "Woolworths - 303851",
+    "barcode": "9339098000007",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/570708/careme-sour-cream-shortcrust-pastry-sheet",
+    "name": "Careme Sour Cream Shortcrust Pastry Sheet 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/570708.jpg",
+    "source_id": "Woolworths - 570708",
+    "barcode": "9339098001011",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814009/careme-spelt-butter-puff-pastry",
+    "name": "Careme Spelt Butter Puff Pastry 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814009.jpg",
+    "source_id": "Woolworths - 814009",
+    "barcode": "9339098001066",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301061/pampas-butter-puff-pastry",
+    "name": "Pampas Butter Puff Pastry 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/301061.jpg",
+    "source_id": "Woolworths - 301061",
+    "barcode": "9310047211323",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83512/pampas-puff-pastry-10-sheets",
+    "name": "Pampas Puff Pastry 10 Sheets 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083512.jpg",
+    "source_id": "Woolworths - 83512",
+    "barcode": "9310002011159",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32897/pampas-shortcrust-pastry-5-sheets",
+    "name": "Pampas Shortcrust Pastry 5 Sheets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032897.jpg",
+    "source_id": "Woolworths - 32897",
+    "barcode": "9310002011265",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "620",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40920/trang-s-pastry-spring-roll-sheets",
+    "name": "Trang's Pastry Spring Roll Sheets 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/040920.jpg",
+    "source_id": "Woolworths - 40920",
+    "barcode": "9311361000143",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/763596/woolworths-pastry-shortcrust",
+    "name": "Woolworths Pastry Shortcrust 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/763596.jpg",
+    "source_id": "Woolworths - 763596",
+    "barcode": "9300633437619",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

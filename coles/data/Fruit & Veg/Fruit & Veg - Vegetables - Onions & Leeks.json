@@ -1,0 +1,536 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spring-onions-1-bunch-408419",
+    "name": "Coles Spring Onions | 1 bunch",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F408419.jpg&w=640&q=90",
+    "source_id": "Coles - 408419",
+    "barcode": "9416744068724",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1bunch",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "bunch"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brown-onions-1kg-4803991",
+    "name": "Coles Brown Onions | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4803991.jpg&w=640&q=90",
+    "source_id": "Coles - 4803991",
+    "barcode": "9328079000136",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-onions-loose-approx.-200g-each-4218459",
+    "name": "Coles Red Onions Loose | approx 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4218459.jpg&w=640&q=90",
+    "source_id": "Coles - 4218459",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "118",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-brown-onions-loose-approx.-180g-each-4239517",
+    "name": "Fresh Brown Onions Loose | approx 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4239517.jpg&w=640&q=90",
+    "source_id": "Coles - 4239517",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "70",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "70",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "70",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "54",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "70",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "54",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "70",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "70",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-onion-1-kg-1kg-8467604",
+    "name": "Coles Red Onion 1 Kg | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8467604.jpg&w=640&q=90",
+    "source_id": "Coles - 8467604",
+    "barcode": "9300601164257",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-onions-prepacked-1.5kg-3609257",
+    "name": "Coles I'm Perfect Onions Prepacked | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3609257.jpg&w=640&q=90",
+    "source_id": "Coles - 3609257",
+    "barcode": "9310645277387",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "390",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "390",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-leeks-1-each-4595930",
+    "name": "Coles Leeks | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4595930.jpg&w=640&q=90",
+    "source_id": "Coles - 4595930",
+    "barcode": "9300601213627",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-onions-little-tractor-2kg-4293487",
+    "name": "Coles Onions Little Tractor | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4293487.jpg&w=640&q=90",
+    "source_id": "Coles - 4293487",
+    "barcode": "9313158000466",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "295",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "295",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "295",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "295",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "295",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brown-onion-shallots-loose-approx.-35g-each-5134809",
+    "name": "Coles Brown Onion Shallots Loose | approx 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5134809.jpg&w=640&q=90",
+    "source_id": "Coles - 5134809",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "35geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "46",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "46",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "46",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "46",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "46",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "46",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-onions-loose-approx.-160g-each-410443",
+    "name": "Coles White Onions Loose | approx 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F410443.jpg&w=640&q=90",
+    "source_id": "Coles - 410443",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "160geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-salad-onions-1-each-54972",
+    "name": "Coles Salad Onions | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F54972.jpg&w=640&q=90",
+    "source_id": "Coles - 54972",
+    "barcode": "9300601558919",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

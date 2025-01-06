@@ -1,0 +1,854 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388716/coyo-dairy-free-frozen-yoghurt-probiotic-strawberry",
+    "name": "COYO Dairy Free Frozen Yoghurt Probiotic Strawberry 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/388716.jpg",
+    "source_id": "Woolworths - 388716",
+    "barcode": "9351851002226",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321236/gelativo-mango-sorbet",
+    "name": "Gelativo Mango Sorbet 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/321236.jpg",
+    "source_id": "Woolworths - 321236",
+    "barcode": "9333957000054",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224380/weis-ice-cream-fruit-bar-macadamia-mango-cream",
+    "name": "Weis Ice Cream & Fruit Bar Macadamia Mango Cream 70mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224380.jpg",
+    "source_id": "Woolworths - 224380",
+    "barcode": "9310541000812",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217200/amazonia-acai-sorbet-original",
+    "name": "Amazonia Acai Sorbet Original 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/217200.jpg",
+    "source_id": "Woolworths - 217200",
+    "barcode": "9344060002583",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/389093/coyo-dairy-free-frozen-yoghurt-probiotic-mango",
+    "name": "COYO Dairy Free Frozen Yoghurt Probiotic Mango 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/389093.jpg",
+    "source_id": "Woolworths - 389093",
+    "barcode": "9351851002172",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/28301/coyo-frozen-yoghurt-dairy-free-wild-berry",
+    "name": "Coyo Frozen Yoghurt Dairy Free Wild Berry 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/028301.jpg",
+    "source_id": "Woolworths - 28301",
+    "barcode": "9351851002189",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/823887/gelativo-gelato-coffee",
+    "name": "Gelativo Gelato Coffee 1l Tub",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/823887.jpg",
+    "source_id": "Woolworths - 823887",
+    "barcode": "9333957000047",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227461/gelativo-sorbet-lemon-lime",
+    "name": "Gelativo Sorbet Lemon Lime 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227461.jpg",
+    "source_id": "Woolworths - 227461",
+    "barcode": "9333957000023",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227460/gelativo-sorbet-passionfruit",
+    "name": "Gelativo Sorbet Passionfruit 1l Tub",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227460.jpg",
+    "source_id": "Woolworths - 227460",
+    "barcode": "9333957000030",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387605/golden-north-lemon-sorbet",
+    "name": "Golden North Lemon Sorbet 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387605.jpg",
+    "source_id": "Woolworths - 387605",
+    "barcode": "9331587003322",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "945",
+        "price_per_unit": "95",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387500/golden-north-mango-sorbet",
+    "name": "Golden North Mango Sorbet 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387500.jpg",
+    "source_id": "Woolworths - 387500",
+    "barcode": "9331587003339",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "945",
+        "price_per_unit": "95",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387646/golden-north-passionfruit-sorbet",
+    "name": "Golden North Passionfruit Sorbet 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387646.jpg",
+    "source_id": "Woolworths - 387646",
+    "barcode": "9331587003346",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55263/twisted-minis-celebration",
+    "name": "Twisted Minis Celebration 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055263.jpg",
+    "source_id": "Woolworths - 55263",
+    "barcode": "9349107001246",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577912/twisted-minis-frozen-yoghurt-dessert-assorted",
+    "name": "Twisted Minis Frozen Yoghurt Dessert Assorted 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/577912.jpg",
+    "source_id": "Woolworths - 577912",
+    "barcode": "9349107000089",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180081/twisted-minis-frozen-yoghurt-dessert-assorted",
+    "name": "Twisted Minis Frozen Yoghurt Dessert Assorted 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180081.jpg",
+    "source_id": "Woolworths - 180081",
+    "barcode": "9349107000560",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178953/weis-fruit-ice-cream-bars-mango",
+    "name": "Weis Fruit & Ice Cream Bars Mango 70mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178953.jpg",
+    "source_id": "Woolworths - 178953",
+    "barcode": "9310541000515",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178950/weis-fruito-passionfruit-pineapple-banana-ice-cream-fruit-bar",
+    "name": "Weis Fruito Passionfruit Pineapple & Banana Ice Cream & Fruit Bar 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178950.jpg",
+    "source_id": "Woolworths - 178950",
+    "barcode": "9310541000522",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "339",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41378/weis-mango-sorbet-mango",
+    "name": "Weis Mango Sorbet 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041378.jpg",
+    "source_id": "Woolworths - 41378",
+    "barcode": "9310541000904",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/232382/mountain-dew-ice",
+    "name": "Mountain Dew Ice 5kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/232382.jpg",
+    "source_id": "Woolworths - 232382",
+    "barcode": "9329442005055",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "116",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

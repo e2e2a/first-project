@@ -1,0 +1,164 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33889/nesquik-chocolate",
+    "name": "Nesquik Chocolate 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033889.jpg",
+    "source_id": "Woolworths - 33889",
+    "barcode": "9300605120693",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33890/nesquik-strawberry-flavour",
+    "name": "Nesquik Strawberry Flavour 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033890.jpg",
+    "source_id": "Woolworths - 33890",
+    "barcode": "9300605005037",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700475/devondale-moo-chocolate-milk-long-life-uht-milk",
+    "name": "Devondale Moo Chocolate Milk Long Life UHT Milk 200mL x 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700475.jpg",
+    "source_id": "Woolworths - 700475",
+    "barcode": "9300639601656",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "745",
+        "price_per_unit": "621",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "745",
+        "price_per_unit": "621",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "660",
+        "price_per_unit": "550",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "745",
+        "price_per_unit": "621",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "550",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

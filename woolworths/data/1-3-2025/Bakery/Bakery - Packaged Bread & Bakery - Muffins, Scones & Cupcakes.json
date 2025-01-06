@@ -1,0 +1,1682 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/658478/bill-s-health-bakery-multifruit-sourdough-loaf",
+    "name": "Bill's Health Bakery Multifruit Sourdough Loaf 660g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/658478.jpg",
+    "source_id": "Woolworths - 658478",
+    "barcode": "9327189001132",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "920",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/957684/mighty-soft-fruit-loaf-cafe-style",
+    "name": "Mighty Soft Fruit Loaf Cafe Style 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/957684.jpg",
+    "source_id": "Woolworths - 957684",
+    "barcode": "9310023142986",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236288/mighty-soft-raisin-toast",
+    "name": "Mighty Soft Raisin Toast 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/236288.jpg",
+    "source_id": "Woolworths - 236288",
+    "barcode": "9310023135988",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258204/tip-top-caf-raisin-toast-fruit-bread-thick-bakery",
+    "name": "Tip Top Café Raisin Toast Fruit Bread Thick Bakery 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/258204.jpg",
+    "source_id": "Woolworths - 258204",
+    "barcode": "9339423008500",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210641/tip-top-english-muffins-fruit-bakery",
+    "name": "Tip Top English Muffins Fruit Bakery 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/210641.jpg",
+    "source_id": "Woolworths - 210641",
+    "barcode": "9339423003284",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46795/tip-top-english-muffins-original-bakery",
+    "name": "Tip Top English Muffins Original Bakery 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/046795.jpg",
+    "source_id": "Woolworths - 46795",
+    "barcode": "9339423003253",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3805/tip-top-raisin-toast-fruit-bread-loaf-bakery",
+    "name": "Tip Top Raisin Toast Fruit Bread Loaf Bakery 520g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/003805.jpg",
+    "source_id": "Woolworths - 3805",
+    "barcode": "9339423008524",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/297150/toscano-brioche-english-muffins-classic",
+    "name": "Toscano Brioche English Muffins Classic 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/297150.jpg",
+    "source_id": "Woolworths - 297150",
+    "barcode": "9300602379216",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319362/woolworths-apple-cinnamon-hot-cross-buns",
+    "name": "Woolworths Apple & Cinnamon Hot Cross Buns 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/319362.jpg",
+    "source_id": "Woolworths - 319362",
+    "barcode": "9339687347216",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251472/woolworths-assorted-iced-cupcakes",
+    "name": "Woolworths Assorted Iced Cupcakes 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/251472.jpg",
+    "source_id": "Woolworths - 251472",
+    "barcode": "9339687318674",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "238",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "238",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "238",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "238",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "238",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "238",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663447/woolworths-cadbury-chocolate-hot-cross-buns",
+    "name": "Woolworths Cadbury Chocolate Hot Cross Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663447.jpg",
+    "source_id": "Woolworths - 663447",
+    "barcode": "9339687011216",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883003/woolworths-choc-chip-muffin",
+    "name": "Woolworths Choc Chip Muffin 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883003.jpg",
+    "source_id": "Woolworths - 883003",
+    "barcode": "9300633522070",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263444/woolworths-chocolate-filled-cupcakes",
+    "name": "Woolworths Chocolate Filled Cupcakes 9 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263444.jpg",
+    "source_id": "Woolworths - 263444",
+    "barcode": "9339687321179",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320381/woolworths-cup-cake-mini-iced",
+    "name": "Woolworths Cup Cake Mini Iced 9 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/320381.jpg",
+    "source_id": "Woolworths - 320381",
+    "barcode": "9300633989668",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883005/woolworths-double-choc-chip-muffin",
+    "name": "Woolworths Double Choc Chip Muffin 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883005.jpg",
+    "source_id": "Woolworths - 883005",
+    "barcode": "9300633522094",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224737/woolworths-english-muffins",
+    "name": "Woolworths English Muffins 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224737.jpg",
+    "source_id": "Woolworths - 224737",
+    "barcode": "9300633906702",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/322052/woolworths-free-from-gluten-apple-cinnamon-hot-cross-buns",
+    "name": "Woolworths Free From Gluten Apple & Cinnamon Hot Cross Buns 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/322052.jpg",
+    "source_id": "Woolworths - 322052",
+    "barcode": "9339687347704",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/283413/woolworths-fruit-toast",
+    "name": "Woolworths Fruit Toast 560g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/283413.jpg",
+    "source_id": "Woolworths - 283413",
+    "barcode": "9339687340101",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663446/woolworths-fruitless-hot-cross-buns",
+    "name": "Woolworths Fruitless Hot Cross Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663446.jpg",
+    "source_id": "Woolworths - 663446",
+    "barcode": "9339687011209",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169921/woolworths-lemon-poppyseed-muffins",
+    "name": "Woolworths Lemon Poppyseed Muffins 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169921.jpg",
+    "source_id": "Woolworths - 169921",
+    "barcode": "9339687267835",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250641/woolworths-loaded-carrot-cake-muffin",
+    "name": "Woolworths Loaded Carrot Cake Muffin 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250641.jpg",
+    "source_id": "Woolworths - 250641",
+    "barcode": "9339687318544",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/607875/woolworths-mini-banana-muffin",
+    "name": "Woolworths Mini Banana Muffin 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/607875.jpg",
+    "source_id": "Woolworths - 607875",
+    "barcode": "9317005553853",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883002/woolworths-mini-blueberry-muffins",
+    "name": "Woolworths Mini Blueberry Muffins 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883002.jpg",
+    "source_id": "Woolworths - 883002",
+    "barcode": "9300633522063",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883004/woolworths-mini-choc-chip-muffin",
+    "name": "Woolworths Mini Choc Chip Muffin 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883004.jpg",
+    "source_id": "Woolworths - 883004",
+    "barcode": "9300633522087",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883116/woolworths-mini-double-choc-muffins",
+    "name": "Woolworths Mini Double Choc Muffins 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883116.jpg",
+    "source_id": "Woolworths - 883116",
+    "barcode": "9300633522100",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360222/woolworths-mini-iced-cupcakes-with-sprinkles",
+    "name": "Woolworths Mini Iced Cupcakes With Sprinkles 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/360222.jpg",
+    "source_id": "Woolworths - 360222",
+    "barcode": "9300633645311",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118177/woolworths-raspberry-white-choc-loaded-muffins",
+    "name": "Woolworths Raspberry & White Choc Loaded Muffins 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/118177.jpg",
+    "source_id": "Woolworths - 118177",
+    "barcode": "9339687211654",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663445/woolworths-traditional-hot-cross-buns",
+    "name": "Woolworths Traditional Hot Cross Buns 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663445.jpg",
+    "source_id": "Woolworths - 663445",
+    "barcode": "9339687011193",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705467/woolworths-vanilla-cupcakes-with-buttercream-frosting",
+    "name": "Woolworths Vanilla Cupcakes With Buttercream Frosting 9 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/705467.jpg",
+    "source_id": "Woolworths - 705467",
+    "barcode": "9339687060535",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "89",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "89",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "89",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "89",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "89",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/275386/macro-wholefoods-market-high-protein-linseed-sunflower-english-muffins",
+    "name": "Macro Wholefoods Market High Protein Linseed & Sunflower English Muffins 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/275386.jpg",
+    "source_id": "Woolworths - 275386",
+    "barcode": "9339687330348",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89121/tip-top-english-muffins-wholemeal-bakery",
+    "name": "Tip Top English Muffins Wholemeal Bakery 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089121.jpg",
+    "source_id": "Woolworths - 89121",
+    "barcode": "9339423003260",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784291/tip-top-wholemeal-raisin-toast-fruit-bread-loaf-bakery",
+    "name": "Tip Top Wholemeal Raisin Toast Fruit Bread Loaf Bakery 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/784291.jpg",
+    "source_id": "Woolworths - 784291",
+    "barcode": "9339423007992",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883001/woolworths-blueberry-muffins",
+    "name": "Woolworths Blueberry Muffins 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883001.jpg",
+    "source_id": "Woolworths - 883001",
+    "barcode": "9300633522056",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256344/woolworths-orange-poppyseed-muffin",
+    "name": "Woolworths Orange & Poppyseed Muffin 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/256344.jpg",
+    "source_id": "Woolworths - 256344",
+    "barcode": "9339687320134",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318703/woolworths-richly-fruited-hot-cross-buns",
+    "name": "Woolworths Richly Fruited Hot Cross Buns 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318703.jpg",
+    "source_id": "Woolworths - 318703",
+    "barcode": "9339687347230",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103152/woolworths-sourdough-english-muffins",
+    "name": "Woolworths Sourdough English Muffins 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103152.jpg",
+    "source_id": "Woolworths - 103152",
+    "barcode": "9339687189014",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92981/cripps-cafe-quality-thick-cut-fruit-loaf",
+    "name": "Cripps Cafe Quality Thick Cut Fruit Loaf 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092981.jpg",
+    "source_id": "Woolworths - 92981",
+    "barcode": "9323975105640",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196588/cripps-fruit-muffins-fruit",
+    "name": "Cripps Fruit Muffins Fruit 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/196588.jpg",
+    "source_id": "Woolworths - 196588",
+    "barcode": "9323975101833",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196591/cripps-master-baker-english-muffin-traditional",
+    "name": "Cripps Master Baker English Muffin Traditional 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/196591.jpg",
+    "source_id": "Woolworths - 196591",
+    "barcode": "9323975101826",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131226/cripps-master-baker-fruit-buns-fruit",
+    "name": "Cripps Master Baker Fruit Buns Fruit 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/131226.jpg",
+    "source_id": "Woolworths - 131226",
+    "barcode": "9310235168729",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233383/cripps-master-baker-fruit-loaf-cafe-quality",
+    "name": "Cripps Master Baker Fruit Loaf Cafe Quality 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233383.jpg",
+    "source_id": "Woolworths - 233383",
+    "barcode": "9323975104179",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92395/cripps-sourdough-grains-seeds-english-muffins",
+    "name": "Cripps Sourdough Grains & Seeds English Muffins 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092395.jpg",
+    "source_id": "Woolworths - 92395",
+    "barcode": "9323975105688",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/483637/essentials-english-muffin",
+    "name": "Essentials English Muffin 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/483637.jpg",
+    "source_id": "Woolworths - 483637",
+    "barcode": "9300633562502",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "48",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

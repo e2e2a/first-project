@@ -1,0 +1,1600 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-sports-drink-no-sugar-grape-600ml-7717182",
+    "name": "Gatorade Sports Drink No Sugar Grape | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7717182.jpg&w=640&q=90",
+    "barcode": "9310640001130",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613988/gatorade-sports-drink-sugar-free-grape-electrolyte-hydration-bottle",
+    "name": "Gatorade Sports Drink Sugar Free Grape Electrolyte Hydration Bottle 600mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/613988.jpg",
+    "barcode": "9310640001130",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-sports-drink-fierce-grape-600ml-8729937",
+    "name": "Gatorade Sports Drink Fierce Grape | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8729937.jpg&w=640&q=90",
+    "barcode": "9310640620119",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262841/gatorade-sports-drinks-grape-electrolyte-hydration-bottle",
+    "name": "Gatorade Sports Drinks Grape Electrolyte Hydration Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262841.jpg",
+    "barcode": "9310640620119",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-sports-drinks-green-apple-electrolyte-hydration-bottle-600ml-2485374",
+    "name": "Gatorade Sports Drinks Green Apple Electrolyte Hydration Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2485374.jpg&w=640&q=90",
+    "barcode": "9310640000003",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899990/gatorade-sports-drinks-green-apple-electrolyte-hydration-bottle",
+    "name": "Gatorade Sports Drinks Green Apple Electrolyte Hydration Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/899990.jpg",
+    "barcode": "9310640000003",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-sport-drink-berry-no-sugar-600ml-3989533",
+    "name": "Gatorade Sport Drink Berry No Sugar | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989533.jpg&w=640&q=90",
+    "barcode": "9310640000997",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/153052/gatorade-sports-drinks-sugar-free-berry-electrolyte-hydration-bottle",
+    "name": "Gatorade Sports Drinks Sugar Free Berry Electrolyte Hydration Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/153052.jpg",
+    "barcode": "9310640000997",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-sport-drink-glacefreeze-no-sugar-600ml-3807953",
+    "name": "Gatorade Sport Drink Glacefreeze No Sugar | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3807953.jpg&w=640&q=90",
+    "barcode": "9310640001000",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152235/gatorade-sports-drinks-sugar-free-glacier-freeze-bottle",
+    "name": "Gatorade Sports Drinks Sugar Free Glacier Freeze Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/152235.jpg",
+    "barcode": "9310640001000",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-no-sugar-orange-600ml-4313722",
+    "name": "Gatorade No Sugar Orange | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4313722.jpg&w=640&q=90",
+    "barcode": "9310640000980",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152303/gatorade-sports-drinks-sugar-free-orange-electrolyte-bottle",
+    "name": "Gatorade Sports Drinks Sugar Free Orange Electrolyte Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/152303.jpg",
+    "barcode": "9310640000980",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-berry-ice-zero-sports-drink-sipper-cap-600ml-1726023",
+    "name": "Powerade Berry Ice Zero Sports Drink Sipper Cap | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1726023.jpg&w=640&q=90",
+    "barcode": "9300675046701",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "342",
+        "price_per_unit": "205",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "367",
+        "price_per_unit": "220",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/723452/powerade-berry-ice-zero-sports-drink-sipper-cap",
+    "name": "Powerade Berry Ice Zero Sports Drink Sipper Cap 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/723452.jpg",
+    "barcode": "9300675046701",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "442",
+        "price_per_unit": "265",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-berry-ice-sports-drink-sipper-cap-600ml-1726001",
+    "name": "Powerade Berry Ice Sports Drink Sipper Cap | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1726001.jpg&w=640&q=90",
+    "barcode": "9300675024075",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "342",
+        "price_per_unit": "205",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "367",
+        "price_per_unit": "220",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365189/powerade-ion4-berry-ice-sports-drink-sipper-cap",
+    "name": "Powerade Ion4 Berry Ice Sports Drink Sipper Cap 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/365189.jpg",
+    "barcode": "9300675024075",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "442",
+        "price_per_unit": "265",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-ion4-blackcurrent-sports-drink-sipper-cap-600ml-1726034",
+    "name": "Powerade ION4 Blackcurrent Sports Drink Sipper Cap | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1726034.jpg&w=640&q=90",
+    "barcode": "9300675035965",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "342",
+        "price_per_unit": "205",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "367",
+        "price_per_unit": "220",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279908/powerade-ion4-blackcurrant-sports-drink-sipper-cap",
+    "name": "Powerade Ion4 Blackcurrant Sports Drink Sipper Cap 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/279908.jpg",
+    "barcode": "9300675035965",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "442",
+        "price_per_unit": "265",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-ion4-lemon-lime-sports-drink-sipper-cap-600ml-1725993",
+    "name": "Powerade ION4 Lemon Lime Sports Drink Sipper Cap | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1725993.jpg&w=640&q=90",
+    "barcode": "9300675024051",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "342",
+        "price_per_unit": "205",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "367",
+        "price_per_unit": "220",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "210",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365548/powerade-ion4-lemon-lime-sports-drink-sipper-cap",
+    "name": "Powerade Ion4 Lemon Lime Sports Drink Sipper Cap 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/365548.jpg",
+    "barcode": "9300675024051",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "417",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "442",
+        "price_per_unit": "265",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-mountain-blast-powder-500g-5896852",
+    "name": "Powerade Mountain Blast Powder | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5896852.jpg&w=640&q=90",
+    "barcode": "9300675035736",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "274",
+        "price_per_unit": "1370",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "274",
+        "price_per_unit": "1370",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "274",
+        "price_per_unit": "1370",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "274",
+        "price_per_unit": "1370",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "278",
+        "price_per_unit": "1390",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "274",
+        "price_per_unit": "1370",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "288",
+        "price_per_unit": "1439",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "274",
+        "price_per_unit": "1370",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262843/powerade-isotonic-mountain-blast-powder",
+    "name": "Powerade Isotonic Mountain Blast Powder 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262843.jpg",
+    "barcode": "9300675035736",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "1050",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/staminade-hydrate-25percent-less-sugar-orange-powder-585g-4464659",
+    "name": "Staminade Hydrate 25% Less Sugar Orange Powder | 585g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4464659.jpg&w=640&q=90",
+    "barcode": "9310347000245",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "585g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "194",
+        "price_per_unit": "1134",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277627/staminade-hydrate-electrolyte-powder-orange",
+    "name": "Staminade Hydrate Electrolyte Powder Orange 585g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/277627.jpg",
+    "barcode": "9310347000245",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/staminade-lemon-lime-fusion-powder-585g-7878294",
+    "name": "Staminade Lemon Lime Fusion Powder | 585g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7878294.jpg&w=640&q=90",
+    "barcode": "9310347506907",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "585g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "194",
+        "price_per_unit": "1134",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341051/staminade-lemon-lime-powder",
+    "name": "Staminade Lemon & Lime Powder 585g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/341051.jpg",
+    "barcode": "9310347506907",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "185",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-sports-drink-watermelon-chill-600ml-4905404",
+    "name": "Gatorade Sports Drink Watermelon Chill | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4905404.jpg&w=640&q=90",
+    "barcode": "9310640000041",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "420",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245411/gatorade-sports-drinks-watermelon-chill-electrolyte-hydration-bottle",
+    "name": "Gatorade Sports Drinks Watermelon Chill Electrolyte Hydration Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245411.jpg",
+    "barcode": "9310640000041",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "642",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "667",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

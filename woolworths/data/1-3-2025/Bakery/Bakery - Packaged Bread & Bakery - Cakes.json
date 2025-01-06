@@ -1,0 +1,4724 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/658478/bill-s-health-bakery-multifruit-sourdough-loaf",
+    "name": "Bill's Health Bakery Multifruit Sourdough Loaf 660g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/658478.jpg",
+    "source_id": "Woolworths - 658478",
+    "barcode": "9327189001132",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "920",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/633063/cadbury-chocolate-cake-bars",
+    "name": "Cadbury Chocolate Cake Bars 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/633063.jpg",
+    "source_id": "Woolworths - 633063",
+    "barcode": "5000221603184",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453156/cadbury-mini-rolls-chocolate",
+    "name": "Cadbury Mini Rolls Chocolate 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/453156.jpg",
+    "source_id": "Woolworths - 453156",
+    "barcode": "5000221506867",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77331/dollar-sweets-happy-birthday-silver-cake-topper",
+    "name": "Dollar Sweets Happy Birthday Silver Cake Topper Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/077331.jpg",
+    "source_id": "Woolworths - 77331",
+    "barcode": "9310331475486",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972474/great-temptations-fairy-cake",
+    "name": "Great Temptations Fairy Cake 5 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972474.jpg",
+    "source_id": "Woolworths - 972474",
+    "barcode": "9343335002297",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53874/miguel-maestre-basque-burnt-cheesecake",
+    "name": "Miguel Maestre Basque Burnt Cheesecake 260g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/053874.jpg",
+    "source_id": "Woolworths - 53874",
+    "barcode": "9350566001470",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79367/miguel-maestre-basque-burnt-cheesecake",
+    "name": "Miguel Maestre Basque Burnt Cheesecake 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/079367.jpg",
+    "source_id": "Woolworths - 79367",
+    "barcode": "9350566001487",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222681/miguel-maestre-sticky-date-pudding",
+    "name": "Miguel Maestre Sticky Date Pudding 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/222681.jpg",
+    "source_id": "Woolworths - 222681",
+    "barcode": "9350566000589",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/846809/mr-kipling-cake-angel-slices-snack-pack",
+    "name": "Mr Kipling Cake Angel Slices Snack Pack 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/846809.jpg",
+    "source_id": "Woolworths - 846809",
+    "barcode": "5000221509240",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814598/mr-kipling-choc-slice",
+    "name": "Mr Kipling Choc Slice 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814598.jpg",
+    "source_id": "Woolworths - 814598",
+    "barcode": "5000221605003",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/607942/mr-kipling-lemon-slice",
+    "name": "Mr Kipling Lemon Slice 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/607942.jpg",
+    "source_id": "Woolworths - 607942",
+    "barcode": "5000221505709",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/917953/mr-kipling-salted-caramel-slice",
+    "name": "Mr Kipling Salted Caramel Slice 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/917953.jpg",
+    "source_id": "Woolworths - 917953",
+    "barcode": "5000221608325",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/449000/sara-lee-baked-cheesecake-chocolate-ganache",
+    "name": "Sara Lee Baked Cheesecake Chocolate Ganache 760g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/449000.jpg",
+    "source_id": "Woolworths - 449000",
+    "barcode": "9310135126799",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/629516/sara-lee-white-chocolate-cheesecake",
+    "name": "Sara Lee White Chocolate Cheesecake 760g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/629516.jpg",
+    "source_id": "Woolworths - 629516",
+    "barcode": "9310135153597",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/586414/toscano-chocolate-truffle",
+    "name": "Toscano Chocolate Truffle 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/586414.jpg",
+    "source_id": "Woolworths - 586414",
+    "barcode": "9350007007597",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/586264/toscano-tiramisu",
+    "name": "Toscano Tiramisu 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/586264.jpg",
+    "source_id": "Woolworths - 586264",
+    "barcode": "9350007002523",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/678110/toscano-tiramisu-twin",
+    "name": "Toscano Tiramisu Twin 60g x2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/678110.jpg",
+    "source_id": "Woolworths - 678110",
+    "barcode": "9350007001595",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250630/woolworths-apple-lattice-pie",
+    "name": "Woolworths Apple Lattice Pie 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250630.jpg",
+    "source_id": "Woolworths - 250630",
+    "barcode": "9339687318483",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104984/woolworths-assorted-celebration-cake",
+    "name": "Woolworths Assorted Celebration Cake 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/104984.jpg",
+    "source_id": "Woolworths - 104984",
+    "barcode": "9339687190546",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3200",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/496882/woolworths-baked-cheesecake-with-biscoff",
+    "name": "Woolworths Baked Cheesecake With Biscoff 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/496882.jpg",
+    "source_id": "Woolworths - 496882",
+    "barcode": "9339687362448",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/328822/woolworths-banana-bread-slices",
+    "name": "Woolworths Banana Bread Slices 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/328822.jpg",
+    "source_id": "Woolworths - 328822",
+    "barcode": "9300633984007",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921669/woolworths-banana-loaf",
+    "name": "Woolworths Banana Loaf 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/921669.jpg",
+    "source_id": "Woolworths - 921669",
+    "barcode": "9300633594138",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61194/woolworths-caramel-bar-slice",
+    "name": "Woolworths Caramel Bar Slice 260g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/061194.jpg",
+    "source_id": "Woolworths - 61194",
+    "barcode": "9339687133130",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "288",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "288",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "288",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "288",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "288",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706502/woolworths-chocolate-hazelnut-mousse-slice",
+    "name": "Woolworths Chocolate & Hazelnut Mousse Slice 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/706502.jpg",
+    "source_id": "Woolworths - 706502",
+    "barcode": "9339687060627",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "585",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "585",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "585",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "585",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "585",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "585",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698110/woolworths-chocolate-brownie",
+    "name": "Woolworths Chocolate Brownie 300G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/698110.jpg",
+    "source_id": "Woolworths - 698110",
+    "barcode": "9339687056996",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263031/woolworths-chocolate-chip-muffin-bar",
+    "name": "Woolworths Chocolate Chip Muffin Bar 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263031.jpg",
+    "source_id": "Woolworths - 263031",
+    "barcode": "9339687321018",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253485/woolworths-chocolate-chunk-cookie-pie",
+    "name": "Woolworths Chocolate Chunk Cookie Pie 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253485.jpg",
+    "source_id": "Woolworths - 253485",
+    "barcode": "9339687319466",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "255",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "255",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "255",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "255",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "255",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61196/woolworths-cookie-caramel-bar-slice",
+    "name": "Woolworths Cookie Caramel Bar Slice 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/061196.jpg",
+    "source_id": "Woolworths - 61196",
+    "barcode": "9339687133154",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740059/woolworths-custard-tart",
+    "name": "Woolworths Custard Tart 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/740059.jpg",
+    "source_id": "Woolworths - 740059",
+    "barcode": "9300633346904",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260722/woolworths-double-unfilled-sponge",
+    "name": "Woolworths Double Unfilled Sponge 460g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/260722.jpg",
+    "source_id": "Woolworths - 260722",
+    "barcode": "9300633954963",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/808590/woolworths-free-from-gluten-apple-pie",
+    "name": "Woolworths Free From Gluten Apple Pie 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/808590.jpg",
+    "source_id": "Woolworths - 808590",
+    "barcode": "9339687067596",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72276/woolworths-free-from-gluten-dairy-free-chocolate-cheesecake",
+    "name": "Woolworths Free From Gluten Dairy Free Chocolate Cheesecake 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/072276.jpg",
+    "source_id": "Woolworths - 72276",
+    "barcode": "9339687137787",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/808593/woolworths-free-from-gluten-dairy-free-chocolate-cheesecake",
+    "name": "Woolworths Free From Gluten Dairy Free Chocolate Cheesecake 675g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/808593.jpg",
+    "source_id": "Woolworths - 808593",
+    "barcode": "9339687067602",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103359/woolworths-fully-loaded-chocolate-brownie-cheesecake",
+    "name": "Woolworths Fully Loaded Chocolate Brownie Cheesecake 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103359.jpg",
+    "source_id": "Woolworths - 103359",
+    "barcode": "9339687189229",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2300",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2300",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2300",
+        "price_per_unit": "256",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250636/woolworths-happy-birthday-chocolate-drip-cake",
+    "name": "Woolworths Happy Birthday Chocolate Drip Cake 1.4kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250636.jpg",
+    "source_id": "Woolworths - 250636",
+    "barcode": "9339687318513",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103356/woolworths-indulgent-chocolate-caramel-cake",
+    "name": "Woolworths Indulgent Chocolate & Caramel Cake 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103356.jpg",
+    "source_id": "Woolworths - 103356",
+    "barcode": "9339687189199",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27078/woolworths-indulgent-mini-dessert-cake-selection",
+    "name": "Woolworths Indulgent Mini Dessert Cake Selection 20 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/027078.jpg",
+    "source_id": "Woolworths - 27078",
+    "barcode": "9339687095889",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131482/woolworths-jam-filled-lamingtons",
+    "name": "Woolworths Jam Filled Lamingtons 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/131482.jpg",
+    "source_id": "Woolworths - 131482",
+    "barcode": "9339687220717",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86566/woolworths-jam-sponge-roll",
+    "name": "Woolworths Jam Sponge Roll 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/086566.jpg",
+    "source_id": "Woolworths - 86566",
+    "barcode": "9339687165261",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131380/woolworths-lamington-fingers",
+    "name": "Woolworths Lamington Fingers 18 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/131380.jpg",
+    "source_id": "Woolworths - 131380",
+    "barcode": "9339687220694",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131381/woolworths-lamingtons",
+    "name": "Woolworths Lamingtons 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/131381.jpg",
+    "source_id": "Woolworths - 131381",
+    "barcode": "9339687220700",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91895/woolworths-large-pavlova-base",
+    "name": "Woolworths Large Pavlova Base Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/091895.jpg",
+    "source_id": "Woolworths - 91895",
+    "barcode": "9339687170678",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706493/woolworths-lemon-cheesecake",
+    "name": "Woolworths Lemon Cheesecake 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/706493.jpg",
+    "source_id": "Woolworths - 706493",
+    "barcode": "9339687060580",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113770/woolworths-lemon-drizzle-loaf-cake",
+    "name": "Woolworths Lemon Drizzle Loaf Cake 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/113770.jpg",
+    "source_id": "Woolworths - 113770",
+    "barcode": "9339687207435",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921694/woolworths-lemon-madeira-cake",
+    "name": "Woolworths Lemon Madeira Cake 315g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/921694.jpg",
+    "source_id": "Woolworths - 921694",
+    "barcode": "9300633594176",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688779/woolworths-lightly-fruited-cake",
+    "name": "Woolworths Lightly Fruited Cake 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/688779.jpg",
+    "source_id": "Woolworths - 688779",
+    "barcode": "9339687045815",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921693/woolworths-madeira-cake",
+    "name": "Woolworths Madeira Cake 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/921693.jpg",
+    "source_id": "Woolworths - 921693",
+    "barcode": "9300633594169",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256234/woolworths-meringue-nests",
+    "name": "Woolworths Meringue Nests 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/256234.jpg",
+    "source_id": "Woolworths - 256234",
+    "barcode": "9300633041021",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256236/woolworths-meringues-vanilla-minis",
+    "name": "Woolworths Meringues Vanilla Minis 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/256236.jpg",
+    "source_id": "Woolworths - 256236",
+    "barcode": "9300633040994",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86569/woolworths-mini-choc-sponge-rolls",
+    "name": "Woolworths Mini Choc Sponge Rolls 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/086569.jpg",
+    "source_id": "Woolworths - 86569",
+    "barcode": "9339687165292",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360222/woolworths-mini-iced-cupcakes-with-sprinkles",
+    "name": "Woolworths Mini Iced Cupcakes With Sprinkles 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/360222.jpg",
+    "source_id": "Woolworths - 360222",
+    "barcode": "9300633645311",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86567/woolworths-mini-jam-sponge-rolls",
+    "name": "Woolworths Mini Jam Sponge Rolls 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/086567.jpg",
+    "source_id": "Woolworths - 86567",
+    "barcode": "9339687165278",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186791/woolworths-mud-cake-chocolate",
+    "name": "Woolworths Mud Cake Chocolate 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186791.jpg",
+    "source_id": "Woolworths - 186791",
+    "barcode": "9300633638085",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186854/woolworths-mudcake-caramel",
+    "name": "Woolworths Mudcake Caramel 600G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186854.jpg",
+    "source_id": "Woolworths - 186854",
+    "barcode": "9300633638061",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186852/woolworths-mudcake-white",
+    "name": "Woolworths Mudcake White 600G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186852.jpg",
+    "source_id": "Woolworths - 186852",
+    "barcode": "9300633638078",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/852359/woolworths-new-york-style-cheesecake",
+    "name": "Woolworths New York Style Cheesecake 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/852359.jpg",
+    "source_id": "Woolworths - 852359",
+    "barcode": "9339687084906",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118172/woolworths-party-pack-mudcake-slices",
+    "name": "Woolworths Party Pack Mudcake Slices 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/118172.jpg",
+    "source_id": "Woolworths - 118172",
+    "barcode": "9339687211609",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55049/woolworths-plantitude-vegan-dark-chocolate-brownie",
+    "name": "Woolworths Plantitude Vegan Dark Chocolate Brownie 250G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055049.jpg",
+    "source_id": "Woolworths - 55049",
+    "barcode": "9339687104987",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55050/woolworths-plantitude-vegan-dark-chocolate-cake",
+    "name": "Woolworths Plantitude Vegan Dark Chocolate Cake 550G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055050.jpg",
+    "source_id": "Woolworths - 55050",
+    "barcode": "9339687104994",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250639/woolworths-rainbow-layer-cake",
+    "name": "Woolworths Rainbow Layer Cake Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250639.jpg",
+    "source_id": "Woolworths - 250639",
+    "barcode": "9339687318520",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/653793/woolworths-sliced-carrot-sultana-walnut-loaf",
+    "name": "Woolworths Sliced Carrot Sultana & Walnut Loaf 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/653793.jpg",
+    "source_id": "Woolworths - 653793",
+    "barcode": "9300633693527",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/278258/woolworths-smash-cake",
+    "name": "Woolworths Smash Cake Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/278258.jpg",
+    "source_id": "Woolworths - 278258",
+    "barcode": "9339687336548",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "277",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250629/woolworths-strawberry-cheesecake",
+    "name": "Woolworths Strawberry Cheesecake 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250629.jpg",
+    "source_id": "Woolworths - 250629",
+    "barcode": "9339687318476",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740058/woolworths-tarts-large-custard",
+    "name": "Woolworths Tarts Large Custard 480g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/740058.jpg",
+    "source_id": "Woolworths - 740058",
+    "barcode": "9300633346898",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263028/woolworths-traditional-dark-fruit-cake",
+    "name": "Woolworths Traditional Dark Fruit Cake 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263028.jpg",
+    "source_id": "Woolworths - 263028",
+    "barcode": "9339687321001",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263020/woolworths-traditional-light-fruit-cake",
+    "name": "Woolworths Traditional Light Fruit Cake 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263020.jpg",
+    "source_id": "Woolworths - 263020",
+    "barcode": "9339687320998",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "89",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103357/woolworths-zesty-lemon-cake",
+    "name": "Woolworths Zesty Lemon Cake 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103357.jpg",
+    "source_id": "Woolworths - 103357",
+    "barcode": "9339687189205",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972640/great-temptations-chocolate-chip-muffins",
+    "name": "Great Temptations Chocolate Chip Muffins 5 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972640.jpg",
+    "source_id": "Woolworths - 972640",
+    "barcode": "9343335002266",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/970877/great-temptations-mufnutz",
+    "name": "Great Temptations Mufnutz 5 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/970877.jpg",
+    "source_id": "Woolworths - 970877",
+    "barcode": "9343335002280",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972642/great-temptations-orange-poppyseed-muffins",
+    "name": "Great Temptations Orange & Poppyseed Muffins 5 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972642.jpg",
+    "source_id": "Woolworths - 972642",
+    "barcode": "9343335002273",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/916694/green-s-deluxe-salted-caramel-lamingtons",
+    "name": "Green's Deluxe Salted Caramel Lamingtons 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/916694.jpg",
+    "source_id": "Woolworths - 916694",
+    "barcode": "9310273003037",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387009/green-s-strawberries-cream-lamingtons",
+    "name": "Green's Strawberries & Cream Lamingtons 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387009.jpg",
+    "source_id": "Woolworths - 387009",
+    "barcode": "9310273002696",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263032/woolworths-banana-muffin-bar",
+    "name": "Woolworths Banana Muffin Bar 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263032.jpg",
+    "source_id": "Woolworths - 263032",
+    "barcode": "9339687321025",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73199/woolworths-caramel-slices",
+    "name": "Woolworths Caramel Slices 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073199.jpg",
+    "source_id": "Woolworths - 73199",
+    "barcode": "9339687138036",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/389223/green-s-triple-choc-lamingtons-lamingtons",
+    "name": "Green's Triple Choc Lamingtons Lamingtons 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/389223.jpg",
+    "source_id": "Woolworths - 389223",
+    "barcode": "9310273002702",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/917941/mr-kipling-6-chocolate-caramel-bakewell-tarts",
+    "name": "Mr Kipling 6 Chocolate & Caramel Bakewell Tarts 215g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/917941.jpg",
+    "source_id": "Woolworths - 917941",
+    "barcode": "5000221608851",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "302",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "302",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "302",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/917952/mr-kipling-6-strawberry-bakewell-tarts",
+    "name": "Mr Kipling 6 Strawberry Bakewell Tarts 230g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/917952.jpg",
+    "source_id": "Woolworths - 917952",
+    "barcode": "5000221608707",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/78581/mr-cake-lemon-cakes",
+    "name": "Mr. Cake Lemon Cakes 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/078581.jpg",
+    "source_id": "Woolworths - 78581",
+    "barcode": "8411037892476",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242149/noshu-95-sugar-free-banana",
+    "name": "Noshu 95% Sugar Free Banana Bread Slices 240g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/242149.jpg",
+    "source_id": "Woolworths - 242149",
+    "barcode": "9351777001617",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/917134/noshu-95-sugar-free-fudgy-peanut-brownies",
+    "name": "Noshu 95% Sugar Free Fudgy Peanut Brownies 190g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/917134.jpg",
+    "source_id": "Woolworths - 917134",
+    "barcode": "9351777002072",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "395",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387504/noshu-97-sugar-free-caramel",
+    "name": "Noshu 97% Sugar Free Caramel Mud Cakes 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387504.jpg",
+    "source_id": "Woolworths - 387504",
+    "barcode": "9351777001952",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "441",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "441",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "441",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58240/petite-maison-french-macarons",
+    "name": "Petite Maison French Macarons 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058240.jpg",
+    "source_id": "Woolworths - 58240",
+    "barcode": "9350007005012",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/678120/toscano-double-choc-mousse-twin",
+    "name": "Toscano Double Choc Mousse Twin 60g x2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/678120.jpg",
+    "source_id": "Woolworths - 678120",
+    "barcode": "9350007001571",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242617/toscano-french-style-madeleines-choc-cream-filled",
+    "name": "Toscano French Style Madeleines Choc Cream Filled 238g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/242617.jpg",
+    "source_id": "Woolworths - 242617",
+    "barcode": "9300602376666",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243942/toscano-french-style-madeleines-original",
+    "name": "Toscano French Style Madeleines Original 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/243942.jpg",
+    "source_id": "Woolworths - 243942",
+    "barcode": "9300602376826",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242952/toscano-french-style-madeleines-strawberry-jam-filled",
+    "name": "Toscano French Style Madeleines Strawberry Jam Filled 238g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/242952.jpg",
+    "source_id": "Woolworths - 242952",
+    "barcode": "9300602376505",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/854648/toscano-macarons",
+    "name": "Toscano Macarons 144g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/854648.jpg",
+    "source_id": "Woolworths - 854648",
+    "barcode": "9417986941929",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "729",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/707281/woolworths-banana-bread-slice",
+    "name": "Woolworths Banana Bread Slice 100G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/707281.jpg",
+    "source_id": "Woolworths - 707281",
+    "barcode": "9300633252823",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253484/woolworths-biscoff-cheesecake",
+    "name": "Woolworths Biscoff Cheesecake Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253484.jpg",
+    "source_id": "Woolworths - 253484",
+    "barcode": "9339687319459",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250635/woolworths-black-forest-gateau",
+    "name": "Woolworths Black Forest Gateau Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250635.jpg",
+    "source_id": "Woolworths - 250635",
+    "barcode": "9339687318506",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "273",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921672/woolworths-carrot-walnut-loaf",
+    "name": "Woolworths Carrot & Walnut Loaf 540g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/921672.jpg",
+    "source_id": "Woolworths - 921672",
+    "barcode": "9300633594152",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706501/woolworths-creamy-vanilla-slice",
+    "name": "Woolworths Creamy Vanilla Slice 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/706501.jpg",
+    "source_id": "Woolworths - 706501",
+    "barcode": "9339687060610",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "585",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "585",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "585",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "585",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "585",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250640/woolworths-lemon-meringue-tart",
+    "name": "Woolworths Lemon Meringue Tart 780g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250640.jpg",
+    "source_id": "Woolworths - 250640",
+    "barcode": "9339687318537",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2300",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2300",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2300",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2300",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54783/woolworths-plantitude-vegan-dark-chocolate-cake",
+    "name": "Woolworths Plantitude Vegan Dark Chocolate Cake 250G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054783.jpg",
+    "source_id": "Woolworths - 54783",
+    "barcode": "9339687104758",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263033/woolworths-raspberry-white-chocolate-muffin-bar",
+    "name": "Woolworths Raspberry & White Chocolate Muffin Bar 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263033.jpg",
+    "source_id": "Woolworths - 263033",
+    "barcode": "9339687321032",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103358/woolworths-traditional-carrot-cake",
+    "name": "Woolworths Traditional Carrot Cake 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103358.jpg",
+    "source_id": "Woolworths - 103358",
+    "barcode": "9339687189212",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104629/woolworths-vanilla-cake-with-biscoff",
+    "name": "Woolworths Vanilla Cake With Biscoff 450G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/104629.jpg",
+    "source_id": "Woolworths - 104629",
+    "barcode": "9339687189649",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164942/noshu-95-sugar-free-iced-carrot-cakes",
+    "name": "Noshu 95% Sugar Free Iced Carrot Cakes 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/164942.jpg",
+    "source_id": "Woolworths - 164942",
+    "barcode": "9351777001341",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "417",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "417",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "417",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "417",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253483/woolworths-caramel-macadamia-cheesecake",
+    "name": "Woolworths Caramel Macadamia Cheesecake 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253483.jpg",
+    "source_id": "Woolworths - 253483",
+    "barcode": "9339687319442",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88602/balconi-mix-max-spgnckes-cocoa",
+    "name": "Balconi Mix Max Spgnckes Cocoa 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/088602.jpg",
+    "source_id": "Woolworths - 88602",
+    "barcode": "8001585001040",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "725",
+        "price_per_unit": "73",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "725",
+        "price_per_unit": "73",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "725",
+        "price_per_unit": "73",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "725",
+        "price_per_unit": "73",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/168703/balconi-trancetto-cocoa",
+    "name": "Balconi Trancetto Cocoa 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/168703.jpg",
+    "source_id": "Woolworths - 168703",
+    "barcode": "8001585001224",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42545/balfours-napoleon-cake-napoleon",
+    "name": "Balfours Napoleon Cake 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042545.jpg",
+    "source_id": "Woolworths - 42545",
+    "barcode": "9310090090654",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "860",
+        "price_per_unit": "215",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252702/balfours-tarts-custard",
+    "name": "Balfours Tarts Custard 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252702.jpg",
+    "source_id": "Woolworths - 252702",
+    "barcode": "9310090065553",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "320",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/633064/cadbury-caramel-cake-bars",
+    "name": "Cadbury Caramel Cake Bars 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/633064.jpg",
+    "source_id": "Woolworths - 633064",
+    "barcode": "5000221603177",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/855750/cadbury-raspberry-mini-rolls-mini-rolls",
+    "name": "Cadbury Raspberry Mini Rolls Mini Rolls 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/855750.jpg",
+    "source_id": "Woolworths - 855750",
+    "barcode": "5000221600077",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324927/emmaline-s-country-kitchen-carrot-walnut-cake-with-carrot-walnut",
+    "name": "Emmaline's Country Kitchen Carrot Walnut Cake With Carrot & Walnut 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/324927.jpg",
+    "source_id": "Woolworths - 324927",
+    "barcode": "9316169010035",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324935/emmaline-s-country-kitchen-sponge-cake-orange",
+    "name": "Emmaline's Country Kitchen Sponge Cake Orange 530g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/324935.jpg",
+    "source_id": "Woolworths - 324935",
+    "barcode": "9316169001200",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "151",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/825744/kytons-bakery-raspberry-lamingtons",
+    "name": "Kytons Bakery Kytons Bakery Raspberry Lamingtons 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/825744.jpg",
+    "source_id": "Woolworths - 825744",
+    "barcode": "9337537000410",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341457/kytons-bakery-lamingtons",
+    "name": "Kytons Bakery Lamingtons 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/341457.jpg",
+    "source_id": "Woolworths - 341457",
+    "barcode": "9337537000021",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55214/mr-brownie-blondies",
+    "name": "Mr Brownie Blondies 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055214.jpg",
+    "source_id": "Woolworths - 55214",
+    "barcode": "8411037892308",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55213/mr-brownie-chocolate-brownie",
+    "name": "Mr Brownie Chocolate Brownie 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055213.jpg",
+    "source_id": "Woolworths - 55213",
+    "barcode": "8411037800037",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58179/mr-kipling-french-fancies",
+    "name": "Mr Kipling French Fancies 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058179.jpg",
+    "source_id": "Woolworths - 58179",
+    "barcode": "5000221605973",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/787587/woolworths-ginger-kisses",
+    "name": "Woolworths Ginger Kisses 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/787587.jpg",
+    "source_id": "Woolworths - 787587",
+    "barcode": "9300633709129",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "530",
+        "price_per_unit": "265",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "530",
+        "price_per_unit": "265",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "530",
+        "price_per_unit": "265",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663230/woolworths-mixed-tarts",
+    "name": "Woolworths Mixed Tarts 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663230.jpg",
+    "source_id": "Woolworths - 663230",
+    "barcode": "9339687010844",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "63",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "63",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "63",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/261538/balconi-roll-cacao",
+    "name": "Balconi Roll Cacao 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/261538.jpg",
+    "source_id": "Woolworths - 261538",
+    "barcode": "8001585001330",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "67",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70675/balconi-rollino-hazelnut",
+    "name": "Balconi Rollino Hazelnut 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/070675.jpg",
+    "source_id": "Woolworths - 70675",
+    "barcode": "8001585001309",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "67",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73201/woolworths-hedgehog-slices",
+    "name": "Woolworths Hedgehog Slices 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073201.jpg",
+    "source_id": "Woolworths - 73201",
+    "barcode": "9339687138050",
+    "category_id": "1_DEB537E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-bananas-approx.-170g-1039770",
+    "name": "Coles Organic Bananas | approx 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1039770.jpg&w=640&q=90",
+    "source_id": "Coles - 1039770",
+    "barcode": "9359472000041",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "110",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "110",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "110",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "134",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "110",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "134",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-avocados-1-each-5055611",
+    "name": "Coles Organic Avocados | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5055611.jpg&w=640&q=90",
+    "source_id": "Coles - 5055611",
+    "barcode": "9369998159154",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-royal-gala-apples-1kg-4976130",
+    "name": "Coles Organic Royal Gala Apples | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4976130.jpg&w=640&q=90",
+    "source_id": "Coles - 4976130",
+    "barcode": "9369998022946",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-pink-lady-apples-1kg-4678233",
+    "name": "Coles Organic Pink Lady Apples | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4678233.jpg&w=640&q=90",
+    "source_id": "Coles - 4678233",
+    "barcode": "9342446001007",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-mini-melon-approx.-1.8kg-each-4764299",
+    "name": "Coles Organic Mini Melon | approx 1.8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4764299.jpg&w=640&q=90",
+    "source_id": "Coles - 4764299",
+    "barcode": "9358900000028",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1.8kgeach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "864",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "864",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "864",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-blueberries-prepacked-125g-4988274",
+    "name": "Coles Organic Blueberries Prepacked | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4988274.jpg&w=640&q=90",
+    "source_id": "Coles - 4988274",
+    "barcode": "9421902336003",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5760",
+        "price_per_unit": "720",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5760",
+        "price_per_unit": "720",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-in-conv-apple-granny-smith-1kg-4678222",
+    "name": "Coles Organic In Conv Apple Granny Smith | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4678222.jpg&w=640&q=90",
+    "source_id": "Coles - 4678222",
+    "barcode": "9342446001014",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-lemons-4-pack-9939629",
+    "name": "Coles Organic Lemons | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9939629.jpg&w=640&q=90",
+    "source_id": "Coles - 9939629",
+    "barcode": "9316131210074",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "173",
+        "price_per_unit": "690",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "173",
+        "price_per_unit": "690",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-blackberries-125g-5029655",
+    "name": "Coles Organic Blackberries | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5029655.jpg&w=640&q=90",
+    "source_id": "Coles - 5029655",
+    "barcode": "9342373000340",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5520",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-oranges-approx.-200g-each-4352291",
+    "name": "Coles Organic Oranges | approx 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4352291.jpg&w=640&q=90",
+    "source_id": "Coles - 4352291",
+    "barcode": "9321444889459",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "138",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "138",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-organic-strawberries-prepacked-250g-5048810",
+    "name": "Fresh Organic Strawberries Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5048810.jpg&w=640&q=90",
+    "source_id": "Coles - 5048810",
+    "barcode": "9352236000028",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-plums-prepacked-500g-4981923",
+    "name": "Coles Organic Plums Prepacked | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4981923.jpg&w=640&q=90",
+    "source_id": "Coles - 4981923",
+    "barcode": "9369999041267",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-grapes-500g-2248302",
+    "name": "Coles Organic Grapes | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2248302.jpg&w=640&q=90",
+    "source_id": "Coles - 2248302",
+    "barcode": "9344990000093",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      }
+    ]
+  }
+]

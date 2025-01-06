@@ -1,0 +1,338 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/374274/woolworths-australian-frozen-sweet-corn-cobs",
+    "name": "Woolworths Australian Frozen Sweet Corn Cobs 1Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/374274.jpg",
+    "source_id": "Woolworths - 374274",
+    "barcode": "9300633218799",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/768570/woolworths-corn-kernels",
+    "name": "Woolworths Corn Kernels 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/768570.jpg",
+    "source_id": "Woolworths - 768570",
+    "barcode": "9300633450434",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93832/birds-eye-sweet-corn-cobs-cobs-super-sweet",
+    "name": "Birds Eye Sweet Corn Cobs 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/093832.jpg",
+    "source_id": "Woolworths - 93832",
+    "barcode": "9310081408123",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37621/birds-eye-sweet-corn-kernels-kernels-super-sweet",
+    "name": "Birds Eye Sweet Corn Kernels 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037621.jpg",
+    "source_id": "Woolworths - 37621",
+    "barcode": "9310081413660",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90838/mccain-corn-kernels",
+    "name": "McCain Corn Kernels 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/090838.jpg",
+    "source_id": "Woolworths - 90838",
+    "barcode": "9310174006403",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310989/bell-farms-corn-kernels-snap-frozen",
+    "name": "Bell Farms Corn Kernels Snap Frozen 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310989.jpg",
+    "source_id": "Woolworths - 310989",
+    "barcode": "9339687345847",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "419",
+        "price_per_unit": "419",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "419",
+        "price_per_unit": "419",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "419",
+        "price_per_unit": "419",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "419",
+        "price_per_unit": "419",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "419",
+        "price_per_unit": "419",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/313948/bell-farms-frozen-broccoli-cauliflower",
+    "name": "Bell Farms Frozen Broccoli & Cauliflower 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/313948.jpg",
+    "source_id": "Woolworths - 313948",
+    "barcode": "9339687346431",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/spud-lite-potatoes-prepacked-1.5kg-3026441",
+    "name": "Spud Lite Potatoes Prepacked | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3026441.jpg&w=640&q=90",
+    "barcode": "9311331111114",
+    "shop": "coles",
+    "category_id": "2100",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829357/spud-lite-prepack-potato",
+    "name": "Spud Lite Prepack Potato 1.5kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829357.jpg",
+    "barcode": "9311331111114",
+    "shop": "Woolworths",
+    "category_id": "1-E5BEE36E",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "333",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-coles-spudlite-baby-potato-750g-3026260",
+    "name": "Coles Coles Spudlite Baby Potato | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3026260.jpg&w=640&q=90",
+    "barcode": "9311331111121",
+    "shop": "coles",
+    "category_id": "2100",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/459369/zerella-fresh-spudlite-baby-potato-pack-bag",
+    "name": "Zerella Fresh Zerella Fresh Spudlite Baby Potato Pack Bag 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/459369.jpg",
+    "barcode": "9311331111121",
+    "shop": "Woolworths",
+    "category_id": "1-E5BEE36E",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

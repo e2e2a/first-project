@@ -1,0 +1,1240 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/maldon-sea-salt-flakes-240g-9762199",
+    "name": "Maldon Sea Salt Flakes | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9762199.jpg&w=640&q=90",
+    "barcode": "5011428100048",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77000/maldon-sea-salt-flakes",
+    "name": "Maldon Sea Salt Flakes 240g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/077000.jpg",
+    "barcode": "5011428100048",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "42",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "42",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "42",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "42",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "42",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "31",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-iodised-table-salt-shaker-750g-120523",
+    "name": "Saxa Iodised Table Salt Shaker | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F120523.jpg&w=640&q=90",
+    "barcode": "9310412099389",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33245/saxa-iodised-table-salt-shaker",
+    "name": "Saxa Iodised Table Salt Shaker 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033245.jpg",
+    "barcode": "9310412099389",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "6",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-table-salt-shaker-750g-120512",
+    "name": "Saxa Table Salt Shaker | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F120512.jpg&w=640&q=90",
+    "barcode": "9310412099143",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33246/saxa-table-salt-drum-plain",
+    "name": "Saxa Table Salt Drum 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033246.jpg",
+    "barcode": "9310412099143",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "6",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "6",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/always-fresh-green-peppercorns-100g-3797587",
+    "name": "Always Fresh Green Peppercorns | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3797587.jpg&w=640&q=90",
+    "barcode": "9300602363758",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "37",
+        "price_per_unit": "368",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58576/always-fresh-green-peppercorns",
+    "name": "Always Fresh Green Peppercorns 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058576.jpg",
+    "barcode": "9300602363758",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "35",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "37",
+        "price_per_unit": "365",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-pink-rock-salt-grinder-410g-3669408",
+    "name": "McKenzie's Pink Rock Salt Grinder | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3669408.jpg&w=640&q=90",
+    "barcode": "9310061124883",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/111359/mckenzie-s-himalayan-pink-rock-salt",
+    "name": "McKenzie's Himalayan Pink Rock Salt 410g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111359.jpg",
+    "barcode": "9310061124883",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "18",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "18",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "18",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-himalayan-pink-salt-refill-400g-6698424",
+    "name": "Mckenzie's Himalayan Pink Salt Refill | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6698424.jpg&w=640&q=90",
+    "barcode": "9310061122797",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "16",
+        "price_per_unit": "625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/749926/mckenzie-s-himalayan-salt-rock-pink",
+    "name": "McKenzie's Himalayan Salt Rock Pink 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/749926.jpg",
+    "barcode": "9310061122797",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "14",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "14",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "14",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-sea-salt-refill-400g-6694183",
+    "name": "Mckenzie's Sea Salt Refill | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6694183.jpg&w=640&q=90",
+    "barcode": "9310061967213",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "16",
+        "price_per_unit": "625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320992/mckenzie-s-natural-salt-sea",
+    "name": "McKenzie's Natural Salt Sea 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/320992.jpg",
+    "barcode": "9310061967213",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "15",
+        "price_per_unit": "595",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "14",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "14",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "14",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-sea-salt-grinder-410g-3669340",
+    "name": "McKenzie's Sea Salt Grinder | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3669340.jpg&w=640&q=90",
+    "barcode": "9310061124876",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260684/mckenzie-s-natural-sea-salt-grinder",
+    "name": "McKenzie's Natural Sea Salt Grinder 410g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/260684.jpg",
+    "barcode": "9310061124876",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "21",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "18",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "18",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "18",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-whole-black-pepper-grinders-200g-3669430",
+    "name": "McKenzie's Whole Black Pepper Grinders | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3669430.jpg&w=640&q=90",
+    "barcode": "9310061124890",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/111298/mckenzie-s-whole-black-peppercorns-grinder",
+    "name": "McKenzie's Whole Black Peppercorns Grinder 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111298.jpg",
+    "barcode": "9310061124890",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "43",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nando's-peri-peri-salt-50g-3219682",
+    "name": "Nando's Peri Peri Salt | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3219682.jpg&w=640&q=90",
+    "barcode": "6003770011249",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "95",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581143/nando-s-peri-peri-spice-chilli-salt",
+    "name": "Nando's Peri-Peri Spice Chilli Salt 50g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/581143.jpg",
+    "barcode": "6003770011249",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-natural-pink-himalayan-rock-salt-refill-500g-2863959",
+    "name": "Saxa Natural Pink Himalayan Rock Salt Refill | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2863959.jpg&w=640&q=90",
+    "barcode": "9310412001283",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445775/saxa-refill-value-pack-natural-pink-himalayan-rock-salt",
+    "name": "Saxa Refill Value Pack Natural Pink Himalayan Rock Salt 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/445775.jpg",
+    "barcode": "9310412001283",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "10",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "525",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

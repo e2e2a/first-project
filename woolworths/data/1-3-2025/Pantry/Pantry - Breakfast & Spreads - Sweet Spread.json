@@ -1,0 +1,1070 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/473393/ceres-organics-maple-syrup",
+    "name": "Ceres Organics Maple Syrup",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/473393.jpg",
+    "source_id": "Woolworths - 473393",
+    "barcode": "9415748012849",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/670114/lotus-biscoff-spread",
+    "name": "Lotus Biscoff Spread 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/670114.jpg",
+    "source_id": "Woolworths - 670114",
+    "barcode": "5410126116953",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "198",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58497/lotus-biscoff-spread-crunchy",
+    "name": "Lotus Biscoff Spread Crunchy 380g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058497.jpg",
+    "source_id": "Woolworths - 58497",
+    "barcode": "5410126726947",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "208",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/795889/nutella-hazelnut-chocolate-spread-spread",
+    "name": "Nutella Hazelnut Chocolate Spread 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/795889.jpg",
+    "source_id": "Woolworths - 795889",
+    "barcode": "9300698001473",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/187099/nutella-hazelnut-chocolate-spread-spread",
+    "name": "Nutella Hazelnut Chocolate Spread 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/187099.jpg",
+    "source_id": "Woolworths - 187099",
+    "barcode": "9300698000643",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147312/nutella-hazelnut-chocolate-spread-spread",
+    "name": "Nutella Hazelnut Chocolate Spread 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/147312.jpg",
+    "source_id": "Woolworths - 147312",
+    "barcode": "9300698000216",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "670",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/298476/woolworths-100-canadian-maple-syrup",
+    "name": "Woolworths 100% Canadian Maple Syrup 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/298476.jpg",
+    "source_id": "Woolworths - 298476",
+    "barcode": "9300633967475",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "264",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318448/bonne-maman-hazelnut-chocolate-spread",
+    "name": "Bonne Maman Hazelnut Chocolate Spread 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318448.jpg",
+    "source_id": "Woolworths - 318448",
+    "barcode": "3608580116059",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237565/buddee-chocolate-spread",
+    "name": "Buddee Chocolate Spread 270g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237565.jpg",
+    "source_id": "Woolworths - 237565",
+    "barcode": "9369998339082",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238202/buddee-smooth-nut-free-spread",
+    "name": "Buddee Smooth Nut Free Spread 270g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/238202.jpg",
+    "source_id": "Woolworths - 238202",
+    "barcode": "9369998183593",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909078/cookie-penotti-speculoos-biscuit-spread",
+    "name": "Cookie Penotti Speculoos Biscuit Spread 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/909078.jpg",
+    "source_id": "Woolworths - 909078",
+    "barcode": "8717200010648",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/795886/nutella-hazelnut-chocolate-spread-spread",
+    "name": "Nutella Hazelnut Chocolate Spread 12pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/795886.jpg",
+    "source_id": "Woolworths - 795886",
+    "barcode": "9300698501539",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147314/nutella-hazelnut-chocolate-spread-spread",
+    "name": "Nutella Hazelnut Chocolate Spread 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/147314.jpg",
+    "source_id": "Woolworths - 147314",
+    "barcode": "62020000248",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249629/nutino-hazelnut-spread-spread",
+    "name": "Nutino Hazelnut Spread Spread 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249629.jpg",
+    "source_id": "Woolworths - 249629",
+    "barcode": "9310631621538",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237866/pana-organic-crunchy-hazelnut-chocolate-spread",
+    "name": "Pana Organic Crunchy Hazelnut Chocolate Spread 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237866.jpg",
+    "source_id": "Woolworths - 237866",
+    "barcode": "9346758005029",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95117/pana-organic-hazelnut-chocolate-spread",
+    "name": "Pana Organic Hazelnut & Chocolate Spread 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/095117.jpg",
+    "source_id": "Woolworths - 95117",
+    "barcode": "9346758006255",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909134/uno-penotti-hazelnut-spread",
+    "name": "Uno Penotti Hazelnut Spread 380g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/909134.jpg",
+    "source_id": "Woolworths - 909134",
+    "barcode": "8717200010662",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "132",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908510/uno-penotti-hazelnut-spread",
+    "name": "Uno Penotti Hazelnut Spread 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908510.jpg",
+    "source_id": "Woolworths - 908510",
+    "barcode": "8717200010679",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186274/woolworths-choc-hazelnut-spread",
+    "name": "Woolworths Choc Hazelnut Spread 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186274.jpg",
+    "source_id": "Woolworths - 186274",
+    "barcode": "9300633015541",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

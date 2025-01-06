@@ -1,0 +1,4922 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306678/c4-smart-energy-peach-mango-nectar-can",
+    "name": "C4 Smart Energy Peach Mango Nectar Can 473ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306678.jpg",
+    "source_id": "Woolworths - 306678",
+    "barcode": "9358777000107",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911076/celsius-energy-drink-sparkling-kiwi-strawberry-can",
+    "name": "Celsius Energy Drink Sparkling Kiwi Strawberry Can 330mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/911076.jpg",
+    "source_id": "Woolworths - 911076",
+    "barcode": "9415767013940",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174492/monster-energy-drink-ultra-fiesta-mango-flavour",
+    "name": "Monster Energy Drink Ultra Fiesta Mango Flavour 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/174492.jpg",
+    "source_id": "Woolworths - 174492",
+    "barcode": "9342866001021",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919600/monster-energy-drink-ultra-peachy-keen-cans",
+    "name": "Monster Energy Drink Ultra Peachy Keen Cans 500mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/919600.jpg",
+    "source_id": "Woolworths - 919600",
+    "barcode": "9342866001212",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919631/monster-energy-drink-ultra-violet-can",
+    "name": "Monster Energy Drink Ultra Violet Can 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/919631.jpg",
+    "source_id": "Woolworths - 919631",
+    "barcode": "9342866001342",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/329812/monster-energy-green-can",
+    "name": "Monster Energy Green Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/329812.jpg",
+    "source_id": "Woolworths - 329812",
+    "barcode": "70847813903",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/708119/monster-energy-juice-mango-loco",
+    "name": "Monster Energy Juice Mango Loco 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/708119.jpg",
+    "source_id": "Woolworths - 708119",
+    "barcode": "9342866000642",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698612/monster-energy-mango-loco-can",
+    "name": "Monster Energy Mango Loco Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/698612.jpg",
+    "source_id": "Woolworths - 698612",
+    "barcode": "9342866000635",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688971/monster-energy-original-zero-sugar-drink",
+    "name": "Monster Energy Original Zero Sugar Drink 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/688971.jpg",
+    "source_id": "Woolworths - 688971",
+    "barcode": "9342866001168",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/489787/monster-energy-ultra-can",
+    "name": "Monster Energy Ultra Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/489787.jpg",
+    "source_id": "Woolworths - 489787",
+    "barcode": "9342866000482",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220971/monster-energy-ultra-gold",
+    "name": "Monster Energy Ultra Gold 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220971.jpg",
+    "source_id": "Woolworths - 220971",
+    "barcode": "9342866001083",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/511504/monster-energy-ultra-multipack-cans",
+    "name": "Monster Energy Ultra Multipack Cans 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/511504.jpg",
+    "source_id": "Woolworths - 511504",
+    "barcode": "9342866000536",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/124312/monster-energy-ultra-rosa-can",
+    "name": "Monster Energy Ultra Rosa Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/124312.jpg",
+    "source_id": "Woolworths - 124312",
+    "barcode": "9342866000987",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143253/monster-energy-ultra-rosa-multipack-cans",
+    "name": "Monster Energy Ultra Rosa Multipack Cans 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143253.jpg",
+    "source_id": "Woolworths - 143253",
+    "barcode": "9342866001014",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690694/monster-energy-ultra-strawberry-dreams-drink",
+    "name": "Monster Energy Ultra Strawberry Dreams Drink 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/690694.jpg",
+    "source_id": "Woolworths - 690694",
+    "barcode": "9342866001229",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/391929/monster-ultra-peachy-keen-energy-drink",
+    "name": "Monster Ultra Peachy Keen Energy Drink 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/391929.jpg",
+    "source_id": "Woolworths - 391929",
+    "barcode": "9342866001151",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223752/mother-energy-drink-lava-guava-can",
+    "name": "Mother Energy Drink Lava Guava Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/223752.jpg",
+    "source_id": "Woolworths - 223752",
+    "barcode": "1220000060401",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315125/mother-energy-drink-original-can",
+    "name": "Mother Energy Drink Original Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315125.jpg",
+    "source_id": "Woolworths - 315125",
+    "barcode": "1220000060005",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324461/mother-energy-drink-original-multipack-cans",
+    "name": "Mother Energy Drink Original Multipack Cans 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/324461.jpg",
+    "source_id": "Woolworths - 324461",
+    "barcode": "1220000060395",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "725",
+        "price_per_unit": "363",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/595462/mother-energy-drink-rainbow-sherbet",
+    "name": "Mother Energy Drink Rainbow Sherbet 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/595462.jpg",
+    "source_id": "Woolworths - 595462",
+    "barcode": "1220000062900",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919329/mother-energy-drink-rainbow-sherbet",
+    "name": "Mother Energy Drink Rainbow Sherbet 500mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/919329.jpg",
+    "source_id": "Woolworths - 919329",
+    "barcode": "1220000063020",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "725",
+        "price_per_unit": "363",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221069/mother-energy-drink-zero-sugar-razzle-berry-can",
+    "name": "Mother Mother Energy Drink Zero Sugar Razzle Berry Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221069.jpg",
+    "source_id": "Woolworths - 221069",
+    "barcode": "1220000062306",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "610",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733745/mother-zero-sugar-original-energy-drink",
+    "name": "Mother Zero Sugar Original Energy Drink 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/733745.jpg",
+    "source_id": "Woolworths - 733745",
+    "barcode": "1220000060333",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178289/musashi-energy-drink-purple-grape",
+    "name": "Musashi Energy Drink Purple Grape 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178289.jpg",
+    "source_id": "Woolworths - 178289",
+    "barcode": "9400581051339",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230703/oxyshred-ultra-energy-zero-sugar-passionfruit-can",
+    "name": "OxyShred Ultra Energy Zero Sugar Passionfruit Can 355ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230703.jpg",
+    "source_id": "Woolworths - 230703",
+    "barcode": "850029937265",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/459692/red-bull-sugar-free-energy-drink-can",
+    "name": "Red Bull  Sugar Free Energy Drink Can 473mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/459692.jpg",
+    "source_id": "Woolworths - 459692",
+    "barcode": "9002490229955",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114632/red-bull-energy-drink",
+    "name": "Red Bull Energy Drink 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/114632.jpg",
+    "source_id": "Woolworths - 114632",
+    "barcode": "90435324",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162609/red-bull-energy-drink",
+    "name": "Red Bull Energy Drink 4x250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/162609.jpg",
+    "source_id": "Woolworths - 162609",
+    "barcode": "9002490100759",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1185",
+        "price_per_unit": "1185",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1125",
+        "price_per_unit": "1125",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/940617/red-bull-energy-drink-coconut-edition-sugar-free",
+    "name": "Red Bull Energy Drink Coconut Edition Sugar Free 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/940617.jpg",
+    "source_id": "Woolworths - 940617",
+    "barcode": "90456541",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/192401/red-bull-energy-drink-sugar-free",
+    "name": "Red Bull Energy Drink Sugar Free 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/192401.jpg",
+    "source_id": "Woolworths - 192401",
+    "barcode": "90162800",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226913/red-bull-energy-drink-sugar-free",
+    "name": "Red Bull Energy Drink Sugar Free 4x250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/226913.jpg",
+    "source_id": "Woolworths - 226913",
+    "barcode": "9002490200619",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1185",
+        "price_per_unit": "1185",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1125",
+        "price_per_unit": "1125",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/766988/red-bull-energy-drink-zero",
+    "name": "Red Bull Energy Drink Zero 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/766988.jpg",
+    "source_id": "Woolworths - 766988",
+    "barcode": "90415203",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315686/v-black-energy-drink-guarana",
+    "name": "V Black Energy Drink Guarana 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315686.jpg",
+    "source_id": "Woolworths - 315686",
+    "barcode": "9415767690202",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227048/v-black-guarana-energy-drink",
+    "name": "V Black Guarana Energy Drink 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227048.jpg",
+    "source_id": "Woolworths - 227048",
+    "barcode": "94140910",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/729764/v-energy-blue",
+    "name": "V Energy Blue 250mlx 4",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/729764.jpg",
+    "source_id": "Woolworths - 729764",
+    "barcode": "9415767624689",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116695/v-energy-blue",
+    "name": "V Energy Blue 330ml x6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/116695.jpg",
+    "source_id": "Woolworths - 116695",
+    "barcode": "9415767016774",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705699/v-energy-blue",
+    "name": "V Energy Blue 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/705699.jpg",
+    "source_id": "Woolworths - 705699",
+    "barcode": "9415767624207",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/283475/v-energy-blue-energy-drink-cans",
+    "name": "V Energy Blue Energy Drink Cans 500ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/283475.jpg",
+    "source_id": "Woolworths - 283475",
+    "barcode": "9415767014978",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1550",
+        "price_per_unit": "775",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108466/v-energy-blue-sugar-free",
+    "name": "V Energy Blue Sugar Free 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108466.jpg",
+    "source_id": "Woolworths - 108466",
+    "barcode": "9415767015609",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/331936/v-energy-drink",
+    "name": "V Energy Drink 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/331936.jpg",
+    "source_id": "Woolworths - 331936",
+    "barcode": "9415767677296",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1550",
+        "price_per_unit": "775",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/711024/v-energy-drink-blue-can",
+    "name": "V Energy Drink Blue Can 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/711024.jpg",
+    "source_id": "Woolworths - 711024",
+    "barcode": "94129045",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139864/v-energy-energy-drink",
+    "name": "V Energy Energy Drink 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139864.jpg",
+    "source_id": "Woolworths - 139864",
+    "barcode": "94150957",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315692/v-energy-energy-drink",
+    "name": "V Energy Energy Drink 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315692.jpg",
+    "source_id": "Woolworths - 315692",
+    "barcode": "9415767677203",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195827/v-energy-energy-drink-sugar-free-with-guarana",
+    "name": "V Energy Energy Drink Sugar Free With Guarana 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/195827.jpg",
+    "source_id": "Woolworths - 195827",
+    "barcode": "94129823",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318574/v-energy-refresh-green-apple-lemonade-can",
+    "name": "V Energy Refresh Green Apple & Lemonade Can 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318574.jpg",
+    "source_id": "Woolworths - 318574",
+    "barcode": "9415767019416",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318675/v-energy-refresh-green-apple-lemonade-cans",
+    "name": "V Energy Refresh Green Apple Lemonade Cans 250ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318675.jpg",
+    "source_id": "Woolworths - 318675",
+    "barcode": "9415767019133",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229961/v-energy-refresh-pineapple-watermelon-can",
+    "name": "V Energy Refresh Pineapple & Watermelon Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/229961.jpg",
+    "source_id": "Woolworths - 229961",
+    "barcode": "9415767019201",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228006/v-energy-refresh-pineapple-watermelon-zero-sugar-can",
+    "name": "V Energy Refresh Pineapple & Watermelon Zero Sugar Can 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/228006.jpg",
+    "source_id": "Woolworths - 228006",
+    "barcode": "9415767019225",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227590/v-energy-refresh-pineapple-watermelon-zero-sugar-cans",
+    "name": "V Energy Refresh Pineapple & Watermelon Zero Sugar Cans 250ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227590.jpg",
+    "source_id": "Woolworths - 227590",
+    "barcode": "9415767019065",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/264490/v-energy-sugar-free",
+    "name": "V Energy Sugar Free 250mlx 4",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/264490.jpg",
+    "source_id": "Woolworths - 264490",
+    "barcode": "9415767676688",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174412/v-energy-sugarfree-blue-guarana-energy-drink",
+    "name": "V Energy Sugarfree Blue Guarana Energy Drink 250mlx 4pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/174412.jpg",
+    "source_id": "Woolworths - 174412",
+    "barcode": "9415767015647",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132815/v-original-guarana-energy-drink",
+    "name": "V Original Guarana Energy Drink",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/132815.jpg",
+    "source_id": "Woolworths - 132815",
+    "barcode": "9415767677685",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909063/v-refresh-blackcurrant-yuzu-energy-drink",
+    "name": "V Refresh Blackcurrant & Yuzu Energy Drink 250mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/909063.jpg",
+    "source_id": "Woolworths - 909063",
+    "barcode": "9415767011113",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "1045",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908693/v-refresh-energy-drink-zero-sugar-blackcurrant-yuzu",
+    "name": "V Refresh Energy Drink Zero Sugar Blackcurrant & Yuzu 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908693.jpg",
+    "source_id": "Woolworths - 908693",
+    "barcode": "9415767011281",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318545/v-refresh-green-apple-lemonade",
+    "name": "V Refresh Green Apple Lemonade 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318545.jpg",
+    "source_id": "Woolworths - 318545",
+    "barcode": "9415767019393",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757791/alani-dream-float-energy-drink",
+    "name": "Alani Dream Float Energy Drink 355mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/757791.jpg",
+    "source_id": "Woolworths - 757791",
+    "barcode": "9360931000007",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307662/c4-smart-energy-drink-watermelon-burst",
+    "name": "C4 Smart Energy Drink Watermelon Burst 473ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307662.jpg",
+    "source_id": "Woolworths - 307662",
+    "barcode": "9358777000091",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307009/c4-smart-energy-icy-blue-razz-can",
+    "name": "C4 Smart Energy Icy Blue Razz Can 473ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307009.jpg",
+    "source_id": "Woolworths - 307009",
+    "barcode": "9358777000114",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1163",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911092/celsius-energy-drink-sparkling-cosmic-vibe-can",
+    "name": "Celsius Energy Drink Sparkling Cosmic Vibe Can 330mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/911092.jpg",
+    "source_id": "Woolworths - 911092",
+    "barcode": "9415767013964",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911019/celsius-energy-drink-sparkling-watermelon-lemonade-can",
+    "name": "Celsius Energy Drink Sparkling Watermelon Lemonade Can 330mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/911019.jpg",
+    "source_id": "Woolworths - 911019",
+    "barcode": "9415767013971",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769415/lucozade-orange-energy-drink",
+    "name": "Lucozade Orange Energy Drink 380ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/769415.jpg",
+    "source_id": "Woolworths - 769415",
+    "barcode": "9300673814807",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "921",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "921",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "921",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "921",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "335",
+        "price_per_unit": "882",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "921",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "921",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/361734/monster-energy-green-multipack-cans",
+    "name": "Monster Energy Green Multipack Cans 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/361734.jpg",
+    "source_id": "Woolworths - 361734",
+    "barcode": "9342866000208",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/275018/monster-energy-ultra-gold-cans",
+    "name": "Monster Energy Ultra Gold Cans 500ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/275018.jpg",
+    "source_id": "Woolworths - 275018",
+    "barcode": "9342866001076",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690722/monster-energy-zero-sugar-cans",
+    "name": "Monster Energy Zero Sugar Cans 500mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/690722.jpg",
+    "source_id": "Woolworths - 690722",
+    "barcode": "9342866001205",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1475",
+        "price_per_unit": "738",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1520",
+        "price_per_unit": "760",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/231564/monster-papillon-can",
+    "name": "Monster Papillon Can 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/231564.jpg",
+    "source_id": "Woolworths - 231564",
+    "barcode": "9342866001113",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "850",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793509/mother-energy-drink-frosty-berry-multipack-cans",
+    "name": "Mother Energy Drink Frosty Berry Multipack Cans 500ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/793509.jpg",
+    "source_id": "Woolworths - 793509",
+    "barcode": "1220000060319",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108153/mother-energy-drink-orange-dreamsicle",
+    "name": "Mother Energy Drink Orange Dreamsicle 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108153.jpg",
+    "source_id": "Woolworths - 108153",
+    "barcode": "1220000063044",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "630",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223932/mother-lava-guava-energy-drink-cans",
+    "name": "Mother Lava Guava Energy Drink Cans 500ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/223932.jpg",
+    "source_id": "Woolworths - 223932",
+    "barcode": "1220000060432",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/372219/musashi-energy-drink-lemonade",
+    "name": "Musashi Energy Drink Lemonade 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/372219.jpg",
+    "source_id": "Woolworths - 372219",
+    "barcode": "9400581052756",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239289/musashi-energy-drink-zero-sugar-green-apple",
+    "name": "Musashi Energy Drink Zero Sugar Green Apple 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/239289.jpg",
+    "source_id": "Woolworths - 239289",
+    "barcode": "9400581052077",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/968341/oxyshred-energy-drink-juicy-watermelon-cans",
+    "name": "OxyShred Energy Drink Juicy Watermelon Cans 355mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/968341.jpg",
+    "source_id": "Woolworths - 968341",
+    "barcode": "810095635717",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/971072/oxyshred-energy-drink-lychee-burst",
+    "name": "OxyShred Energy Drink Lychee Burst 355mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/971072.jpg",
+    "source_id": "Woolworths - 971072",
+    "barcode": "810095634321",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/971011/oxyshred-energy-drink-passionfruit-zero-sugar",
+    "name": "OxyShred Energy Drink Passionfruit Zero Sugar 355mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/971011.jpg",
+    "source_id": "Woolworths - 971011",
+    "barcode": "810095635700",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "1268",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/969885/oxyshred-energy-drink-voodoo-blackberry",
+    "name": "OxyShred Energy Drink Voodoo Blackberry 355mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/969885.jpg",
+    "source_id": "Woolworths - 969885",
+    "barcode": "810095634291",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230862/oxyshred-ultra-energy-zero-sugar-kiwi-strawberry-can",
+    "name": "OxyShred Ultra Energy Zero Sugar Kiwi Strawberry Can 355ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230862.jpg",
+    "source_id": "Woolworths - 230862",
+    "barcode": "850029937258",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1690",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/327603/red-bull-energy-drink",
+    "name": "Red Bull Energy Drink 473ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/327603.jpg",
+    "source_id": "Woolworths - 327603",
+    "barcode": "9002490243319",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "1036",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "510",
+        "price_per_unit": "1078",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679135/red-bull-energy-drink",
+    "name": "Red Bull Energy Drink 473ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/679135.jpg",
+    "source_id": "Woolworths - 679135",
+    "barcode": "9002490238438",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1745",
+        "price_per_unit": "922",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1890",
+        "price_per_unit": "999",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223875/red-bull-energy-drink-cans",
+    "name": "Red Bull Energy Drink Cans 12 x250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/223875.jpg",
+    "source_id": "Woolworths - 223875",
+    "barcode": "9002490254476",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/331784/red-bull-energy-drink-cans",
+    "name": "Red Bull Energy Drink Cans 250ml x8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/331784.jpg",
+    "source_id": "Woolworths - 331784",
+    "barcode": "9002490210434",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1330",
+        "price_per_unit": "665",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944355/red-bull-energy-drink-sugar-free",
+    "name": "Red Bull Energy Drink Sugar Free 473mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944355.jpg",
+    "source_id": "Woolworths - 944355",
+    "barcode": "9002490260965",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "951",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1890",
+        "price_per_unit": "999",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953142/red-bull-energy-drink-sugar-free-cans",
+    "name": "Red Bull Energy Drink Sugar Free Cans 250mL x 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/953142.jpg",
+    "source_id": "Woolworths - 953142",
+    "barcode": "9002490260972",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220969/red-bull-energy-drink-sugar-free-cans",
+    "name": "Red Bull Energy Drink Sugar Free Cans 8 x250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220969.jpg",
+    "source_id": "Woolworths - 220969",
+    "barcode": "9002490242251",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1330",
+        "price_per_unit": "665",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "735",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/916530/red-bull-energy-drink-the-summer-edition-blueberry-flavour-can",
+    "name": "Red Bull Energy Drink The Summer Edition Blueberry Flavour Can 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/916530.jpg",
+    "source_id": "Woolworths - 916530",
+    "barcode": "90456916",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/767252/red-bull-energy-drink-zero",
+    "name": "Red Bull Energy Drink Zero 4x250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/767252.jpg",
+    "source_id": "Woolworths - 767252",
+    "barcode": "9002490223649",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1185",
+        "price_per_unit": "1185",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38566/red-eye-energy-drink-classic",
+    "name": "Red Eye Energy Drink Classic 330mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038566.jpg",
+    "source_id": "Woolworths - 38566",
+    "barcode": "9318656001007",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972489/rockit-energy-drink-cans",
+    "name": "Rockit Energy Drink Cans 330mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972489.jpg",
+    "source_id": "Woolworths - 972489",
+    "barcode": "9351139000036",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/332724/rockstar-guava-punched-energy-drink",
+    "name": "Rockstar Guava Punched Energy Drink 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/332724.jpg",
+    "source_id": "Woolworths - 332724",
+    "barcode": "818094004626",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935976/v-black-energy-drink-cans",
+    "name": "V Black Energy Drink Cans 500mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935976.jpg",
+    "source_id": "Woolworths - 935976",
+    "barcode": "9415767118447",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117141/v-energy-green",
+    "name": "V Energy Green 330ml x6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/117141.jpg",
+    "source_id": "Woolworths - 117141",
+    "barcode": "9415767016767",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "631",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112438/v-energy-sugar-free-blue",
+    "name": "V Energy Sugar Free Blue 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/112438.jpg",
+    "source_id": "Woolworths - 112438",
+    "barcode": "9415767015616",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/82625/red-bull-red-edition",
+    "name": "Red Bull Red Edition 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/082625.jpg",
+    "source_id": "Woolworths - 82625",
+    "barcode": "90435850",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935752/red-bull-the-tropical-edition",
+    "name": "Red Bull The Tropical Edition 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935752.jpg",
+    "source_id": "Woolworths - 935752",
+    "barcode": "90415845",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "1040",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6002731/red-bull-energy-drink-variety",
+    "name": "Red Bull Energy Drink Variety 250mL x 8 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6002731.jpg",
+    "source_id": "Woolworths - 6002731",
+    "barcode": "9002490277697",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/803888/monster-energy-pipeline-punch-can",
+    "name": "Monster Energy Pipeline Punch Can 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/803888.jpg",
+    "source_id": "Woolworths - 803888",
+    "barcode": "9342866000772",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "405",
+        "price_per_unit": "810",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

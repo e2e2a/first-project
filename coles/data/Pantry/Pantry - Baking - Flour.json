@@ -1,0 +1,3620 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-plain-flour-2kg-5880841",
+    "name": "Coles White Plain Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5880841.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270593",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/healthy-baker-flour-self-raising-1kg-6481058",
+    "name": "Healthy Baker Flour Self Raising | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6481058.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310071111811",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "341",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-plain-flour-1kg-119455",
+    "name": "White Wings Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119455.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310060003516",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-plain-flour-2kg-119466",
+    "name": "White Wings Plain Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119466.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300676510539",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-self-raising-flour-1kg-119535",
+    "name": "White Wings Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119535.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310060003509",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-self-raising-flour-2kg-119546",
+    "name": "White Wings Self Raising Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119546.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300676510294",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coco-earth-almond-flour-300g-3767837",
+    "name": "Coco Earth Almond Flour | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3767837.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9349580004710",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3500",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coco-earth-oat-flour-250g-3767848",
+    "name": "Coco Earth Oat Flour | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3767848.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9349580004727",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1280",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1280",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1280",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1280",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1280",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1280",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1344",
+        "price_per_unit": "336",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coco-earth-certified-organic-coconut-flour-500g-3767815",
+    "name": "Coco Earth Certified Organic Coconut Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3767815.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9349580004697",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coco-earth-almond-flour-700g-5525340",
+    "name": "Coco Earth Almond Flour | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5525340.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9349580005052",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2714",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2714",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2714",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2714",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2714",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2714",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2850",
+        "price_per_unit": "1995",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-plain-flour-1kg-5881232",
+    "name": "Coles White Plain Flour | 1Kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5881232.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270609",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-self-raising-flour-2kg-5881265",
+    "name": "Coles White Self Raising Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5881265.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270579",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "135",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cornflour-300g-7352902",
+    "name": "Coles Cornflour | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7352902.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645393599",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-self-raising-flour-1kg-5881141",
+    "name": "Coles White Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5881141.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270586",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-rice-flour-gluten-free-375g-199206",
+    "name": "McKenzie's Rice Flour Gluten Free | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F199206.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310061142207",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "477",
+        "price_per_unit": "179",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-cornflour-gluten-free-300g-7404813",
+    "name": "White Wings Cornflour Gluten Free | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7404813.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310060006432",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1133",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1133",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1133",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1133",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1133",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/healthy-baker-flour-plain-1kg-6480918",
+    "name": "Healthy Baker Flour Plain | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6480918.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310071111828",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "341",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-free-from-plain-flour-gluten-free-500g-2478197",
+    "name": "Coles I'M Free From Plain Flour Gluten Free | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2478197.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645109534",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-gluten-free-self-raising-flour-500g-2478200",
+    "name": "Coles Gluten Free Self Raising Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2478200.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645109541",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-wholemeal-plain-flour-1-kg-5880943",
+    "name": "Coles Wholemeal Plain Flour | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5880943.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270562",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tandaco-dry-yeast-35g-5140878",
+    "name": "Tandaco Dry Yeast | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5140878.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300681225350",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "294",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lighthouse-bread-and-pizza-plain-flour-1kg-5895930",
+    "name": "Lighthouse Bread & Pizza Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895930.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609218624",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lowan-instant-dried-yeast-280g-9442391",
+    "name": "Lowan Instant Dried Yeast | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9442391.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310598500211",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "171",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "171",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "171",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "171",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "171",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "171",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "504",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/orgran-gluten-free-all-purpose-plain-flour-500g-8907220",
+    "name": "Orgran Gluten Free All Purpose Plain Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8907220.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "882",
+        "price_per_unit": "441",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-wholemeal-self-raising-flour-1kg-5880830",
+    "name": "Coles Wholemeal Self Raising Flour | 1Kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5880830.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270555",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-kind-harvest-plain-flour-1kg-3767780",
+    "name": "The Kind Harvest Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3767780.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310146400017",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tandaco-yeast-84g-5150587",
+    "name": "Tandaco Yeast | 84g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5150587.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300681225114",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "84g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "655",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "688",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lighthouse-biscuit-pastry-and-cake-plain-flour-1kg-5895893",
+    "name": "Lighthouse Biscuit, Pastry & Cake Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895893.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609218594",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/orgran-gluten-free-self-raising-flour-500g-8907252",
+    "name": "Orgran Gluten Free Self Raising Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8907252.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "882",
+        "price_per_unit": "441",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-molisana-farina-00-di-grano-tenero-flour-1kg-9926558",
+    "name": "La Molisana Farina 00 Di Grano Tenero Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9926558.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "8004690278314",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "378",
+        "price_per_unit": "378",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-gluten-free-plain-flour-500g-8137836",
+    "name": "White Wings Gluten Free Plain Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8137836.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-kind-harvest-plain-flour-2kg-4354741",
+    "name": "The Kind Harvest Plain Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4354741.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310146400079",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "237",
+        "price_per_unit": "473",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-kind-harvest-self-raising-flour-1kg-3767790",
+    "name": "The Kind Harvest Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3767790.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310146400024",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-wholemeal-plain-flour-1kg-4418899",
+    "name": "White Wings Wholemeal Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4418899.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310047207197",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "378",
+        "price_per_unit": "378",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-gluten-free-self-raising-flour-500g-8137789",
+    "name": "White Wings Gluten Free Self Raising Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8137789.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-plain-flour-1kg-9651019",
+    "name": "Coles Organic Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9651019.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601212705",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sostanza-polenta-500g-5843765",
+    "name": "Sostanza Polenta | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5843765.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9320083000089",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-kind-harvest-self-raising-flour-2kg-4354763",
+    "name": "The Kind Harvest Self Raising Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4354763.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310146400086",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "237",
+        "price_per_unit": "473",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cucina-matese-tipo-00-extra-fine-flour-1kg-6542560",
+    "name": "Cucina Matese Tipo 00 Extra Fine Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6542560.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645418179",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-wholemeal-self-raising-flour-1kg-4681996",
+    "name": "White Wings Wholemeal Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4681996.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310047207180",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "378",
+        "price_per_unit": "378",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lighthouse-yeast-+-bread-improver-70g-3767768",
+    "name": "Lighthouse Yeast + Bread Improver | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3767768.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609107577",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "886",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "930",
+        "price_per_unit": "651",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lighthouse-pasta-tipo-plain-flour-1kg-5895918",
+    "name": "Lighthouse Pasta Tipo Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895918.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609218617",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caputo-pizzeria-00-flour-1kg-8165220",
+    "name": "Caputo Pizzeria 00 Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8165220.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "473",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sostanza-semolina-crushed-wheat-500g-5077126",
+    "name": "Sostanza Semolina Crushed Wheat | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5077126.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9320083000133",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-chick-pea-flour-resealable-330g-7488948",
+    "name": "Mckenzie's Chick Pea Flour Resealable | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488948.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310061125705",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-self-raising-flour-1kg-9651030",
+    "name": "Coles Organic Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9651030.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601212712",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wellness-road-australian-almond-flour-300g-3118164",
+    "name": "Wellness Road Australian Almond Flour | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3118164.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9348372607641",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3333",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cucina-matese-semolina-pure-durum-wheat-1kg-6542673",
+    "name": "Cucina Matese Semolina Pure Durum Wheat | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6542673.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645418186",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wellness-road-organic-spelt-wholemeal-flour-750g-1436340",
+    "name": "Wellness Road Organic Spelt Wholemeal Flour | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1436340.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601965977",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-buckwheat-flour-resealable-300g-7488970",
+    "name": "Mckenzie's Buckwheat Flour Resealable | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488970.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310061125743",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lighthouse-cake-sponge-and-steamed-bun-self-raising-flour-1kg-5895907",
+    "name": "Lighthouse Cake, Sponge & Steamed Bun Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895907.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609227671",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wellness-road-organic-buckwheat-flour-500g-8667807",
+    "name": "Wellness Road Organic Buckwheat Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8667807.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601512683",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-wholemeal-spelt-flour-resealable-300g-7488981",
+    "name": "Mckenzie's Wholemeal Spelt Flour Resealable | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488981.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310061125750",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-pizza-and-focaccia-flour-mix-1kg-3234143",
+    "name": "Laucke Pizza & Focaccia Flour Mix | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3234143.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9321885002035",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-tapioca-flour-resealable-300g-7488960",
+    "name": "Mckenzie's Tapioca Flour Resealable | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488960.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310061125736",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/simply-wize-gluten-free-crusty-bread-330g-7482748",
+    "name": "Simply Wize Gluten Free Crusty Bread | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7482748.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9343317000204",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1818",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1818",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2182",
+        "price_per_unit": "720",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2179",
+        "price_per_unit": "719",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2182",
+        "price_per_unit": "720",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1818",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2288",
+        "price_per_unit": "755",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lion-classics-scone-mix-535g-7384986",
+    "name": "Lion Classics Scone Mix | 535g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7384986.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609223246",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "535g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "729",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "766",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lo-fo-pantry-low-fodmap-plain-flour-1-kg-3236262",
+    "name": "Lo-fo Pantry Low Fodmap Plain Flour | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3236262.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9353856112887",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-cwa-scone-mix-1kg-3234154",
+    "name": "Laucke CWA Scone Mix | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3234154.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9321885003018",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "615",
+        "price_per_unit": "615",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "615",
+        "price_per_unit": "615",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "615",
+        "price_per_unit": "615",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "615",
+        "price_per_unit": "615",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "615",
+        "price_per_unit": "615",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "615",
+        "price_per_unit": "615",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "646",
+        "price_per_unit": "646",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coco-earth-organic-corn-flour-1kg-8129452",
+    "name": "Coco Earth Organic Corn Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8129452.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/snaxx-keto-mini-pizza-bases-4-pack-120g-8071910",
+    "name": "Snaxx Keto Mini Pizza Bases 4 Pack | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8071910.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/get-ya-yum-on-60-sec-keto-pizza-base-herb-and-garlic-60g-8073675",
+    "name": "Get Ya Yum On 60 Sec Keto Pizza Base - Herb & Garlic | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8073675.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1033",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/get-ya-yum-on-60-sec-keto-pizza-base-value-pack-herb-and-garlic-5-individual-bases-300g-8074135",
+    "name": "Get Ya Yum On 60 Sec Keto Pizza Base Value Pack - Herb And Garlic - 5 Individual Bases | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8074135.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1950",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/anchor-lion-plain-flour-1kg-6641744",
+    "name": "Anchor Lion Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6641744.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609221808",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "305",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/anchor-lion-self-raising-flour-2kg-7373764",
+    "name": "Anchor Lion Self Raising Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7373764.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609222133",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nurses-cornflour-500g-119433",
+    "name": "Nurses Cornflour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119433.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9331333000018",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "710",
+        "price_per_unit": "355",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "710",
+        "price_per_unit": "355",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "746",
+        "price_per_unit": "373",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/anchor-lion-plain-flour-2kg-7373753",
+    "name": "Anchor Lion Plain Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7373753.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609222126",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/anchor-lion-self-raising-flour-1kg-6641755",
+    "name": "Anchor Lion Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6641755.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300609221815",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "305",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/four-roses-poly-plain-flour-1kg-138992",
+    "name": "Four Roses Poly Plain Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F138992.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300674000131",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "130",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/four-roses-poly-self-raising-flour-1kg-139044",
+    "name": "Four Roses Poly Self Raising Flour | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F139044.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300674000087",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "130",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/four-roses-poly-plain-flour-2kg-139000",
+    "name": "Four Roses Poly Plain Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F139000.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300674000148",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/four-roses-poly-self-raising-flour-2kg-139011",
+    "name": "Four Roses Poly Self Raising Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F139011.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300674000094",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-corn-kernels-500g-428154",
+    "name": "McCain Frozen Corn Kernels | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F428154.jpg&w=640&q=90",
+    "barcode": "9310174006403",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90838/mccain-corn-kernels",
+    "name": "McCain Corn Kernels 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/090838.jpg",
+    "barcode": "9310174006403",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147947/aussie-sprouts-alfalfa-sprouts",
+    "name": "Aussie Sprouts Alfalfa Sprouts 125g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/147947.jpg",
+    "source_id": "Woolworths - 147947",
+    "barcode": "93245975",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133687/aussie-sprouts-bean-sprouts-bean-shoot",
+    "name": "Aussie Sprouts Bean Sprouts 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133687.jpg",
+    "source_id": "Woolworths - 133687",
+    "barcode": "9300633443733",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/127101/aussie-sprouts-pea-shoots",
+    "name": "Aussie Sprouts Pea Shoots 100g Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/127101.jpg",
+    "source_id": "Woolworths - 127101",
+    "barcode": "9300633609634",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6620 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680956/betty-crocker-chocolate-gluten-free-frosting",
+    "name": "Betty Crocker Chocolate Gluten Free Frosting 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/680956.jpg",
+    "source_id": "Woolworths - 680956",
+    "barcode": "9300695007591",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680971/betty-crocker-vanilla-gluten-free-frosting",
+    "name": "Betty Crocker Vanilla Gluten Free Frosting 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/680971.jpg",
+    "source_id": "Woolworths - 680971",
+    "barcode": "9300695007607",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829009/cadbury-baking-dark-chocolate-melts",
+    "name": "Cadbury Baking Dark Chocolate Melts 225g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829009.jpg",
+    "source_id": "Woolworths - 829009",
+    "barcode": "9300617052715",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829004/cadbury-baking-milk-chocolate-chips",
+    "name": "Cadbury Baking Milk Chocolate Chips 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829004.jpg",
+    "source_id": "Woolworths - 829004",
+    "barcode": "9300617052982",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829005/cadbury-baking-milk-chocolate-melts",
+    "name": "Cadbury Baking Milk Chocolate Melts 225g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829005.jpg",
+    "source_id": "Woolworths - 829005",
+    "barcode": "9300617052838",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/264091/dollar-sweets-100-s-1000-s",
+    "name": "Dollar Sweets 100's & 1000's 190G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/264091.jpg",
+    "source_id": "Woolworths - 264091",
+    "barcode": "9310331000442",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83593/dollar-sweets-gold-lustre-shimmer-spray",
+    "name": "Dollar Sweets Gold Lustre Shimmer Spray 4g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083593.jpg",
+    "source_id": "Woolworths - 83593",
+    "barcode": "9310331475431",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "15000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39128/essentials-cornflour",
+    "name": "Essentials Cornflour 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039128.jpg",
+    "source_id": "Woolworths - 39128",
+    "barcode": "9300633391287",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30309/fowlers-baking-aids-vacola-jamsetta",
+    "name": "Fowlers Baking Aids Vacola Jamsetta 50g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/030309.jpg",
+    "source_id": "Woolworths - 30309",
+    "barcode": "9310186130059",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55898/il-molino-instant-polenta-corn-meal",
+    "name": "Il Molino Instant Polenta Corn Meal 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055898.jpg",
+    "source_id": "Woolworths - 55898",
+    "barcode": "8009550007721",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579236/macro-organic-buckwheat-flour",
+    "name": "Macro Organic Buckwheat Flour 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/579236.jpg",
+    "source_id": "Woolworths - 579236",
+    "barcode": "9300633636500",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142421/mckenzie-s-almond-flour",
+    "name": "McKenzie's Almond Flour 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/142421.jpg",
+    "source_id": "Woolworths - 142421",
+    "barcode": "9310061125781",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226010/mckenzie-s-arrowroot-tapioca-flour",
+    "name": "McKenzie's Arrowroot Tapioca Flour 175g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/226010.jpg",
+    "source_id": "Woolworths - 226010",
+    "barcode": "9310061002020",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "165",
+        "price_per_unit": "943",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "1143",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/255257/mckenzie-s-baking-aids-gelatine",
+    "name": "McKenzie's Baking Aids Gelatine 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/255257.jpg",
+    "source_id": "Woolworths - 255257",
+    "barcode": "9310061091949",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/7932/mckenzie-s-baking-powder",
+    "name": "McKenzie's Baking Powder 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/007932.jpg",
+    "source_id": "Woolworths - 7932",
+    "barcode": "9310061122865",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "302",
+        "price_per_unit": "242",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/75201/mckenzie-s-bi-carb-soda",
+    "name": "McKenzie's Bi Carb Soda 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/075201.jpg",
+    "source_id": "Woolworths - 75201",
+    "barcode": "9310061462206",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/788462/mckenzie-s-coconut-flour",
+    "name": "McKenzie's Coconut Flour 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/788462.jpg",
+    "source_id": "Woolworths - 788462",
+    "barcode": "9310061125712",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94275/mckenzie-s-rice-flour",
+    "name": "McKenzie's Rice Flour 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/094275.jpg",
+    "source_id": "Woolworths - 94275",
+    "barcode": "9310061142207",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490001/nestle-bakers-choice-milk-choc-melts",
+    "name": "Nestle Bakers' Choice Milk Choc Melts 290g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490001.jpg",
+    "source_id": "Woolworths - 490001",
+    "barcode": "9300605107502",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490010/nestle-bakers-choice-white-choc-melts",
+    "name": "Nestle Bakers' Choice White Choc Melts 290g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490010.jpg",
+    "source_id": "Woolworths - 490010",
+    "barcode": "9300605107540",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85133/nestle-top-n-fill-caramel",
+    "name": "Nestle Top n Fill Caramel 395g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/085133.jpg",
+    "source_id": "Woolworths - 85133",
+    "barcode": "9300605133228",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "149",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490091/queen-finest-single-origin-extract-madagascar",
+    "name": "Queen Finest Single Origin Extract Madagascar 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490091.jpg",
+    "source_id": "Woolworths - 490091",
+    "barcode": "93641241",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/115233/queen-natural-vanilla-concentrated-extract",
+    "name": "Queen Natural Vanilla Concentrated Extract 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/115233.jpg",
+    "source_id": "Woolworths - 115233",
+    "barcode": "9300641000386",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "740",
+        "price_per_unit": "1480",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143014/queen-natural-vanilla-extract",
+    "name": "Queen Natural Vanilla Extract 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143014.jpg",
+    "source_id": "Woolworths - 143014",
+    "barcode": "9300641004117",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/786237/queen-organic-vanilla-bean-paste",
+    "name": "Queen Organic Vanilla Bean Paste 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/786237.jpg",
+    "source_id": "Woolworths - 786237",
+    "barcode": "9300641002632",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225399/queen-organic-vanilla-bean-paste",
+    "name": "Queen Organic Vanilla Bean Paste 65g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/225399.jpg",
+    "source_id": "Woolworths - 225399",
+    "barcode": "9300641000997",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37419/queen-organic-vanilla-extract",
+    "name": "Queen Organic Vanilla Extract 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037419.jpg",
+    "source_id": "Woolworths - 37419",
+    "barcode": "93641029",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662589/queen-roses-icing-decorations",
+    "name": "Queen Roses Icing Decorations 16 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/662589.jpg",
+    "source_id": "Woolworths - 662589",
+    "barcode": "9350086000243",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "1875",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774154/queen-writing-icing",
+    "name": "Queen Writing Icing 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/774154.jpg",
+    "source_id": "Woolworths - 774154",
+    "barcode": "9300641002342",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307853/sshmallows-cake-decoration-mallows-mini-assorted",
+    "name": "Sshmallows Cake Decoration Mallows Mini Assorted 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307853.jpg",
+    "source_id": "Woolworths - 307853",
+    "barcode": "9328418001015",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "202",
+        "price_per_unit": "202",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/293237/white-wings-cornflour",
+    "name": "White Wings Cornflour 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/293237.jpg",
+    "source_id": "Woolworths - 293237",
+    "barcode": "9310047210258",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "340",
+        "price_per_unit": "1133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "355",
+        "price_per_unit": "1183",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142200/white-wings-gluten-free-plain-flour",
+    "name": "White Wings Gluten Free Plain Flour 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/142200.jpg",
+    "source_id": "Woolworths - 142200",
+    "barcode": "9310047220813",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141350/white-wings-gluten-free-self-raising-flour",
+    "name": "White Wings Gluten Free Self Raising Flour 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141350.jpg",
+    "source_id": "Woolworths - 141350",
+    "barcode": "9310047220820",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/770057/woolworths-free-from-gluten-plain-flour",
+    "name": "Woolworths Free From Gluten Plain Flour 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/770057.jpg",
+    "source_id": "Woolworths - 770057",
+    "barcode": "9300633453084",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149218/woolworths-vanilla-extract",
+    "name": "Woolworths Vanilla Extract 200ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/149218.jpg",
+    "source_id": "Woolworths - 149218",
+    "barcode": "9339687245772",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/898454/australia-s-own-uht-whipping-cream",
+    "name": "Australia's Own UHT Whipping Cream 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/898454.jpg",
+    "source_id": "Woolworths - 898454",
+    "barcode": "9315090214420",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793245/betty-crocker-chocolate-fudge-gluten-free-brownie-mix",
+    "name": "Betty Crocker Chocolate Fudge Gluten Free Brownie Mix 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/793245.jpg",
+    "source_id": "Woolworths - 793245",
+    "barcode": "9300695006419",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680970/betty-crocker-chocolate-fudge-gluten-free-frosting",
+    "name": "Betty Crocker Chocolate Fudge Gluten Free Frosting 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/680970.jpg",
+    "source_id": "Woolworths - 680970",
+    "barcode": "9300695007645",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680973/betty-crocker-strawberry-gluten-free-frosting",
+    "name": "Betty Crocker Strawberry Gluten Free Frosting 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/680973.jpg",
+    "source_id": "Woolworths - 680973",
+    "barcode": "9300695007614",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/474367/betty-crocker-vanilla-gluten-free-cupcake-mix",
+    "name": "Betty Crocker Vanilla Gluten Free Cupcake Mix 460g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/474367.jpg",
+    "source_id": "Woolworths - 474367",
+    "barcode": "9300695007041",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "174",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/267413/cadbury-baking-bournville-cocoa-powder",
+    "name": "Cadbury Baking Bournville Cocoa Powder 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/267413.jpg",
+    "source_id": "Woolworths - 267413",
+    "barcode": "9300617432739",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828994/cadbury-baking-dark-chocolate-chips",
+    "name": "Cadbury Baking Dark Chocolate Chips 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/828994.jpg",
+    "source_id": "Woolworths - 828994",
+    "barcode": "9300617052883",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208101/cadbury-baking-milk-chocolate-chips-value-pack",
+    "name": "Cadbury Baking Milk Chocolate Chips Value Pack 410g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/208101.jpg",
+    "source_id": "Woolworths - 208101",
+    "barcode": "9300617297314",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "146",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490219/cadbury-baking-white-chocolate-chips",
+    "name": "Cadbury Baking White Chocolate Chips 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490219.jpg",
+    "source_id": "Woolworths - 490219",
+    "barcode": "9300617052937",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699576/csr-all-natural-buttercream-icing-mix-chocolate",
+    "name": "CSR All Natural Buttercream Icing Mix Chocolate 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/699576.jpg",
+    "source_id": "Woolworths - 699576",
+    "barcode": "9313010001204",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699577/csr-all-natural-buttercream-icing-mix-vanilla",
+    "name": "CSR All Natural Buttercream Icing Mix Vanilla 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/699577.jpg",
+    "source_id": "Woolworths - 699577",
+    "barcode": "9313010001211",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147762/dollar-sweets-artificial-food-colours",
+    "name": "Dollar Sweets Artificial Food Colours 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/147762.jpg",
+    "source_id": "Woolworths - 147762",
+    "barcode": "9310331475899",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "92",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773763/dollar-sweets-cake-decoration-fairy-toppings",
+    "name": "Dollar Sweets Cake Decoration Fairy Toppings 145g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773763.jpg",
+    "source_id": "Woolworths - 773763",
+    "barcode": "9310331473802",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "434",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804132/dollar-sweets-icing-decorations-unicorn-rainbow",
+    "name": "Dollar Sweets Icing Decorations Unicorn & Rainbow 12 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804132.jpg",
+    "source_id": "Woolworths - 804132",
+    "barcode": "9310331474892",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773761/dollar-sweets-sprinkles-pirate-toppings",
+    "name": "Dollar Sweets Sprinkles Pirate Toppings 145g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773761.jpg",
+    "source_id": "Woolworths - 773761",
+    "barcode": "9310331473796",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/449941/dr-oetker-edible-decorations-giant-chocolate-stars",
+    "name": "Dr. Oetker Edible Decorations Giant Chocolate Stars 20g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/449941.jpg",
+    "source_id": "Woolworths - 449941",
+    "barcode": "9344988005192",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "2125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/449918/dr-oetker-gelatine-powder",
+    "name": "Dr. Oetker Gelatine Powder 36g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/449918.jpg",
+    "source_id": "Woolworths - 449918",
+    "barcode": "9344988005321",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "681",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251189/essentials-bicarbonate-soda",
+    "name": "Essentials Bicarbonate Soda 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/251189.jpg",
+    "source_id": "Woolworths - 251189",
+    "barcode": "9300633929640",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44628/essentials-cooking-chocolate-dark",
+    "name": "Essentials Cooking Chocolate Dark 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/044628.jpg",
+    "source_id": "Woolworths - 44628",
+    "barcode": "9300633446284",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18145/essentials-cooking-chocolate-milk",
+    "name": "Essentials Cooking Chocolate Milk 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018145.jpg",
+    "source_id": "Woolworths - 18145",
+    "barcode": "9300633181451",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/970819/green-s-buttermilk-pancake-shake-mix-gluten-free",
+    "name": "Green's Buttermilk Pancake Shake Mix Gluten Free 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/970819.jpg",
+    "source_id": "Woolworths - 970819",
+    "barcode": "9310273115884",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/970815/green-s-classic-chocolate-cake-gluten-free",
+    "name": "Green's Classic Chocolate Cake Gluten Free 470g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/970815.jpg",
+    "source_id": "Woolworths - 970815",
+    "barcode": "9310273115754",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/282615/green-s-gluten-free-apple-cinnamon-muffin-mix",
+    "name": "Green's Gluten Free Apple & Cinnamon Muffin Mix 385g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/282615.jpg",
+    "source_id": "Woolworths - 282615",
+    "barcode": "9310273002412",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/929287/green-s-gluten-free-golden-butter-cake-mix",
+    "name": "Green's Gluten Free Golden Butter Cake Mix 470g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/929287.jpg",
+    "source_id": "Woolworths - 929287",
+    "barcode": "9310273115761",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/889284/green-s-gluten-free-vanilla-cake-mix",
+    "name": "Green's Gluten Free Vanilla Cake Mix 470g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/889284.jpg",
+    "source_id": "Woolworths - 889284",
+    "barcode": "9310273002870",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/808850/heilala-baking-blend-vanilla-bean-paste",
+    "name": "Heilala Baking Blend Vanilla Bean Paste 65g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/808850.jpg",
+    "source_id": "Woolworths - 808850",
+    "barcode": "9421905244022",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "1215",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1215",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "1215",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "1215",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "790",
+        "price_per_unit": "1215",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "1215",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108762/heilala-vanilla-extract-with-seeds",
+    "name": "Heilala Vanilla Extract With Seeds 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108762.jpg",
+    "source_id": "Woolworths - 108762",
+    "barcode": "9421905244169",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55897/il-molino-polenta-bramata-traditional",
+    "name": "Il Molino Polenta Bramata Traditional 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055897.jpg",
+    "source_id": "Woolworths - 55897",
+    "barcode": "8009550007622",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574616/mckenzie-s-baking-powder",
+    "name": "McKenzie's Baking Powder 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/574616.jpg",
+    "source_id": "Woolworths - 574616",
+    "barcode": "9310061124067",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "555",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "555",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "555",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "555",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "555",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "555",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/428726/mckenzie-s-bi-carb-soda",
+    "name": "McKenzie's Bi Carb Soda 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/428726.jpg",
+    "source_id": "Woolworths - 428726",
+    "barcode": "9310061042156",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "410",
+        "price_per_unit": "41",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/347118/mckenzie-s-bi-carb-soda",
+    "name": "McKenzie's Bi Carb Soda 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/347118.jpg",
+    "source_id": "Woolworths - 347118",
+    "barcode": "9310061800121",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205694/mckenzie-s-cream-of-tartar",
+    "name": "McKenzie's Cream Of Tartar 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205694.jpg",
+    "source_id": "Woolworths - 205694",
+    "barcode": "9310061018328",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143255/mckenzie-s-vegan-egg-replacer",
+    "name": "McKenzie's Vegan Egg Replacer 70g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143255.jpg",
+    "source_id": "Woolworths - 143255",
+    "barcode": "9310061125149",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143910/mt-elephant-almond-buckwheat-pancake-mix",
+    "name": "Mt Elephant Almond & Buckwheat Pancake Mix 230g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143910.jpg",
+    "source_id": "Woolworths - 143910",
+    "barcode": "9353799001101",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279039/mt-elephant-buttermylk-wholefood-pancake-mix",
+    "name": "Mt Elephant Buttermylk Wholefood Pancake Mix 230g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/279039.jpg",
+    "source_id": "Woolworths - 279039",
+    "barcode": "9353799002528",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210815/mt-elephant-choc-chunk-wholefood-brownie-mix",
+    "name": "Mt Elephant Choc Chunk Wholefood Brownie Mix 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/210815.jpg",
+    "source_id": "Woolworths - 210815",
+    "barcode": "9353799002016",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279733/mt-elephant-chocolate-chip-cookie-mix",
+    "name": "Mt Elephant Chocolate Chip Cookie Mix 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/279733.jpg",
+    "source_id": "Woolworths - 279733",
+    "barcode": "9353799002511",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211628/mt-elephant-double-choc-superfood-cookie-mix",
+    "name": "Mt Elephant Double Choc Superfood Cookie Mix 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211628.jpg",
+    "source_id": "Woolworths - 211628",
+    "barcode": "9353799002009",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755111/nestle-bakers-choice-cocoa",
+    "name": "Nestle Bakers Choice Cocoa 190g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/755111.jpg",
+    "source_id": "Woolworths - 755111",
+    "barcode": "9300605088108",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "585",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490008/nestle-bakers-choice-dark-choc-bits",
+    "name": "Nestle Bakers' Choice Dark Choc Bits 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490008.jpg",
+    "source_id": "Woolworths - 490008",
+    "barcode": "9300605107632",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/489888/nestle-bakers-choice-dark-choc-melts",
+    "name": "Nestle Bakers' Choice Dark Choc Melts 290g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/489888.jpg",
+    "source_id": "Woolworths - 489888",
+    "barcode": "9300605107496",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490082/nestle-bakers-choice-milk-choc-bits",
+    "name": "Nestle Bakers' Choice Milk Choc Bits 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490082.jpg",
+    "source_id": "Woolworths - 490082",
+    "barcode": "9300605107625",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490090/nestle-bakers-choice-milk-choc-bits-value-pack",
+    "name": "Nestle Bakers' Choice Milk Choc Bits Value Pack 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490090.jpg",
+    "source_id": "Woolworths - 490090",
+    "barcode": "9300605109087",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "192",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490083/nestle-bakers-choice-white-choc-bits",
+    "name": "Nestle Bakers' Choice White Choc Bits 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490083.jpg",
+    "source_id": "Woolworths - 490083",
+    "barcode": "9300605107557",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/723948/nestle-plaistowe-cocoa-premium",
+    "name": "Nestle Plaistowe Cocoa Premium 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/723948.jpg",
+    "source_id": "Woolworths - 723948",
+    "barcode": "9300605080928",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "975",
+        "price_per_unit": "542",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "975",
+        "price_per_unit": "542",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "975",
+        "price_per_unit": "542",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "975",
+        "price_per_unit": "542",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "975",
+        "price_per_unit": "542",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "975",
+        "price_per_unit": "542",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/554446/noshu-95-sugar-free-choc-baking-chips",
+    "name": "Noshu 95% Sugar Free Choc Baking Chips 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/554446.jpg",
+    "source_id": "Woolworths - 554446",
+    "barcode": "9351777002058",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/557075/noshu-97-sugar-free-dark-choc-baking-chips",
+    "name": "Noshu 97% Sugar Free Dark Choc Baking Chips 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/557075.jpg",
+    "source_id": "Woolworths - 557075",
+    "barcode": "9351777002034",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74184/noshu-no-sugar-aded-milk-chocolate-melts",
+    "name": "Noshu No Sugar Aded Milk Chocolate Melts 4g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074184.jpg",
+    "source_id": "Woolworths - 74184",
+    "barcode": "9351777002096",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/561769/noshu-sugar-free-white-choc-baking-chips",
+    "name": "Noshu Sugar Free White Choc Baking Chips 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/561769.jpg",
+    "source_id": "Woolworths - 561769",
+    "barcode": "9351777002027",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "343",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143615/pana-organic-100-cacao-powder",
+    "name": "Pana Organic 100% Cacao Powder 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143615.jpg",
+    "source_id": "Woolworths - 143615",
+    "barcode": "9346758003858",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944585/piper-s-disney-frozen-edible-snowflake-sprinkles",
+    "name": "Piper's Disney Frozen Edible Snowflake Sprinkles 60g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944585.jpg",
+    "source_id": "Woolworths - 944585",
+    "barcode": "9349763001369",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/947587/piper-s-paw-patrol-edible-bone-sprinkles",
+    "name": "Piper's Paw Patrol Edible Bone Sprinkles 60g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/947587.jpg",
+    "source_id": "Woolworths - 947587",
+    "barcode": "9349763001352",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233535/queen-black-food-colour",
+    "name": "Queen Black Food Colour 50mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233535.jpg",
+    "source_id": "Woolworths - 233535",
+    "barcode": "9300641001161",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37421/queen-blue-food-colour",
+    "name": "Queen Blue Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037421.jpg",
+    "source_id": "Woolworths - 37421",
+    "barcode": "93641296",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/575974/queen-celebrating-120-years-pure-vanilla-extract",
+    "name": "Queen Celebrating 120 Years Pure Vanilla Extract 100ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/575974.jpg",
+    "source_id": "Woolworths - 575974",
+    "barcode": "9300641003097",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774157/queen-fairtrade-vanilla-extract-with-seeds",
+    "name": "Queen Fairtrade Vanilla Extract With Seeds 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/774157.jpg",
+    "source_id": "Woolworths - 774157",
+    "barcode": "9300641002533",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/190407/queen-finest-almond-natural-extract-intense-flavour",
+    "name": "Queen Finest Almond Natural Extract Intense Flavour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/190407.jpg",
+    "source_id": "Woolworths - 190407",
+    "barcode": "9300641004186",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/490097/queen-finest-madagascar-vanilla-bean-paste",
+    "name": "Queen Finest Madagascar Vanilla Bean Paste 50g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/490097.jpg",
+    "source_id": "Woolworths - 490097",
+    "barcode": "9300641000355",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/190464/queen-finest-peppermint-natural-extract-intense-flavour",
+    "name": "Queen Finest Peppermint Natural Extract Intense Flavour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/190464.jpg",
+    "source_id": "Woolworths - 190464",
+    "barcode": "9300641004193",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/576098/queen-finest-vanilla-bean-pods",
+    "name": "Queen Finest Vanilla Bean Pods 4g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/576098.jpg",
+    "source_id": "Woolworths - 576098",
+    "barcode": "9300641003073",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202407/queen-glucose-syrup",
+    "name": "Queen Glucose Syrup 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/202407.jpg",
+    "source_id": "Woolworths - 202407",
+    "barcode": "9300641000980",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37422/queen-green-food-colour",
+    "name": "Queen Green Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037422.jpg",
+    "source_id": "Woolworths - 37422",
+    "barcode": "93641302",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141858/queen-imitation-flavouring-vanilla",
+    "name": "Queen Imitation Flavouring Vanilla 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141858.jpg",
+    "source_id": "Woolworths - 141858",
+    "barcode": "9300641004124",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "105",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37420/queen-organic-vanilla-extract",
+    "name": "Queen Organic Vanilla Extract 100ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037420.jpg",
+    "source_id": "Woolworths - 37420",
+    "barcode": "93641036",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205664/queen-pillar-box-red-food-colour",
+    "name": "Queen Pillar Box Red Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205664.jpg",
+    "source_id": "Woolworths - 205664",
+    "barcode": "93641388",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37362/queen-rose-pink-food-colour",
+    "name": "Queen Rose Pink Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037362.jpg",
+    "source_id": "Woolworths - 37362",
+    "barcode": "93641319",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37423/queen-yellow-food-colour",
+    "name": "Queen Yellow Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037423.jpg",
+    "source_id": "Woolworths - 37423",
+    "barcode": "93641326",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120122/so-soft-marshmallow-minis",
+    "name": "So Soft Marshmallow Minis 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/120122.jpg",
+    "source_id": "Woolworths - 120122",
+    "barcode": "9354187000171",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "305",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828736/the-creative-kitchen-mini-flowers-cake-decorations",
+    "name": "The Creative Kitchen Mini Flowers Cake Decorations 48 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/828736.jpg",
+    "source_id": "Woolworths - 828736",
+    "barcode": "9310331473987",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "353",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211556/well-good-chocolate-chip-cookie-mix-gluten-free",
+    "name": "Well & Good Chocolate Chip Cookie Mix Gluten Free 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211556.jpg",
+    "source_id": "Woolworths - 211556",
+    "barcode": "9337096101467",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208976/well-good-gluten-free-choc-fudge-brownie-mix",
+    "name": "Well & Good Gluten Free Choc Fudge Brownie Mix 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/208976.jpg",
+    "source_id": "Woolworths - 208976",
+    "barcode": "9337096101450",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277567/well-good-lemon-coconut-cake-mix",
+    "name": "Well & Good Lemon Coconut Cake Mix 475g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/277567.jpg",
+    "source_id": "Woolworths - 277567",
+    "barcode": "9337096100453",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/770074/woolworths-free-from-gluten-banana-bread",
+    "name": "Woolworths Free From Gluten Banana Bread 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/770074.jpg",
+    "source_id": "Woolworths - 770074",
+    "barcode": "9339687080328",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/770058/woolworths-free-from-gluten-self-raising-flour",
+    "name": "Woolworths Free From Gluten Self Raising Flour 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/770058.jpg",
+    "source_id": "Woolworths - 770058",
+    "barcode": "9300633453091",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/517214/woolworths-free-from-gluten-vanilla-cake-mix",
+    "name": "Woolworths Free From Gluten Vanilla Cake Mix 430g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/517214.jpg",
+    "source_id": "Woolworths - 517214",
+    "barcode": "9300633607364",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "365",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "365",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "365",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "365",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "365",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "365",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253596/dollar-sweets-cookie-icing-white",
+    "name": "Dollar Sweets Cookie Icing White 225g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253596.jpg",
+    "source_id": "Woolworths - 253596",
+    "barcode": "9310331476964",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944471/dollar-sweets-edible-wafer-sprinkles-stars",
+    "name": "Dollar Sweets Edible Wafer Sprinkles Stars 5g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944471.jpg",
+    "source_id": "Woolworths - 944471",
+    "barcode": "9310331478142",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944640/dollar-sweets-enchanted-garden-12-icing-decors",
+    "name": "Dollar Sweets Enchanted Garden 12 Icing Decors 10g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944640.jpg",
+    "source_id": "Woolworths - 944640",
+    "barcode": "9310331478128",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/946288/dollar-sweets-gamer-12-icing-decors",
+    "name": "Dollar Sweets Gamer 12 Icing Decors 9g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/946288.jpg",
+    "source_id": "Woolworths - 946288",
+    "barcode": "9310331478098",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944100/dollar-sweets-sporty-edible-icing-decors",
+    "name": "Dollar Sweets Sporty Edible Icing Decors 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944100.jpg",
+    "source_id": "Woolworths - 944100",
+    "barcode": "9310331478104",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953133/dollar-sweets-superhero-12-icing-decors",
+    "name": "Dollar Sweets Superhero 12 Icing Decors 10g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/953133.jpg",
+    "source_id": "Woolworths - 953133",
+    "barcode": "9310331478111",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/943256/dollar-sweets-wafer-sprinkles-confetti",
+    "name": "Dollar Sweets Wafer Sprinkles Confetti 5g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/943256.jpg",
+    "source_id": "Woolworths - 943256",
+    "barcode": "9310331478166",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944636/dollar-sweets-wafer-sprinkles-hearts",
+    "name": "Dollar Sweets Wafer Sprinkles Hearts 5g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/944636.jpg",
+    "source_id": "Woolworths - 944636",
+    "barcode": "9310331478159",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724056/mckenzie-s-baking-aids-gelatine-leaves",
+    "name": "McKenzie's Baking Aids Gelatine Leaves 20g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/724056.jpg",
+    "source_id": "Woolworths - 724056",
+    "barcode": "9310061122575",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "565",
+        "price_per_unit": "2825",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "565",
+        "price_per_unit": "2825",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "565",
+        "price_per_unit": "2825",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "565",
+        "price_per_unit": "2825",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "2950",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/278658/mckenzie-s-citric-acid",
+    "name": "McKenzie's Citric Acid 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/278658.jpg",
+    "source_id": "Woolworths - 278658",
+    "barcode": "9310061125637",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927499/mckenzie-s-cream-stabiliser",
+    "name": "McKenzie's Cream Stabiliser 60g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/927499.jpg",
+    "source_id": "Woolworths - 927499",
+    "barcode": "9310061126115",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "295",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "295",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "295",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "295",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "295",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962053/natural-vanilla-alcohol-free-vanilla-paste",
+    "name": "Natural Vanilla Alcohol Free Vanilla Paste 50mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/962053.jpg",
+    "source_id": "Woolworths - 962053",
+    "barcode": "9359573000551",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953871/queen-99-sugar-free-vanilla-extract-alcohol-free",
+    "name": "Queen 99% Sugar Free Vanilla Extract Alcohol Free 100mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/953871.jpg",
+    "source_id": "Woolworths - 953871",
+    "barcode": "9300641005176",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210639/queen-natural-vanilla-paste",
+    "name": "Queen Natural Vanilla Paste 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/210639.jpg",
+    "source_id": "Woolworths - 210639",
+    "barcode": "9300641004308",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918226/well-good-gluten-free-pastry-flour",
+    "name": "Well & Good Gluten Free Pastry Flour 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/918226.jpg",
+    "source_id": "Woolworths - 918226",
+    "barcode": "9337096100293",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/199383/well-good-gluten-free-plain-flour",
+    "name": "Well & Good Gluten Free Plain Flour 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/199383.jpg",
+    "source_id": "Woolworths - 199383",
+    "barcode": "9337096100279",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205730/queen-victoria-concentrated-vanilla-extract-with-seeds",
+    "name": "Queen Victoria Concentrated Vanilla Extract With Seeds 100ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205730.jpg",
+    "source_id": "Woolworths - 205730",
+    "barcode": "9300641004315",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1990",
+        "price_per_unit": "1990",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1990",
+        "price_per_unit": "1990",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1990",
+        "price_per_unit": "1990",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1990",
+        "price_per_unit": "1990",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

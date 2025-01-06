@@ -1,0 +1,3446 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pine-nuts-80g-3017531",
+    "name": "Coles Pine Nuts | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017531.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645210506",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5250",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-slivered-almond-150g-2749432",
+    "name": "Coles Slivered Almond | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2749432.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645178899",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-californian-walnuts-150g-2749374",
+    "name": "Coles Californian Walnuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2749374.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645178929",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2467",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pistachios-80g-3041219",
+    "name": "Coles Pistachios | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3041219.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645216379",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pepitas-150g-3017542",
+    "name": "Coles Pepitas | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017542.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645210513",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-flakes-almond-150g-2749421",
+    "name": "Coles Flakes Almond | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2749421.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645178882",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2900",
+        "price_per_unit": "435",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-crushed-peanuts-150g-2749385",
+    "name": "Coles Crushed Peanuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2749385.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645178936",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-californian-walnuts-350g-3559283",
+    "name": "Coles Californian Walnuts | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3559283.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270623",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2171",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sunflower-seeds-150g-3017553",
+    "name": "Coles Sunflower Seeds | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017553.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645213569",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pecans-150g-2749465",
+    "name": "Coles Pecans | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2749465.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645178912",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2867",
+        "price_per_unit": "430",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3014",
+        "price_per_unit": "452",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pine-nuts-150g-3041241",
+    "name": "Coles Pine Nuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3041241.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645216331",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5067",
+        "price_per_unit": "760",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-almond-meal-400g-3017575",
+    "name": "Coles Almond Meal | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017575.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645280653",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "680",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pepitas-300g-6839399",
+    "name": "Coles Pepitas | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6839399.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645423395",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "420",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-natural-almonds-350g-3017564",
+    "name": "Coles Natural Almonds | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017564.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645213576",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1771",
+        "price_per_unit": "620",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-natural-pistachios-130g-5645580",
+    "name": "Sunbeam Australian Nuts Natural Pistachios | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5645580.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861489",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6154",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-slivered-almonds-100g-5619568",
+    "name": "Sunbeam Australian Nuts Slivered Almonds | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619568.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861274",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sesame-seeds-150g-3559523",
+    "name": "Coles Sesame Seeds | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3559523.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270692",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-hazelnuts-150g-3017597",
+    "name": "Coles Hazelnuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017597.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645213606",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-crumbed-walnuts-125g-4448674",
+    "name": "Coles Crumbed Walnuts | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4448674.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645347929",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2960",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-almond-meal-665g-6846929",
+    "name": "Coles Almond Meal | 665g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6846929.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645423913",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "665g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1579",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-black-chia-mix-200g-3337270",
+    "name": "Coles Black Chia Mix | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3337270.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9324306009576",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-dry-roasted-almonds-350g-3337259",
+    "name": "Coles Dry Roasted Almonds | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3337259.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645245898",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1914",
+        "price_per_unit": "670",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2011",
+        "price_per_unit": "704",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-toasted-pine-nuts-100g-6839355",
+    "name": "Coles Toasted Pine Nuts | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6839355.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645423388",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5700",
+        "price_per_unit": "570",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-blanched-almonds-150g-3041220",
+    "name": "Coles Australian Blanched Almonds | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3041220.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645216386",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-natural-cashews-150g-2896095",
+    "name": "Coles Natural Cashews | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2896095.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645206189",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-seed-mix-165g-3017859",
+    "name": "Coles Seed Mix | 165g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017859.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645245867",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "182",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "191",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brazil-nuts-150g-3559308",
+    "name": "Coles Brazil Nuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3559308.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270630",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3667",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-natural-cashews-350g-3559261",
+    "name": "Coles Natural Cashews | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3559261.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645270616",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2214",
+        "price_per_unit": "775",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-black-sesame-seeds-150g-3834264",
+    "name": "Coles Black Sesame Seeds | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3834264.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645316260",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-almond-kernels-150g-9498895",
+    "name": "Coles Almond Kernels | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9498895.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601260867",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2333",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-raw-macadamia-pieces-100g-5466037",
+    "name": "Coles Raw Macadamia Pieces | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5466037.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645389776",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4100",
+        "price_per_unit": "410",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-flaked-almonds-100g-5619580",
+    "name": "Sunbeam Australian Nuts Flaked Almonds | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619580.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861458",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3850",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-almond-meal-150g-2749454",
+    "name": "Coles Almond Meal | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2749454.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645178905",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2667",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-macadamias-80g-3041230",
+    "name": "Coles Macadamias | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3041230.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645216393",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4375",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lsa-mix-350g-3017644",
+    "name": "Coles LSA Mix | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3017644.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645214474",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "119",
+        "price_per_unit": "415",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-natural-sliced-almonds-120g-5645739",
+    "name": "Sunbeam Natural Sliced Almonds | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5645739.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861502",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-raw-peanuts-375g-4419472",
+    "name": "Coles Raw Peanuts | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4419472.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645347868",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "981",
+        "price_per_unit": "368",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-premium-macadamia-nuts-150g-3571788",
+    "name": "Coles Premium Macadamia Nuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3571788.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645272542",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5334",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pinenuts-300g-8677560",
+    "name": "Coles Pinenuts | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8677560.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "4833",
+        "price_per_unit": "1450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5077",
+        "price_per_unit": "1523",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/riverside-all-australian-walnuts-180g-6778079",
+    "name": "Riverside All Australian Walnuts | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6778079.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310752281802",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3056",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3056",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3056",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3056",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3056",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3056",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3211",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-slivered-almonds-300g-5619820",
+    "name": "Sunbeam Australian Nuts Slivered Almonds | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619820.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861427",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2833",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-natural-almonds-450g-5619841",
+    "name": "Sunbeam Australian Nuts Natural Almonds | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619841.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861434",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1867",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-premium-raw-mixed-nuts-250g-4448743",
+    "name": "Coles Premium Raw Mixed Nuts | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4448743.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645347981",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-hazelnut-meal-350g-3834297",
+    "name": "Coles Hazelnut Meal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3834297.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645316284",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2857",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cashew-pieces-150g-5466106",
+    "name": "Coles Cashew Pieces | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5466106.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645389783",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/riverside-all-australian-pecan-halves-180g-6777983",
+    "name": "Riverside All Australian Pecan Halves | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6777983.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310752081808",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3472",
+        "price_per_unit": "625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-flaked-almonds-300g-5619808",
+    "name": "Sunbeam Australian Nuts Flaked Almonds | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619808.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861410",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-nuts-blanched-hazelnuts-120g-5619728",
+    "name": "Sunbeam Nuts Blanched Hazelnuts | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619728.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861366",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-macadamia-halves-110g-5619900",
+    "name": "Sunbeam Australian Nuts Macadamia Halves | 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619900.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861472",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5000",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-nuts-raw-and-natural-cashews-450g-5619761",
+    "name": "Sunbeam Nuts Raw & Natural Cashews | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619761.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861397",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2333",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-natural-cashews-180g-3571890",
+    "name": "Coles Organic Natural Cashews | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3571890.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645272566",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3111",
+        "price_per_unit": "560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blanched-hazelnuts-150g-3834286",
+    "name": "Coles Blanched Hazelnuts | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3834286.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645316277",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-blanched-almonds-120g-5619681",
+    "name": "Sunbeam Australian Nuts Blanched Almonds | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619681.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861328",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3208",
+        "price_per_unit": "385",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-poppy-seeds-150g-3834275",
+    "name": "Coles Poppy Seeds | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3834275.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645316291",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "183",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-almond-meal-350g-5619783",
+    "name": "Sunbeam Australian Nuts Almond Meal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619783.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861403",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbeam-australian-nuts-natural-walnuts-300g-5619863",
+    "name": "Sunbeam Australian Nuts Natural Walnuts | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5619863.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310162861441",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cashew-meal-350g-8556668",
+    "name": "Coles Cashew Meal | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8556668.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1857",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1857",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1857",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1857",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1857",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1857",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1951",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-pine-nuts-100g-4448696",
+    "name": "Coles Organic Pine Nuts | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4448696.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645347943",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "8000",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "8000",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "8000",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "8000",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-delight-australian-slivered-almonds-375g-5042380",
+    "name": "Natures Delight Australian Slivered Almonds | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5042380.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9322662045184",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1733",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-delight-australian-raw-almonds-500g-5042314",
+    "name": "Natures Delight Australian Raw Almonds | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5042314.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9322662045160",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-delight-australian-almond-flakes-375g-5042416",
+    "name": "Natures Delight Australian Almond Flakes | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5042416.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9322662045191",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1733",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-delight-australian-dry-roasted-almonds-400g-5042325",
+    "name": "Natures Delight Australian Dry Roasted Almonds | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5042325.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9322662045177",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

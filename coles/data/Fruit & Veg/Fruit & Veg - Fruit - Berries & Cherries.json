@@ -1,0 +1,668 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-strawberries-250g-5191256",
+    "name": "Coles Strawberries | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5191256.jpg&w=640&q=90",
+    "source_id": "Coles - 5191256",
+    "barcode": "9555863602522",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1320",
+        "price_per_unit": "330",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blueberries-170g-3571948",
+    "name": "Coles Blueberries | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3571948.jpg&w=640&q=90",
+    "source_id": "Coles - 3571948",
+    "barcode": "9359917000018",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1176",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1176",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2647",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1176",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-raspberries-125g-134029",
+    "name": "Coles Raspberries | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F134029.jpg&w=640&q=90",
+    "source_id": "Coles - 134029",
+    "barcode": "9369999002411",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blackberries-prepacked-125g-134040",
+    "name": "Coles Blackberries Prepacked | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F134040.jpg&w=640&q=90",
+    "source_id": "Coles - 134040",
+    "barcode": "9369999043360",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cherries-prepack-300g-1628352",
+    "name": "Coles Cherries Prepack | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1628352.jpg&w=640&q=90",
+    "source_id": "Coles - 1628352",
+    "barcode": "9348370099844",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2333",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-strawberries-premium-350g-5707745",
+    "name": "Coles Strawberries Premium | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5707745.jpg&w=640&q=90",
+    "source_id": "Coles - 5707745",
+    "barcode": "9342373000456",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1286",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1286",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1571",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1714",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1286",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1571",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1286",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1286",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-eureka-premium-blueberries-200g-1736275",
+    "name": "Fresh Eureka Premium Blueberries | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1736275.jpg&w=640&q=90",
+    "source_id": "Coles - 1736275",
+    "barcode": "9421001731020",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-cherries-loose-approx.-400g-each-409535",
+    "name": "Coles Red Cherries Loose | approx 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F409535.jpg&w=640&q=90",
+    "source_id": "Coles - 409535",
+    "barcode": "9369998171941",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "400geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "1550",
+        "price_per_unit": "620",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-finest-blackberries-125g-3468665",
+    "name": "Coles Finest Blackberries | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3468665.jpg&w=640&q=90",
+    "source_id": "Coles - 3468665",
+    "barcode": "9342373004010",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-boysenberries-125g-5543885",
+    "name": "Coles Boysenberries | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5543885.jpg&w=640&q=90",
+    "source_id": "Coles - 5543885",
+    "barcode": "9339011000473",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-currants-berries-125g-4472362",
+    "name": "Coles Red Currants Berries | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4472362.jpg&w=640&q=90",
+    "source_id": "Coles - 4472362",
+    "barcode": "9369999018085",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4800",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "4800",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "4800",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "4800",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-growers-selection-raspberries-125gram-8798168",
+    "name": "Fresh Growers Selection Raspberries | 125GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8798168.jpg&w=640&q=90",
+    "source_id": "Coles - 8798168",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "450",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-raspberries-170g-7509673",
+    "name": "Coles Raspberries | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7509673.jpg&w=640&q=90",
+    "source_id": "Coles - 7509673",
+    "barcode": "9342373000463",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2647",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2647",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blackberries-170g-3742202",
+    "name": "Coles Blackberries | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3742202.jpg&w=640&q=90",
+    "source_id": "Coles - 3742202",
+    "barcode": "9342373000296",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2353",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2353",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-strawberries-medium-500g-4481909",
+    "name": "Fresh Strawberries Medium | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4481909.jpg&w=640&q=90",
+    "source_id": "Coles - 4481909",
+    "barcode": "9300601324057",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blueberries-prepacked-125g-5543535",
+    "name": "Coles Blueberries Prepacked | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5543535.jpg&w=640&q=90",
+    "source_id": "Coles - 5543535",
+    "barcode": "9421902648038",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

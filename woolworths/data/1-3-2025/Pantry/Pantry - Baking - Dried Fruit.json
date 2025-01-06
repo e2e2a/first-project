@@ -1,0 +1,4910 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173622/angas-park-apricots",
+    "name": "Angas Park Apricots 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/173622.jpg",
+    "source_id": "Woolworths - 173622",
+    "barcode": "9310121011375",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "3467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1365",
+        "price_per_unit": "3640",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47780/angas-park-dried-apricots-large-dried",
+    "name": "Angas Park Dried Apricots 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/047780.jpg",
+    "source_id": "Woolworths - 47780",
+    "barcode": "9310121011221",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57242/angas-park-fruit-mix-salad",
+    "name": "Angas Park Fruit Mix Salad 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/057242.jpg",
+    "source_id": "Woolworths - 57242",
+    "barcode": "9310121081064",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205662/angas-park-mediterranean-apricot-soft-juicy",
+    "name": "Angas Park Mediterranean Apricot Soft & Juicy 225g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205662.jpg",
+    "source_id": "Woolworths - 205662",
+    "barcode": "9310121001741",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "3556",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38181/angas-park-peaches-dried",
+    "name": "Angas Park Peaches Dried 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038181.jpg",
+    "source_id": "Woolworths - 38181",
+    "barcode": "9310121041242",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/369717/angas-park-pitted-prunes-pitted",
+    "name": "Angas Park Pitted Prunes Pitted 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/369717.jpg",
+    "source_id": "Woolworths - 369717",
+    "barcode": "9310121031090",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39122/angas-park-prunes-pitted",
+    "name": "Angas Park Prunes Pitted 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039122.jpg",
+    "source_id": "Woolworths - 39122",
+    "barcode": "9310121031045",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97011/angas-park-prunes-pitted-resealable",
+    "name": "Angas Park Prunes Pitted Resealable 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097011.jpg",
+    "source_id": "Woolworths - 97011",
+    "barcode": "9310121031069",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230684/buderim-ginger-naked-ginger-uncrystallised",
+    "name": "Buderim Ginger Naked Ginger Uncrystallised 175g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230684.jpg",
+    "source_id": "Woolworths - 230684",
+    "barcode": "9310371143147",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390875/earthly-eats-crystallised-ginger",
+    "name": "Earthly Eats Crystallised Ginger 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390875.jpg",
+    "source_id": "Woolworths - 390875",
+    "barcode": "9310371142164",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "385",
+        "price_per_unit": "1925",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340056/fruit-for-life-dried-mango-slices-dried",
+    "name": "Fruit For Life Dried Mango Slices 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/340056.jpg",
+    "source_id": "Woolworths - 340056",
+    "barcode": "9329171000543",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "3933",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392403/lucky-raisins",
+    "name": "Lucky Raisins 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/392403.jpg",
+    "source_id": "Woolworths - 392403",
+    "barcode": "9310064100341",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394224/lucky-sultanas",
+    "name": "Lucky Sultanas 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/394224.jpg",
+    "source_id": "Woolworths - 394224",
+    "barcode": "9310064100310",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829032/macro-goji-berries",
+    "name": "Macro Goji Berries 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/829032.jpg",
+    "source_id": "Woolworths - 829032",
+    "barcode": "9339687345205",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/347130/macro-organic-turkish-figs-figs",
+    "name": "Macro Organic Turkish Figs Figs 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/347130.jpg",
+    "source_id": "Woolworths - 347130",
+    "barcode": "9300633209346",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244038/nibblish-gently-baked-mango",
+    "name": "Nibblish Gently Baked Mango 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/244038.jpg",
+    "source_id": "Woolworths - 244038",
+    "barcode": "9421904197411",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244823/nibblish-gently-baked-pineapple",
+    "name": "Nibblish Gently Baked Pineapple 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/244823.jpg",
+    "source_id": "Woolworths - 244823",
+    "barcode": "9421904197459",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804906/nibblish-gently-baked-strawberry",
+    "name": "Nibblish Gently Baked Strawberry 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804906.jpg",
+    "source_id": "Woolworths - 804906",
+    "barcode": "9421904197046",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000166/ocean-spray-craisins-died-cranberries-value-pack",
+    "name": "Ocean Spray Craisins Died Cranberries Value Pack 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6000166.jpg",
+    "source_id": "Woolworths - 6000166",
+    "barcode": "31200006202",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/528827/ocean-spray-reduced-sugar-craisins",
+    "name": "Ocean Spray Reduced Sugar Craisins 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/528827.jpg",
+    "source_id": "Woolworths - 528827",
+    "barcode": "31200227379",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24258/sunbeam-australian-currants",
+    "name": "Sunbeam Australian Currants 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024258.jpg",
+    "source_id": "Woolworths - 24258",
+    "barcode": "9310162113007",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32687/sunbeam-australian-lexia-raisins",
+    "name": "Sunbeam Australian Lexia Raisins 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032687.jpg",
+    "source_id": "Woolworths - 32687",
+    "barcode": "9310162513753",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/661322/sunbeam-australian-sultanas-mini",
+    "name": "Sunbeam Australian Sultanas Mini 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/661322.jpg",
+    "source_id": "Woolworths - 661322",
+    "barcode": "9310162330022",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33833/sunbeam-mixed-fruit",
+    "name": "Sunbeam Mixed Fruit 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033833.jpg",
+    "source_id": "Woolworths - 33833",
+    "barcode": "9310162720014",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/661325/sunbeam-sultanas",
+    "name": "Sunbeam Sultanas 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/661325.jpg",
+    "source_id": "Woolworths - 661325",
+    "barcode": "9310162320054",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39731/sunbeam-sultanas",
+    "name": "Sunbeam Sultanas 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039731.jpg",
+    "source_id": "Woolworths - 39731",
+    "barcode": "9310162313759",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/466062/sunbeam-yoghurt-coated-sultanas",
+    "name": "Sunbeam Yoghurt Coated Sultanas 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/466062.jpg",
+    "source_id": "Woolworths - 466062",
+    "barcode": "9310162311168",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259201/sunsweet-prunes-pitted",
+    "name": "Sunsweet Prunes Pitted 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/259201.jpg",
+    "source_id": "Woolworths - 259201",
+    "barcode": "802763021748",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "620",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196979/trident-pitted-dates-pitted",
+    "name": "Trident Pitted Dates 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/196979.jpg",
+    "source_id": "Woolworths - 196979",
+    "barcode": "9310560011844",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "475",
+        "price_per_unit": "792",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91837/verity-prunes-large",
+    "name": "Verity Prunes Large 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/091837.jpg",
+    "source_id": "Woolworths - 91837",
+    "barcode": "9310716307500",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/383039/winn-cherries-red-glace",
+    "name": "Winn Cherries Red Glace 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/383039.jpg",
+    "source_id": "Woolworths - 383039",
+    "barcode": "9332947000050",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "465",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18158/woolworths-apricot-dried",
+    "name": "Woolworths Apricot Dried 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018158.jpg",
+    "source_id": "Woolworths - 18158",
+    "barcode": "9300633181581",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/815873/woolworths-dried-goji-berries",
+    "name": "Woolworths Dried Goji Berries 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/815873.jpg",
+    "source_id": "Woolworths - 815873",
+    "barcode": "9339687073825",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/815875/woolworths-dried-mango-slices",
+    "name": "Woolworths Dried Mango Slices 130g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/815875.jpg",
+    "source_id": "Woolworths - 815875",
+    "barcode": "9339687073832",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "3077",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726372/woolworths-figs",
+    "name": "Woolworths Figs 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726372.jpg",
+    "source_id": "Woolworths - 726372",
+    "barcode": "9300633308414",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "1173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "1173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "1173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "1173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "449",
+        "price_per_unit": "1197",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "1173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "449",
+        "price_per_unit": "1197",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37997/woolworths-mixed-fruit",
+    "name": "Woolworths Mixed Fruit 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037997.jpg",
+    "source_id": "Woolworths - 37997",
+    "barcode": "9300633379971",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18160/woolworths-pitted-dates",
+    "name": "Woolworths Pitted Dates 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018160.jpg",
+    "source_id": "Woolworths - 18160",
+    "barcode": "9300633645823",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219607/woolworths-prunes-pitted",
+    "name": "Woolworths Prunes Pitted 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/219607.jpg",
+    "source_id": "Woolworths - 219607",
+    "barcode": "9339687368891",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726364/woolworths-raisins",
+    "name": "Woolworths Raisins 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726364.jpg",
+    "source_id": "Woolworths - 726364",
+    "barcode": "9300633308339",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83293/woolworths-soft-juicy-apricots",
+    "name": "Woolworths Soft & Juicy Apricots 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083293.jpg",
+    "source_id": "Woolworths - 83293",
+    "barcode": "9339687161317",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/821562/woolworths-soft-juicy-pitted-dates",
+    "name": "Woolworths Soft & Juicy Pitted Dates 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/821562.jpg",
+    "source_id": "Woolworths - 821562",
+    "barcode": "9339687080663",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95055/woolworths-sultanas",
+    "name": "Woolworths Sultanas 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/095055.jpg",
+    "source_id": "Woolworths - 95055",
+    "barcode": "9300633950552",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726367/woolworths-sultanas",
+    "name": "Woolworths Sultanas 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726367.jpg",
+    "source_id": "Woolworths - 726367",
+    "barcode": "9300633308360",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311977/woolworths-sultanas",
+    "name": "Woolworths Sultanas 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311977.jpg",
+    "source_id": "Woolworths - 311977",
+    "barcode": "9300633988968",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/76083/angas-park-apricot-diced",
+    "name": "Angas Park Apricot Diced 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/076083.jpg",
+    "source_id": "Woolworths - 76083",
+    "barcode": "9310121013430",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55432/angas-park-fruit-mix-medley",
+    "name": "Angas Park Fruit Mix Medley 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055432.jpg",
+    "source_id": "Woolworths - 55432",
+    "barcode": "9310121000348",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/466088/angas-park-medjool-dates",
+    "name": "Angas Park Medjool Dates 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/466088.jpg",
+    "source_id": "Woolworths - 466088",
+    "barcode": "9310121000119",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205470/angas-park-pitted-dates",
+    "name": "Angas Park Pitted Dates 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205470.jpg",
+    "source_id": "Woolworths - 205470",
+    "barcode": "9310121001604",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39152/angas-park-prunes-large",
+    "name": "Angas Park Prunes Large 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039152.jpg",
+    "source_id": "Woolworths - 39152",
+    "barcode": "9310121021275",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/235901/angas-park-soft-juice-pitted-prunes",
+    "name": "Angas Park Soft & Juice Pitted Prunes 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/235901.jpg",
+    "source_id": "Woolworths - 235901",
+    "barcode": "9310121002137",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229894/angas-park-soft-n-juicy-figs-soft-n-juicy",
+    "name": "Angas Park Soft n' Juicy Figs 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/229894.jpg",
+    "source_id": "Woolworths - 229894",
+    "barcode": "9310121002175",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59525/buderim-ginger-ginger-bears",
+    "name": "Buderim Ginger Bears 175g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059525.jpg",
+    "source_id": "Woolworths - 59525",
+    "barcode": "9310371133162",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230075/buderim-ginger-crystallised-ginger",
+    "name": "Buderim Ginger Crystallised Ginger 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230075.jpg",
+    "source_id": "Woolworths - 230075",
+    "barcode": "9310371142157",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55251/buderim-ginger-dark-chocolate-ginger",
+    "name": "Buderim Ginger Dark Chocolate Ginger 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055251.jpg",
+    "source_id": "Woolworths - 55251",
+    "barcode": "9310371143857",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "670",
+        "price_per_unit": "5360",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55233/buderim-ginger-reduced-sugar-ginger",
+    "name": "Buderim Ginger Reduced Sugar Ginger 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055233.jpg",
+    "source_id": "Woolworths - 55233",
+    "barcode": "9310371143178",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171865/buderim-ginger-ginger-sliced-naked-ginger",
+    "name": "Buderim Ginger Sliced Naked Ginger 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/171865.jpg",
+    "source_id": "Woolworths - 171865",
+    "barcode": "9310371146001",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "995",
+        "price_per_unit": "2843",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "995",
+        "price_per_unit": "2843",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "995",
+        "price_per_unit": "2843",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "995",
+        "price_per_unit": "2843",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "995",
+        "price_per_unit": "2843",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "995",
+        "price_per_unit": "2843",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392215/lucky-currants",
+    "name": "Lucky Currants 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/392215.jpg",
+    "source_id": "Woolworths - 392215",
+    "barcode": "9310064100334",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392196/lucky-mixed-fruit",
+    "name": "Lucky Mixed Fruit 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/392196.jpg",
+    "source_id": "Woolworths - 392196",
+    "barcode": "9310064100327",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89759/macro-australian-currants",
+    "name": "Macro Australian Currants 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089759.jpg",
+    "source_id": "Woolworths - 89759",
+    "barcode": "9339687168743",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "670",
+        "price_per_unit": "1675",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89731/macro-australian-raisins",
+    "name": "Macro Australian Raisins 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089731.jpg",
+    "source_id": "Woolworths - 89731",
+    "barcode": "9339687168675",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1370",
+        "price_per_unit": "1370",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89730/macro-australian-raisins",
+    "name": "Macro Australian Raisins 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089730.jpg",
+    "source_id": "Woolworths - 89730",
+    "barcode": "9339687168668",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "610",
+        "price_per_unit": "1525",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166882/macro-dried-apricots",
+    "name": "Macro Dried Apricots 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166882.jpg",
+    "source_id": "Woolworths - 166882",
+    "barcode": "9339687266548",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89724/macro-dried-mixed-fruit",
+    "name": "Macro Dried Mixed Fruit 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089724.jpg",
+    "source_id": "Woolworths - 89724",
+    "barcode": "9339687168644",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1340",
+        "price_per_unit": "1340",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89727/macro-dried-mixed-fruit",
+    "name": "Macro Dried Mixed Fruit 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089727.jpg",
+    "source_id": "Woolworths - 89727",
+    "barcode": "9339687168651",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61833/macro-golden-berries",
+    "name": "Macro Golden Berries 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/061833.jpg",
+    "source_id": "Woolworths - 61833",
+    "barcode": "9339687133673",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133475/macro-organic-dates",
+    "name": "Macro Organic Dates 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133475.jpg",
+    "source_id": "Woolworths - 133475",
+    "barcode": "9339687221790",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335086/macro-organic-sultanas",
+    "name": "Macro Organic Sultanas 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/335086.jpg",
+    "source_id": "Woolworths - 335086",
+    "barcode": "9337803002988",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355158/macro-pitted-dates",
+    "name": "Macro Pitted Dates 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/355158.jpg",
+    "source_id": "Woolworths - 355158",
+    "barcode": "9300633209322",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/439755/nibblish-pure-fruit-swirls-mango",
+    "name": "Nibblish Pure Fruit Swirls Mango 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/439755.jpg",
+    "source_id": "Woolworths - 439755",
+    "barcode": "9421904197800",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/442547/nibblish-pure-fruit-swirls-raspberry",
+    "name": "Nibblish Pure Fruit Swirls Raspberry 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/442547.jpg",
+    "source_id": "Woolworths - 442547",
+    "barcode": "9421904197794",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/440292/nibblish-pure-fruit-swirls-strawberry",
+    "name": "Nibblish Pure Fruit Swirls Strawberry 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/440292.jpg",
+    "source_id": "Woolworths - 440292",
+    "barcode": "9421904197787",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000142/ocean-spray-craisins-dried-cranberries",
+    "name": "Ocean Spray Craisins Dried Cranberries 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6000142.jpg",
+    "source_id": "Woolworths - 6000142",
+    "barcode": "31200006172",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/456578/ocean-spray-craisins-reduced-sugar",
+    "name": "Ocean Spray Craisins Reduced Sugar 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/456578.jpg",
+    "source_id": "Woolworths - 456578",
+    "barcode": "31200205780",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259168/sunbeam-australian-natural-sultanas-sultanas",
+    "name": "Sunbeam Australian Natural Sultanas 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/259168.jpg",
+    "source_id": "Woolworths - 259168",
+    "barcode": "9310162312530",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "1289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91579/sunbeam-mixed-fruit",
+    "name": "Sunbeam Mixed Fruit 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/091579.jpg",
+    "source_id": "Woolworths - 91579",
+    "barcode": "9310162713757",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247965/sunbeam-strawberry-yoghurt-coated-sultanas",
+    "name": "Sunbeam Strawberry Yoghurt Coated Sultanas 30g x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247965.jpg",
+    "source_id": "Woolworths - 247965",
+    "barcode": "9310162311373",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2778",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177190/sunbeam-sultanas-apple",
+    "name": "Sunbeam Sultanas & Apple 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/177190.jpg",
+    "source_id": "Woolworths - 177190",
+    "barcode": "9310162310437",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247604/sunbeam-sunmuscat-sultanas",
+    "name": "Sunbeam Sunmuscat Sultanas 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247604.jpg",
+    "source_id": "Woolworths - 247604",
+    "barcode": "9310162312554",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1222",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000542/sunsweet-fruit-pack-pitted-prunes",
+    "name": "Sunsweet Fruit Pack Pitted Prunes 26g x 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6000542.jpg",
+    "source_id": "Woolworths - 6000542",
+    "barcode": "802763085924",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "640",
+        "price_per_unit": "4103",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "640",
+        "price_per_unit": "4103",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "4103",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "640",
+        "price_per_unit": "4103",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "640",
+        "price_per_unit": "4103",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/460947/sunsweet-pitted-prunes",
+    "name": "Sunsweet Pitted Prunes 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/460947.jpg",
+    "source_id": "Woolworths - 460947",
+    "barcode": "802763020857",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802956/sunsweet-premium-dried-mango",
+    "name": "Sunsweet Premium Dried Mango 130g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802956.jpg",
+    "source_id": "Woolworths - 802956",
+    "barcode": "802763071491",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "620",
+        "price_per_unit": "4769",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "620",
+        "price_per_unit": "4769",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "620",
+        "price_per_unit": "4769",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "620",
+        "price_per_unit": "4769",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "620",
+        "price_per_unit": "4769",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "620",
+        "price_per_unit": "4769",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000164/verity-australian-pitted-prunes",
+    "name": "Verity Australian Pitted Prunes 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6000164.jpg",
+    "source_id": "Woolworths - 6000164",
+    "barcode": "9310716103751",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "740",
+        "price_per_unit": "1973",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726369/woolworths-cranberries",
+    "name": "Woolworths Cranberries 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726369.jpg",
+    "source_id": "Woolworths - 726369",
+    "barcode": "9300633308384",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89722/woolworths-dried-diced-apricots",
+    "name": "Woolworths Dried & Diced Apricots 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089722.jpg",
+    "source_id": "Woolworths - 89722",
+    "barcode": "9339687168620",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288441/woolworths-orchard-fruit-blend-dried-fruit",
+    "name": "Woolworths Orchard Fruit Blend Dried Fruit 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/288441.jpg",
+    "source_id": "Woolworths - 288441",
+    "barcode": "9339687341641",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/821561/woolworths-soft-juicy-figs",
+    "name": "Woolworths Soft & Juicy Figs 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/821561.jpg",
+    "source_id": "Woolworths - 821561",
+    "barcode": "9339687080656",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/539927/woolworths-sweetened-dried-cherries",
+    "name": "Woolworths Sweetened Dried Cherries 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/539927.jpg",
+    "source_id": "Woolworths - 539927",
+    "barcode": "9339687367153",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "345",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "345",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "345",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "345",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "345",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "345",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390969/nibblish-gently-baked-mixed-berries",
+    "name": "Nibblish Gently Baked Mixed Berries 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390969.jpg",
+    "source_id": "Woolworths - 390969",
+    "barcode": "9421904197640",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "625",
+        "price_per_unit": "7813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89754/macro-australian-sultanas",
+    "name": "Macro Australian Sultanas 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089754.jpg",
+    "source_id": "Woolworths - 89754",
+    "barcode": "9339687168699",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/898462/valley-produce-company-muscatel-clusters",
+    "name": "Valley Produce Company Muscatel Clusters 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/898462.jpg",
+    "source_id": "Woolworths - 898462",
+    "barcode": "9329772104916",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

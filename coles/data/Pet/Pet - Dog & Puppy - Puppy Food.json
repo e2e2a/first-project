@@ -1,0 +1,1184 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/my-dog-adult-dry-dog-food-tender-chicken-and-vegetables-1.5kg-3014431",
+    "name": "My Dog Adult Dry Dog Food Tender Chicken & Vegetables | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3014431.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214042107",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "98",
+        "price_per_unit": "1470",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitapet-puppy-chicken-with-vegetables-dog-food-pouch-100g-7652349",
+    "name": "Vitapet Puppy Chicken With Vegetables Dog Food Pouch | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7652349.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitapet-adult-chicken-with-vegetable-dog-food-pouch-100g-7645285",
+    "name": "Vitapet Adult Chicken With Vegetable Dog Food Pouch | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7645285.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitapet-adult-lamb-with-vegetable-dog-food-pouch-100g-7645296",
+    "name": "Vitapet Adult Lamb With Vegetable Dog Food Pouch | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7645296.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitapet-adult-fish-with-vegetable-dog-food-pouch-100g-7692161",
+    "name": "Vitapet Adult Fish With Vegetable Dog Food Pouch | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7692161.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/no-fuss-beef-and-vegetables-meal-mixer-dog-food-60g-7643541",
+    "name": "No Fuss Beef & Vegetables Meal Mixer Dog Food | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7643541.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "333",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1313",
+        "price_per_unit": "788",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/no-fuss-chicken-and-vegetables-meal-mixer-dog-food-60g-7643552",
+    "name": "No Fuss Chicken & Vegetables Meal Mixer Dog Food | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7643552.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "333",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pedigree-puppy-wet-dog-food-with-chicken-and-rice-mince-can-700g-5428672",
+    "name": "Pedigree Puppy Wet Dog Food with Chicken & Rice Mince Can | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5428672.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310022037207",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "40",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "40",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "40",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "40",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "40",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/my-dog-with-gourmet-beef-and-roast-vegetable-flavour-dry-dog-food-1.5kg-3014442",
+    "name": "My Dog With Gourmet Beef And Roast Vegetable Flavour Dry Dog ... 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3014442.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214042084",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "98",
+        "price_per_unit": "1470",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-real-kangaroo-and-vegetables-adult-wet-dog-food-can-700g-3313830",
+    "name": "Optimum Real Kangaroo & Vegetables Adult Wet Dog Food Can | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3313830.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214046990",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "75",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/my-dog-chicken-mince-with-rice-and-carrots-can-puppy-wet-dog-food-400g-7852031",
+    "name": "My Dog Chicken Mince With Rice & Carrots Can Puppy Wet Dog Fo ... 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7852031.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214019055",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "60",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-dog-training-pads-15pack-15-pack-3765026",
+    "name": "Coles Dog Training Pads 15pack | 15 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3765026.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645414126",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "15pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-puppy-wet-dog-food-with-chicken-rice-and-vegetables-tray-100g-1513179",
+    "name": "Optimum Puppy Wet Dog Food With Chicken Rice & Vegetables Tray | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1513179.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214023274",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pedigree-adult-dry-dog-food-chicken-with-rice-2.5-kg-3993880",
+    "name": "Pedigree Adult Dry Dog Food Chicken with Rice | 2.5 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3993880.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310022161100",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "42",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "42",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "42",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "42",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "42",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "42",
+        "price_per_unit": "1050",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-puppy-all-breed-dry-dog-food-with-chicken-3kg-8997583",
+    "name": "Optimum Puppy All Breed Dry Dog Food with Chicken | 3kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8997583.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214019499",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "3kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "53",
+        "price_per_unit": "1600",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-puppy-wet-dog-food-with-chicken-and-rice-700g-5589911",
+    "name": "Optimum Puppy Wet Dog Food with Chicken & Rice | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5589911.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310022193002",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "71",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "75",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-puppy-chicken-dry-dog-food-7kg-4467839",
+    "name": "Optimum Puppy Chicken Dry Dog Food | 7kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4467839.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214021744",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "7kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "64",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "64",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "64",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nood-dry-dog-food-cage-free-chicken-recipe-with-superfoods-3kg-3713805",
+    "name": "Nood Dry Dog Food Cage Free Chicken Recipe With Superfoods | 3kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3713805.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "3kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "77",
+        "price_per_unit": "2300",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "81",
+        "price_per_unit": "2415",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/my-dog-chicken-mince-with-rice-carrots-and-spinach-puppy-wet-dog-food-100g-7852111",
+    "name": "My Dog Chicken Mince With Rice Carrots & Spinach Puppy W ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7852111.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9334214019086",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "189",
+        "price_per_unit": "189",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rufus-and-coco-wee-away-250ml-8982735",
+    "name": "Rufus & Coco Wee Away | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8982735.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9340510000147",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "6400",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "6720",
+        "price_per_unit": "1680",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitapet-puppy-pee-training-pads-7-pack-1823212",
+    "name": "Vitapet Puppy Pee Training Pads | 7 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1823212.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9312239022830",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "7pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "157",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "157",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/woofin-good-grain-free-salmon-and-vegetables-dry-dog-food-2.5kg-4876237",
+    "name": "Woofin Good Grain Free Salmon & Vegetables Dry Dog Food | 2.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4876237.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645356341",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/woofin-good-grainfree-chicken-and-vegetables-dry-dog-food-2.5kg-3715935",
+    "name": "Woofin Good Grainfree Chicken & Vegetables Dry Dog Food | 2.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3715935.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645284545",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "1995",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/elevate-healthy-weight-dog-chicken-chunks-with-peas-and-sweet-potato-in-gravy-100g-3955688",
+    "name": "Elevate Healthy Weight Dog Chicken Chunks With Peas & Sweet Pot ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3955688.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645328409",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/woofin-good-puppy-chicken-rice-and-vegetables-dry-dog-food-2.5kg-3715946",
+    "name": "Woofin Good Puppy Chicken Rice & Vegetables Dry Dog Food | 2.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3715946.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645284552",
+    "category_id": "16427",
+    "shop": "coles",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "1900",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "1995",
+        "price_unit": ".kg"
+      }
+    ]
+  }
+]

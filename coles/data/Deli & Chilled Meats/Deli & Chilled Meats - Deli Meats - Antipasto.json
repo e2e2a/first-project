@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-semi-dried-tomatoes-with-fresh-basil-approx.-100g-3067868",
+    "name": "Coles Deli Semi Dried Tomatoes with Fresh Basil | approx 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3067868.jpg&w=640&q=90",
+    "source_id": "Coles - 3067868",
+    "barcode": "9310645231365",
+    "category_id": "8892715",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-baby-bell-peppers-with-cream-cheese-approx.-100g-3067915",
+    "name": "Coles Deli Baby Bell Peppers with Cream Cheese | approx 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3067915.jpg&w=640&q=90",
+    "source_id": "Coles - 3067915",
+    "barcode": "9310645231297",
+    "category_id": "8892715",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3200",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-antipasto-mix-approx.-100g-5139540",
+    "name": "Coles Deli Antipasto Mix | approx 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5139540.jpg&w=640&q=90",
+    "source_id": "Coles - 5139540",
+    "barcode": "9310645363110",
+    "category_id": "8892715",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

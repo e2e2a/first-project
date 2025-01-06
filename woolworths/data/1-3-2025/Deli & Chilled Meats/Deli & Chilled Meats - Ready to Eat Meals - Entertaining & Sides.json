@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122188/ingham-s-coating-mix-seasoning-chicken",
+    "name": "Ingham's Coating Mix Seasoning Chicken 75g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/122188.jpg",
+    "source_id": "Woolworths - 122188",
+    "barcode": "9310037022168",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524913/classic-cauliflower-cheese-bake-family-meal",
+    "name": "Classic Cauliflower Cheese Bake Family Meal 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/524913.jpg",
+    "source_id": "Woolworths - 524913",
+    "barcode": "781005646232",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/535318/chinese-fried-rice-family-meal",
+    "name": "Chinese Fried Rice Family Meal 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/535318.jpg",
+    "source_id": "Woolworths - 535318",
+    "barcode": "781005646218",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828744/woolworths-classic-potato-mash",
+    "name": "Woolworths Classic Potato Mash 475g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/828744.jpg",
+    "source_id": "Woolworths - 828744",
+    "barcode": "9300633716882",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828746/woolworths-roasted-garlic-mash-null",
+    "name": "Woolworths Roasted Garlic Mash 475g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/828746.jpg",
+    "source_id": "Woolworths - 828746",
+    "barcode": "9300633716905",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/674323/woolworths-sweet-potato-mash-null",
+    "name": "Woolworths Sweet Potato Mash 475g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/674323.jpg",
+    "source_id": "Woolworths - 674323",
+    "barcode": "9339687029006",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581283/woolworths-potato-bacon-bake",
+    "name": "Woolworths Potato Bacon Bake 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/581283.jpg",
+    "source_id": "Woolworths - 581283",
+    "barcode": "9300633636944",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

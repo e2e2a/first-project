@@ -1,0 +1,6992 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-firm-hold-hairspray-200g-9277127",
+    "name": "VO5 Firm Hold Hairspray | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9277127.jpg&w=640&q=90",
+    "source_id": "Coles - 9277127",
+    "barcode": "9310158168011",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "289",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-high-definition-curl-up-mousse-200ml-8132446",
+    "name": "VO5 High Definition Curl Up Mousse | 200ML",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8132446.jpg&w=640&q=90",
+    "source_id": "Coles - 8132446",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-styling-gel-tub-maximum-hold-250g-9277036",
+    "name": "Vo5 Styling Gel Tub Maximum Hold | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9277036.jpg&w=640&q=90",
+    "source_id": "Coles - 9277036",
+    "barcode": "9310158168301",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-blush-dry-shampoo-350ml-4253799",
+    "name": "Batiste Blush Dry Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4253799.jpg&w=640&q=90",
+    "source_id": "Coles - 4253799",
+    "barcode": "5010724535936",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "1995",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-dry-shampoo-and-volume-with-plumping-collagen-200ml-3535026",
+    "name": "Batiste Dry Shampoo & Volume With Plumping Collagen | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3535026.jpg&w=640&q=90",
+    "source_id": "Coles - 3535026",
+    "barcode": "5010724532966",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-divine-dark-brown-dry-shampoo-plus-200ml-2319273",
+    "name": "Batiste Divine Dark Brown Dry Shampoo Plus | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2319273.jpg&w=640&q=90",
+    "source_id": "Coles - 2319273",
+    "barcode": "5010724527856",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-megahold-mousse-200gram-8132480",
+    "name": "Vo5 Megahold Mousse | 200GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8132480.jpg&w=640&q=90",
+    "source_id": "Coles - 8132480",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toni-and-guy-instant-refresh-dry-shampoo-250ml-9192749",
+    "name": "Toni & Guy Instant Refresh Dry Shampoo | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9192749.jpg&w=640&q=90",
+    "source_id": "Coles - 9192749",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-hairspray-250g-324217",
+    "name": "Coles Hairspray | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F324217.jpg&w=640&q=90",
+    "source_id": "Coles - 324217",
+    "barcode": "9300601324217",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "126",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-extra-hold-hairspray-200g-9277149",
+    "name": "VO5 Extra Hold Hairspray | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9277149.jpg&w=640&q=90",
+    "source_id": "Coles - 9277149",
+    "barcode": "9310158168028",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "289",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tresemme-hairspray-salon-finish-extra-hold-360g-4583829",
+    "name": "TRESemme Hairspray Salon Finish Extra Hold | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4583829.jpg&w=640&q=90",
+    "source_id": "Coles - 4583829",
+    "barcode": "9310158111543",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slick-hair-company-wax-stick-50g-6507366",
+    "name": "Slick Hair Company Wax Stick | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6507366.jpg&w=640&q=90",
+    "source_id": "Coles - 6507366",
+    "barcode": "9360477000004",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5250",
+        "price_per_unit": "2625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-elnett-normal-strength-hair-spray-75ml-8143883",
+    "name": "L'Oreal Elnett Normal Strength Hair Spray | 75mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8143883.jpg&w=640&q=90",
+    "source_id": "Coles - 8143883",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "75ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1051",
+        "price_per_unit": "788",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-strong-styling-hair-spray-250g-289794",
+    "name": "Schwarzkopf Extra Care Strong Styling Hair Spray | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F289794.jpg&w=640&q=90",
+    "source_id": "Coles - 289794",
+    "barcode": "9310714467121",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-taft-strong-hold-hair-spray-200g-5171736",
+    "name": "Schwarzkopf Taft Strong Hold Hair Spray | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5171736.jpg&w=640&q=90",
+    "source_id": "Coles - 5171736",
+    "barcode": "9310714325155",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tresemme-hair-styling-spray-thermal-protections-300ml-6421894",
+    "name": "TRESemme Hair Styling Spray Thermal Protections | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6421894.jpg&w=640&q=90",
+    "source_id": "Coles - 6421894",
+    "barcode": "9310158111635",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "945",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-original-dry-shampoo-350ml-4253824",
+    "name": "Batiste Original Dry Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4253824.jpg&w=640&q=90",
+    "source_id": "Coles - 4253824",
+    "barcode": "5010724535950",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "1995",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oc-naturals-styling-hair-gel-250g-6848163",
+    "name": "OC Naturals Styling Hair Gel | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6848163.jpg&w=640&q=90",
+    "source_id": "Coles - 6848163",
+    "barcode": "9310692418320",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-taft-max-hold-styling-mousse-200g-59477",
+    "name": "Schwarzkopf Taft Max Hold Styling Mousse | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F59477.jpg&w=640&q=90",
+    "source_id": "Coles - 59477",
+    "barcode": "9310714323021",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-taft-super-hold-styling-gel-250g-59499",
+    "name": "Schwarzkopf Taft Super Hold Styling Gel | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F59499.jpg&w=640&q=90",
+    "source_id": "Coles - 59499",
+    "barcode": "9310714324165",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-tropical-dry-shampoo-350ml-4253846",
+    "name": "Batiste Tropical Dry Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4253846.jpg&w=640&q=90",
+    "source_id": "Coles - 4253846",
+    "barcode": "5010724535967",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "570",
+        "price_per_unit": "1995",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-curl-control-mousse-200ml-4444899",
+    "name": "Garnier Fructis Curl Control Mousse | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4444899.jpg&w=640&q=90",
+    "source_id": "Coles - 4444899",
+    "barcode": "3600540859495",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-taft-curl-defining-mousse-200g-5469385",
+    "name": "Schwarzkopf Taft Curl Defining Mousse | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5469385.jpg&w=640&q=90",
+    "source_id": "Coles - 5469385",
+    "barcode": "9310714323014",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tresemme-hairspray-salon-finish-extra-hold-75g-5004494",
+    "name": "TRESemme Hairspray Salon Finish Extra Hold | 75g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5004494.jpg&w=640&q=90",
+    "source_id": "Coles - 5004494",
+    "barcode": "9310158111567",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-plump-it-up-dry-shampoo-250ml-1442751",
+    "name": "VO5 Plump It Up Dry Shampoo | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1442751.jpg&w=640&q=90",
+    "source_id": "Coles - 1442751",
+    "barcode": "8711600954007",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-refresh-me-quick-dry-shampoo-250ml-1442762",
+    "name": "VO5 Refresh Me Quick Dry Shampoo | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1442762.jpg&w=640&q=90",
+    "source_id": "Coles - 1442762",
+    "barcode": "8711600953901",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "272",
+        "price_per_unit": "680",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tresemme-hairspray-salon-finish-freeze-hold-360g-5004574",
+    "name": "TRESemme Hairspray Salon Finish Freeze Hold | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5004574.jpg&w=640&q=90",
+    "source_id": "Coles - 5004574",
+    "barcode": "9310158111550",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/klorane-nettle-dry-shampoo-150ml-3562517",
+    "name": "Klorane Nettle Dry Shampoo | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3562517.jpg&w=640&q=90",
+    "source_id": "Coles - 3562517",
+    "barcode": "3282770208702",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1190",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slick-stick-anti-flyaway-hair-wand-1-pack-4488533",
+    "name": "Slick Stick Anti-Flyaway Hair Wand | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4488533.jpg&w=640&q=90",
+    "source_id": "Coles - 4488533",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "25000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "26250",
+        "price_per_unit": "2625",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-taft-maximum-hold-styling-lacquer-200g-59455",
+    "name": "Schwarzkopf Taft Maximum Hold Styling Lacquer | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F59455.jpg&w=640&q=90",
+    "source_id": "Coles - 59455",
+    "barcode": "9310714327029",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-strong-hold-mousse-150g-7125139",
+    "name": "Schwarzkopf Extra Care Strong Hold Mousse | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7125139.jpg&w=640&q=90",
+    "source_id": "Coles - 7125139",
+    "barcode": "9310714466902",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-clean-and-classic-original-dry-shampoo-200ml-2666867",
+    "name": "Batiste Clean & Classic Original Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2666867.jpg&w=640&q=90",
+    "source_id": "Coles - 2666867",
+    "barcode": "5010724527481",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/klorane-dry-shampoo-with-oat-and-ceramide-150ml-8053496",
+    "name": "Klorane Dry Shampoo With Oat & Ceramide | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8053496.jpg&w=640&q=90",
+    "source_id": "Coles - 8053496",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1260",
+        "price_per_unit": "1890",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-paris-elnett-satin-supreme-hold-hairspray-400ml-3536299",
+    "name": "L'Oreal Paris Elnett Satin Supreme Hold Hairspray | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3536299.jpg&w=640&q=90",
+    "source_id": "Coles - 3536299",
+    "barcode": "5011408028034",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "394",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-beautiful-brunette-dry-shampoo-350ml-4253788",
+    "name": "Batiste Beautiful Brunette Dry Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4253788.jpg&w=640&q=90",
+    "source_id": "Coles - 4253788",
+    "barcode": "5010724535042",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-floral-and-flirty-blush-dry-shampoo-200ml-1331342",
+    "name": "Batiste Floral & Flirty Blush Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1331342.jpg&w=640&q=90",
+    "source_id": "Coles - 1331342",
+    "barcode": "5010724527375",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-strong-hold-hair-spray-400g-366160",
+    "name": "Schwarzkopf Extra Care Strong Hold Hair Spray | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F366160.jpg&w=640&q=90",
+    "source_id": "Coles - 366160",
+    "barcode": "9310714468258",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "1365",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co-styling-powder-30g-5242550",
+    "name": "Barber & Co Styling Powder | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5242550.jpg&w=640&q=90",
+    "source_id": "Coles - 5242550",
+    "barcode": "9342746000960",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5667",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5667",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5667",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5667",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5667",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5667",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5950",
+        "price_per_unit": "1785",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/john-frieda-frizz-ease-curls-reviver-mousse-210g-8077790",
+    "name": "John Frieda Frizz Ease Curls Reviver Mousse | 210g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8077790.jpg&w=640&q=90",
+    "source_id": "Coles - 8077790",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2100",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2205",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-mega-hold-gel-200ml-8132515",
+    "name": "Vo5 Mega Hold Gel | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8132515.jpg&w=640&q=90",
+    "source_id": "Coles - 8132515",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "368",
+        "price_per_unit": "735",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-strong-hold-hair-spray-100g-5228731",
+    "name": "Schwarzkopf Extra Care Strong Hold Hair Spray | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5228731.jpg&w=640&q=90",
+    "source_id": "Coles - 5228731",
+    "barcode": "9310714467169",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/john-frieda-frizz-ease-leave-in-conditioning-spray-236ml-3536277",
+    "name": "John Frieda Frizz Ease Leave In Conditioning Spray | 236mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3536277.jpg&w=640&q=90",
+    "source_id": "Coles - 3536277",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "236ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "890",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "890",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "890",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "934",
+        "price_per_unit": "2205",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-coconut-and-exotic-tropical-dry-shampoo-200ml-1331353",
+    "name": "Batiste Coconut & Exotic Tropical Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1331353.jpg&w=640&q=90",
+    "source_id": "Coles - 1331353",
+    "barcode": "5010724527511",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-super-hold-hair-lacquer-250g-5228742",
+    "name": "Schwarzkopf Extra Care Super Hold Hair Lacquer | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5228742.jpg&w=640&q=90",
+    "source_id": "Coles - 5228742",
+    "barcode": "9310714467435",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-ultimate-style-hair-spray-250g-8142870",
+    "name": "Schwarzkopf Extra Care Ultimate Style Hair Spray | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8142870.jpg&w=640&q=90",
+    "source_id": "Coles - 8142870",
+    "barcode": "9310714211748",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-volume-powder-10g-8649587",
+    "name": "Schwarzkopf Extra Care Volume Powder | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8649587.jpg&w=640&q=90",
+    "source_id": "Coles - 8649587",
+    "barcode": "9310714212516",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "11000",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "11000",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "11000",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "11000",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "11000",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "11000",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "11550",
+        "price_per_unit": "1155",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-super-hold-hair-lacquer-400g-5086896",
+    "name": "Schwarzkopf Extra Care Super Hold Hair Lacquer | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5086896.jpg&w=640&q=90",
+    "source_id": "Coles - 5086896",
+    "barcode": "9310714467411",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "1365",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co.-hard-pomade-95g-3561004",
+    "name": "Barber & Co. Hard Pomade | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3561004.jpg&w=640&q=90",
+    "source_id": "Coles - 3561004",
+    "barcode": "9342746000601",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1658",
+        "price_per_unit": "1575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-heat-protect-spray-200ml-1442911",
+    "name": "VO5 Heat Protect Spray | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1442911.jpg&w=640&q=90",
+    "source_id": "Coles - 1442911",
+    "barcode": "5012254064351",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "475",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "475",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "475",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "475",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "475",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "367",
+        "price_per_unit": "734",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-medium-brunette-dry-shampoo-200ml-1256826",
+    "name": "Batiste Medium Brunette Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1256826.jpg&w=640&q=90",
+    "source_id": "Coles - 1256826",
+    "barcode": "5020480028573",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-extreme-styling-matt-clay-85g-4272818",
+    "name": "VO5 Extreme Styling Matt Clay | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4272818.jpg&w=640&q=90",
+    "source_id": "Coles - 4272818",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "882",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-tame-and-shine-spray-100ml-1444622",
+    "name": "VO5 Tame And Shine Spray | 100mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1444622.jpg&w=640&q=90",
+    "source_id": "Coles - 1444622",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-volume-blow-dry-spray-200ml-8131680",
+    "name": "VO5 Volume Blow Dry Spray | 200ML",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8131680.jpg&w=640&q=90",
+    "source_id": "Coles - 8131680",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "552",
+        "price_per_unit": "1103",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/klorane-dry-shampoo-volume-flax-150ml-5272711",
+    "name": "Klorane Dry Shampoo Volume Flax | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5272711.jpg&w=640&q=90",
+    "source_id": "Coles - 5272711",
+    "barcode": "3282770147605",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1190",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-eden-dry-shampoo-350ml-4253802",
+    "name": "Batiste Eden Dry Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4253802.jpg&w=640&q=90",
+    "source_id": "Coles - 4253802",
+    "barcode": "5010724535943",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tresemme-ultimate-hold-hairspray-lacquer-360g-8143522",
+    "name": "TRESemme Ultimate Hold Hairspray Lacquer | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8143522.jpg&w=640&q=90",
+    "source_id": "Coles - 8143522",
+    "barcode": "9310158113264",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-got2b-dry-shampoo-fresh-it-up-volume-200ml-3534883",
+    "name": "Schwarzkopf Got2B Dry Shampoo Fresh It Up Volume | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3534883.jpg&w=640&q=90",
+    "source_id": "Coles - 3534883",
+    "barcode": "7332531063739",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-keratin-heat-protect-spray-250ml-5245220",
+    "name": "Schwarzkopf Extra Care Keratin Heat Protect Spray | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5245220.jpg&w=640&q=90",
+    "source_id": "Coles - 5245220",
+    "barcode": "9310714228104",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-elnett-normal-strength-hair-spray-400ml-8143715",
+    "name": "L'Oreal Elnett Normal Strength Hair Spray | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8143715.jpg&w=640&q=90",
+    "source_id": "Coles - 8143715",
+    "barcode": "5011408027976",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "394",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-strong-hold-hair-spray-200ml-350068",
+    "name": "Schwarzkopf Extra Care Strong Hold Hair Spray | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F350068.jpg&w=640&q=90",
+    "source_id": "Coles - 350068",
+    "barcode": "9310714468005",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co.-paste-styler-95g-3560930",
+    "name": "Barber & Co. Paste Styler | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3560930.jpg&w=640&q=90",
+    "source_id": "Coles - 3560930",
+    "barcode": "9342746000625",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1658",
+        "price_per_unit": "1575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co.-clay-95g-3560985",
+    "name": "Barber & Co. Clay | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3560985.jpg&w=640&q=90",
+    "source_id": "Coles - 3560985",
+    "barcode": "9342746000632",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1658",
+        "price_per_unit": "1575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-keratin-sea-salt-spray-250ml-5245297",
+    "name": "Schwarzkopf Extra Care Keratin Sea Salt Spray | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5245297.jpg&w=640&q=90",
+    "source_id": "Coles - 5245297",
+    "barcode": "9310714228111",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/klorane-dry-shampoo-with-oat-and-ceramide-dark-hair-150ml-8053500",
+    "name": "Klorane Dry Shampoo With Oat & Ceramide Dark Hair | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8053500.jpg&w=640&q=90",
+    "source_id": "Coles - 8053500",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1260",
+        "price_per_unit": "1890",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-styling-fiber-85g-7362510",
+    "name": "Urbane Mess Styling Fiber | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7362510.jpg&w=640&q=90",
+    "source_id": "Coles - 7362510",
+    "barcode": "9347346004684",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-grooming-wax-85g-7362564",
+    "name": "Urbane Mess Grooming Wax | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7362564.jpg&w=640&q=90",
+    "source_id": "Coles - 7362564",
+    "barcode": "9347346004707",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-summer-fruits-and-berries-cherry-dry-shampoo-200ml-1256860",
+    "name": "Batiste Summer Fruits & Berries Cherry Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1256860.jpg&w=640&q=90",
+    "source_id": "Coles - 1256860",
+    "barcode": "5010724526798",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-got2b-glued-hairspray-300ml-3534952",
+    "name": "Schwarzkopf Got2b Glued Hairspray | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3534952.jpg&w=640&q=90",
+    "source_id": "Coles - 3534952",
+    "barcode": "5012583105091",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "567",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "567",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "567",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "567",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "595",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-dry-shampoo-volume-350ml-5355455",
+    "name": "Batiste Dry Shampoo Volume | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5355455.jpg&w=640&q=90",
+    "source_id": "Coles - 5355455",
+    "barcode": "5010724544778",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ogx-coconut-curls-styling-milk-177ml-5242277",
+    "name": "Ogx Coconut Curls Styling Milk | 177mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5242277.jpg&w=640&q=90",
+    "source_id": "Coles - 5242277",
+    "barcode": "0022796900951",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "177ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1602",
+        "price_per_unit": "2835",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vo5-wet-look-gel-200ml-8132537",
+    "name": "Vo5 Wet Look Gel | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8132537.jpg&w=640&q=90",
+    "source_id": "Coles - 8132537",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "368",
+        "price_per_unit": "735",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-ultimate-styling-hair-mousse-150g-8142938",
+    "name": "Schwarzkopf Extra Care Ultimate Styling Hair Mousse | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8142938.jpg&w=640&q=90",
+    "source_id": "Coles - 8142938",
+    "barcode": "9310714211755",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fudge-urban-matte-hair-wax-gel-pomade-styling-putty-70g-1058480",
+    "name": "Fudge Urban Matte Hair Wax Gel Pomade Styling Putty | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1058480.jpg&w=640&q=90",
+    "source_id": "Coles - 1058480",
+    "barcode": "9312396000061",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1429",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-eden-dry-shampoo-200ml-2920655",
+    "name": "Batiste Eden Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2920655.jpg&w=640&q=90",
+    "source_id": "Coles - 2920655",
+    "barcode": "5010724528945",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-volume-styling-hair-spray-250g-6421599",
+    "name": "Schwarzkopf Extra Care Volume Styling Hair Spray | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6421599.jpg&w=640&q=90",
+    "source_id": "Coles - 6421599",
+    "barcode": "9310714206454",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marc-daniels-colour-hairspray-pink-85g-6533548",
+    "name": "Marc Daniels Colour Hairspray Pink | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6533548.jpg&w=640&q=90",
+    "source_id": "Coles - 6533548",
+    "barcode": "694530004111",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-keratin-strength-hairspray-400g-6509805",
+    "name": "Schwarzkopf Extra Care Keratin Strength Hairspray | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6509805.jpg&w=640&q=90",
+    "source_id": "Coles - 6509805",
+    "barcode": "9310714229040",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "1365",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-powderful-volume-powder-10g-4242533",
+    "name": "Schwarzkopf Powderful Volume Powder | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4242533.jpg&w=640&q=90",
+    "source_id": "Coles - 4242533",
+    "barcode": "7332531019330",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "15000",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "15000",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "15000",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "15000",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "15750",
+        "price_per_unit": "1575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-divine-dark-dry-shampoo-350ml-6507322",
+    "name": "Batiste Divine Dark Dry Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6507322.jpg&w=640&q=90",
+    "source_id": "Coles - 6507322",
+    "barcode": "5010724537497",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/john-frieda-frizz-ease-weightless-wonder-creme-100ml-5294634",
+    "name": "John Frieda Frizz Ease Weightless Wonder Creme | 100mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5294634.jpg&w=640&q=90",
+    "source_id": "Coles - 5294634",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ogx-flexible-control-shine-+-hydrate-argan-oil-of-morocco-tame-and-shine-cream-for-frizzy-hair-177ml-3789578",
+    "name": "Ogx Flexible Control Shine + Hydrate Argan Oil Of Morocco Tam ... 177mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3789578.jpg&w=640&q=90",
+    "source_id": "Coles - 3789578",
+    "barcode": "3574661531694",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "177ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1525",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1602",
+        "price_per_unit": "2835",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marc-daneils-professional-go-curly-enhance-define-gel-150ml-5245322",
+    "name": "Marc Daneils Professional Go Curly Enhance Define Gel | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5245322.jpg&w=640&q=90",
+    "source_id": "Coles - 5245322",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "533",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-volume-styling-mousse-150g-6419291",
+    "name": "Schwarzkopf Extra Care Volume Styling Mousse | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6419291.jpg&w=640&q=90",
+    "source_id": "Coles - 6419291",
+    "barcode": "9310714206461",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-got2b-extra-fresh-it-up-dry-shampoo-200ml-3534941",
+    "name": "Schwarzkopf Got2b Extra Fresh It Up Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3534941.jpg&w=640&q=90",
+    "source_id": "Coles - 3534941",
+    "barcode": "5410091733377",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "788",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/got2b-hydrating-beach-waves-spray-150ml-6509791",
+    "name": "Got2b Hydrating Beach Waves Spray | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6509791.jpg&w=640&q=90",
+    "source_id": "Coles - 6509791",
+    "barcode": "7332531112277",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1190",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/john-frieda-frizz-ease-original-serum-50ml-5294623",
+    "name": "John Frieda Frizz Ease Original Serum | 50mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5294623.jpg&w=640&q=90",
+    "source_id": "Coles - 5294623",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "4200",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "4200",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "4410",
+        "price_per_unit": "2205",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-got2b-farewell-flyaway-16ml-5242492",
+    "name": "Schwarzkopf Got2b Farewell Flyaway | 16mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5242492.jpg&w=640&q=90",
+    "source_id": "Coles - 5242492",
+    "barcode": "5012583207931",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "16ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "15625",
+        "price_per_unit": "2500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "16406",
+        "price_per_unit": "2625",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-curl-flex-mousse-150g-6892722",
+    "name": "Schwarzkopf Extra Care Curl Flex Mousse | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6892722.jpg&w=640&q=90",
+    "source_id": "Coles - 6892722",
+    "barcode": "9310714208717",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-defining-paste-85g-7362553",
+    "name": "Urbane Mess Defining Paste | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7362553.jpg&w=640&q=90",
+    "source_id": "Coles - 7362553",
+    "barcode": "9347346004691",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-pomade-85g-7363272",
+    "name": "Urbane Mess Pomade | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7363272.jpg&w=640&q=90",
+    "source_id": "Coles - 7363272",
+    "barcode": "9347346004721",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-dry-shampoo-bare-200ml-3826812",
+    "name": "Batiste Dry Shampoo Bare | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3826812.jpg&w=640&q=90",
+    "source_id": "Coles - 3826812",
+    "barcode": "5010724529836",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-active-dry-shampoo-200ml-8053612",
+    "name": "Batiste Active Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8053612.jpg&w=640&q=90",
+    "source_id": "Coles - 8053612",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-taft-full-on-instant-freeze-jelly-200ml-2662935",
+    "name": "Schwarzkopf Taft Full On Instant Freeze Jelly | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2662935.jpg&w=640&q=90",
+    "source_id": "Coles - 2662935",
+    "barcode": "9310714219706",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-elnett-flexible-hold-400ml-8079773",
+    "name": "L'oreal Elnett Flexible Hold | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8079773.jpg&w=640&q=90",
+    "source_id": "Coles - 8079773",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "394",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/people-slick-styler-20g-8093082",
+    "name": "People Slick Styler | 20g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093082.jpg&w=640&q=90",
+    "source_id": "Coles - 8093082",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "20g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "8000",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "8400",
+        "price_per_unit": "1680",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-got2b-guardian-angel-heat-protection-spray-200ml-3534985",
+    "name": "Schwarzkopf Got2b Guardian Angel Heat Protection Spray | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3534985.jpg&w=640&q=90",
+    "source_id": "Coles - 3534985",
+    "barcode": "5012583201885",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "893",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/got2b-define-and-protect-curl-spray-150ml-8053543",
+    "name": "Got2b Define & Protect Curl Spray | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8053543.jpg&w=640&q=90",
+    "source_id": "Coles - 8053543",
+    "barcode": "5012583211945",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1133",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1190",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-dry-shampoo-rose-gold-350ml-5355444",
+    "name": "Batiste Dry Shampoo Rose Gold | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5355444.jpg&w=640&q=90",
+    "source_id": "Coles - 5355444",
+    "barcode": "5010724537800",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "543",
+        "price_per_unit": "1900",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-ceramic-curler-1-pack-3596698",
+    "name": "VS Sassoon Ceramic Curler | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596698.jpg&w=640&q=90",
+    "source_id": "Coles - 3596698",
+    "barcode": "9338841012748",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marc-daniels-colour-hairspray-purple-85g-6532261",
+    "name": "Marc Daniels Colour Hairspray Purple | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6532261.jpg&w=640&q=90",
+    "source_id": "Coles - 6532261",
+    "barcode": "694530004906",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marc-daniels-colour-hairspray-glitter-85g-6533490",
+    "name": "Marc Daniels Colour Hairspray Glitter | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6533490.jpg&w=640&q=90",
+    "source_id": "Coles - 6533490",
+    "barcode": "694530004173",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-elnett-flexible-hold-75ml-8079784",
+    "name": "L'oreal Elnett Flexible Hold | 75mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8079784.jpg&w=640&q=90",
+    "source_id": "Coles - 8079784",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "75ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1051",
+        "price_per_unit": "788",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-super-styling-hold-hair-lacquer-100g-6892915",
+    "name": "Schwarzkopf Extra Care Super Styling Hold Hair Lacquer | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6892915.jpg&w=640&q=90",
+    "source_id": "Coles - 6892915",
+    "barcode": "9310714465455",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "840",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-pliable-putty-85g-7362520",
+    "name": "Urbane Mess Pliable Putty | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7362520.jpg&w=640&q=90",
+    "source_id": "Coles - 7362520",
+    "barcode": "9347346004714",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-texture-clay-85g-7363523",
+    "name": "Urbane Mess Texture Clay | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7363523.jpg&w=640&q=90",
+    "source_id": "Coles - 7363523",
+    "barcode": "9346720009147",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-mini-pro-dryer-1-pack-3596723",
+    "name": "VS Sassoon Mini Pro Dryer | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596723.jpg&w=640&q=90",
+    "source_id": "Coles - 3596723",
+    "barcode": "9338841012755",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/people-volumising-foam-200ml-8093231",
+    "name": "People Volumising Foam | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093231.jpg&w=640&q=90",
+    "source_id": "Coles - 8093231",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "1680",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marc-daniels-colour-hairspray-red-85g-6533515",
+    "name": "Marc Daniels Colour Hairspray Red | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6533515.jpg&w=640&q=90",
+    "source_id": "Coles - 6533515",
+    "barcode": "694530004142",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "529",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-pretty-and-delicate-rose-gold-dry-shampoo-200ml-3320336",
+    "name": "Batiste Pretty & Delicate Rose Gold Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3320336.jpg&w=640&q=90",
+    "source_id": "Coles - 3320336",
+    "barcode": "5010724530467",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-overnight-deep-cleanse-dry-shampoo-200ml-6507311",
+    "name": "Batiste Overnight Deep Cleanse Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6507311.jpg&w=640&q=90",
+    "source_id": "Coles - 6507311",
+    "barcode": "5010724844861",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/batiste-fresh-dry-shampoo-200ml-8053623",
+    "name": "Batiste Fresh Dry Shampoo | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8053623.jpg&w=640&q=90",
+    "source_id": "Coles - 8053623",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co.-soft-pomade-styler-95g-5242539",
+    "name": "Barber & Co. Soft Pomade Styler | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5242539.jpg&w=640&q=90",
+    "source_id": "Coles - 5242539",
+    "barcode": "9342746000595",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1658",
+        "price_per_unit": "1575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-keratin-volume-foam-150ml-5245300",
+    "name": "Schwarzkopf Extra Care Keratin Volume Foam | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5245300.jpg&w=640&q=90",
+    "source_id": "Coles - 5245300",
+    "barcode": "9310714228128",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co-fibre-styler-95g-5700101",
+    "name": "Barber & Co Fibre Styler | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5700101.jpg&w=640&q=90",
+    "source_id": "Coles - 5700101",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1579",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1658",
+        "price_per_unit": "1575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/people-heat-protection-spray-200ml-8093151",
+    "name": "People Heat Protection Spray | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093151.jpg&w=640&q=90",
+    "source_id": "Coles - 8093151",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "1680",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oc-naturals-kids-styling-gel-250g-2677841",
+    "name": "OC Naturals Kids Styling Gel | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2677841.jpg&w=640&q=90",
+    "source_id": "Coles - 2677841",
+    "barcode": "9310692491224",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cedel-firm-hairspray-250g-241743",
+    "name": "Cedel Firm Hairspray | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F241743.jpg&w=640&q=90",
+    "source_id": "Coles - 241743",
+    "barcode": "9312658033004",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cedel-extra-firm-hairspray-250g-241754",
+    "name": "Cedel Extra Firm Hairspray | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F241754.jpg&w=640&q=90",
+    "source_id": "Coles - 241754",
+    "barcode": "9312658033011",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-sleek-and-shine-flat-iron-spray-177ml-9945053",
+    "name": "Garnier Fructis Sleek & Shine Flat Iron Spray | 177mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9945053.jpg&w=640&q=90",
+    "source_id": "Coles - 9945053",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "177ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "424",
+        "price_per_unit": "750",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urbane-mess-thickening-paste-85g-7363330",
+    "name": "Urbane Mess Thickening Paste | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7363330.jpg&w=640&q=90",
+    "source_id": "Coles - 7363330",
+    "barcode": "9346720009130",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1059",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1112",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conair-transparent-toiletry-travel-bag-1-pack-3596756",
+    "name": "Conair Transparent Toiletry Travel Bag | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596756.jpg&w=640&q=90",
+    "source_id": "Coles - 3596756",
+    "barcode": "9338841012786",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/klorane-dry-shampoo-with-oat-and-ceramide-50ml-8053690",
+    "name": "Klorane Dry Shampoo With Oat & Ceramide | 50mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8053690.jpg&w=640&q=90",
+    "source_id": "Coles - 8053690",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conair-toiletry-bag-fabric-lined-1-pack-3606725",
+    "name": "Conair Toiletry Bag Fabric Lined | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3606725.jpg&w=640&q=90",
+    "source_id": "Coles - 3606725",
+    "barcode": "9338841013011",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schwarzkopf-extra-care-curl-flex-creme-200ml-5245311",
+    "name": "Schwarzkopf Extra Care Curl Flex Creme | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5245311.jpg&w=640&q=90",
+    "source_id": "Coles - 5245311",
+    "barcode": "9310714228135",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "788",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-mini-pro-curling-tong-styler-1-pack-3596734",
+    "name": "VS Sassoon Mini Pro Curling Tong Styler | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596734.jpg&w=640&q=90",
+    "source_id": "Coles - 3596734",
+    "barcode": "9338841012779",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-mini-pro-straightener-1-pack-3596745",
+    "name": "VS Sassoon Mini Pro Straightener | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596745.jpg&w=640&q=90",
+    "source_id": "Coles - 3596745",
+    "barcode": "9338841012762",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/people-texturising-beach-spray-200ml-8093118",
+    "name": "People Texturising Beach Spray | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093118.jpg&w=640&q=90",
+    "source_id": "Coles - 8093118",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "840",
+        "price_per_unit": "1680",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barber-and-co-texturising-spray-180ml-5242561",
+    "name": "Barber & Co Texturising Spray | 180mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5242561.jpg&w=640&q=90",
+    "source_id": "Coles - 5242561",
+    "barcode": "9342746000953",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "180ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "944",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "944",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "944",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "944",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "992",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conairman-the-home-cut-1-pack-3596790",
+    "name": "Conairman The Home Cut | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596790.jpg&w=640&q=90",
+    "source_id": "Coles - 3596790",
+    "barcode": "9338841012793",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conairman-the-diamond-precision-1-pack-3596971",
+    "name": "Conairman The Diamond Precision | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596971.jpg&w=640&q=90",
+    "source_id": "Coles - 3596971",
+    "barcode": "9338841009830",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-ceramic-dryer-1-pack-3596687",
+    "name": "VS Sassoon Ceramic Dryer | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596687.jpg&w=640&q=90",
+    "source_id": "Coles - 3596687",
+    "barcode": "9338841012724",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-ceramic-slim-lite-straightener-1-pack-3596712",
+    "name": "VS Sassoon Ceramic Slim- Lite Straightener | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596712.jpg&w=640&q=90",
+    "source_id": "Coles - 3596712",
+    "barcode": "9338841012731",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slick-hair-dream-cream-135ml-8680077",
+    "name": "Slick Hair Dream Cream | 135ML",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8680077.jpg&w=640&q=90",
+    "source_id": "Coles - 8680077",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "135ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "2835",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slick-hair-anti-flyaway-gel-100ml-8680146",
+    "name": "Slick Hair Anti Flyaway Gel | 100ML",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8680146.jpg&w=640&q=90",
+    "source_id": "Coles - 8680146",
+    "barcode": "",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "2835",
+        "price_per_unit": "2835",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vs-sassoon-mini-pro-straightening-brush-1-pack-3606714",
+    "name": "VS Sassoon Mini Pro Straightening Brush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3606714.jpg&w=640&q=90",
+    "source_id": "Coles - 3606714",
+    "barcode": "9338841013004",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conairman-the-clean-cut-1-pack-3596927",
+    "name": "Conairman The Clean Cut | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596927.jpg&w=640&q=90",
+    "source_id": "Coles - 3596927",
+    "barcode": "9338841012809",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "3450",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "3450",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conairman-the-total-groom-1-pack-3596960",
+    "name": "Conairman The Total Groom | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3596960.jpg&w=640&q=90",
+    "source_id": "Coles - 3596960",
+    "barcode": "9338841012816",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "3450",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "3450",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

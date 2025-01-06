@@ -1,0 +1,662 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481072/baxter-s-puppy-milk",
+    "name": "Baxter's Puppy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/481072.jpg",
+    "source_id": "Woolworths - 481072",
+    "barcode": "9300633554149",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/359587/my-dog-puppy-chicken-mince-with-rice-carrot-spinach-dog-food-tray",
+    "name": "My Dog Puppy Chicken Mince With Rice Carrot & Spinach Dog Food Tray 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/359587.jpg",
+    "source_id": "Woolworths - 359587",
+    "barcode": "9334214019086",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750975/optimum-puppy-wet-dog-food-with-chicken-rice-vegetables",
+    "name": "Optimum Puppy Wet Dog Food with Chicken, Rice & Vegetables 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/750975.jpg",
+    "source_id": "Woolworths - 750975",
+    "barcode": "9334214023274",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/1500/pedigree-puppy-dry-dog-food-chicken-with-rice",
+    "name": "Pedigree Puppy Dry Dog Food Chicken with Rice 2.5kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/001500.jpg",
+    "source_id": "Woolworths - 1500",
+    "barcode": "9310022161100",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481139/apollo-dog-food-puppy-delicate-chicken",
+    "name": "Apollo Dog Food Puppy Delicate Chicken 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/481139.jpg",
+    "source_id": "Woolworths - 481139",
+    "barcode": "93633581",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214645/optimum-puppy-wet-dog-food-with-chicken-rice-can",
+    "name": "Optimum Puppy Wet Dog Food with Chicken & Rice Can 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/214645.jpg",
+    "source_id": "Woolworths - 214645",
+    "barcode": "9310022193002",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "71",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71193/pedigree-puppy-wet-dog-food-with-chicken-rice-mince-can",
+    "name": "Pedigree Puppy Wet Dog Food with Chicken & Rice Mince Can 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/071193.jpg",
+    "source_id": "Woolworths - 71193",
+    "barcode": "9310022037207",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/545775/total-care-capstar-puppy-small-dog-cat",
+    "name": "Total Care Capstar Puppy Small Dog/Cat 3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/545775.jpg",
+    "source_id": "Woolworths - 545775",
+    "barcode": "9316457880098",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/480934/baxter-s-dog-food-puppy-chicken-rice",
+    "name": "Baxter's Dog Food Puppy Chicken & Rice 3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/480934.jpg",
+    "source_id": "Woolworths - 480934",
+    "barcode": "9300633554071",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688866/baxter-s-puppy-mini-bones",
+    "name": "Baxter's Puppy Mini Bones 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/688866.jpg",
+    "source_id": "Woolworths - 688866",
+    "barcode": "9339687045334",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360069/optimum-puppy-all-breed-dry-dog-food-with-chicken",
+    "name": "Optimum Puppy All Breed Dry Dog Food with Chicken 3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/360069.jpg",
+    "source_id": "Woolworths - 360069",
+    "barcode": "9334214019499",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/732440/optimum-puppy-with-chicken-dry-dog-food",
+    "name": "Optimum Puppy With Chicken Dry Dog Food 7kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/732440.jpg",
+    "source_id": "Woolworths - 732440",
+    "barcode": "9334214021744",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "51",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "51",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "51",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "51",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "51",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/480251/baxter-s-dog-food-puppy-loaf-chicken-rice",
+    "name": "Baxter's Dog Food Puppy Loaf Chicken & Rice 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/480251.jpg",
+    "source_id": "Woolworths - 480251",
+    "barcode": "9300633553968",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

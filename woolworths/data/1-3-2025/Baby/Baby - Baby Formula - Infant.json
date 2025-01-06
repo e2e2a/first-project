@@ -1,0 +1,938 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906438/a2-milk-gentle-gold-stage-2-infant-formula-6m-",
+    "name": "A2 Milk Gentle Gold Stage 2 Infant Formula 6m+ 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/906438.jpg",
+    "source_id": "Woolworths - 906438",
+    "barcode": "9421902960895",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237072/a2-platinum-follow-on-formula-stage-2",
+    "name": "A2 Platinum Follow On Formula Stage 2 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237072.jpg",
+    "source_id": "Woolworths - 237072",
+    "barcode": "9421902960604",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "4255",
+        "price_per_unit": "473",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613485/alula-advance-stage-2-follow-on-baby-formula-6-12-months",
+    "name": "Alula Advance+ Stage 2 Follow On Baby Formula 6-12 Months 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/613485.jpg",
+    "source_id": "Woolworths - 613485",
+    "barcode": "9347832001289",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/654783/alula-gold-follow-on-6-12-months-formula",
+    "name": "Alula Gold Follow-On 6-12 Months Formula 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/654783.jpg",
+    "source_id": "Woolworths - 654783",
+    "barcode": "9347832001227",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2995",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/654784/alula-gold-junior-2-years-milk-drink",
+    "name": "Alula Gold Junior 2 Years + Milk Drink 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/654784.jpg",
+    "source_id": "Woolworths - 654784",
+    "barcode": "9347832001241",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2550",
+        "price_per_unit": "283",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2680",
+        "price_per_unit": "298",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/654818/alula-original-follow-on-6-12-months-formula",
+    "name": "Alula Original Follow On 6-12 Months Formula 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/654818.jpg",
+    "source_id": "Woolworths - 654818",
+    "barcode": "9347832001142",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/378532/aptamil-gold-2-baby-follow-on-formula-from-6-to-12-months",
+    "name": "Aptamil Gold+ 2 Baby Follow-On Formula From 6 To 12 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/378532.jpg",
+    "source_id": "Woolworths - 378532",
+    "barcode": "9418783002837",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250241/bellamy-s-organic-organic-follow-on-formula-stage-2-from-6-months",
+    "name": "Bellamy's Organic Follow-On Formula Stage 2 From 6 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250241.jpg",
+    "source_id": "Woolworths - 250241",
+    "barcode": "9332045001751",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3780",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88164/bubs-organic-grass-fed-follow-on-formula-stage-2",
+    "name": "Bubs Organic Grass Fed Follow On Formula Stage 2 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/088164.jpg",
+    "source_id": "Woolworths - 88164",
+    "barcode": "9338078005704",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3675",
+        "price_per_unit": "459",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215113/infacare-comfort-follow-on-formula-stage-2-6-12-months",
+    "name": "Infacare Comfort Follow-On Formula Stage 2, 6-12 Months 850g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/215113.jpg",
+    "source_id": "Woolworths - 215113",
+    "barcode": "9347832001128",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1735",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743732/karicare-2-baby-follow-on-formula-from-6-to-12-months",
+    "name": "Karicare 2 Baby Follow-On Formula From 6 To 12 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/743732.jpg",
+    "source_id": "Woolworths - 743732",
+    "barcode": "9418783003100",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155540/nestle-nan-comfort-2-follow-on-formula-6-12-months-powder",
+    "name": "Nestle NAN Comfort 2 Follow-On Formula 6-12 Months Powder 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155540.jpg",
+    "source_id": "Woolworths - 155540",
+    "barcode": "7613287081674",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2205",
+        "price_per_unit": "276",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155537/nestle-nan-optipro-2-follow-on-formula-6-12-months-powder",
+    "name": "Nestle NAN Optipro 2 Follow-On Formula 6-12 Months Powder 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155537.jpg",
+    "source_id": "Woolworths - 155537",
+    "barcode": "7613287040510",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3045",
+        "price_per_unit": "381",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155533/nestle-nan-supremepro-2-follow-on-premium-formula-6-12-months",
+    "name": "Nestle NAN Supremepro 2 Follow-On Premium Formula 6-12 Months 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155533.jpg",
+    "source_id": "Woolworths - 155533",
+    "barcode": "7613039679562",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3990",
+        "price_per_unit": "499",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160940/nutura-organic-follow-on-formula-6-12-months",
+    "name": "Nutura Organic Follow On Formula 6-12 Months 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/160940.jpg",
+    "source_id": "Woolworths - 160940",
+    "barcode": "9350758000625",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151743/aptamil-profutura-2-premium-follow-on-formula-from-6-to-12-months",
+    "name": "Aptamil Profutura 2 Premium Follow-On Formula From 6 To 12 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151743.jpg",
+    "source_id": "Woolworths - 151743",
+    "barcode": "9418783008860",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "4720",
+        "price_per_unit": "524",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

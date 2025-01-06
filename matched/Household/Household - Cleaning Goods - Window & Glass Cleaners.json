@@ -1,0 +1,326 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/ajax-spray-n-wipe-glass-cleaner-500ml-4410751",
+    "name": "Ajax Spray N Wipe Glass Cleaner | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4410751.jpg&w=640&q=90",
+    "barcode": "9300632065158",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224641/ajax-spray-wipe-glass-cleaner-trigger-spray",
+    "name": "Ajax Spray & Wipe Glass Cleaner Trigger Spray 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224641.jpg",
+    "barcode": "9300632065158",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/earth-choice-window-cleaner-trigger-pack-600ml-9189347",
+    "name": "Earth Choice Window Cleaner Trigger Pack | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9189347.jpg&w=640&q=90",
+    "barcode": "9310692133162",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "52",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "54",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/712668/earth-choice-window-cleaner-window",
+    "name": "Earth Choice Window Cleaner Window 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/712668.jpg",
+    "barcode": "9310692133162",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "53",
+        "price_per_unit": "315",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/windex-glass-cleaner-trigger-spray-crystal-rain-500ml-6294764",
+    "name": "Windex Glass Cleaner Trigger Spray Crystal Rain | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6294764.jpg&w=640&q=90",
+    "barcode": "9300622700885",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/297323/windex-glass-cleaner-trigger-crystal-rain",
+    "name": "Windex Glass Cleaner Trigger Crystal Rain 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/297323.jpg",
+    "barcode": "9300622700885",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "70",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

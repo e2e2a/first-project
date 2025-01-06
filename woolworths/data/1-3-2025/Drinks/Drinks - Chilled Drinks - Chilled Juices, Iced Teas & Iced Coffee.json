@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221003/daily-good-organic-blackcurrant-immunity-shots",
+    "name": "Daily Good Organic Blackcurrant Immunity Shots 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221003.jpg",
+    "source_id": "Woolworths - 221003",
+    "barcode": "9421905935814",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136472/vit-hit-perform",
+    "name": "Vit-Hit Perform 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/136472.jpg",
+    "source_id": "Woolworths - 136472",
+    "barcode": "5060381910089",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/218277/daily-good-organic-fiji-turmeric-immunity-shots",
+    "name": "Daily Good Organic Fiji Turmeric Immunity Shots 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/218277.jpg",
+    "source_id": "Woolworths - 218277",
+    "barcode": "9421905935784",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

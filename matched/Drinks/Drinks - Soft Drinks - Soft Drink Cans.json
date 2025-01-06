@@ -1,0 +1,4032 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-caffeine-free-soft-drink-multipack-cans-10x375ml-10-pack-3989996",
+    "name": "Coca-Cola Zero Sugar Caffeine Free Soft Drink Multipack Cans ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3989996.jpg&w=640&q=90",
+    "barcode": "9300675089845",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140640/coca-cola-caffeine-free-zero-sugar-soft-drink-multipack-cans",
+    "name": "Coca-Cola Caffeine Free Zero Sugar Soft Drink Multipack Cans 10 x 375mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140640.jpg",
+    "barcode": "9300675089845",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398689",
+    "name": "Coca-Cola Classic Soft Drink Multipack Mini Cans 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398689.jpg&w=640&q=90",
+    "barcode": "9300675090858",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244370/coca-cola-classic-soft-drink-mini-cans",
+    "name": "Coca-Cola Classic Soft Drink Mini Cans 250ml X 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/244370.jpg",
+    "barcode": "9300675090858",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "603",
+        "price_per_unit": "905",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-cans-10x375ml-10-pack-1849307",
+    "name": "Coca-Cola Classic Soft Drink Multipack Cans 10x375mL | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1849307.jpg&w=640&q=90",
+    "barcode": "9300675014779",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793315/coca-cola-classic-soft-drink-multipack-cans",
+    "name": "Coca-Cola Classic Soft Drink Multipack Cans 375ml X 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/793315.jpg",
+    "barcode": "9300675014779",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-diet-soft-drink-6x250ml-6-pack-4398703",
+    "name": "Coca-Cola Diet Soft Drink 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398703.jpg&w=640&q=90",
+    "barcode": "9300675090872",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245582/coca-cola-diet-soft-drink-mini-cans",
+    "name": "Coca-Cola Diet Soft Drink Mini Cans 250ml X 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245582.jpg",
+    "barcode": "9300675090872",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "603",
+        "price_per_unit": "905",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-caffeine-free-coke-soft-drink-6x250ml-6-pack-6670094",
+    "name": "Coca-Cola Zero Caffeine Free Coke Soft Drink 6X250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6670094.jpg&w=640&q=90",
+    "barcode": "9300675094504",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/408346/coca-cola-mini-zero-sugar-zero-caffeine",
+    "name": "Coca-Cola Mini Zero Sugar Zero Caffeine 250ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/408346.jpg",
+    "barcode": "9300675094504",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "603",
+        "price_per_unit": "905",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398690",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Mini Cans 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398690.jpg&w=640&q=90",
+    "barcode": "9300675090865",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243760/coca-cola-zero-sugar-soft-drink-mini-cans",
+    "name": "Coca-Cola Zero Sugar Soft Drink Mini Cans 6 x 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/243760.jpg",
+    "barcode": "9300675090865",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "603",
+        "price_per_unit": "905",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-cans-10x375ml-10-pack-2993739",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Cans 10x375mL | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2993739.jpg&w=640&q=90",
+    "barcode": "9300675079686",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/669379/coca-cola-zero-sugar-soft-drink-multipack-cans",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Cans 10 x 375mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/669379.jpg",
+    "barcode": "9300675079686",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-cans-30x375ml-30-pack-8464810",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Cans 30x375mL | 30 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8464810.jpg&w=640&q=90",
+    "barcode": "9300675079716",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "4720",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "4720",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "4720",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "4720",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "4390",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "4720",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "441",
+        "price_per_unit": "4956",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "4720",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679121/coca-cola-zero-sugar-soft-drink-multipack-cans",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Cans 30 x 375mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/679121.jpg",
+    "barcode": "9300675079716",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "252",
+        "price_per_unit": "2830",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "252",
+        "price_per_unit": "2830",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "252",
+        "price_per_unit": "2830",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "252",
+        "price_per_unit": "2830",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "252",
+        "price_per_unit": "2830",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "234",
+        "price_per_unit": "2630",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "252",
+        "price_per_unit": "2830",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "264",
+        "price_per_unit": "2975",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fanta-orange-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398725",
+    "name": "Fanta Orange Soft Drink Multipack Mini Cans 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398725.jpg&w=640&q=90",
+    "barcode": "9300675090896",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245069/fanta-orange-soft-drink-mini-cans",
+    "name": "Fanta Orange Soft Drink Mini Cans 250ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245069.jpg",
+    "barcode": "9300675090896",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fanta-orange-zero-sugar-soft-drink-mini-cans-6x250ml-6-pack-4398736",
+    "name": "Fanta Orange Zero Sugar Soft Drink Mini Cans 6x250mL | 6 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398736.jpg&w=640&q=90",
+    "barcode": "9300675090902",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244886/fanta-orange-zero-sugar-soft-drink-mini-cans",
+    "name": "Fanta Orange Zero Sugar Soft Drink Mini Cans 250ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/244886.jpg",
+    "barcode": "9300675090902",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "603",
+        "price_per_unit": "905",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fanta-raspberry-zero-sugar-soft-drink-mini-cans-6x250ml-6-pack-5484560",
+    "name": "Fanta Raspberry Zero Sugar Soft Drink Mini Cans 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5484560.jpg&w=640&q=90",
+    "barcode": "9300675093132",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243692/fanta-raspberry-zero-sugar-soft-drink-mini-cans",
+    "name": "Fanta Raspberry Zero Sugar Soft Drink Mini Cans 250ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/243692.jpg",
+    "barcode": "9300675093132",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pepsi-max-no-sugar-cola-soft-drink-cans-multipack-375ml-x-10-pack-10-pack-2684166",
+    "name": "Pepsi Max No Sugar Cola Soft Drink Cans Multipack 375mL x 10 Pack | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2684166.jpg&w=640&q=90",
+    "barcode": "9313820000664",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "1650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "504",
+        "price_per_unit": "1890",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/442190/pepsi-max-no-sugar-cola-soft-drink-cans-multipack",
+    "name": "Pepsi Max No Sugar Cola Soft Drink Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/442190.jpg",
+    "barcode": "9313820000664",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pepsi-max-no-sugar-cola-soft-drink-cans-multipack-375ml-x-30-pack-30-pack-7837413",
+    "name": "Pepsi Max No Sugar Cola Soft Drink Cans Multipack 375mL x 30 Pack | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7837413.jpg&w=640&q=90",
+    "barcode": "9313820001487",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773129/pepsi-max-no-sugar-cola-soft-drink-cans-multipack",
+    "name": "Pepsi Max No Sugar Cola Soft Drink Cans Multipack 375ml x 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773129.jpg",
+    "barcode": "9313820001487",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398747",
+    "name": "Sprite Lemonade Soft Drink Multipack Mini Cans 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398747.jpg&w=640&q=90",
+    "barcode": "9300675090919",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244826/sprite-lemonade-soft-drink-mini-cans",
+    "name": "Sprite Lemonade Soft Drink Mini Cans 250ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/244826.jpg",
+    "barcode": "9300675090919",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-multipack-mini-cans-6-x-250ml-6-pack-4398758",
+    "name": "Sprite Zero Sugar Lemonade Soft Drink Multipack Mini C ... 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398758.jpg&w=640&q=90",
+    "barcode": "9300675090926",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245007/sprite-zero-sugar-lemonade-soft-drink-mini-cans",
+    "name": "Sprite Zero Sugar Lemonade Soft Drink Mini Cans 250ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/245007.jpg",
+    "barcode": "9300675090926",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-diet-soft-drink-multipack-cans-10x375ml-10-pack-1849318",
+    "name": "Coca-Cola Diet Soft Drink Multipack Cans 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1849318.jpg&w=640&q=90",
+    "barcode": "9300675014793",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793278/coca-cola-diet-soft-drink-multipack-cans",
+    "name": "Coca-Cola Diet Soft Drink Multipack Cans 375ml X 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/793278.jpg",
+    "barcode": "9300675014793",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-6x250ml-6-pack-4398714",
+    "name": "Coca-Cola Vanilla Soft Drink 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4398714.jpg&w=640&q=90",
+    "barcode": "9300675090889",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "540",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "575",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244993/coca-cola-vanilla-soft-drink-mini-cans-mini-cans",
+    "name": "Coca-Cola Vanilla Soft Drink Mini Cans 250ml X 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/244993.jpg",
+    "barcode": "9300675090889",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "643",
+        "price_per_unit": "965",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "603",
+        "price_per_unit": "905",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "677",
+        "price_per_unit": "1015",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-multipack-cans-10x375ml-10-pack-1849293",
+    "name": "Coca-Cola Vanilla Soft Drink Multipack Cans 10x375mL | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1849293.jpg&w=640&q=90",
+    "barcode": "9300675084147",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676160/coca-cola-vanilla-soft-drink-multipack-cans",
+    "name": "Coca-Cola Vanilla Soft Drink Multipack Cans 375ml X 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/676160.jpg",
+    "barcode": "9300675084147",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-cans-24x375ml-24-pack-2993740",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Cans 24x375mL | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2993740.jpg&w=640&q=90",
+    "barcode": "9300675079709",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "2165",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "269",
+        "price_per_unit": "2420",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/669683/coca-cola-zero-sugar-soft-drink-multipack-cans",
+    "name": "Coca-Cola Zero Sugar Soft Drink Multipack Cans 24 x 375mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/669683.jpg",
+    "barcode": "9300675079709",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "402",
+        "price_per_unit": "3615",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "449",
+        "price_per_unit": "4045",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fanta-orange-soft-drink-cans-24x375ml-24-pack-5325873",
+    "name": "Fanta Orange Soft Drink Cans 24x375mL | 24 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5325873.jpg&w=640&q=90",
+    "barcode": "9300675003766",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "2165",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "269",
+        "price_per_unit": "2420",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "257",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370743/fanta-orange-soft-drink-cans",
+    "name": "Fanta Orange Soft Drink Cans 375ml x24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/370743.jpg",
+    "barcode": "9300675003766",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "428",
+        "price_per_unit": "3850",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "449",
+        "price_per_unit": "4045",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-creaming-soda-soft-drink-multipack-cans-10-x-375ml-10-pack-9125082",
+    "name": "Kirks Creaming Soda Soft Drink Multipack Cans 10 x 375mL | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9125082.jpg&w=640&q=90",
+    "barcode": "9300624010470",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "680",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159799/kirks-creaming-soda-cans",
+    "name": "Kirks Creaming Soda Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159799.jpg",
+    "barcode": "9300624010470",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "363",
+        "price_per_unit": "1360",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-lemon-squash-soft-drink-10x375ml-10-pack-9125050",
+    "name": "Kirks Lemon Squash Soft Drink 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9125050.jpg&w=640&q=90",
+    "barcode": "9300624010494",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "680",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159797/kirks-lemon-squash-soft-drink-multipack-cans",
+    "name": "Kirks Lemon Squash Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159797.jpg",
+    "barcode": "9300624010494",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-lemonade-soft-drink-10x375ml-10-pack-9124920",
+    "name": "Kirks Lemonade Soft Drink 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9124920.jpg&w=640&q=90",
+    "barcode": "9300624010487",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "680",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159796/kirks-lemonade-soft-drink-multipack-cans",
+    "name": "Kirks Lemonade Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159796.jpg",
+    "barcode": "9300624010487",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "363",
+        "price_per_unit": "1360",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-pasito-passionfruit-soft-drink-10x375ml-10-pack-9125209",
+    "name": "Kirks Pasito Passionfruit Soft Drink 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9125209.jpg&w=640&q=90",
+    "barcode": "9300624010524",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "680",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159798/kirks-pasito-soft-drink-multipack-cans",
+    "name": "Kirks Pasito Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159798.jpg",
+    "barcode": "9300624010524",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "363",
+        "price_per_unit": "1360",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-sugar-free-lemon-soft-drink-10x375ml-10-pack-1181261",
+    "name": "Kirks Sugar Free Lemon Soft Drink 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1181261.jpg&w=640&q=90",
+    "barcode": "9300624016571",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317388/kirks-sugar-free-lemon-squash-soft-drink-multipack-cans",
+    "name": "Kirks Sugar Free Lemon Squash Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/317388.jpg",
+    "barcode": "9300624016571",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "363",
+        "price_per_unit": "1360",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-drink-sugar-free-lemonade-10x375ml-10-pack-8492689",
+    "name": "Kirks Drink Sugar Free Lemonade 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8492689.jpg&w=640&q=90",
+    "barcode": "9300624016540",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "680",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/322924/kirks-sugar-free-lemonade-soft-drink-multipack-cans",
+    "name": "Kirks Sugar Free Lemonade Soft Drink  Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/322924.jpg",
+    "barcode": "9300624016540",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "363",
+        "price_per_unit": "1360",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-zero-sugar-orange-soft-drink-cans-10x375ml-10-pack-6421566",
+    "name": "Kirks Zero Sugar Orange Soft Drink Cans 10x375ml | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6421566.jpg&w=640&q=90",
+    "barcode": "9300675093545",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "181",
+        "price_per_unit": "680",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "203",
+        "price_per_unit": "761",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "193",
+        "price_per_unit": "725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609936/kirks-sugar-free-orange-soft-drink-multipack-cans",
+    "name": "Kirks Sugar Free Orange Soft Drink Multipack Cans 375mL x 10 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/609936.jpg",
+    "barcode": "9300675093545",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "363",
+        "price_per_unit": "1360",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "387",
+        "price_per_unit": "1450",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "407",
+        "price_per_unit": "1525",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pepsi-cola-soft-drink-cans-multipack-375ml-x-10-pack-10-pack-2684213",
+    "name": "Pepsi Cola Soft Drink Cans Multipack 375mL x 10 Pack | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2684213.jpg&w=640&q=90",
+    "barcode": "9313820000688",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "1650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "504",
+        "price_per_unit": "1890",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/442182/pepsi-cola-soft-drink-cans-multipack",
+    "name": "Pepsi Cola Soft Drink Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/442182.jpg",
+    "barcode": "9313820000688",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pepsi-cola-soft-drink-cans-multipack-375ml-x-30-pack-30-pack-7837424",
+    "name": "Pepsi Cola Soft Drink Cans Multipack 375mL x 30 Pack | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7837424.jpg&w=640&q=90",
+    "barcode": "9313820001470",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "249",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773147/pepsi-cola-soft-drink-cans-multipack",
+    "name": "Pepsi Cola Soft Drink Cans Multipack 375ml x 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773147.jpg",
+    "barcode": "9313820001470",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schweppes-lemonade-soft-drink-cans-multipack-375ml-x-30-pack-30-pack-7837388",
+    "name": "Schweppes Lemonade Soft Drink Cans Multipack 375mL x 30 Pack | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7837388.jpg&w=640&q=90",
+    "barcode": "9315596003580",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773144/schweppes-lemonade-soft-drink-cans-multipack",
+    "name": "Schweppes Lemonade Soft Drink Cans Multipack 375ml x 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773144.jpg",
+    "barcode": "9315596003580",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schweppes-lemonade-multipack-mini-cans-275ml-x-6-pack-6-pack-6476783",
+    "name": "Schweppes Lemonade Multipack Mini Cans 275mL x 6 Pack | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6476783.jpg&w=640&q=90",
+    "barcode": "9315596008363",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290348/schweppes-lemonade-soft-drink-mini-cans-multipack",
+    "name": "Schweppes Lemonade Soft Drink Mini Cans Multipack 275ml x 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290348.jpg",
+    "barcode": "9315596008363",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "355",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/solo-thirst-crusher-original-lemon-soft-drink-cans-multipack-375ml-x-10-pack-10-pack-2684144",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Cans Multipack ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2684144.jpg&w=640&q=90",
+    "barcode": "9315596005782",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "504",
+        "price_per_unit": "1890",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/442191/solo-thirst-crusher-original-lemon-soft-drink-cans-multipack",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/442191.jpg",
+    "barcode": "9315596005782",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/solo-thirst-crusher-original-lemon-soft-drink-cans-multipack-375ml-x-30-pack-30-pack-7837402",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Cans Multipack ... 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7837402.jpg&w=640&q=90",
+    "barcode": "9315596003573",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "196",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773142/solo-thirst-crusher-original-lemon-soft-drink-cans-multipack",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Cans Multipack 375ml x 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773142.jpg",
+    "barcode": "9315596003573",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/solo-zero-sugar-original-lemon-soft-drink-cans-multipack-375ml-x-10-pack-10-pack-3530827",
+    "name": "Solo Zero Sugar Original Lemon Soft Drink Cans Multipack 375 ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3530827.jpg&w=640&q=90",
+    "barcode": "9315596006970",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "1650",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "504",
+        "price_per_unit": "1890",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676314/solo-zero-sugar-original-lemon-soft-drink-cans-multipack",
+    "name": "Solo Zero Sugar Original Lemon Soft Drink Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/676314.jpg",
+    "barcode": "9315596006970",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-10x375ml-10-pack-1849329",
+    "name": "Sprite Lemonade Soft Drink 10x375mL | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1849329.jpg&w=640&q=90",
+    "barcode": "9300675014816",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793285/sprite-lemonade-soft-drink-multipack-cans",
+    "name": "Sprite Lemonade Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/793285.jpg",
+    "barcode": "9300675014816",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-multipack-cans-10x375ml-10-pack-1849271",
+    "name": "Sprite Zero Sugar Lemonade Soft Drink Multipack Cans ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1849271.jpg&w=640&q=90",
+    "barcode": "9300675087148",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "1070",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "319",
+        "price_per_unit": "1195",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793280/sprite-zero-sugar-lemonade-soft-drink-multipack-cans",
+    "name": "Sprite Zero Sugar Lemonade Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/793280.jpg",
+    "barcode": "9300675087148",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "304",
+        "price_per_unit": "1140",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "317",
+        "price_per_unit": "1190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunkist-orange-soft-drink-cans-multipack-375ml-x-30-pack-30-pack-7837399",
+    "name": "Sunkist Orange Soft Drink Cans Multipack 375mL x 30 Pack | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7837399.jpg&w=640&q=90",
+    "barcode": "9315596003597",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "196",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830734/sunkist-orange-soft-drink-cans-multipack",
+    "name": "Sunkist Orange Soft Drink Cans Multipack 375ml x 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/830734.jpg",
+    "barcode": "9315596003597",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "222",
+        "price_per_unit": "2500",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

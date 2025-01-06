@@ -1,0 +1,538 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-sparklin-water-natural-bottle-450ml-7429723",
+    "name": "Mount Franklin Sparklin Water Natural Bottle | 450mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7429723.jpg&w=640&q=90",
+    "barcode": "9300624017523",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "450ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "724",
+        "price_per_unit": "326",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333023/mount-franklin-lightly-sparkling-water",
+    "name": "Mount Franklin Lightly Sparkling Water 450ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/333023.jpg",
+    "barcode": "9300624017523",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "667",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-lightly-sparkling-water-lime-bottle-450ml-2117224",
+    "name": "Mount Franklin Lightly Sparkling Water Lime Bottle | 450mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2117224.jpg&w=640&q=90",
+    "barcode": "9300624022589",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "450ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/760280/mount-franklin-mineral-water-lightly-sparkling-lime-bottle",
+    "name": "Mount Franklin Mineral Water Lightly Sparkling Lime Bottle 450ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/760280.jpg",
+    "barcode": "9300624022589",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "667",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "689",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-spring-water-bottle-600ml-7014331",
+    "name": "Mount Franklin Spring Water Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7014331.jpg&w=640&q=90",
+    "barcode": "9300624005377",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "225",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/45533/mount-franklin-spring-water-bottle",
+    "name": "Mount Franklin Spring Water Bottle 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/045533.jpg",
+    "barcode": "9300624005377",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "383",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pump-berry-storm-water-bottle-750ml-1022600",
+    "name": "Pump Berry Storm Water Bottle | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1022600.jpg&w=640&q=90",
+    "barcode": "9300675046213",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "467",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315123/pump-berry-storm-water-bottle-berry-bottle",
+    "name": "Pump Berry Storm Water Bottle Berry Bottle 750ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315123.jpg",
+    "barcode": "9300675046213",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pump-spring-water-bottle-750ml-8966590",
+    "name": "Pump Spring Water Bottle | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8966590.jpg&w=640&q=90",
+    "barcode": "9300675016902",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/153622/pump-spring-water-bottle",
+    "name": "Pump Spring Water Bottle 750ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/153622.jpg",
+    "barcode": "9300675016902",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

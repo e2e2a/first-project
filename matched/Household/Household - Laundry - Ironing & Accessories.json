@@ -1,0 +1,226 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/crisp-spray-starch-ironing-aid-385g-2015086",
+    "name": "Crisp Spray Starch Ironing Aid | 385g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2015086.jpg&w=640&q=90",
+    "barcode": "9300701846374",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "385g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2509",
+        "price_per_unit": "966",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/746886/crisp-spray-starch-spray",
+    "name": "Crisp Spray Starch 385g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/746886.jpg",
+    "barcode": "9300701846374",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2390",
+        "price_per_unit": "920",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2506",
+        "price_per_unit": "965",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fabulon-starch-ironing-aid-500ml-299608",
+    "name": "Fabulon Starch Ironing Aid | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F299608.jpg&w=640&q=90",
+    "barcode": "9310045403041",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "2206",
+        "price_per_unit": "1103",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32224/fabulon-starch-trigger-aid-trigger-spray",
+    "name": "Fabulon Starch Trigger 500mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032224.jpg",
+    "barcode": "9310045403041",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

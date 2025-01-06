@@ -1,0 +1,176 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bean-shoots-prepacked-250g-4544770",
+    "name": "Bean Shoots Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4544770.jpg&w=640&q=90",
+    "source_id": "Coles - 4544770",
+    "barcode": "9339872000155",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1120",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/alfalfa-sprouts-prepacked-125g-4544805",
+    "name": "Alfalfa Sprouts Prepacked | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4544805.jpg&w=640&q=90",
+    "source_id": "Coles - 4544805",
+    "barcode": "9339872000001",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2240",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/crunchy-combo-sprouts-200g-4544849",
+    "name": "Crunchy Combo Sprouts | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4544849.jpg&w=640&q=90",
+    "source_id": "Coles - 4544849",
+    "barcode": "9339872000520",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bean-shoots-prepacked-350g-1501250",
+    "name": "Coles Bean Shoots Prepacked | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1501250.jpg&w=640&q=90",
+    "source_id": "Coles - 1501250",
+    "barcode": "9320409000465",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "829",
+        "price_per_unit": "290",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "829",
+        "price_per_unit": "290",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

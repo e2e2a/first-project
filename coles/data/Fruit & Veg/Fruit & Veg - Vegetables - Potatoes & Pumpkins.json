@@ -1,0 +1,1220 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sweet-gold-potatoes-loose-approx.-400g-4199503",
+    "name": "Coles Sweet Gold Potatoes Loose | approx 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4199503.jpg&w=640&q=90",
+    "source_id": "Coles - 4199503",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "196",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-washed-potatoes-2kg-1206748",
+    "name": "Coles Washed Potatoes | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1206748.jpg&w=640&q=90",
+    "source_id": "Coles - 1206748",
+    "barcode": "9338183000564",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-creme-gold-washed-potatoes-loose-approx.-120g-1182162",
+    "name": "Coles Creme Gold Washed Potatoes Loose | approx 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1182162.jpg&w=640&q=90",
+    "source_id": "Coles - 1182162",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brushed-potatoes-2kg-3958573",
+    "name": "Coles Brushed Potatoes | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3958573.jpg&w=640&q=90",
+    "source_id": "Coles - 3958573",
+    "barcode": "9345058000000",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-carisma-washed-potatoes-2kg-7712327",
+    "name": "Coles Carisma Washed Potatoes | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7712327.jpg&w=640&q=90",
+    "source_id": "Coles - 7712327",
+    "barcode": "9300601428472",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/spud-lite-potatoes-prepacked-1.5kg-3026441",
+    "name": "Spud Lite Potatoes Prepacked | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3026441.jpg&w=640&q=90",
+    "source_id": "Coles - 3026441",
+    "barcode": "9311331111114",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "600",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-royale-washed-potatoes-prepacked-2kg-7963859",
+    "name": "Coles Red Royale Washed Potatoes Prepacked | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7963859.jpg&w=640&q=90",
+    "source_id": "Coles - 7963859",
+    "barcode": "9316951100623",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-sweet-potato-1.5kg-3616751",
+    "name": "Coles I'm Perfect Sweet Potato | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3616751.jpg&w=640&q=90",
+    "source_id": "Coles - 3616751",
+    "barcode": "9310645278223",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-white-potatoes-prepacked-1kg-2488485",
+    "name": "Coles Baby White Potatoes Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2488485.jpg&w=640&q=90",
+    "source_id": "Coles - 2488485",
+    "barcode": "9338183000694",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-coles-spudlite-baby-potato-750g-3026260",
+    "name": "Coles Coles Spudlite Baby Potato | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3026260.jpg&w=640&q=90",
+    "source_id": "Coles - 3026260",
+    "barcode": "9311331111121",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-carisma-potatoes-1kg-2488496",
+    "name": "Coles Baby Carisma Potatoes | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2488496.jpg&w=640&q=90",
+    "source_id": "Coles - 2488496",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-red-royale-potatoes-prepacked-1kg-2488500",
+    "name": "Coles Baby Red Royale Potatoes Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2488500.jpg&w=640&q=90",
+    "source_id": "Coles - 2488500",
+    "barcode": "9300601029402",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kestrel-potatoes-prepacked-2kg-2743866",
+    "name": "Coles Kestrel Potatoes Prepacked | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2743866.jpg&w=640&q=90",
+    "source_id": "Coles - 2743866",
+    "barcode": "9318085022413",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-creme-royale-brushed-potatoes-loose-approx.-200g-each-1022610",
+    "name": "Coles Creme Royale Brushed Potatoes loose | approx 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1022610.jpg&w=640&q=90",
+    "source_id": "Coles - 1022610",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "78",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "78",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "78",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "78",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-royale-potatoes-loose-approx.-170g-each-1181308",
+    "name": "Coles Red Royale Potatoes Loose | approx 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1181308.jpg&w=640&q=90",
+    "source_id": "Coles - 1181308",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-dutch-cream-brushed-potatoes-loose-approx.-200g-each-7141758",
+    "name": "Coles Dutch Cream Brushed Potatoes Loose | approx 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7141758.jpg&w=640&q=90",
+    "source_id": "Coles - 7141758",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brushed-potatoes-4kg-3958530",
+    "name": "Coles Brushed Potatoes | 4kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3958530.jpg&w=640&q=90",
+    "source_id": "Coles - 3958530",
+    "barcode": "9345058000024",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-sweet-potatoes-loose-approx.-350g-4200056",
+    "name": "Coles Red Sweet Potatoes Loose | approx 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4200056.jpg&w=640&q=90",
+    "source_id": "Coles - 4200056",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-royal-blue-potatoes-2kg-5952272",
+    "name": "Coles Royal Blue Potatoes | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5952272.jpg&w=640&q=90",
+    "source_id": "Coles - 5952272",
+    "barcode": "9319034150089",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-washed-potatoes-prepacked-5kg-5177856",
+    "name": "Coles Washed Potatoes Prepacked | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5177856.jpg&w=640&q=90",
+    "source_id": "Coles - 5177856",
+    "barcode": "9324911000012",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-nicola-washed-potatoes-loose-approx.-170g-each-6925800",
+    "name": "Coles Nicola Washed Potatoes Loose | approx 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6925800.jpg&w=640&q=90",
+    "source_id": "Coles - 6925800",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170geach",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "68",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mr-chips-washed-potatoes-2kg-2795702",
+    "name": "Coles Mr Chips Washed Potatoes | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2795702.jpg&w=640&q=90",
+    "source_id": "Coles - 2795702",
+    "barcode": "9326300001716",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-moonlight-brushed-potatoes-loose-approx.-170g-each-7561425",
+    "name": "Coles Moonlight Brushed Potatoes Loose | approx 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7561425.jpg&w=640&q=90",
+    "source_id": "Coles - 7561425",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170geach",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "51",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-tasmanian-pink-eye-washed-potatoes-1kg-4982234",
+    "name": "Fresh Tasmanian Pink Eye Washed Potatoes | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4982234.jpg&w=640&q=90",
+    "source_id": "Coles - 4982234",
+    "barcode": "9315309000189",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-tasmanian-cream-delight-brushed-potatoes-loose-approx.-170g-each-7607377",
+    "name": "Fresh Tasmanian Cream Delight Brushed Potatoes Loose | approx 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7607377.jpg&w=640&q=90",
+    "source_id": "Coles - 7607377",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170geach",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": "68",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kent-pumpkin-cut-approx.-800g-4202540",
+    "name": "Coles Kent Pumpkin Cut | approx 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4202540.jpg&w=640&q=90",
+    "source_id": "Coles - 4202540",
+    "barcode": "9310645204185",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "392",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-wrapped-butternut-pumpkin-approx.-700g-each-4190600",
+    "name": "Coles Wrapped Butternut Pumpkin | approx 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4190600.jpg&w=640&q=90",
+    "source_id": "Coles - 4190600",
+    "barcode": "9310645204512",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "700geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "343",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "343",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "343",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "343",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "343",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "280",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "343",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-butternut-pumpkin-whole-approx.-2kg-each-4183423",
+    "name": "Coles Butternut Pumpkin Whole | approx 2Kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4183423.jpg&w=640&q=90",
+    "source_id": "Coles - 4183423",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "2kgeach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kent-pumpkin-whole-approx.-4kg-each-4183558",
+    "name": "Coles Kent Pumpkin Whole | approx 4Kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4183558.jpg&w=640&q=90",
+    "source_id": "Coles - 4183558",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "4kgeach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1600",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-grey-pumpkin-whole-approx.-6.5kg-4672237",
+    "name": "Coles Grey Pumpkin Whole | approx 6.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4672237.jpg&w=640&q=90",
+    "source_id": "Coles - 4672237",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "6.5kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": ".kg"
+      }
+    ]
+  }
+]

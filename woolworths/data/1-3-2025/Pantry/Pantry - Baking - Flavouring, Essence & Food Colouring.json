@@ -1,0 +1,890 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/776656/pariya-pomegranate-molasses",
+    "name": "Pariya Pomegranate Molasses 110ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/776656.jpg",
+    "source_id": "Woolworths - 776656",
+    "barcode": "811046771010",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "909",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "909",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "909",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "909",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "909",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31777/queen-rainbow-food-colours",
+    "name": "Queen Rainbow Food Colours 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/031777.jpg",
+    "source_id": "Woolworths - 31777",
+    "barcode": "93641180",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "1339",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720424/woolworths-lemon-juice",
+    "name": "Woolworths Lemon Juice 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720424.jpg",
+    "source_id": "Woolworths - 720424",
+    "barcode": "9300633292362",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147762/dollar-sweets-artificial-food-colours",
+    "name": "Dollar Sweets Artificial Food Colours 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/147762.jpg",
+    "source_id": "Woolworths - 147762",
+    "barcode": "9310331475899",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "92",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279942/dollar-sweets-colour-gels",
+    "name": "Dollar Sweets Colour Gels 4pk",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/279942.jpg",
+    "source_id": "Woolworths - 279942",
+    "barcode": "9310331477008",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233535/queen-black-food-colour",
+    "name": "Queen Black Food Colour 50mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233535.jpg",
+    "source_id": "Woolworths - 233535",
+    "barcode": "9300641001161",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37421/queen-blue-food-colour",
+    "name": "Queen Blue Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037421.jpg",
+    "source_id": "Woolworths - 37421",
+    "barcode": "93641296",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/190407/queen-finest-almond-natural-extract-intense-flavour",
+    "name": "Queen Finest Almond Natural Extract Intense Flavour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/190407.jpg",
+    "source_id": "Woolworths - 190407",
+    "barcode": "9300641004186",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/190464/queen-finest-peppermint-natural-extract-intense-flavour",
+    "name": "Queen Finest Peppermint Natural Extract Intense Flavour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/190464.jpg",
+    "source_id": "Woolworths - 190464",
+    "barcode": "9300641004193",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/189148/queen-finest-rose-natural-extract-intense-flavour",
+    "name": "Queen Finest Rose Natural Extract Intense Flavour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/189148.jpg",
+    "source_id": "Woolworths - 189148",
+    "barcode": "9300641004216",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37422/queen-green-food-colour",
+    "name": "Queen Green Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037422.jpg",
+    "source_id": "Woolworths - 37422",
+    "barcode": "93641302",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743683/queen-natural-food-colouring-rainbow",
+    "name": "Queen Natural Food Colouring Rainbow 7ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/743683.jpg",
+    "source_id": "Woolworths - 743683",
+    "barcode": "9300641001178",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "775",
+        "price_per_unit": "277",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "775",
+        "price_per_unit": "277",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "775",
+        "price_per_unit": "277",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "775",
+        "price_per_unit": "277",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "775",
+        "price_per_unit": "277",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "775",
+        "price_per_unit": "277",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "815",
+        "price_per_unit": "291",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205664/queen-pillar-box-red-food-colour",
+    "name": "Queen Pillar Box Red Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205664.jpg",
+    "source_id": "Woolworths - 205664",
+    "barcode": "93641388",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37362/queen-rose-pink-food-colour",
+    "name": "Queen Rose Pink Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037362.jpg",
+    "source_id": "Woolworths - 37362",
+    "barcode": "93641319",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37423/queen-yellow-food-colour",
+    "name": "Queen Yellow Food Colour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037423.jpg",
+    "source_id": "Woolworths - 37423",
+    "barcode": "93641326",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "24",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962053/natural-vanilla-alcohol-free-vanilla-paste",
+    "name": "Natural Vanilla Alcohol Free Vanilla Paste 50mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/962053.jpg",
+    "source_id": "Woolworths - 962053",
+    "barcode": "9359573000551",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/189735/queen-finest-lemon-natural-extract-intense-flavour",
+    "name": "Queen Finest Lemon Natural Extract Intense Flavour 50ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/189735.jpg",
+    "source_id": "Woolworths - 189735",
+    "barcode": "9300641004209",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

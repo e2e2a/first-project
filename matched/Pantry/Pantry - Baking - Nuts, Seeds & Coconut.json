@@ -1,0 +1,108 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/riverside-all-australian-pecan-halves-180g-6777983",
+    "name": "Riverside All Australian Pecan Halves | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6777983.jpg&w=640&q=90",
+    "barcode": "9310752081808",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3472",
+        "price_per_unit": "625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/329399/riverside-pecan-halves",
+    "name": "Riverside Pecan Halves 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/329399.jpg",
+    "barcode": "9310752081808",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3306",
+        "price_per_unit": "595",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3472",
+        "price_per_unit": "625",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

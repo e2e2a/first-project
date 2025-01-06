@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176008/little-bellies-organic-pear-vanilla-paws",
+    "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/176008.jpg",
+    "source_id": "Woolworths - 176008",
+    "barcode": "9337824003421",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789898/pereg-natural-foods-japanese-style-fine-panko-bread-crumbs",
+    "name": "Pereg Natural Foods Japanese Style Fine Panko Bread Crumbs 255g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789898.jpg",
+    "source_id": "Woolworths - 789898",
+    "barcode": "813568001552",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

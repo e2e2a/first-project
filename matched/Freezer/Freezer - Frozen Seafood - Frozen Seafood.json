@@ -1,0 +1,108 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/iandj-calamari-360g-7207380",
+    "name": "I&j Calamari | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7207380.jpg&w=640&q=90",
+    "barcode": "9310139132734",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "864",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/373350/i-j-classic-south-pacific-calamari-rings",
+    "name": "I&J Classic South Pacific Calamari Rings 360g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/373350.jpg",
+    "barcode": "9310139132734",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2222",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

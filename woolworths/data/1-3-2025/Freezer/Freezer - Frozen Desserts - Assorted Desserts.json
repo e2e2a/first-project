@@ -1,0 +1,500 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311368/binggrae-melona-melon-flavoured-ice-bars",
+    "name": "Binggrae Melona Melon Flavoured Ice Bars 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311368.jpg",
+    "source_id": "Woolworths - 311368",
+    "barcode": "8801104941167",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51741/cadbury-freddo-cake",
+    "name": "Cadbury Freddo Cake 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/051741.jpg",
+    "source_id": "Woolworths - 51741",
+    "barcode": "9347043001733",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/947804/farm-pride-frozen-egg-whites",
+    "name": "Farm Pride Frozen Egg Whites 950ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/947804.jpg",
+    "source_id": "Woolworths - 947804",
+    "barcode": "9310229070847",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "111",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "111",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "111",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "111",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "111",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "111",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1105",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/466691/mckenzie-s-ready-to-bake-cookies-choc-chip",
+    "name": "McKenzie's Ready To Bake Cookies Choc Chip 10 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/466691.jpg",
+    "source_id": "Woolworths - 466691",
+    "barcode": "9310061126474",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/821035/potong-coconut-milk-durian-pops",
+    "name": "Potong Coconut Milk & Durian Pops 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/821035.jpg",
+    "source_id": "Woolworths - 821035",
+    "barcode": "9349673000780",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820975/potong-coconut-milk-red-bean-pops",
+    "name": "Potong Coconut Milk & Red Bean Pops 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/820975.jpg",
+    "source_id": "Woolworths - 820975",
+    "barcode": "9349673000773",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/858754/bulla-rainbow-ice-cream-cake",
+    "name": "Bulla Rainbow Ice Cream Cake 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/858754.jpg",
+    "source_id": "Woolworths - 858754",
+    "barcode": "9310161013988",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/483562/mckenzie-s-ready-to-bake-cookies-triple-choc",
+    "name": "McKenzie's Ready To Bake Cookies Triple Choc 10 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/483562.jpg",
+    "source_id": "Woolworths - 483562",
+    "barcode": "9310061126481",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40950/peters-ice-cream-cake-party",
+    "name": "Peters Ice Cream Cake Party 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/040950.jpg",
+    "source_id": "Woolworths - 40950",
+    "barcode": "9310080035085",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1470",
+        "price_per_unit": "98",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684415/viennetta-vanilla-frozen-dessert-cake",
+    "name": "Viennetta Vanilla Frozen Dessert Cake 650ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/684415.jpg",
+    "source_id": "Woolworths - 684415",
+    "barcode": "8714100895252",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

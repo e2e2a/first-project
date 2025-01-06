@@ -1,0 +1,542 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/594774/avocado-fresh",
+    "name": "Avocado Fresh 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/594774.jpg",
+    "source_id": "Woolworths - 594774",
+    "barcode": "9300633645236",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "890",
+        "price_per_unit": "178",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "990",
+        "price_per_unit": "198",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/364554/avofresh-avocado-hint-of-lemon-tube-hint-of-lemon",
+    "name": "Avofresh Avocado Hint Of Lemon Tube 160g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/364554.jpg",
+    "source_id": "Woolworths - 364554",
+    "barcode": "9343971000008",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/405658/avofresh-avocado-lime-black-pepper-tube",
+    "name": "Avofresh Avocado Lime & Black Pepper Tube 160G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/405658.jpg",
+    "source_id": "Woolworths - 405658",
+    "barcode": "9343971000077",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243094/avofresh-classic-avocado-guacamole",
+    "name": "Avofresh Classic Avocado Guacamole 160g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/243094.jpg",
+    "source_id": "Woolworths - 243094",
+    "barcode": "9343971000268",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820738/avofresh-smashed-avocado",
+    "name": "Avofresh Smashed Avocado 160g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/820738.jpg",
+    "source_id": "Woolworths - 820738",
+    "barcode": "9327076001566",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "344",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120080/eat-later-hass-avocado",
+    "name": "Eat Later Hass Avocado Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/120080.jpg",
+    "source_id": "Woolworths - 120080",
+    "barcode": "0264770000008",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256845/hass-avocado-imported",
+    "name": "Hass Avocado Imported 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/256845.jpg",
+    "source_id": "Woolworths - 256845",
+    "barcode": "9327212200501",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/426888/macro-avocado-mini-organic",
+    "name": "Macro Avocado Mini Organic 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/426888.jpg",
+    "source_id": "Woolworths - 426888",
+    "barcode": "9300633579340",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "1436",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "1436",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1436",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "1436",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/792361/macro-organic-avocado",
+    "name": "Macro Organic Avocado Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/792361.jpg",
+    "source_id": "Woolworths - 792361",
+    "barcode": "0266181000004",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220484/eat-now-hass-avocado",
+    "name": "Eat Now Hass Avocado Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220484.jpg",
+    "source_id": "Woolworths - 220484",
+    "barcode": "0269928000008",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/775369/the-odd-bunch-avocado-prepacked",
+    "name": "The Odd Bunch Avocado Prepacked 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/775369.jpg",
+    "source_id": "Woolworths - 775369",
+    "barcode": "9300633705473",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "890",
+        "price_per_unit": "890",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

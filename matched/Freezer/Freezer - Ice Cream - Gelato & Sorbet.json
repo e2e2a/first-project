@@ -1,0 +1,320 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/weis-mango-ice-cream-bars-4-pack-280ml-424685",
+    "name": "Weis Mango Ice Cream Bars 4 Pack | 280mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F424685.jpg&w=640&q=90",
+    "barcode": "9310541000515",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178953/weis-fruit-ice-cream-bars-mango",
+    "name": "Weis Fruit & Ice Cream Bars Mango 70mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178953.jpg",
+    "barcode": "9310541000515",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/weis-fruit-ice-fruito-bars-4-pack-280ml-424674",
+    "name": "Weis Fruit Ice Fruito Bars 4 pack | 280mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F424674.jpg&w=640&q=90",
+    "barcode": "9310541000522",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178950/weis-fruito-passionfruit-pineapple-banana-ice-cream-fruit-bar",
+    "name": "Weis Fruito Passionfruit Pineapple & Banana Ice Cream & Fruit Bar 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178950.jpg",
+    "barcode": "9310541000522",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "232",
+        "price_per_unit": "650",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/weis-sorbet-mango-1l-7014681",
+    "name": "Weis Sorbet Mango | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7014681.jpg&w=640&q=90",
+    "barcode": "9310541000904",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41378/weis-mango-sorbet-mango",
+    "name": "Weis Mango Sorbet 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041378.jpg",
+    "barcode": "9310541000904",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/twisted-minis-frozen-yoghurt-strawberry-and-vanilla-bean-and-chocolate-and-vanilla-bean-4-pack-480ml-3147027",
+    "name": "Twisted Minis Frozen Yoghurt Strawberry & Vanilla Bean an ... 480mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3147027.jpg&w=640&q=90",
+    "barcode": "9349107000089",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "480ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577912/twisted-minis-frozen-yoghurt-dessert-assorted",
+    "name": "Twisted Minis Frozen Yoghurt Dessert Assorted 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/577912.jpg",
+    "barcode": "9349107000089",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

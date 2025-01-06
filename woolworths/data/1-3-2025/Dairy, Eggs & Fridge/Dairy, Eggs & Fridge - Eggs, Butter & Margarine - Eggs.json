@@ -1,0 +1,823 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81973/josh-s-rainbow-18-large-free-range-eggs",
+    "name": "Josh's Rainbow 18 Large Free Range Eggs 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/081973.jpg",
+    "source_id": "Woolworths - 81973",
+    "barcode": "9369998056811",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": []
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893974/just-4-you-12-extra-large-caged-eggs",
+    "name": "Just 4 You 12 Extra Large Caged Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/893974.jpg",
+    "source_id": "Woolworths - 893974",
+    "barcode": "9313715907009",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "530",
+        "price_per_unit": "76",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92953/pace-farm-12-extra-large-free-range-eggs",
+    "name": "Pace Farm 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092953.jpg",
+    "source_id": "Woolworths - 92953",
+    "barcode": "9313715007082",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "126",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33092/pace-farm-12-large-free-range-eggs",
+    "name": "Pace Farm 12 Large Free Range Eggs 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033092.jpg",
+    "source_id": "Woolworths - 33092",
+    "barcode": "9313715600948",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33086/pace-farm-6-large-free-range-eggs",
+    "name": "Pace Farm 6 Large Free Range Eggs 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033086.jpg",
+    "source_id": "Woolworths - 33086",
+    "barcode": "9313715350003",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "515",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59789/pace-farm-liberty-eggs-6-large-cage-free-eggs",
+    "name": "Pace Farm Liberty Eggs 6 Large Cage Free Eggs 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059789.jpg",
+    "source_id": "Woolworths - 59789",
+    "barcode": "9313715835012",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265064/straight-from-the-farm-12-cage-free-eggs",
+    "name": "Straight From The Farm 12 Cage Free Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265064.jpg",
+    "source_id": "Woolworths - 265064",
+    "barcode": "9313715727003",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "710",
+        "price_per_unit": "101",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700426/woolworths-6-extra-large-free-range-eggs",
+    "name": "Woolworths 6 Extra Large Free Range Eggs 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700426.jpg",
+    "source_id": "Woolworths - 700426",
+    "barcode": "9300633224332",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "455",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/313900/manning-valley-12-extra-large-free-range-eggs",
+    "name": "Manning Valley 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/313900.jpg",
+    "source_id": "Woolworths - 313900",
+    "barcode": "9318362000608",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "780",
+        "price_per_unit": "111",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140262/sunny-queen-6-extra-large-free-range-eggs",
+    "name": "Sunny Queen 6 Extra Large Free Range Eggs 350G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140262.jpg",
+    "source_id": "Woolworths - 140262",
+    "barcode": "9310625006754",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "134",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74270/woolworths-18-large-cage-free-eggs",
+    "name": "Woolworths 18 Large Cage Free Eggs 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074270.jpg",
+    "source_id": "Woolworths - 74270",
+    "barcode": "9339687138906",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "790",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/29771/golden-eggs-12-extra-large-free-range-eggs",
+    "name": "Golden Eggs 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/029771.jpg",
+    "source_id": "Woolworths - 29771",
+    "barcode": "9311394001148",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "740",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/794961/golden-eggs-12-free-range-eggs",
+    "name": "Golden Eggs 12 Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/794961.jpg",
+    "source_id": "Woolworths - 794961",
+    "barcode": "9311394200596",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "770",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839426/good-farmer-12-extra-large-free-range-eggs",
+    "name": "Good Farmer 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/839426.jpg",
+    "source_id": "Woolworths - 839426",
+    "barcode": "9332888000867",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/692131/good-farmer-18-extra-large-free-range-eggs",
+    "name": "Good Farmer 18 Extra Large Free Range Eggs 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/692131.jpg",
+    "source_id": "Woolworths - 692131",
+    "barcode": "9332888000966",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630649/good-farmer-6-extra-large-free-range-eggs",
+    "name": "Good Farmer 6 Extra Large Free Range Eggs 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630649.jpg",
+    "source_id": "Woolworths - 630649",
+    "barcode": "9332888000607",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630127/hens-of-the-earth-12-extra-large-free-range-eggs",
+    "name": "Hens Of The Earth 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630127.jpg",
+    "source_id": "Woolworths - 630127",
+    "barcode": "9332888000126",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141052/hill-river-12-free-range-eggs",
+    "name": "Hill River 12 Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141052.jpg",
+    "source_id": "Woolworths - 141052",
+    "barcode": "9311394200589",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "820",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/749194/margaret-river-12-extra-large-free-range-eggs",
+    "name": "Margaret River 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/749194.jpg",
+    "source_id": "Woolworths - 749194",
+    "barcode": "9328045000306",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "870",
+        "price_per_unit": "124",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202911/sunny-queen-100-egg-whites",
+    "name": "Sunny Queen 100% Egg Whites 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/202911.jpg",
+    "source_id": "Woolworths - 202911",
+    "barcode": "9349663002558",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52402/willow-springs-12-barn-laid-eggs",
+    "name": "Willow Springs 12 Barn Laid Eggs 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052402.jpg",
+    "source_id": "Woolworths - 52402",
+    "barcode": "9311394200077",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785234/willow-springs-12-cage-free-barn-laid-eggs",
+    "name": "Willow Springs 12 Cage Free Barn Laid Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/785234.jpg",
+    "source_id": "Woolworths - 785234",
+    "barcode": "9311394200503",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "630",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205199/woolworths-12-extra-large-cage-free-eggs",
+    "name": "Woolworths 12 Extra Large Cage Free Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205199.jpg",
+    "source_id": "Woolworths - 205199",
+    "barcode": "9300633900892",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582095/woolworths-12-extra-large-free-range-eggs",
+    "name": "Woolworths 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582095.jpg",
+    "source_id": "Woolworths - 582095",
+    "barcode": "9300633636968",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "610",
+        "price_per_unit": "87",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254729/woolworths-12-large-free-range-eggs",
+    "name": "Woolworths 12 Large Free Range Eggs 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/254729.jpg",
+    "source_id": "Woolworths - 254729",
+    "barcode": "9300633945886",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "570",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74269/woolworths-18-large-cage-free-eggs",
+    "name": "Woolworths 18 Large Cage Free Eggs 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074269.jpg",
+    "source_id": "Woolworths - 74269",
+    "barcode": "9339687138890",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582114/woolworths-6-extra-large-free-range-eggs",
+    "name": "Woolworths 6 Extra Large Free Range Eggs 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582114.jpg",
+    "source_id": "Woolworths - 582114",
+    "barcode": "9300633637019",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "455",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800110/adelaide-plains-12-barn-laid-eggs",
+    "name": "Adelaide Plains 12 Barn Laid Eggs 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800110.jpg",
+    "source_id": "Woolworths - 800110",
+    "barcode": "9315748110173",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800107/adelaide-plains-6-barn-laid-eggs",
+    "name": "Adelaide Plains 6 Barn Laid Eggs 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800107.jpg",
+    "source_id": "Woolworths - 800107",
+    "barcode": "9315748109788",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/482770/country-fresh-12-jumbo-free-range-eggs",
+    "name": "Country Fresh 12 Jumbo Free Range Eggs 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/482770.jpg",
+    "source_id": "Woolworths - 482770",
+    "barcode": "9315748130621",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "760",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321053/kangaroo-island-12-jumbo-free-range-eggs",
+    "name": "Kangaroo Island 12 Jumbo Free Range Eggs 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/321053.jpg",
+    "source_id": "Woolworths - 321053",
+    "barcode": "9322770000037",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1180",
+        "price_per_unit": "148",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330103/kangaroo-island-12-large-free-range-eggs",
+    "name": "Kangaroo Island 12 Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/330103.jpg",
+    "source_id": "Woolworths - 330103",
+    "barcode": "9322770000013",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1060",
+        "price_per_unit": "151",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/299936/kangaroo-island-6-large-free-range-eggs",
+    "name": "Kangaroo Island 6 Large Free Range Eggs 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/299936.jpg",
+    "source_id": "Woolworths - 299936",
+    "barcode": "9322770000044",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "615",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198672/rohde-s-clare-valley-18-large-free-range-eggs",
+    "name": "Rohde's Clare Valley 18 Large Free Range Eggs 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198672.jpg",
+    "source_id": "Woolworths - 198672",
+    "barcode": "9340468000077",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140770/sunny-queen-12-extra-large-organic-free-range-eggs",
+    "name": "Sunny Queen 12 Extra Large Organic Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140770.jpg",
+    "source_id": "Woolworths - 140770",
+    "barcode": "9349663002282",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1245",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582112/woolworths-12-extra-large-cage-free-eggs",
+    "name": "Woolworths 12 Extra Large Cage Free Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582112.jpg",
+    "source_id": "Woolworths - 582112",
+    "barcode": "9300633636999",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582119/woolworths-12-extra-large-free-range-eggs",
+    "name": "Woolworths 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582119.jpg",
+    "source_id": "Woolworths - 582119",
+    "barcode": "9300633637057",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "610",
+        "price_per_unit": "87",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582115/woolworths-12-large-free-range-eggs",
+    "name": "Woolworths 12 Large Free Range Eggs 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582115.jpg",
+    "source_id": "Woolworths - 582115",
+    "barcode": "9300633637026",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "570",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206063/yallamundi-farm-6-large-organic-free-range-eggs",
+    "name": "Yallamundi Farm 6 Large Organic Free Range Eggs 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/206063.jpg",
+    "source_id": "Woolworths - 206063",
+    "barcode": "9356391000060",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "740",
+        "price_per_unit": "247",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "740",
+        "price_per_unit": "247",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77170/sunny-queen-12-extra-large-free-range-eggs",
+    "name": "Sunny Queen 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/077170.jpg",
+    "source_id": "Woolworths - 77170",
+    "barcode": "9310625012786",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "795",
+        "price_per_unit": "114",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/760367/sunny-queen-12-jumbo-free-range-eggs",
+    "name": "Sunny Queen 12 Jumbo Free Range Eggs 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/760367.jpg",
+    "source_id": "Woolworths - 760367",
+    "barcode": "9310625067533",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "119",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205220/woolworths-12-extra-large-barn-laid-eggs",
+    "name": "Woolworths 12 Extra Large Barn Laid Eggs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205220.jpg",
+    "source_id": "Woolworths - 205220",
+    "barcode": "9300633900984",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "540",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97005/flanno-s-eggs-free-range-large-eggs-large",
+    "name": "Flanno's Eggs Free Range Large Eggs Large 12 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097005.jpg",
+    "source_id": "Woolworths - 97005",
+    "barcode": "9322187000477",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166475/flanno-s-eggs-free-range-large-eggs-large",
+    "name": "Flanno's Eggs Free Range Large Eggs Large 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166475.jpg",
+    "source_id": "Woolworths - 166475",
+    "barcode": "9322187000514",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758594/flanno-s-park-cage-free-eggs-eggs",
+    "name": "Flanno's Park Cage Free Eggs Eggs 6 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758594.jpg",
+    "source_id": "Woolworths - 758594",
+    "barcode": "9322187001054",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

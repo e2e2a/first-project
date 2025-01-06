@@ -1,0 +1,506 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cottees-ice-magic-chocolate-ice-cream-topping-220g-4318170",
+    "name": "Cottees Ice Magic Chocolate Ice Cream Topping | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4318170.jpg&w=640&q=90",
+    "barcode": "9300657173418",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33278/cottee-s-ice-magic-chocolate-ice-cream-topping",
+    "name": "Cottee's Ice Magic Chocolate Ice Cream Topping 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033278.jpg",
+    "barcode": "9300657173418",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cottees-thick-n-rich-chocolate-flavoured-topping-615g-4775921",
+    "name": "Cottees Thick N Rich Chocolate Flavoured Topping | 615g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4775921.jpg&w=640&q=90",
+    "barcode": "9300657173302",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "615g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "77",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765711/cottee-s-thick-n-rich-chocolate-sauce-ice-cream-topping",
+    "name": "Cottee's Thick 'n' Rich Chocolate Sauce Ice Cream Topping 615g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/765711.jpg",
+    "barcode": "9300657173302",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "73",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "59",
+        "price_per_unit": "360",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "59",
+        "price_per_unit": "360",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "59",
+        "price_per_unit": "360",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cottees-ice-magic-chocolate-mint-ice-cream-topping-220g-4318169",
+    "name": "Cottees Ice Magic Chocolate Mint Ice Cream Topping | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4318169.jpg&w=640&q=90",
+    "barcode": "9300657173425",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33279/cottee-s-ice-magic-choc-mint-ice-cream-topping",
+    "name": "Cottee's Ice Magic Choc Mint Ice Cream Topping 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033279.jpg",
+    "barcode": "9300657173425",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "182",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/juicy-isle-tasmanian-premium-banana-toppings-375ml-2937705",
+    "name": "Juicy Isle Tasmanian Premium Banana Toppings | 375mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2937705.jpg&w=640&q=90",
+    "barcode": "9315251900766",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "375ml",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830049/juicy-isle-banana-topping-topping",
+    "name": "Juicy Isle Banana Topping Topping 375ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/830049.jpg",
+    "barcode": "9315251900766",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/juicy-isle-tasmanian-premium-caramel-toppings-375ml-2937691",
+    "name": "Juicy Isle Tasmanian Premium Caramel Toppings | 375mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2937691.jpg&w=640&q=90",
+    "barcode": "9315251900773",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "375ml",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830066/juicy-isle-caramel-topping",
+    "name": "Juicy Isle Caramel Topping 375ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/830066.jpg",
+    "barcode": "9315251900773",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/juicy-isle-tasmanian-premium-chocolate-toppings-375ml-2937727",
+    "name": "Juicy Isle Tasmanian Premium Chocolate Toppings | 375mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2937727.jpg&w=640&q=90",
+    "barcode": "9315251900759",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "375ml",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "300",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830067/juicy-isle-chocolate-topping",
+    "name": "Juicy Isle Chocolate Topping 375ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/830067.jpg",
+    "barcode": "9315251900759",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

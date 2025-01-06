@@ -1,0 +1,178 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/brunnings-bug-kill-1l-3739194",
+    "name": "Brunnings Bug Kill | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3739194.jpg&w=640&q=90",
+    "barcode": "9310522028088",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12416/brunnings-bug-fungus-kill-rtu",
+    "name": "Brunnings Bug & Fungus Kill Rtu 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/012416.jpg",
+    "barcode": "9310522028088",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brunnings-white-oil-400g-1324992",
+    "name": "Brunnings White Oil | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1324992.jpg&w=640&q=90",
+    "barcode": "9310522030739",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799/brunnings-white-oil-aerosol",
+    "name": "Brunnings White Oil Aerosol 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/000799.jpg",
+    "barcode": "9310522030739",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

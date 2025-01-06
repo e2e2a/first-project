@@ -1,0 +1,692 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134072/beans-round",
+    "name": "Beans Round Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/134072.jpg",
+    "source_id": "Woolworths - 134072",
+    "barcode": "0265106000006",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1490",
+        "price_per_unit": "1490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149374/corn-sweet",
+    "name": "Corn Sweet Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/149374.jpg",
+    "source_id": "Woolworths - 149374",
+    "barcode": "0264078000007",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165715/corn-sweet-polka-dot",
+    "name": "Corn Sweet Polka Dot 500g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165715.jpg",
+    "source_id": "Woolworths - 165715",
+    "barcode": "9300633041106",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/730118/mulgowie-green-beans-cleaned-cut",
+    "name": "Mulgowie Green Beans Cleaned & Cut 340g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/730118.jpg",
+    "source_id": "Woolworths - 730118",
+    "barcode": "9319560000070",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "2059",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "1706",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132538/woolworths-asparagus-green-bunch",
+    "name": "Woolworths Asparagus Green Bunch Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/132538.jpg",
+    "source_id": "Woolworths - 132538",
+    "barcode": "0264525000000",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105925/woolworths-beanette-pre-pack",
+    "name": "Woolworths Beanette Pre Pack 400g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/105925.jpg",
+    "source_id": "Woolworths - 105925",
+    "barcode": "9300633011185",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "1475",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307315/woolworths-corn-cobbettes",
+    "name": "Woolworths Corn Cobbettes 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307315.jpg",
+    "source_id": "Woolworths - 307315",
+    "barcode": "9300633101787",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1529",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1294",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139897/woolworths-corn-sweet",
+    "name": "Woolworths Corn Sweet 500g Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139897.jpg",
+    "source_id": "Woolworths - 139897",
+    "barcode": "9300633032470",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162931/woolworths-snow-peas-fresh",
+    "name": "Woolworths Snow Peas Fresh 250g Bag",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/162931.jpg",
+    "source_id": "Woolworths - 162931",
+    "barcode": "9300633048358",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/163783/woolworths-sugar-snap-peas",
+    "name": "Woolworths Sugar Snap Peas 150g Bag",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/163783.jpg",
+    "source_id": "Woolworths - 163783",
+    "barcode": "9300633041298",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/145843/snow-peas",
+    "name": "Snow Peas 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/145843.jpg",
+    "source_id": "Woolworths - 145843",
+    "barcode": "0264092000007",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/515925/macro-organic-corn-cobettes-pre-pack",
+    "name": "Macro Organic Corn Cobettes Pre-Pack 425g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/515925.jpg",
+    "source_id": "Woolworths - 515925",
+    "barcode": "9300633579838",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1859",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "1859",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160903/macro-organic-green-asparagus-bunch",
+    "name": "Macro Organic Green Asparagus Bunch each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/160903.jpg",
+    "source_id": "Woolworths - 160903",
+    "barcode": "0269798000009",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365411/select-asparagus-mini",
+    "name": "Select Asparagus Mini Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/365411.jpg",
+    "source_id": "Woolworths - 365411",
+    "barcode": "0262291000002",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-vitamin-e-1000iu-capsules-30-pack-8297231",
+    "name": "Blackmores Vitamin E 1000IU Capsules | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8297231.jpg&w=640&q=90",
+    "barcode": "93482752",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "7334",
+        "price_per_unit": "2200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "7700",
+        "price_per_unit": "2310",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134174/blackmores-vitamin-e-1000iu-cholesterol-health-capsules",
+    "name": "Blackmores Vitamin e 1000iu Cholesterol Health Capsules 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/134174.jpg",
+    "barcode": "93482752",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "7333",
+        "price_per_unit": "2200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "7333",
+        "price_per_unit": "2200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "7333",
+        "price_per_unit": "2200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "7333",
+        "price_per_unit": "2200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "7333",
+        "price_per_unit": "2200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "7333",
+        "price_per_unit": "2200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "3667",
+        "price_per_unit": "1100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "3667",
+        "price_per_unit": "1100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-gummies-coq10-30-pack-5804548",
+    "name": "Natures Way Gummies COQ10 | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5804548.jpg&w=640&q=90",
+    "barcode": "9314807082819",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "10000",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "10000",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "10000",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "10000",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "10000",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "10000",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "10500",
+        "price_per_unit": "3150",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899814/nature-s-way-high-strength-adult-vita-gummies-coq10-150mg",
+    "name": "Nature's Way High Strength Adult Vita Gummies CoQ10 150mg 30 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/899814.jpg",
+    "barcode": "9314807082819",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-ultiboost-memory-and-focus-supports-brain-function-and-stress-response-50-tablets-50-pack-7109289",
+    "name": "Swisse Ultiboost Memory & Focus Supports Brain Function and S ... 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7109289.jpg&w=640&q=90",
+    "barcode": "9311770588034",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "3674",
+        "price_per_unit": "1837",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324904/swisse-ultiboost-memory-focus-tablets",
+    "name": "Swisse Ultiboost Memory + Focus Tablets 50 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/324904.jpg",
+    "barcode": "9311770588034",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "7000",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

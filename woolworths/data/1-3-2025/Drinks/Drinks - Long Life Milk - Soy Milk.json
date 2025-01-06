@@ -1,0 +1,818 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/56731/bonsoy-long-life-soy-milk",
+    "name": "Bonsoy Long Life Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/056731.jpg",
+    "source_id": "Woolworths - 56731",
+    "barcode": "9312336049013",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "475",
+        "price_per_unit": "475",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215455/macro-organic-soy-long-life-milk",
+    "name": "Macro Organic Soy Long Life Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/215455.jpg",
+    "source_id": "Woolworths - 215455",
+    "barcode": "9300633903305",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/192366/pureharvest-organic-malt-free-soy-milk",
+    "name": "Pureharvest Organic Malt Free Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/192366.jpg",
+    "source_id": "Woolworths - 192366",
+    "barcode": "9312231221231",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83995/sanitarium-so-good-barista-edition-soy-milk",
+    "name": "Sanitarium So Good Barista Edition Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083995.jpg",
+    "source_id": "Woolworths - 83995",
+    "barcode": "9300652808827",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16307/sanitarium-so-good-long-life-lite-soy-milk",
+    "name": "Sanitarium So Good Long Life Lite Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/016307.jpg",
+    "source_id": "Woolworths - 16307",
+    "barcode": "9300652511918",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24318/sanitarium-so-good-long-life-regular-soy-milk",
+    "name": "Sanitarium So Good Long Life Regular Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024318.jpg",
+    "source_id": "Woolworths - 24318",
+    "barcode": "9300652510911",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5535/sanitarium-so-good-long-life-vanilla-bliss-soy-milk",
+    "name": "Sanitarium So Good Long Life Vanilla Bliss Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/005535.jpg",
+    "source_id": "Woolworths - 5535",
+    "barcode": "9300652013955",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "315",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660390/vitasoy-almond-milky",
+    "name": "Vitasoy Almond Milky 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/660390.jpg",
+    "source_id": "Woolworths - 660390",
+    "barcode": "9341650000448",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42937/vitasoy-calci-plus-soy-milk",
+    "name": "Vitasoy Calci Plus Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042937.jpg",
+    "source_id": "Woolworths - 42937",
+    "barcode": "9310232100180",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35617/vitasoy-original-soy-milk",
+    "name": "Vitasoy Original Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/035617.jpg",
+    "source_id": "Woolworths - 35617",
+    "barcode": "9310232100104",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/564472/vitasoy-protein-plus-unsweetened-soy-milk",
+    "name": "Vitasoy Protein Plus Unsweetened Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/564472.jpg",
+    "source_id": "Woolworths - 564472",
+    "barcode": "9341650000578",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212841/vitasoy-soy-milky-lite",
+    "name": "Vitasoy Soy Milky Lite 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/212841.jpg",
+    "source_id": "Woolworths - 212841",
+    "barcode": "9310232100517",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212840/vitasoy-soy-milky-regular",
+    "name": "Vitasoy Soy Milky Regular 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/212840.jpg",
+    "source_id": "Woolworths - 212840",
+    "barcode": "9310232100500",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779130/woolworths-soy-milk",
+    "name": "Woolworths Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/779130.jpg",
+    "source_id": "Woolworths - 779130",
+    "barcode": "9300633473648",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

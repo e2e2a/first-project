@@ -1,0 +1,794 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/669459/birch-waite-belgian-chocolate-dessert-sauce",
+    "name": "Birch & Waite Belgian Chocolate Dessert Sauce 130g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/669459.jpg",
+    "source_id": "Woolworths - 669459",
+    "barcode": "93552905",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80815/berry-blackberries",
+    "name": "Blackberries 170g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/080815.jpg",
+    "source_id": "Woolworths - 80815",
+    "barcode": "9342373000296",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53192/blueberry-blueberries-punnet",
+    "name": "Blueberries Punnet 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/053192.jpg",
+    "source_id": "Woolworths - 53192",
+    "barcode": "9342373000203",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1176",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1176",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "1471",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "2647",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1176",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136103/fresh-cherries",
+    "name": "Fresh Cherries Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/136103.jpg",
+    "source_id": "Woolworths - 136103",
+    "barcode": "0267051000001",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1890",
+        "price_per_unit": "1890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1890",
+        "price_per_unit": "1890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1890",
+        "price_per_unit": "1890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1990",
+        "price_per_unit": "1990",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1890",
+        "price_per_unit": "1890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1790",
+        "price_per_unit": "1790",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1890",
+        "price_per_unit": "1890",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1890",
+        "price_per_unit": "1890",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003273/cherry-king-size-400g-king-size-cherries",
+    "name": "King Size Cherries 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6003273.jpg",
+    "source_id": "Woolworths - 6003273",
+    "barcode": "9341864000227",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1190",
+        "price_per_unit": "2975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1190",
+        "price_per_unit": "2975",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165262/driscoll-s-raspberries-punnet",
+    "name": "Raspberries Punnet 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165262.jpg",
+    "source_id": "Woolworths - 165262",
+    "barcode": "9317948008038",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453364/raspberries-punnet",
+    "name": "Raspberries Punnet 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/453364.jpg",
+    "source_id": "Woolworths - 453364",
+    "barcode": "9342373000463",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "3235",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "3235",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/144607/strawberries",
+    "name": "Strawberries 250g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/144607.jpg",
+    "source_id": "Woolworths - 144607",
+    "barcode": "9300633026028",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748374/strawberries-fresh",
+    "name": "Strawberries 450g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/748374.jpg",
+    "source_id": "Woolworths - 748374",
+    "barcode": "9342373001064",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "1156",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "1156",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "520",
+        "price_per_unit": "1156",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "520",
+        "price_per_unit": "1156",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195767/sweetest-batch-sweetest-batch-premium-strawberries",
+    "name": "Sweetest Batch® Premium Strawberries 300g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/default.png",
+    "source_id": "Woolworths - 195767",
+    "barcode": "9342373000425",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/732262/the-odd-bunch-strawberries-punnet",
+    "name": "The Odd Bunch Strawberries Punnet 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/732262.jpg",
+    "source_id": "Woolworths - 732262",
+    "barcode": "9300633423230",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "840",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/521590/woolworths-cherries",
+    "name": "Woolworths Cherries 300G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/521590.jpg",
+    "source_id": "Woolworths - 521590",
+    "barcode": "9300633612368",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296813/blackberry-blackberries-punnet",
+    "name": "Blackberries Punnet 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296813.jpg",
+    "source_id": "Woolworths - 296813",
+    "barcode": "9319026070043",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "2640",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827719/driscoll-s-premium-blackberries-punnet",
+    "name": "Premium Blackberries 125g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/827719.jpg",
+    "source_id": "Woolworths - 827719",
+    "barcode": "9342373004010",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195766/driscoll-s-raspberries-200g-family",
+    "name": "Raspberries 200g Family Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/195766.jpg",
+    "source_id": "Woolworths - 195766",
+    "barcode": "9342373000418",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149820/strawberry-organic",
+    "name": "Strawberry Organic 250g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/149820.jpg",
+    "source_id": "Woolworths - 149820",
+    "barcode": "9300633007201",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "3160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "2360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "3160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "3160",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826528/the-odd-bunch-apricot-fresh",
+    "name": "The Odd Bunch Apricot Fresh 500G Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/826528.jpg",
+    "source_id": "Woolworths - 826528",
+    "barcode": "9300633780319",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659179/strawberry-premium-strawberries",
+    "name": "Premium Strawberries 350g Punnet",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/659179.jpg",
+    "source_id": "Woolworths - 659179",
+    "barcode": "9319453010025",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1286",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "1686",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169792/blueberries-punnet",
+    "name": "Blueberries Punnet 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169792.jpg",
+    "source_id": "Woolworths - 169792",
+    "barcode": "9317948004511",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105148/blueberry-premium",
+    "name": "Blueberry Premium 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/105148.jpg",
+    "source_id": "Woolworths - 105148",
+    "barcode": "9335089002791",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149276/woolworths-strawberries",
+    "name": "Strawberries 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/149276.jpg",
+    "source_id": "Woolworths - 149276",
+    "barcode": "9300633609382",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

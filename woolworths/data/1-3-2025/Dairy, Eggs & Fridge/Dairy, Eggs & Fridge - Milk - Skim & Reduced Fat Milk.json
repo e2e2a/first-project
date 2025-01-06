@@ -1,0 +1,2084 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216867/a2-milk-light-milk",
+    "name": "A2 Milk Light Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/216867.jpg",
+    "source_id": "Woolworths - 216867",
+    "barcode": "9335390000028",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208066/a2-milk-light-milk",
+    "name": "A2 Milk Light Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/208066.jpg",
+    "source_id": "Woolworths - 208066",
+    "barcode": "9335390000042",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/657076/a2-milk-no-fat-milk",
+    "name": "A2 Milk No Fat 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/657076.jpg",
+    "source_id": "Woolworths - 657076",
+    "barcode": "9335390000165",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330251/dairy-farmers-heart-active-light-milk",
+    "name": "Dairy Farmers Heart Active Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/330251.jpg",
+    "source_id": "Woolworths - 330251",
+    "barcode": "9310232954790",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/144408/dairy-farmers-light-milk",
+    "name": "Dairy Farmers Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/144408.jpg",
+    "source_id": "Woolworths - 144408",
+    "barcode": "9310199014445",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345464/riverina-fresh-skim-milk",
+    "name": "Riverina Fresh Skim Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/345464.jpg",
+    "source_id": "Woolworths - 345464",
+    "barcode": "9311078000337",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407550/the-complete-dairy-light-milk-high-protein",
+    "name": "The Complete Dairy Light Milk High Protein 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/407550.jpg",
+    "source_id": "Woolworths - 407550",
+    "barcode": "9310232956596",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216826/vitasoy-soy-milky-low-sugar-soy-milk",
+    "name": "Vitasoy Soy Milky Low Sugar Soy Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/216826.jpg",
+    "source_id": "Woolworths - 216826",
+    "barcode": "9341650001780",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/382737/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/382737.jpg",
+    "source_id": "Woolworths - 382737",
+    "barcode": "9300633231774",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888139/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/888139.jpg",
+    "source_id": "Woolworths - 888139",
+    "barcode": "9300633556181",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888141/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/888141.jpg",
+    "source_id": "Woolworths - 888141",
+    "barcode": "9300633556174",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51379/woolworths-skim-milk",
+    "name": "Woolworths Skim Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/051379.jpg",
+    "source_id": "Woolworths - 51379",
+    "barcode": "9300633963620",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/144000/zymil-lactose-free-low-fat-milk",
+    "name": "Zymil Lactose Free Low Fat Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/144000.jpg",
+    "source_id": "Woolworths - 144000",
+    "barcode": "9310036037941",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335284/zymil-lactose-free-low-fat-milk",
+    "name": "Zymil Lactose Free Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/335284.jpg",
+    "source_id": "Woolworths - 335284",
+    "barcode": "9310036063520",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/703657/zymil-lactose-free-skim-milk",
+    "name": "Zymil Lactose Free Skim Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/703657.jpg",
+    "source_id": "Woolworths - 703657",
+    "barcode": "9310036034872",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/240183/a2-milk-lactose-free-light-milk",
+    "name": "A2 Milk Lactose Free Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/240183.jpg",
+    "source_id": "Woolworths - 240183",
+    "barcode": "9335390002251",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/43148/pauls-physical-hi-calcium-low-fat-milk",
+    "name": "Pauls Physical Hi Calcium Low Fat Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/043148.jpg",
+    "source_id": "Woolworths - 43148",
+    "barcode": "9310036014584",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67990/pauls-physical-hi-calcium-low-fat-milk",
+    "name": "Pauls Physical Hi Calcium Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067990.jpg",
+    "source_id": "Woolworths - 67990",
+    "barcode": "9310036014591",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "495",
+        "price_per_unit": "248",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/513469/pauls-plus-protein-low-fat-milk",
+    "name": "Pauls Plus+ Protein Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/513469.jpg",
+    "source_id": "Woolworths - 513469",
+    "barcode": "9310036073482",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46995/pauls-rev-low-fat-milk",
+    "name": "Pauls Rev Low Fat Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/046995.jpg",
+    "source_id": "Woolworths - 46995",
+    "barcode": "9310036000853",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41408/pauls-rev-low-fat-milk",
+    "name": "Pauls Rev Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041408.jpg",
+    "source_id": "Woolworths - 41408",
+    "barcode": "9310220915192",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18361/pauls-skinny-no-fat-milk-milk",
+    "name": "Pauls Skinny No Fat Milk Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018361.jpg",
+    "source_id": "Woolworths - 18361",
+    "barcode": "9310220916038",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "495",
+        "price_per_unit": "248",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "595",
+        "price_per_unit": "298",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204747/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204747.jpg",
+    "source_id": "Woolworths - 204747",
+    "barcode": "9310036039471",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204746/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204746.jpg",
+    "source_id": "Woolworths - 204746",
+    "barcode": "9310036039488",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "485",
+        "price_per_unit": "243",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "485",
+        "price_per_unit": "243",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "475",
+        "price_per_unit": "238",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "485",
+        "price_per_unit": "243",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "475",
+        "price_per_unit": "238",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217149/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 3L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/217149.jpg",
+    "source_id": "Woolworths - 217149",
+    "barcode": "9310036026877",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "695",
+        "price_per_unit": "232",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "217",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "695",
+        "price_per_unit": "232",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386514/pura-lactose-free-light-start-milk",
+    "name": "Pura Lactose Free Light Start Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/386514.jpg",
+    "source_id": "Woolworths - 386514",
+    "barcode": "9310232960876",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/298631/pura-light-start-milk-milk",
+    "name": "Pura Light Start Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/298631.jpg",
+    "source_id": "Woolworths - 298631",
+    "barcode": "9310232954363",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52542/pura-light-start-milk-milk",
+    "name": "Pura Light Start Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052542.jpg",
+    "source_id": "Woolworths - 52542",
+    "barcode": "9300664012540",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "435",
+        "price_per_unit": "218",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67420/pura-light-start-milk-milk",
+    "name": "Pura Light Start Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067420.jpg",
+    "source_id": "Woolworths - 67420",
+    "barcode": "9310232043012",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "197",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "630",
+        "price_per_unit": "210",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198686/rokeby-fitmilk-light-light",
+    "name": "Rokeby Fitmilk Light 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198686.jpg",
+    "source_id": "Woolworths - 198686",
+    "barcode": "9336243005184",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/696482/woolworths-free-from-lactose-light-milk",
+    "name": "Woolworths Free From Lactose Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/696482.jpg",
+    "source_id": "Woolworths - 696482",
+    "barcode": "9339687055944",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888114/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/888114.jpg",
+    "source_id": "Woolworths - 888114",
+    "barcode": "9300633556198",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807385/woolworths-lite-milk-lite-milk",
+    "name": "Woolworths Lite Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/807385.jpg",
+    "source_id": "Woolworths - 807385",
+    "barcode": "9339687066889",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807386/woolworths-lite-milk-lite-milk",
+    "name": "Woolworths Lite Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/807386.jpg",
+    "source_id": "Woolworths - 807386",
+    "barcode": "9339687066902",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888136/woolworths-skim-milk",
+    "name": "Woolworths Skim Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/888136.jpg",
+    "source_id": "Woolworths - 888136",
+    "barcode": "9300633556204",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24133/dairy-farmers-light-milk",
+    "name": "Dairy Farmers Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024133.jpg",
+    "source_id": "Woolworths - 24133",
+    "barcode": "9310199011772",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89926/dairy-farmers-skim-milk-skim-milk",
+    "name": "Dairy Farmers Skim Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/089926.jpg",
+    "source_id": "Woolworths - 89926",
+    "barcode": "9310199016579",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248601/maleny-dairies-low-fat-milk",
+    "name": "Maleny Dairies Low Fat Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/248601.jpg",
+    "source_id": "Woolworths - 248601",
+    "barcode": "9332930000043",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "290",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248594/maleny-dairies-reduced-fat-milk",
+    "name": "Maleny Dairies Reduced Fat Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/248594.jpg",
+    "source_id": "Woolworths - 248594",
+    "barcode": "9332930000074",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248618/maleny-dairies-reduced-fat-milk",
+    "name": "Maleny Dairies Reduced Fat Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/248618.jpg",
+    "source_id": "Woolworths - 248618",
+    "barcode": "9332930000111",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "840",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/553273/norco-lactose-free-lite-milk",
+    "name": "Norco Lactose Free Lite Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/553273.jpg",
+    "source_id": "Woolworths - 553273",
+    "barcode": "9310272009924",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "605",
+        "price_per_unit": "303",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/156556/norco-lite-milk",
+    "name": "Norco Lite Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/156556.jpg",
+    "source_id": "Woolworths - 156556",
+    "barcode": "9310272361404",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "625",
+        "price_per_unit": "208",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/293187/norco-reduced-fat-milk",
+    "name": "Norco Reduced Fat Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/293187.jpg",
+    "source_id": "Woolworths - 293187",
+    "barcode": "9310272361275",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260729/norco-skim-milk",
+    "name": "Norco Skim Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/260729.jpg",
+    "source_id": "Woolworths - 260729",
+    "barcode": "9310272366089",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109224/pauls-trim-low-fat-milk",
+    "name": "Pauls Trim Low Fat Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/109224.jpg",
+    "source_id": "Woolworths - 109224",
+    "barcode": "9310036012085",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38467/pauls-trim-low-fat-milk",
+    "name": "Pauls Trim Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038467.jpg",
+    "source_id": "Woolworths - 38467",
+    "barcode": "9310036001416",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/29514/pauls-trim-low-fat-milk",
+    "name": "Pauls Trim Low Fat Milk 3L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/029514.jpg",
+    "source_id": "Woolworths - 29514",
+    "barcode": "9310036012054",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "217",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/583763/a2-light-milk",
+    "name": "A2 Light Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/583763.jpg",
+    "source_id": "Woolworths - 583763",
+    "barcode": "9335390002404",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/681219/brownes-dairy-dairy-lactose-free-hi-lo-milk",
+    "name": "Brownes Dairy Lactose Free Hi-Lo Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/681219.jpg",
+    "source_id": "Woolworths - 681219",
+    "barcode": "9300662886693",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23575/brownes-dairy-hi-lo-light-milk",
+    "name": "Brownes Hi-Lo Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/023575.jpg",
+    "source_id": "Woolworths - 23575",
+    "barcode": "9300662435549",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48419/brownes-dairy-hi-lo-light-milk",
+    "name": "Brownes Hi-Lo Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048419.jpg",
+    "source_id": "Woolworths - 48419",
+    "barcode": "9300662538844",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "445",
+        "price_per_unit": "223",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/82749/brownes-dairy-hi-lo-reduced-fat-milk",
+    "name": "Brownes Hi-Lo Reduced Fat Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/082749.jpg",
+    "source_id": "Woolworths - 82749",
+    "barcode": "9300662443131",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "575",
+        "price_per_unit": "192",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92337/brownes-dairy-hi-lo-reduced-fat-milk",
+    "name": "Brownes Hi-Lo Reduced Fat Milk 600ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092337.jpg",
+    "source_id": "Woolworths - 92337",
+    "barcode": "9300662528524",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "408",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2942/brownes-dairy-low-fat-calcium-plus-milk",
+    "name": "Brownes Low Fat Calcium Plus Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/002942.jpg",
+    "source_id": "Woolworths - 2942",
+    "barcode": "9300662554189",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98617/brownes-dairy-skim-milk",
+    "name": "Brownes Skim Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/098617.jpg",
+    "source_id": "Woolworths - 98617",
+    "barcode": "9300662000679",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200846/brownes-dairy-skim-milk",
+    "name": "Brownes Skim Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/200846.jpg",
+    "source_id": "Woolworths - 200846",
+    "barcode": "9300662633051",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "445",
+        "price_per_unit": "223",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57632/country-dairy-milk-hilo",
+    "name": "Country Dairy Milk Hilo 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/057632.jpg",
+    "source_id": "Woolworths - 57632",
+    "barcode": "9300662878377",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57634/country-dairy-milk-hilo",
+    "name": "Country Dairy Milk Hilo 3L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/057634.jpg",
+    "source_id": "Woolworths - 57634",
+    "barcode": "9300662872351",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "495",
+        "price_per_unit": "165",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/240744/harvey-fresh-lactose-free-hilo-milk",
+    "name": "Harvey Fresh Lactose Free Hilo Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/240744.jpg",
+    "source_id": "Woolworths - 240744",
+    "barcode": "9310036071761",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184199/harvey-fresh-lactose-free-milk",
+    "name": "Harvey Fresh Lactose Free Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/184199.jpg",
+    "source_id": "Woolworths - 184199",
+    "barcode": "9310036071754",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31915/harvey-fresh-light-milk",
+    "name": "Harvey Fresh Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/031915.jpg",
+    "source_id": "Woolworths - 31915",
+    "barcode": "9311697101446",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/128207/harvey-fresh-light-milk",
+    "name": "Harvey Fresh Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/128207.jpg",
+    "source_id": "Woolworths - 128207",
+    "barcode": "9311697301334",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "510",
+        "price_per_unit": "255",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242253/hunt-and-brew-lactose-free-milk",
+    "name": "Hunt And Brew Lactose Free Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/242253.jpg",
+    "source_id": "Woolworths - 242253",
+    "barcode": "9300662889885",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "395",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52081/woolworths-hi-lo-milk",
+    "name": "Woolworths Hi-Lo Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052081.jpg",
+    "source_id": "Woolworths - 52081",
+    "barcode": "9300633963606",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12895/woolworths-hi-lo-milk",
+    "name": "Woolworths Hi-Lo Milk 3L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/012895.jpg",
+    "source_id": "Woolworths - 12895",
+    "barcode": "9300633965747",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97097/fleurieu-farm-fresh-low-fat-milk",
+    "name": "Fleurieu Farm Fresh Low Fat Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097097.jpg",
+    "source_id": "Woolworths - 97097",
+    "barcode": "9337536000015",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4466/pura-light-start-milk-milk",
+    "name": "Pura Light Start Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/004466.jpg",
+    "source_id": "Woolworths - 4466",
+    "barcode": "9300664010041",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58129/pura-skimmer-milk-milk",
+    "name": "Pura Skimmer Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058129.jpg",
+    "source_id": "Woolworths - 58129",
+    "barcode": "9300664012502",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12612/pura-tone-milk-milk",
+    "name": "Pura Tone Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/012612.jpg",
+    "source_id": "Woolworths - 12612",
+    "barcode": "9310232002309",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155196/ashgrove-farm-light-milk",
+    "name": "Ashgrove Farm Light Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155196.jpg",
+    "source_id": "Woolworths - 155196",
+    "barcode": "9325163003134",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "725",
+        "price_per_unit": "242",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/367841/ashgrove-light-milk",
+    "name": "Ashgrove Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/367841.jpg",
+    "source_id": "Woolworths - 367841",
+    "barcode": "9325163003059",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "305",
+        "price_per_unit": "305",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/367890/ashgrove-light-milk",
+    "name": "Ashgrove Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/367890.jpg",
+    "source_id": "Woolworths - 367890",
+    "barcode": "9325163003042",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170880/betta-high-calcium-light-milk",
+    "name": "Betta High Calcium Light Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170880.jpg",
+    "source_id": "Woolworths - 170880",
+    "barcode": "9311572300315",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170878/betta-light-milk",
+    "name": "Betta Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170878.jpg",
+    "source_id": "Woolworths - 170878",
+    "barcode": "9311572300339",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "520",
+        "price_per_unit": "260",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804466/pyengana-dairy-light-milk",
+    "name": "Pyengana Dairy Light Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804466.jpg",
+    "source_id": "Woolworths - 804466",
+    "barcode": "9310232961699",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "495",
+        "price_per_unit": "248",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/382738/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/382738.jpg",
+    "source_id": "Woolworths - 382738",
+    "barcode": "9300633231781",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/382739/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/382739.jpg",
+    "source_id": "Woolworths - 382739",
+    "barcode": "9300633231798",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935719/canberra-milk-canberra-milk-skim",
+    "name": "Canberra Milk Canberra Milk Skim 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935719.jpg",
+    "source_id": "Woolworths - 935719",
+    "barcode": "9318403300063",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/966418/canberra-milk-fresh-lactose-free-low-fat-milk",
+    "name": "Canberra Milk Fresh Lactose Free Low Fat Milk 2L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/966418.jpg",
+    "source_id": "Woolworths - 966418",
+    "barcode": "9318403700030",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/246928/canberra-milk-hi-lo-milk",
+    "name": "Canberra Milk Hi Lo Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/246928.jpg",
+    "source_id": "Woolworths - 246928",
+    "barcode": "9318403200011",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386534/dairy-farmers-lactose-free-light-white-milk",
+    "name": "Dairy Farmers Lactose Free Light White Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/386534.jpg",
+    "source_id": "Woolworths - 386534",
+    "barcode": "9310232961408",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "540",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/145537/dairy-farmers-shape-skim-milk",
+    "name": "Dairy Farmers Shape Skim Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/145537.jpg",
+    "source_id": "Woolworths - 145537",
+    "barcode": "9310199014407",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208080/riverina-fresh-light-milk",
+    "name": "Riverina Fresh Light Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/208080.jpg",
+    "source_id": "Woolworths - 208080",
+    "barcode": "9311078000252",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407050/the-little-big-dairy-company-less-cream-milk-bottle",
+    "name": "The Little Big Dairy Company Less Cream Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/407050.jpg",
+    "source_id": "Woolworths - 407050",
+    "barcode": "9347920000026",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "385",
+        "price_per_unit": "385",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407262/the-little-big-dairy-company-less-cream-milk-bottle",
+    "name": "The Little Big Dairy Company Less Cream Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/407262.jpg",
+    "source_id": "Woolworths - 407262",
+    "barcode": "9347920000033",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "645",
+        "price_per_unit": "323",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407493/the-little-big-dairy-company-no-cream-milk",
+    "name": "The Little Big Dairy Company No Cream Milk 2l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/407493.jpg",
+    "source_id": "Woolworths - 407493",
+    "barcode": "9347920000057",
+    "category_id": "1_6E4F4E4",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

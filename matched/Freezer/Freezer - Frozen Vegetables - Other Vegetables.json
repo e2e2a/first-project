@@ -1,0 +1,178 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-onion-rings-500g-3412478",
+    "name": "McCain Frozen Onion Rings | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3412478.jpg&w=640&q=90",
+    "barcode": "9310174170104",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1160",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1160",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1160",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1160",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1252",
+        "price_per_unit": "626",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741/mccain-pub-style-onion-rings",
+    "name": "McCain Pub Style Onion Rings 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/000741.jpg",
+    "barcode": "9310174170104",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "920",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "920",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "920",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "920",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "920",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1160",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1220",
+        "price_per_unit": "610",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-veggie-rice-cauliflower-500g-3314162",
+    "name": "Birds Eye Veggie Rice Cauliflower | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3314162.jpg&w=640&q=90",
+    "barcode": "9310081122296",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1188",
+        "price_per_unit": "594",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802638/birds-eye-veggie-rice-cauliflower",
+    "name": "Birds Eye Veggie Rice Cauliflower 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802638.jpg",
+    "barcode": "9310081122296",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "990",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "990",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "990",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "990",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

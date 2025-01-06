@@ -1,0 +1,242 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789357/woolworths-full-cream-milk-powder",
+    "name": "Woolworths Full Cream Milk Powder 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789357.jpg",
+    "source_id": "Woolworths - 789357",
+    "barcode": "9300633765705",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789358/woolworths-skim-milk-powder",
+    "name": "Woolworths Skim Milk Powder 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789358.jpg",
+    "source_id": "Woolworths - 789358",
+    "barcode": "9300633765712",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/855562/a2-milk-full-cream-powder",
+    "name": "A2 Milk Full Cream Powder 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/855562.jpg",
+    "source_id": "Woolworths - 855562",
+    "barcode": "9421902960239",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750005/devondale-full-cream-milk-powder-long-life-uht",
+    "name": "Devondale Full Cream Milk Powder Long Life UHT 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/750005.jpg",
+    "source_id": "Woolworths - 750005",
+    "barcode": "9300639602967",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1650",
+        "price_per_unit": "1650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1650",
+        "price_per_unit": "1650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "1650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208818/diploma-full-cream-long-life-milk-powder",
+    "name": "Diploma Full Cream Long Life Milk Powder 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/208818.jpg",
+    "source_id": "Woolworths - 208818",
+    "barcode": "9310052280024",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "740",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "740",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "740",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "740",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "740",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/658532/a2-milk-skim-milk-powder",
+    "name": "A2 Milk Skim Milk Powder 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/658532.jpg",
+    "source_id": "Woolworths - 658532",
+    "barcode": "9421902960246",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1900",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

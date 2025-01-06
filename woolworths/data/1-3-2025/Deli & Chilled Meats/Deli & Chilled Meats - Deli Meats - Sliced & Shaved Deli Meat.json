@@ -1,0 +1,7052 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882053/woolworths-deli-express-australian-prosciutto-sliced",
+    "name": "Australian Prosciutto Sliced 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/882053.jpg",
+    "source_id": "Woolworths - 882053",
+    "barcode": "9329053013456",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882460/woolworths-deli-express-beef-pastrami-sliced",
+    "name": "Beef Pastrami Sliced 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/882460.jpg",
+    "source_id": "Woolworths - 882460",
+    "barcode": "9329053013425",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883986/woolworths-deli-express-champagne-ham-shaved",
+    "name": "Champagne Ham Shaved 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883986.jpg",
+    "source_id": "Woolworths - 883986",
+    "barcode": "9300767082587",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "705",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884009/woolworths-deli-express-champagne-ham-sliced",
+    "name": "Champagne Ham Sliced 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884009.jpg",
+    "source_id": "Woolworths - 884009",
+    "barcode": "9300767082594",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "705",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884001/woolworths-deli-express-chorizo-salami-sliced",
+    "name": "Chorizo Salami Sliced 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884001.jpg",
+    "source_id": "Woolworths - 884001",
+    "barcode": "9329053013487",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390942/d-orsogna-champagne-leg-ham",
+    "name": "D'orsogna Champagne Leg Ham 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390942.jpg",
+    "source_id": "Woolworths - 390942",
+    "barcode": "9300767182515",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758079/d-orsogna-deli-fresh-ham-champagne-leg",
+    "name": "D'Orsogna Deli Fresh Ham Champagne Leg 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758079.jpg",
+    "source_id": "Woolworths - 758079",
+    "barcode": "9300767092814",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758089/d-orsogna-deli-fresh-ham-double-smoked",
+    "name": "D'Orsogna Deli Fresh Ham Double Smoked 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758089.jpg",
+    "source_id": "Woolworths - 758089",
+    "barcode": "9300767092838",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758131/d-orsogna-deli-fresh-ham-honey",
+    "name": "D'Orsogna Deli Fresh Ham Honey 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758131.jpg",
+    "source_id": "Woolworths - 758131",
+    "barcode": "9300767092845",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758125/d-orsogna-deli-fresh-ham-premium-leg",
+    "name": "D'Orsogna Deli Fresh Ham Premium Leg 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758125.jpg",
+    "source_id": "Woolworths - 758125",
+    "barcode": "9300767092821",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101397/d-orsogna-deli-fresh-lightly-smoked-turkey",
+    "name": "D'Orsogna Deli Fresh Lightly Smoked Turkey 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101397.jpg",
+    "source_id": "Woolworths - 101397",
+    "barcode": "9300767081566",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744023/d-orsogna-deli-fresh-mild-salami",
+    "name": "D'Orsogna Deli Fresh Mild Salami 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/744023.jpg",
+    "source_id": "Woolworths - 744023",
+    "barcode": "9300767092784",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744022/d-orsogna-deli-fresh-spicy-chorizo-salami",
+    "name": "D'Orsogna Deli Fresh Spicy Chorizo Salami 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/744022.jpg",
+    "source_id": "Woolworths - 744022",
+    "barcode": "9300767092777",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390439/d-orsogna-double-smoked-leg-ham",
+    "name": "D'orsogna Double Smoked Leg Ham 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390439.jpg",
+    "source_id": "Woolworths - 390439",
+    "barcode": "9300767082495",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913205/d-orsogna-english-ham-shaved",
+    "name": "D'Orsogna English Ham Shaved 80g x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913205.jpg",
+    "source_id": "Woolworths - 913205",
+    "barcode": "9300767082815",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99441/d-orsogna-hungarian-salami",
+    "name": "D'Orsogna Hungarian Salami 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/099441.jpg",
+    "source_id": "Woolworths - 99441",
+    "barcode": "9300767081436",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390450/d-orsogna-leg-ham-shaved",
+    "name": "D'orsogna Leg Ham Shaved 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390450.jpg",
+    "source_id": "Woolworths - 390450",
+    "barcode": "9300767182508",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211994/d-orsogna-natural-premium-ham-gluten-free-97-fat-free",
+    "name": "D'Orsogna Natural Premium Ham Gluten Free 97% Fat Free 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211994.jpg",
+    "source_id": "Woolworths - 211994",
+    "barcode": "9300767082211",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/912595/d-orsogna-triple-smoked-leg-ham",
+    "name": "D'Orsogna Triple Smoked Leg Ham 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/912595.jpg",
+    "source_id": "Woolworths - 912595",
+    "barcode": "9300767082822",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882458/woolworths-deli-express-danish-salami-sliced",
+    "name": "Danish Salami Sliced 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/882458.jpg",
+    "source_id": "Woolworths - 882458",
+    "barcode": "9300767082761",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "3233",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884043/woolworths-deli-express-deli-leg-ham-shaved",
+    "name": "Deli Leg Ham Shaved 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884043.jpg",
+    "source_id": "Woolworths - 884043",
+    "barcode": "9300767082563",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "585",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883956/woolworths-deli-express-deli-leg-ham-sliced",
+    "name": "Deli Leg Ham Sliced 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883956.jpg",
+    "source_id": "Woolworths - 883956",
+    "barcode": "9300767082570",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "585",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/887601/deli-express-devon-sliced",
+    "name": "Devon Sliced 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/887601.jpg",
+    "source_id": "Woolworths - 887601",
+    "barcode": "9329053013494",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290345/don-champagne-leg-ham",
+    "name": "Don Champagne Leg Ham 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290345.jpg",
+    "source_id": "Woolworths - 290345",
+    "barcode": "9326451016324",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/289247/don-double-smoked-leg-ham",
+    "name": "Don Double Smoked Leg Ham 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/289247.jpg",
+    "source_id": "Woolworths - 289247",
+    "barcode": "9326451016294",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290321/don-italian-style-salami",
+    "name": "Don Italian Style Salami 160g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290321.jpg",
+    "source_id": "Woolworths - 290321",
+    "barcode": "9326451011855",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290324/don-leg-ham-shaved",
+    "name": "Don Leg Ham Shaved 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290324.jpg",
+    "source_id": "Woolworths - 290324",
+    "barcode": "9326451016300",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/730850/don-salami-sliced-pepperoni",
+    "name": "Don Salami Sliced Pepperoni 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/730850.jpg",
+    "source_id": "Woolworths - 730850",
+    "barcode": "9326451737120",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290982/don-shaved-turkey",
+    "name": "Don Shaved Turkey 160g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290982.jpg",
+    "source_id": "Woolworths - 290982",
+    "barcode": "9326451016355",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290255/don-thinly-sliced-english-ham",
+    "name": "Don Thinly Sliced English Ham 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290255.jpg",
+    "source_id": "Woolworths - 290255",
+    "barcode": "9326451016317",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288084/don-thinly-sliced-honey-leg-ham",
+    "name": "Don Thinly Sliced Honey Leg Ham 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/288084.jpg",
+    "source_id": "Woolworths - 288084",
+    "barcode": "9326451016331",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884345/woolworths-deli-express-hot-spicy-salami-sliced",
+    "name": "Hot & Spicy Salami Sliced 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884345.jpg",
+    "source_id": "Woolworths - 884345",
+    "barcode": "9300767082754",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883950/woolworths-deli-express-hungarian-salami-sliced",
+    "name": "Hungarian Salami Sliced 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883950.jpg",
+    "source_id": "Woolworths - 883950",
+    "barcode": "9300767082747",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884042/woolworths-deli-express-jarrah-honey-ham-off-the-bone-shaved",
+    "name": "Jarrah Honey Ham Off The Bone Shaved 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884042.jpg",
+    "source_id": "Woolworths - 884042",
+    "barcode": "9300767082624",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884442/woolworths-deli-express-jarrah-honey-ham-off-the-bone-sliced",
+    "name": "Jarrah Honey Ham Off The Bone Sliced 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884442.jpg",
+    "source_id": "Woolworths - 884442",
+    "barcode": "9300767082631",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807898/mayfair-devon-slices",
+    "name": "Mayfair Devon Slices 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/807898.jpg",
+    "source_id": "Woolworths - 807898",
+    "barcode": "9311594018649",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884066/woolworths-deli-express-premium-australian-ham-off-the-bone-shaved",
+    "name": "Premium Australian Ham Off The Bone Shaved 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884066.jpg",
+    "source_id": "Woolworths - 884066",
+    "barcode": "9300767082648",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884077/woolworths-deli-express-premium-australian-ham-off-the-bone-sliced",
+    "name": "Premium Australian Ham Off The Bone Sliced 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884077.jpg",
+    "source_id": "Woolworths - 884077",
+    "barcode": "9300767082655",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544761/primo-champagne-ham-sliced-thinly-sliced",
+    "name": "Primo Champagne Ham Sliced 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544761.jpg",
+    "source_id": "Woolworths - 544761",
+    "barcode": "9311594016966",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544762/primo-chicken-breast-sliced-thinly-sliced",
+    "name": "Primo Chicken Breast Sliced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544762.jpg",
+    "source_id": "Woolworths - 544762",
+    "barcode": "9311594016546",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544699/primo-danish-salami-sliced",
+    "name": "Primo Danish  Salami Sliced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544699.jpg",
+    "source_id": "Woolworths - 544699",
+    "barcode": "9311594018601",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544760/primo-double-smoked-sliced-leg-ham-double-smoked",
+    "name": "Primo Double Smoked Sliced Leg Ham 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544760.jpg",
+    "source_id": "Woolworths - 544760",
+    "barcode": "9311594016942",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544696/primo-english-style-sliced-leg-ham",
+    "name": "Primo English Style Sliced Leg Ham 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544696.jpg",
+    "source_id": "Woolworths - 544696",
+    "barcode": "9311594017161",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68488/primo-hot-hungarian-sliced-salami",
+    "name": "Primo Hot Hungarian Sliced Salami 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/068488.jpg",
+    "source_id": "Woolworths - 68488",
+    "barcode": "9311594018878",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248391/primo-leg-ham-sliced-salt-reduced-less-salt",
+    "name": "Primo Leg Ham Sliced Salt Reduced 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/248391.jpg",
+    "source_id": "Woolworths - 248391",
+    "barcode": "9311594016799",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194494/primo-manuka-honey-sliced-leg-ham-honey-shaved",
+    "name": "Primo Manuka Honey Sliced Leg Ham 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/194494.jpg",
+    "source_id": "Woolworths - 194494",
+    "barcode": "9311594223654",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544764/primo-mild-hungarian-sliced-salami-mild",
+    "name": "Primo Mild Hungarian Sliced Salami 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544764.jpg",
+    "source_id": "Woolworths - 544764",
+    "barcode": "9311594018625",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68490/primo-mortadella",
+    "name": "Primo Mortadella 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/068490.jpg",
+    "source_id": "Woolworths - 68490",
+    "barcode": "9311594016058",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544763/primo-pastrami-sliced",
+    "name": "Primo Pastrami Sliced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544763.jpg",
+    "source_id": "Woolworths - 544763",
+    "barcode": "9311594016928",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544765/primo-pepperoni-thinly-sliced-hot",
+    "name": "Primo Pepperoni Thinly Sliced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544765.jpg",
+    "source_id": "Woolworths - 544765",
+    "barcode": "9311594018632",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90848/primo-silverside-beef",
+    "name": "Primo Silverside Beef 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/090848.jpg",
+    "source_id": "Woolworths - 90848",
+    "barcode": "9311594016850",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544697/primo-turkey-breast-sliced",
+    "name": "Primo Turkey Breast Sliced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544697.jpg",
+    "source_id": "Woolworths - 544697",
+    "barcode": "9311594016584",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613441/riverland-fermented-salami-sliced",
+    "name": "Riverland Fermented Salami Sliced 320g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/613441.jpg",
+    "source_id": "Woolworths - 613441",
+    "barcode": "9300767082716",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "2969",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390863/riverland-ham-sliced-quad-pack",
+    "name": "Riverland Ham Sliced Quad Pack 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390863.jpg",
+    "source_id": "Woolworths - 390863",
+    "barcode": "9300767082433",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "755",
+        "price_per_unit": "1510",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884496/woolworths-deli-express-roast-beef-sliced",
+    "name": "Roast Beef Sliced 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884496.jpg",
+    "source_id": "Woolworths - 884496",
+    "barcode": "9329053013432",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/896795/roast-shredded-chicken-breast",
+    "name": "Roast Shredded Chicken Breast 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/896795.jpg",
+    "source_id": "Woolworths - 896795",
+    "barcode": "9340281002593",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/294972/tibaldi-ham-off-the-bone",
+    "name": "Tibaldi Ham Off The Bone 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/294972.jpg",
+    "source_id": "Woolworths - 294972",
+    "barcode": "9310176408014",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/395929/tibaldi-signature-collection-triple-smoked-australian-ham",
+    "name": "Tibaldi Signature Collection Triple Smoked Australian Ham 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/395929.jpg",
+    "source_id": "Woolworths - 395929",
+    "barcode": "9310176408427",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394907/tibaldi-signature-collection-wafer-thin-australian-leg-ham",
+    "name": "Tibaldi Signature Collection Wafer Thin Australian Leg Ham 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/394907.jpg",
+    "source_id": "Woolworths - 394907",
+    "barcode": "9310176408793",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27566/tibaldi-signature-ham-off-the-bone",
+    "name": "Tibaldi Signature Ham Off The Bone 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/027566.jpg",
+    "source_id": "Woolworths - 27566",
+    "barcode": "9310176408816",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "3917",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882610/woolworths-deli-express-triple-smoked-leg-ham-shaved",
+    "name": "Triple Smoked Leg Ham Shaved 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/882610.jpg",
+    "source_id": "Woolworths - 882610",
+    "barcode": "9300767082600",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/881241/woolworths-deli-express-triple-smoked-leg-ham-sliced",
+    "name": "Triple Smoked Leg Ham Sliced 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/881241.jpg",
+    "source_id": "Woolworths - 881241",
+    "barcode": "9300767082617",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/886902/woolworths-deli-express-turkey-breast-sliced",
+    "name": "Turkey Breast Sliced 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/886902.jpg",
+    "source_id": "Woolworths - 886902",
+    "barcode": "9329053013500",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/410607/woolworths-smoked-sliced-ham-off-the-bone",
+    "name": "Woolworths Smoked Sliced Ham Off The Bone 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/410607.jpg",
+    "source_id": "Woolworths - 410607",
+    "barcode": "9339687359943",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717712/bertocchi-classic-leg-ham-virginian-shaved",
+    "name": "Bertocchi Classic Leg Ham Virginian Shaved PER KG",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717712.jpg",
+    "source_id": "Woolworths - 717712",
+    "barcode": "0271982000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/716097/bertocchi-classic-leg-ham-virginian-sliced",
+    "name": "Bertocchi Classic Leg Ham Virginian Sliced Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/716097.jpg",
+    "source_id": "Woolworths - 716097",
+    "barcode": "0272806000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726028/bertocchi-pancetta-mild-sliced-from-the-deli",
+    "name": "Bertocchi Pancetta Mild Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726028.jpg",
+    "source_id": "Woolworths - 726028",
+    "barcode": "0273782000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253202/bertocchi-pepper-crusted-chili-soppressa-salami-sliced-from-the-deli",
+    "name": "Bertocchi Pepper Crusted Chili Soppressa Salami Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253202.jpg",
+    "source_id": "Woolworths - 253202",
+    "barcode": "0274243000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353946/bertocchi-premium-boneless-leg-ham-shaved-from-the-deli",
+    "name": "Bertocchi Premium Boneless Leg Ham Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/353946.jpg",
+    "source_id": "Woolworths - 353946",
+    "barcode": "0271484000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/352931/bertocchi-premium-boneless-leg-ham-sliced-from-the-deli",
+    "name": "Bertocchi Premium Boneless Leg Ham Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/352931.jpg",
+    "source_id": "Woolworths - 352931",
+    "barcode": "0271463000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346624/bertocchi-shortcut-bacon-rashers-from-the-deli",
+    "name": "Bertocchi Shortcut Bacon Rashers From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/346624.jpg",
+    "source_id": "Woolworths - 346624",
+    "barcode": "0271485000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14627/bertocchi-soppressa-salami-hot-sliced-from-the-deli",
+    "name": "Bertocchi Soppressa Salami Hot Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/014627.jpg",
+    "source_id": "Woolworths - 14627",
+    "barcode": "0273087000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14663/bertocchi-soppressa-salami-mild-sliced-from-the-deli",
+    "name": "Bertocchi Soppressa Salami Mild Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/014663.jpg",
+    "source_id": "Woolworths - 14663",
+    "barcode": "0273089000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129693/champagne-leg-ham-shaved-from-the-deli",
+    "name": "Champagne Leg Ham Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/129693.jpg",
+    "source_id": "Woolworths - 129693",
+    "barcode": "0276562000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/127959/champagne-leg-ham-sliced-from-the-deli",
+    "name": "Champagne Leg Ham Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/127959.jpg",
+    "source_id": "Woolworths - 127959",
+    "barcode": "0276078000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2350",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71860/d-orsogna-diced-bacon",
+    "name": "D'Orsogna Diced Bacon Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/071860.jpg",
+    "source_id": "Woolworths - 71860",
+    "barcode": "0278511000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175734/d-orsogna-ham-leg-triple-smoked-97-fat-free-shaved",
+    "name": "D'Orsogna Ham Leg Triple Smoked 97% Fat Free Shaved 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/175734.jpg",
+    "source_id": "Woolworths - 175734",
+    "barcode": "0278697000003",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103449/d-orsogna-honey-ham-shaved-from-the-deli",
+    "name": "D'Orsogna Honey Ham Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103449.jpg",
+    "source_id": "Woolworths - 103449",
+    "barcode": "0270200000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71859/d-orsogna-middle-bacon",
+    "name": "D'Orsogna Middle Bacon Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/071859.jpg",
+    "source_id": "Woolworths - 71859",
+    "barcode": "0278163000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/937258/d-orsogna-premium-ham-off-the-bone-shaved-from-the-deli",
+    "name": "D'Orsogna Premium Ham Off The Bone Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/937258.jpg",
+    "source_id": "Woolworths - 937258",
+    "barcode": "0272368000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/130276/deli-leg-ham-shaved-from-the-deli",
+    "name": "Deli Leg Ham Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/130276.jpg",
+    "source_id": "Woolworths - 130276",
+    "barcode": "0278776000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6001529/don-melosi-leg-ham-shaved-from-the-deli",
+    "name": "Don Melosi Leg Ham Shaved From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6001529.jpg",
+    "source_id": "Woolworths - 6001529",
+    "barcode": "0275365000006",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67486/don-premium-smokehouse-ham-shaved-from-the-deli",
+    "name": "Don Premium Smokehouse Ham Shaved From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067486.jpg",
+    "source_id": "Woolworths - 67486",
+    "barcode": "0273261000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262682/don-strassburg-shaved",
+    "name": "Don Strassburg Shaved Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262682.jpg",
+    "source_id": "Woolworths - 262682",
+    "barcode": "0272987000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1750",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3165/don-strassburg-sliced",
+    "name": "Don Strassburg Sliced Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/003165.jpg",
+    "source_id": "Woolworths - 3165",
+    "barcode": "0271047000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1750",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48527/hans-devon-sliced",
+    "name": "Hans Devon Sliced Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048527.jpg",
+    "source_id": "Woolworths - 48527",
+    "barcode": "0270001000006",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30936/ingham-s-chicken-sliced-roll",
+    "name": "Ingham's Chicken Sliced Roll Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/030936.jpg",
+    "source_id": "Woolworths - 30936",
+    "barcode": "0271573000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27316/ingham-s-oven-roasted-turkey-breast-shaved-from-the-deli",
+    "name": "Ingham's Oven Roasted Turkey Breast Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/027316.jpg",
+    "source_id": "Woolworths - 27316",
+    "barcode": "0272234000006",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59755/ingham-s-oven-roasted-turkey-breast-sliced-from-the-deli",
+    "name": "Ingham's Oven Roasted Turkey Breast Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059755.jpg",
+    "source_id": "Woolworths - 59755",
+    "barcode": "0274676000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2900",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972296/d-orsogna-honey-ham-sliced-from-the-deli",
+    "name": "D'Orsogna Honey Ham Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972296.jpg",
+    "source_id": "Woolworths - 972296",
+    "barcode": "0273282000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935656/d-orsogna-premium-ham-off-the-bone-sliced-from-the-deli",
+    "name": "D'Orsogna Premium Ham Off The Bone Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935656.jpg",
+    "source_id": "Woolworths - 935656",
+    "barcode": "0279129000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162725/d-orsogna-triple-smoked-leg-ham-97-fat-free-sliced-from-the-deli",
+    "name": "D'Orsogna Triple Smoked Leg Ham 97% Fat Free Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/162725.jpg",
+    "source_id": "Woolworths - 162725",
+    "barcode": "0277997000003",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129712/deli-leg-ham-sliced-from-the-deli",
+    "name": "Deli Leg Ham Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/129712.jpg",
+    "source_id": "Woolworths - 129712",
+    "barcode": "0275777000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1950",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67489/don-danish-style-salami-shaved-from-the-deli",
+    "name": "Don Danish Style Salami Shaved From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067489.jpg",
+    "source_id": "Woolworths - 67489",
+    "barcode": "0273288000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962045/don-danish-style-salami-sliced-from-the-deli",
+    "name": "Don Danish Style Salami Sliced From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/962045.jpg",
+    "source_id": "Woolworths - 962045",
+    "barcode": "0271884000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/289210/don-hungarian-salami",
+    "name": "Don Hungarian Salami 160g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/289210.jpg",
+    "source_id": "Woolworths - 289210",
+    "barcode": "9326451016362",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67487/don-italian-style-salami-shaved-from-the-deli",
+    "name": "Don Italian Style Salami Shaved From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067487.jpg",
+    "source_id": "Woolworths - 67487",
+    "barcode": "0273273000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/956216/don-italian-style-salami-sliced-from-the-deli",
+    "name": "Don Italian Style Salami Sliced From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/956216.jpg",
+    "source_id": "Woolworths - 956216",
+    "barcode": "0272761000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3650",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000088/don-melosi-leg-ham-sliced-from-the-deli",
+    "name": "Don Melosi Leg Ham Sliced From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6000088.jpg",
+    "source_id": "Woolworths - 6000088",
+    "barcode": "0271853000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/929867/moira-mac-s-chicken-breast-supreme-sliced-from-the-deli",
+    "name": "Moira Mac's Chicken Breast Supreme Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/929867.jpg",
+    "source_id": "Woolworths - 929867",
+    "barcode": "0272406000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11303/moira-mac-s-marinated-bbq-chicken-breast-sliced",
+    "name": "Moira Mac's Marinated Bbq Chicken Breast Sliced Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/011303.jpg",
+    "source_id": "Woolworths - 11303",
+    "barcode": "0274687000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785788/moira-mac-s-oven-roasted-chicken-breast-shredded-from-the-deli",
+    "name": "Moira Mac's Oven Roasted Chicken Breast Shredded From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/785788.jpg",
+    "source_id": "Woolworths - 785788",
+    "barcode": "0273818000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2950",
+        "price_per_unit": "2950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800956/noel-smoked-spanish-jamon-serrano-freshly-sliced-from-the-deli",
+    "name": "Noel Smoked Spanish Jamon Serrano Freshly Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800956.jpg",
+    "source_id": "Woolworths - 800956",
+    "barcode": "0273966000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5500",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "5500",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "5500",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "5500",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5500",
+        "price_per_unit": "5500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918022/pastoral-rare-roast-beef-sliced-from-the-deli",
+    "name": "Pastoral Rare Roast Beef Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/918022.jpg",
+    "source_id": "Woolworths - 918022",
+    "barcode": "0273239000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3900",
+        "price_per_unit": "3900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3900",
+        "price_per_unit": "3900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3900",
+        "price_per_unit": "3900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/956187/don-premium-smokehouse-ham-sliced-from-the-deli",
+    "name": "Don Premium Smokehouse Ham Sliced From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/956187.jpg",
+    "source_id": "Woolworths - 956187",
+    "barcode": "0272756000003",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67328/primo-corned-beef-silverside-shaved-from-the-deli",
+    "name": "Primo Corned Beef Silverside Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067328.jpg",
+    "source_id": "Woolworths - 67328",
+    "barcode": "0270090000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/961813/primo-corned-beef-silverside-sliced-from-the-deli",
+    "name": "Primo Corned Beef Silverside Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/961813.jpg",
+    "source_id": "Woolworths - 961813",
+    "barcode": "0272460000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54467/primo-pastrami-shaved-from-the-deli",
+    "name": "Primo Pastrami Shaved From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054467.jpg",
+    "source_id": "Woolworths - 54467",
+    "barcode": "0275645000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32481/primo-pastrami-sliced-from-the-deli",
+    "name": "Primo Pastrami Sliced From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032481.jpg",
+    "source_id": "Woolworths - 32481",
+    "barcode": "0270894000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3290",
+        "price_per_unit": "3290",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67329/primo-roast-beef-shaved-from-the-deli",
+    "name": "Primo Roast Beef Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067329.jpg",
+    "source_id": "Woolworths - 67329",
+    "barcode": "0272211000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/961761/primo-roast-beef-sliced-from-the-deli",
+    "name": "Primo Roast Beef Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/961761.jpg",
+    "source_id": "Woolworths - 961761",
+    "barcode": "0272353000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3050",
+        "price_per_unit": "3050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/867292/primo-roast-pork-sliced-from-the-deli",
+    "name": "Primo Roast Pork Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/867292.jpg",
+    "source_id": "Woolworths - 867292",
+    "barcode": "0275042000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2850",
+        "price_per_unit": "2850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104619/princi-olive-mortadella-shaved-from-the-deli",
+    "name": "Princi Olive Mortadella Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/104619.jpg",
+    "source_id": "Woolworths - 104619",
+    "barcode": "0271980000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/958192/princi-olive-mortadella-sliced-from-the-deli",
+    "name": "Princi Olive Mortadella Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/958192.jpg",
+    "source_id": "Woolworths - 958192",
+    "barcode": "0273317000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104886/princi-plain-mortadella-shaved-from-the-deli",
+    "name": "Princi Plain Mortadella Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/104886.jpg",
+    "source_id": "Woolworths - 104886",
+    "barcode": "0272136000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/958189/princi-plain-mortadella-sliced-from-the-deli",
+    "name": "Princi Plain Mortadella Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/958189.jpg",
+    "source_id": "Woolworths - 958189",
+    "barcode": "0273303000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/777183/k-r-castlemaine-hungarian-salami-hot-sliced-from-the-deli",
+    "name": "K R Castlemaine Hungarian Salami Hot Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/777183.jpg",
+    "source_id": "Woolworths - 777183",
+    "barcode": "0273606000006",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/777173/k-r-castlemaine-hungarian-salami-mild-sliced-from-the-deli",
+    "name": "K R Castlemaine Hungarian Salami Mild Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/777173.jpg",
+    "source_id": "Woolworths - 777173",
+    "barcode": "0273563000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/777944/k-r-castlemaine-hungarian-salami-shaved-hot-from-the-deli",
+    "name": "K R Castlemaine Hungarian Salami Shaved Hot From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/777944.jpg",
+    "source_id": "Woolworths - 777944",
+    "barcode": "0273493000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/777945/krc-hungarian-salami-mild-shaved-from-the-deli",
+    "name": "KRC Hungarian Salami Mild Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/777945.jpg",
+    "source_id": "Woolworths - 777945",
+    "barcode": "0273495000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544704/mayfair-hungarian-salami-mild",
+    "name": "Mayfair Hungarian Salami Mild 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/544704.jpg",
+    "source_id": "Woolworths - 544704",
+    "barcode": "9311594018656",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004080/mild-deli-salami-shaved-from-the-deli",
+    "name": "Mild Deli Salami Shaved From The Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6004080.jpg",
+    "source_id": "Woolworths - 6004080",
+    "barcode": "0271494000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003523/mild-salami-sliced-from-the-deli",
+    "name": "Mild Salami Sliced From the Deli per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/6003523.jpg",
+    "source_id": "Woolworths - 6003523",
+    "barcode": "0272349000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/410494/woolworths-double-smoked-sliced-ham-off-the-bone",
+    "name": "Woolworths Double Smoked Sliced Ham Off The Bone 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/410494.jpg",
+    "source_id": "Woolworths - 410494",
+    "barcode": "9339687359936",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/410689/woolworths-smoked-shaved-ham-off-the-bone",
+    "name": "Woolworths Smoked Shaved Ham Off The Bone 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/410689.jpg",
+    "source_id": "Woolworths - 410689",
+    "barcode": "9339687359950",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "410",
+        "price_per_unit": "4100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71841/d-orsogna-shortcut-bacon",
+    "name": "D'Orsogna Shortcut Bacon Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/071841.jpg",
+    "source_id": "Woolworths - 71841",
+    "barcode": "0277540000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/714680/from-the-deli-middle-bacon-rashers-from-the-deli",
+    "name": "From the Deli Middle Bacon Rashers From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/714680.jpg",
+    "source_id": "Woolworths - 714680",
+    "barcode": "0272476000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67606/gotzinger-provincial-ham-shaved-from-the-deli",
+    "name": "Gotzinger Provincial Ham Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067606.jpg",
+    "source_id": "Woolworths - 67606",
+    "barcode": "0279161000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3800",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212050/d-orsogna-natural-double-smoked-ham-gluten-free-97-fat-free",
+    "name": "D'Orsogna Natural Double Smoked Ham Gluten Free 97% Fat Free 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/212050.jpg",
+    "source_id": "Woolworths - 212050",
+    "barcode": "9300767082259",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176823/d-orsogna-turkey-thinly-sliced",
+    "name": "D'Orsogna Turkey Thinly Sliced 60g x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/176823.jpg",
+    "source_id": "Woolworths - 176823",
+    "barcode": "9300767081948",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390984/don-pepperoni-sliced-from-the-deli",
+    "name": "Don Pepperoni Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390984.jpg",
+    "source_id": "Woolworths - 390984",
+    "barcode": "0272313000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/937558/primo-diced-bacon-from-the-deli",
+    "name": "Primo Diced Bacon From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/937558.jpg",
+    "source_id": "Woolworths - 937558",
+    "barcode": "0277352000006",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/956056/gotzinger-provincial-ham-sliced-from-the-deli",
+    "name": "Gotzinger Provincial Ham Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/956056.jpg",
+    "source_id": "Woolworths - 956056",
+    "barcode": "0271678000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3800",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247966/primo-chicken-breast-sliced-salt-reduced",
+    "name": "Primo Chicken Breast Sliced Salt Reduced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247966.jpg",
+    "source_id": "Woolworths - 247966",
+    "barcode": "9311594016881",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25260/primo-danish-salami-mild-shaved-from-the-deli",
+    "name": "Primo Danish Salami Mild Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/025260.jpg",
+    "source_id": "Woolworths - 25260",
+    "barcode": "0270061000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312270/primo-danish-salami-mild-sliced-from-the-deli",
+    "name": "Primo Danish Salami Mild Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/312270.jpg",
+    "source_id": "Woolworths - 312270",
+    "barcode": "0270052000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3250",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248933/primo-mild-salami-sliced-salt-reduced",
+    "name": "Primo Mild Salami Sliced Salt Reduced 80g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/248933.jpg",
+    "source_id": "Woolworths - 248933",
+    "barcode": "9311594016560",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/389221/riverland-chicken-slices",
+    "name": "Riverland Chicken Slices 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/389221.jpg",
+    "source_id": "Woolworths - 389221",
+    "barcode": "9300767082464",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "930",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "930",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "930",
+        "price_per_unit": "2325",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789501/d-orsogna-mild-cacciatora-cacciatora-mild",
+    "name": "D'Orsogna Mild Cacciatora Cacciatora Mild 200g - 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789501.jpg",
+    "source_id": "Woolworths - 789501",
+    "barcode": "0274880000003",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "875",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48451/d-orsogna-polony-sliced",
+    "name": "D'Orsogna Polony Sliced PER KG",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048451.jpg",
+    "source_id": "Woolworths - 48451",
+    "barcode": "0270525000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1075",
+        "price_per_unit": "1075",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67605/free-range-leg-ham-shaved-from-the-deli",
+    "name": "Free Range Leg Ham Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067605.jpg",
+    "source_id": "Woolworths - 67605",
+    "barcode": "0274217000003",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "3800",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211233/d-orsogna-family-classic-ham-leg-shaved-97-fat-free",
+    "name": "D'Orsogna Family Classic Ham Leg Shaved 97% Fat Free 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211233.jpg",
+    "source_id": "Woolworths - 211233",
+    "barcode": "9300767095150",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211237/d-orsogna-family-classic-ham-old-english-97-ff-shaved",
+    "name": "D'Orsogna Family Classic Ham Old English 97% Ff Shaved 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211237.jpg",
+    "source_id": "Woolworths - 211237",
+    "barcode": "9300767095167",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48586/d-orsogna-hungarian-salami-hot-shaved-from-the-deli",
+    "name": "D'Orsogna Hungarian Salami Hot Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048586.jpg",
+    "source_id": "Woolworths - 48586",
+    "barcode": "0271293000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312277/d-orsogna-hungarian-salami-hot-sliced-from-the-deli",
+    "name": "D'Orsogna Hungarian Salami Hot Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/312277.jpg",
+    "source_id": "Woolworths - 312277",
+    "barcode": "0270280000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48784/d-orsogna-hungarian-salami-mild-shaved-from-the-deli",
+    "name": "D'Orsogna Hungarian Salami Mild Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048784.jpg",
+    "source_id": "Woolworths - 48784",
+    "barcode": "0271291000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312274/d-orsogna-hungarian-salami-mild-sliced-from-the-deli",
+    "name": "D'Orsogna Hungarian Salami Mild Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/312274.jpg",
+    "source_id": "Woolworths - 312274",
+    "barcode": "0270228000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247870/the-british-sausage-co-smoked-ham",
+    "name": "The British Sausage Co Smoked Ham 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247870.jpg",
+    "source_id": "Woolworths - 247870",
+    "barcode": "9321941006632",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249074/the-british-sausage-co-unsmoked-wiltshire-style-leg-ham",
+    "name": "The British Sausage Co Unsmoked Wiltshire Style Leg Ham 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249074.jpg",
+    "source_id": "Woolworths - 249074",
+    "barcode": "9321941006649",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399714/adelaide-hills-mild-presswurst-sliced-from-the-deli",
+    "name": "Adelaide Hills Mild Presswurst Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/399714.jpg",
+    "source_id": "Woolworths - 399714",
+    "barcode": "0272613000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2600",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103480/barossa-fine-foods-australian-gypsy-ham-shaved-from-the-deli",
+    "name": "Barossa Fine Foods Australian Gypsy Ham Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103480.jpg",
+    "source_id": "Woolworths - 103480",
+    "barcode": "0270743000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "3400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "3400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12605/chapmans-bung-fritz-from-the-deli",
+    "name": "Chapmans Chapmans Bung Fritz From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/012605.jpg",
+    "source_id": "Woolworths - 12605",
+    "barcode": "0271054000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1220",
+        "price_per_unit": "1220",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972823/barossa-fine-foods-australian-gypsy-ham-sliced-from-the-deli",
+    "name": "Barossa Fine Foods Australian Gypsy Ham Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972823.jpg",
+    "source_id": "Woolworths - 972823",
+    "barcode": "0273338000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "3400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "3400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23856/barossa-fine-foods-butchers-style-ham",
+    "name": "Barossa Fine Foods Butchers Style Ham per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/023856.jpg",
+    "source_id": "Woolworths - 23856",
+    "barcode": "0274976000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/746376/d-orsogna-plain-streaky-bacon-from-the-deli",
+    "name": "D'Orsogna Plain Streaky Bacon From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/746376.jpg",
+    "source_id": "Woolworths - 746376",
+    "barcode": "0276620000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2300",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30845/k-r-castlemaine-fritz-smiley-loaf-sliced-smiley-loaf",
+    "name": "K R Castlemaine Fritz Smiley Loaf Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/030845.jpg",
+    "source_id": "Woolworths - 30845",
+    "barcode": "0274865000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67560/montecatini-hot-casalingo-shaved-from-the-deli",
+    "name": "Montecatini Hot Casalingo Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067560.jpg",
+    "source_id": "Woolworths - 67560",
+    "barcode": "0274037000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/925730/montecatini-hot-casalingo-sliced-from-the-deli",
+    "name": "Montecatini Hot Casalingo Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/925730.jpg",
+    "source_id": "Woolworths - 925730",
+    "barcode": "0272231000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67559/montecatini-mild-casalingo-shaved-from-the-deli",
+    "name": "Montecatini Mild Casalingo Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067559.jpg",
+    "source_id": "Woolworths - 67559",
+    "barcode": "0273827000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/929751/montecatini-mild-casalingo-sliced-from-the-deli",
+    "name": "Montecatini Mild Casalingo Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/929751.jpg",
+    "source_id": "Woolworths - 929751",
+    "barcode": "0279744000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67545/montecatini-salami-with-semi-dried-tomato-black-olive-shaved-from-deli",
+    "name": "Montecatini Salami With Semi Dried Tomato & Black Olive Shaved From Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067545.jpg",
+    "source_id": "Woolworths - 67545",
+    "barcode": "0273502000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935494/montecatini-salami-with-semi-dried-tomato-black-olive-sliced-from-deli",
+    "name": "Montecatini Salami With Semi Dried Tomato & Black Olive Sliced From Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935494.jpg",
+    "source_id": "Woolworths - 935494",
+    "barcode": "0272755000004",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67491/montecatini-truffle-salami-shaved-from-the-deli",
+    "name": "Montecatini Truffle Salami Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067491.jpg",
+    "source_id": "Woolworths - 67491",
+    "barcode": "0273441000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935623/montecatini-truffle-salami-sliced-from-the-deli",
+    "name": "Montecatini Truffle Salami Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935623.jpg",
+    "source_id": "Woolworths - 935623",
+    "barcode": "0272345000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4000",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972827/puopolo-artisan-salumi-finocchiona-mild-fennel-salami-from-the-deli",
+    "name": "Puopolo Artisan Salumi Finocchiona Mild Fennel Salami From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972827.jpg",
+    "source_id": "Woolworths - 972827",
+    "barcode": "0273404000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103479/puopolo-artisan-salumi-mild-fennel-salami-shaved-from-the-deli",
+    "name": "Puopolo Artisan Salumi Mild Fennel Salami Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103479.jpg",
+    "source_id": "Woolworths - 103479",
+    "barcode": "0270246000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103451/puopolo-artisan-salumi-mild-salami-shaved-from-the-deli",
+    "name": "Puopolo Artisan Salumi Mild Salami Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103451.jpg",
+    "source_id": "Woolworths - 103451",
+    "barcode": "0270067000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972824/puopolo-artisan-salumi-mild-salami-sliced-from-the-deli",
+    "name": "Puopolo Artisan Salumi Mild Salami Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972824.jpg",
+    "source_id": "Woolworths - 972824",
+    "barcode": "0273348000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103453/puopolo-artisan-salumi-sopressata-hot-salami-shaved-from-the-deli",
+    "name": "Puopolo Artisan Salumi Sopressata Hot Salami Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103453.jpg",
+    "source_id": "Woolworths - 103453",
+    "barcode": "0270182000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972826/puopolo-artisan-salumi-sopressata-hot-salami-sliced-from-the-deli",
+    "name": "Puopolo Artisan Salumi Sopressata Hot Salami Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972826.jpg",
+    "source_id": "Woolworths - 972826",
+    "barcode": "0273365000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204617/bertocchi-mortadella-green-olives-sliced-from-the-deli",
+    "name": "Bertocchi Mortadella Green Olives Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204617.jpg",
+    "source_id": "Woolworths - 204617",
+    "barcode": "0270389000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227743/bertocchi-mortadella-plain-shaved-from-the-deli",
+    "name": "Bertocchi Mortadella Plain Shaved From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227743.jpg",
+    "source_id": "Woolworths - 227743",
+    "barcode": "0271359000007",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14812/bertocchi-mortadella-plain-sliced-from-the-deli",
+    "name": "Bertocchi Mortadella Plain Sliced From The Deli Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/014812.jpg",
+    "source_id": "Woolworths - 14812",
+    "barcode": "0273105000002",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67299/moira-mac-s-chicken-breast-supreme-shaved-from-the-deli",
+    "name": "Moira Mac's Chicken Breast Supreme Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067299.jpg",
+    "source_id": "Woolworths - 67299",
+    "barcode": "0270057000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83258/pandani-premium-boneless-leg-ham-shaved-from-the-deli",
+    "name": "Pandani Premium Boneless Leg Ham Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083258.jpg",
+    "source_id": "Woolworths - 83258",
+    "barcode": "0271245000005",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": null,
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67297/riverland-ham-shaved-from-the-deli",
+    "name": "Riverland Ham Shaved From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067297.jpg",
+    "source_id": "Woolworths - 67297",
+    "barcode": "0270013000001",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953882/pandani-premium-boneless-leg-ham-sliced-from-the-deli",
+    "name": "Pandani Premium Boneless Leg Ham Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/953882.jpg",
+    "source_id": "Woolworths - 953882",
+    "barcode": "0271950000000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/939242/riverland-ham-sliced-from-the-deli",
+    "name": "Riverland Ham Sliced From The Deli Per kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/939242.jpg",
+    "source_id": "Woolworths - 939242",
+    "barcode": "0272385000009",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/801197/from-the-deli-beretta-italian-prosciutto-di-parma-freshly-sliced",
+    "name": "From the Deli Beretta Italian Prosciutto Di Parma Freshly Sliced Per Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/801197.jpg",
+    "source_id": "Woolworths - 801197",
+    "barcode": "0273970000008",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "7000",
+        "price_per_unit": "7000",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

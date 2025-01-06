@@ -1,0 +1,890 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/49156/berri-quelch-fruit-sticks-ice-blocks",
+    "name": "Berri Quelch Fruit Sticks Ice Blocks 24x70ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/049156.jpg",
+    "source_id": "Woolworths - 49156",
+    "barcode": "9310113902704",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318579/gerard-family-foods-freezy-pops",
+    "name": "Gerard Family Foods Freezy Pops 70ml x 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318579.jpg",
+    "source_id": "Woolworths - 318579",
+    "barcode": "9311106999947",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "27",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319995/gerard-family-foods-freezy-snaps",
+    "name": "Gerard Family Foods Freezy Snaps 75ml x 10 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/319995.jpg",
+    "source_id": "Woolworths - 319995",
+    "barcode": "9311106999961",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180827/slush-puppie-blue-raspberry",
+    "name": "Slush Puppie Blue Raspberry 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180827.jpg",
+    "source_id": "Woolworths - 180827",
+    "barcode": "9329935000000",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/241187/slush-puppie-cola-flavoured-slushy",
+    "name": "Slush Puppie Cola Flavoured Slushy 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/241187.jpg",
+    "source_id": "Woolworths - 241187",
+    "barcode": "9329935000048",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180476/slush-puppie-grape-flavoured",
+    "name": "Slush Puppie Grape Flavoured 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180476.jpg",
+    "source_id": "Woolworths - 180476",
+    "barcode": "9329935000017",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/21662/zooper-dooper-8-cosmic-flavours",
+    "name": "Zooper Dooper 8 Cosmic Flavours 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/021662.jpg",
+    "source_id": "Woolworths - 21662",
+    "barcode": "9300648340300",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180105/zooper-dooper-no-sugar",
+    "name": "Zooper Dooper No Sugar 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180105.jpg",
+    "source_id": "Woolworths - 180105",
+    "barcode": "9310113903817",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252676/berri-quelch-fruit-combos-ice-blocks",
+    "name": "Berri Quelch Fruit Combos Ice Blocks 24x70ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252676.jpg",
+    "source_id": "Woolworths - 252676",
+    "barcode": "9310113902698",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385253/famous-soda-pops",
+    "name": "Famous Soda Pops 12 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/385253.jpg",
+    "source_id": "Woolworths - 385253",
+    "barcode": "9356745000340",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919538/gerard-family-foods-freezy-mocktail",
+    "name": "Gerard Family Foods Freezy Mocktail 70mL x 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/919538.jpg",
+    "source_id": "Woolworths - 919538",
+    "barcode": "9311106999800",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333875/sun-lolly-lemon",
+    "name": "Sun Lolly Lemon 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/333875.jpg",
+    "source_id": "Woolworths - 333875",
+    "barcode": "5775345855275",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/334187/sun-lolly-mango",
+    "name": "Sun Lolly Mango 8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/334187.jpg",
+    "source_id": "Woolworths - 334187",
+    "barcode": "5775345200549",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "1150",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/947800/swizzels-love-hearts-sherbet-flavour-slush-pouch",
+    "name": "Swizzels Love Hearts Sherbet Flavour Slush Pouch 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/947800.jpg",
+    "source_id": "Woolworths - 947800",
+    "barcode": "9310974015308",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/965179/swizzels-slush-pouch-sour-blackcurrant",
+    "name": "Swizzels Slush Pouch Sour Blackcurrant 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/965179.jpg",
+    "source_id": "Woolworths - 965179",
+    "barcode": "9310974015322",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/920646/gerard-family-foods-freezy-tropicals",
+    "name": "Gerard Family Foods Freezy Tropicals 12 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/920646.jpg",
+    "source_id": "Woolworths - 920646",
+    "barcode": "9311106999817",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/179175/zooper-dooper-ice-blocks-lemonade",
+    "name": "Zooper Dooper Ice Blocks Lemonade 24 x 70ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/179175.jpg",
+    "source_id": "Woolworths - 179175",
+    "barcode": "9310113904852",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/511124/zooper-dooper-ice-blocks-sourz",
+    "name": "Zooper Dooper Ice Blocks Sourz 24x70ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/511124.jpg",
+    "source_id": "Woolworths - 511124",
+    "barcode": "9310113902384",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

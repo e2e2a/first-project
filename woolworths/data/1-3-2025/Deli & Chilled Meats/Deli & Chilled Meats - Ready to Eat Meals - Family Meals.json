@@ -1,0 +1,1484 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524913/classic-cauliflower-cheese-bake-family-meal",
+    "name": "Classic Cauliflower Cheese Bake Family Meal 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/524913.jpg",
+    "source_id": "Woolworths - 524913",
+    "barcode": "781005646232",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/506581/chicken-parmigiana-with-mash-veg-family-meal",
+    "name": "Chicken Parmigiana With Mash & Veg Family Meal 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/506581.jpg",
+    "source_id": "Woolworths - 506581",
+    "barcode": "781005646126",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524935/chicken-schnitzel-mash-family-meal",
+    "name": "Chicken Schnitzel & Mash Family Meal 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/524935.jpg",
+    "source_id": "Woolworths - 524935",
+    "barcode": "781005646119",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/535318/chinese-fried-rice-family-meal",
+    "name": "Chinese Fried Rice Family Meal 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/535318.jpg",
+    "source_id": "Woolworths - 535318",
+    "barcode": "781005646218",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907859/crispy-chicken-katsu-curry-with-rice",
+    "name": "Crispy Chicken Katsu Curry With Rice 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907859.jpg",
+    "source_id": "Woolworths - 907859",
+    "barcode": "781005646409",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194648/woolworths-beef-lasagne-null",
+    "name": "Woolworths Beef Lasagne 2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/194648.jpg",
+    "source_id": "Woolworths - 194648",
+    "barcode": "9313475006189",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58383/fast-fuel-herb-roasted-chicken-with-mash-veg",
+    "name": "Herb Roasted Chicken With Mash & Veg 1.7kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058383.jpg",
+    "source_id": "Woolworths - 58383",
+    "barcode": "781005646546",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2500",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "147",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907862/honey-chicken-with-vegetable-chow-mein-noodles",
+    "name": "Honey Chicken With Vegetable Chow Mein Noodles 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907862.jpg",
+    "source_id": "Woolworths - 907862",
+    "barcode": "781005646423",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/506569/loaded-jacket-potatoes-family-meal",
+    "name": "Loaded Jacket Potatoes Family Meal 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/506569.jpg",
+    "source_id": "Woolworths - 506569",
+    "barcode": "781005646171",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/521129/mexican-chicken-fajita-tray-bake-family-meal",
+    "name": "Mexican Chicken Fajita Tray Bake Family Meal 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/521129.jpg",
+    "source_id": "Woolworths - 521129",
+    "barcode": "781005646164",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706843/pasta-master-beef-lasagne-null",
+    "name": "Pasta Master Beef Lasagne 1.3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/706843.jpg",
+    "source_id": "Woolworths - 706843",
+    "barcode": "9319946006443",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "1308",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907534/portuguese-chicken-with-spiced-rice-corn",
+    "name": "Portuguese Chicken With Spiced Rice & Corn 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907534.jpg",
+    "source_id": "Woolworths - 907534",
+    "barcode": "781005646393",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/507626/roast-chicken-dinner-with-roast-veg-family-meal",
+    "name": "Roast Chicken Dinner With Roast Veg Family Meal 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/507626.jpg",
+    "source_id": "Woolworths - 507626",
+    "barcode": "781005646133",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907649/slow-cooked-bbq-brisket-with-macaroni-cheese-corn-cob",
+    "name": "Slow Cooked BBQ Brisket With Macaroni Cheese & Corn Cob 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907649.jpg",
+    "source_id": "Woolworths - 907649",
+    "barcode": "781005646386",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317090/steggles-chicken-breast-enchilada-mexican-style",
+    "name": "Steggles Chicken Breast Enchilada Mexican Style 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/317090.jpg",
+    "source_id": "Woolworths - 317090",
+    "barcode": "9310213844126",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908422/sweet-sour-pork-with-egg-fried-rice",
+    "name": "Sweet & Sour Pork With Egg Fried Rice 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908422.jpg",
+    "source_id": "Woolworths - 908422",
+    "barcode": "781005646379",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908424/tandoori-chicken-with-kashmiri-rice",
+    "name": "Tandoori Chicken With Kashmiri Rice 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908424.jpg",
+    "source_id": "Woolworths - 908424",
+    "barcode": "781005646416",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134238/woolworths-angus-beef-pork-meatball-rigatoni-chilled-meal",
+    "name": "Woolworths Angus Beef & Pork Meatball Rigatoni Chilled Meal 1.3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/134238.jpg",
+    "source_id": "Woolworths - 134238",
+    "barcode": "9339687224326",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/824696/woolworths-beef-casserole-chilled-meal",
+    "name": "Woolworths Beef Casserole Chilled Meal 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/824696.jpg",
+    "source_id": "Woolworths - 824696",
+    "barcode": "9339687081950",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211612/woolworths-butter-chicken",
+    "name": "Woolworths Butter Chicken 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211612.jpg",
+    "source_id": "Woolworths - 211612",
+    "barcode": "9339687301676",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211613/woolworths-chilli-con-carne",
+    "name": "Woolworths Chilli Con Carne 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/211613.jpg",
+    "source_id": "Woolworths - 211613",
+    "barcode": "9339687301683",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/127095/woolworths-classic-butter-chicken-chilled-meal",
+    "name": "Woolworths Classic Butter Chicken Chilled Meal 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/127095.jpg",
+    "source_id": "Woolworths - 127095",
+    "barcode": "9339687216413",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "890",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "890",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "890",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306330/woolworths-curried-sausages",
+    "name": "Woolworths Curried Sausages 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306330.jpg",
+    "source_id": "Woolworths - 306330",
+    "barcode": "9339687344451",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/681569/woolworths-family-classics-cottage-pie-null",
+    "name": "Woolworths Family Classics Cottage Pie 1.1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/681569.jpg",
+    "source_id": "Woolworths - 681569",
+    "barcode": "9339687040377",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/505747/woolworths-lamb-moussaka-with-panko-herb-crumb",
+    "name": "Woolworths Lamb Moussaka With Panko Herb Crumb 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/505747.jpg",
+    "source_id": "Woolworths - 505747",
+    "barcode": "9339687362882",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161980/woolworths-macaroni-cheese-chilled-meal",
+    "name": "Woolworths Macaroni & Cheese Chilled Meal 1.1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/161980.jpg",
+    "source_id": "Woolworths - 161980",
+    "barcode": "9339687264025",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827226/woolworths-ricotta-spinach-cannelloni-chilled-meal",
+    "name": "Woolworths Ricotta & Spinach Cannelloni Chilled Meal 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/827226.jpg",
+    "source_id": "Woolworths - 827226",
+    "barcode": "9300633718435",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1420",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134251/woolworths-roasted-garlic-mash-lamb-shepherd-s-pie",
+    "name": "Woolworths Roasted Garlic Mash Lamb Shepherd's Pie 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/134251.jpg",
+    "source_id": "Woolworths - 134251",
+    "barcode": "9339687224272",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827474/woolworths-rosemary-lamb-shanks-chilled-meal",
+    "name": "Woolworths Rosemary Lamb Shanks Chilled Meal 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/827474.jpg",
+    "source_id": "Woolworths - 827474",
+    "barcode": "9300633716998",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161994/woolworths-slow-cooked-beef-ragu-lasagne-null",
+    "name": "Woolworths Slow Cooked Beef Ragu Lasagne 1.3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/161994.jpg",
+    "source_id": "Woolworths - 161994",
+    "barcode": "9339687264056",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/525887/chicken-tomato-pesto-pasta-bake-family-meal",
+    "name": "Chicken Tomato & Pesto Pasta Bake Family Meal 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/525887.jpg",
+    "source_id": "Woolworths - 525887",
+    "barcode": "9319946009000",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524926/the-kitchen-meat-lovers-pasta-bake-family-meal",
+    "name": "Meat Lovers Pasta Bake Family Meal 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/524926.jpg",
+    "source_id": "Woolworths - 524926",
+    "barcode": "9319946009017",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/547226/pasta-master-beef-vegetable-pasta-bake",
+    "name": "Pasta Master Beef & Vegetable Pasta Bake 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/547226.jpg",
+    "source_id": "Woolworths - 547226",
+    "barcode": "9319946008744",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119829/pasta-master-chicken-bacon-bake-chilled-meal",
+    "name": "Pasta Master Chicken & Bacon Bake Chilled Meal 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/119829.jpg",
+    "source_id": "Woolworths - 119829",
+    "barcode": "9319946006511",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503981/spanish-paella-bake-family-meal",
+    "name": "Spanish Paella Bake Family Meal 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/503981.jpg",
+    "source_id": "Woolworths - 503981",
+    "barcode": "9319946008973",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161993/woolworths-slow-cooked-beef-ragu-lasagne-null",
+    "name": "Woolworths Slow Cooked Beef Ragu Lasagne 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/161993.jpg",
+    "source_id": "Woolworths - 161993",
+    "barcode": "9339687264049",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2071",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2071",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2071",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2071",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2071",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/652060/woolworths-spaghetti-bolognese-bolognese-chilled-meal",
+    "name": "Woolworths Spaghetti Bolognese Bolognese Chilled Meal 1.1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/652060.jpg",
+    "source_id": "Woolworths - 652060",
+    "barcode": "9300633686437",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/502586/woolworths-vegetable-lasagne-topped-with-ricotta-bechamel",
+    "name": "Woolworths Vegetable Lasagne Topped With Ricotta Bechamel 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/502586.jpg",
+    "source_id": "Woolworths - 502586",
+    "barcode": "9339687362868",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "207",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/601940/latina-fresh-ready-meal-angus-beef-veg-lasagne-chilled-meal",
+    "name": "Latina Fresh Ready Meal Angus Beef & Veg Lasagne Chilled Meal 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/601940.jpg",
+    "source_id": "Woolworths - 601940",
+    "barcode": "9312353005245",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1995",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1995",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116781/mt-barker-indian-butter-chicken-chilled-meal",
+    "name": "Mt Barker Indian Butter Chicken Chilled Meal 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/116781.jpg",
+    "source_id": "Woolworths - 116781",
+    "barcode": "9334864004234",
+    "category_id": "1_3151F6F",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

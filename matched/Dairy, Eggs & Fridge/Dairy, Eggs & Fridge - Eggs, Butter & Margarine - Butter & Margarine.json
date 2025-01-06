@@ -1,0 +1,5344 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bertolli-spread-with-butter-450g-5407399",
+    "name": "Bertolli Spread With Butter | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5407399.jpg&w=640&q=90",
+    "barcode": "9354237000694",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222133/bertolli-with-butter-with-a-pinch-of-sea-salt",
+    "name": "Bertolli With Butter With A Pinch Of Sea Salt 450g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/222133.jpg",
+    "barcode": "9354237000694",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-unsalted-pat-butter-250g-1985917",
+    "name": "Devondale Unsalted Pat Butter | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1985917.jpg&w=640&q=90",
+    "barcode": "9300639605012",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/652560/devondale-butter-block-unsalted-butter",
+    "name": "Devondale Butter Block Unsalted 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/652560.jpg",
+    "barcode": "9300639605012",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "212",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-dairy-soft-dy-blend-tub-regular-500g-5017500",
+    "name": "Devondale Dairy Soft DY Blend Tub Regular | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5017500.jpg&w=640&q=90",
+    "barcode": "9300639100012",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48462/devondale-dairy-soft-butter-blend",
+    "name": "Devondale Dairy Soft Butter Blend 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048462.jpg",
+    "barcode": "9300639100012",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-salt-reduced-butter-500g-5017496",
+    "name": "Devondale Salt Reduced Butter | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5017496.jpg&w=640&q=90",
+    "barcode": "9300639100036",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48463/devondale-dairy-soft-salt-reduced-butter-blend",
+    "name": "Devondale Dairy Soft Salt Reduced Butter Blend 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048463.jpg",
+    "barcode": "9300639100036",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-regular-butter-blend-500g-5047613",
+    "name": "Devondale Regular Butter Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5047613.jpg&w=640&q=90",
+    "barcode": "9300639900032",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15791/devondale-extra-soft-butter-blend",
+    "name": "Devondale Extra Soft Butter Blend 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/015791.jpg",
+    "barcode": "9300639900032",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-extra-soft-butter-less-fat-750g-3512053",
+    "name": "Devondale Extra Soft Butter Less Fat | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3512053.jpg&w=640&q=90",
+    "barcode": "9300639608150",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/512321/devondale-extra-soft-butter-blend",
+    "name": "Devondale Extra Soft Butter Blend 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/512321.jpg",
+    "barcode": "9300639608150",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "133",
+        "price_per_unit": "995",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-margarine-spread-light-500g-87643",
+    "name": "Flora Margarine Spread Light | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F87643.jpg&w=640&q=90",
+    "barcode": "9354237000373",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47649/flora-margarine-spread-light-margarine",
+    "name": "Flora Margarine Spread Light 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/047649.jpg",
+    "barcode": "9354237000373",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-proactiv-margarine-spread-light-500g-9410760",
+    "name": "Flora ProActiv Margarine Spread Light | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9410760.jpg&w=640&q=90",
+    "barcode": "9354237000083",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "216",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194348/flora-proactiv-cholesterol-lowering-margarine-spread-light",
+    "name": "Flora Proactiv Cholesterol Lowering Margarine Spread Light 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/194348.jpg",
+    "barcode": "9354237000083",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-proactiv-margarine-spread-original-250g-8146940",
+    "name": "Flora ProActiv Margarine Spread Original | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8146940.jpg&w=640&q=90",
+    "barcode": "9354237000021",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "621",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67594/flora-proactiv-cholesterol-lowering-margarine-spread-original",
+    "name": "Flora Proactiv Cholesterol Lowering Margarine Spread Original 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067594.jpg",
+    "barcode": "9354237000021",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-proactiv-margarine-spread-buttery-500g-8085029",
+    "name": "Flora ProActiv Margarine Spread Buttery | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8085029.jpg&w=640&q=90",
+    "barcode": "9354237000069",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "216",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370962/flora-proactiv-margarine-spread-buttery",
+    "name": "Flora Proactiv Margarine Spread Buttery 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/370962.jpg",
+    "barcode": "9354237000069",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-pro-activ-margarine-spread-original-500g-8840843",
+    "name": "Flora Pro Activ Margarine Spread Original | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8840843.jpg&w=640&q=90",
+    "barcode": "9354237000038",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "216",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140985/flora-proactiv-margarine-spread-original",
+    "name": "Flora Proactiv Margarine Spread Original 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140985.jpg",
+    "barcode": "9354237000038",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-slightly-salted-400g-6892143",
+    "name": "Lurpak Butter Slightly Salted | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6892143.jpg&w=640&q=90",
+    "barcode": "5740900403734",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149328/lurpak-butter-block-slightly-salted",
+    "name": "Lurpak Butter Block Slightly Salted 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/149328.jpg",
+    "barcode": "5740900403734",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-lighter-spreadable-slightly-salted-250g-7175363",
+    "name": "Lurpak Butter Lighter Spreadable Slightly Salted | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7175363.jpg&w=640&q=90",
+    "barcode": "5740900400894",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/281853/lurpak-butter-lighter-spreadable-slightly-salted",
+    "name": "Lurpak Butter Lighter Spreadable Slightly Salted 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/281853.jpg",
+    "barcode": "5740900400894",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-slightly-salted-250g-5394129",
+    "name": "Lurpak Butter Slightly Salted | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5394129.jpg&w=640&q=90",
+    "barcode": "5740900400092",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223867/lurpak-butter-slightly-salted-butter",
+    "name": "Lurpak Butter Slightly Salted 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/223867.jpg",
+    "barcode": "5740900400092",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-spreadable-slightly-salted-400g-5376659",
+    "name": "Lurpak Butter Spreadable Slightly Salted | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5376659.jpg&w=640&q=90",
+    "barcode": "5740900403604",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/87702/lurpak-butter-spreadable",
+    "name": "Lurpak Butter Spreadable Slightly Salted 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/087702.jpg",
+    "barcode": "5740900403604",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-unsalted-250g-7174906",
+    "name": "Lurpak Butter Unsalted | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7174906.jpg&w=640&q=90",
+    "barcode": "5740900400108",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223868/lurpak-butter-unsalted-butter",
+    "name": "Lurpak Butter Unsalted 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/223868.jpg",
+    "barcode": "5740900400108",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-butter-soft-salt-reduced-spreadable-butter-375g-6854745",
+    "name": "Mainland Butter Soft Salt Reduced Spreadable Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6854745.jpg&w=640&q=90",
+    "barcode": "9415007002079",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57222/mainland-buttersoft-pure-butter-tub-salt-reduced",
+    "name": "Mainland Buttersoft Pure  Butter Tub Salt Reduced 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/057222.jpg",
+    "barcode": "9415007002079",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-butter-soft-salted-spreadable-butter-375g-6854734",
+    "name": "Mainland Butter Soft Salted Spreadable Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6854734.jpg&w=640&q=90",
+    "barcode": "9415007002062",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57182/mainland-buttersoft-pure-butter-tub-salted",
+    "name": "Mainland Buttersoft Pure  Butter Tub Salted 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/057182.jpg",
+    "barcode": "9415007002062",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-garlic-and-herb-spreadable-blend-140g-6820379",
+    "name": "Mainland Garlic & Herb Spreadable Blend | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6820379.jpg&w=640&q=90",
+    "barcode": "9310053107900",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290261/mainland-garlic-herbs-spread-tub",
+    "name": "Mainland Garlic & Herbs Spread Tub 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290261.jpg",
+    "barcode": "9310053107900",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "286",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nuttelex-buttery-spread-500g-3056920",
+    "name": "Nuttelex Buttery Spread | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3056920.jpg&w=640&q=90",
+    "barcode": "9310421000093",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899765/nuttelex-buttery-table-spread",
+    "name": "Nuttelex Buttery Table Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/899765.jpg",
+    "barcode": "9310421000093",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nuttelex-lite-spread-tub-500g-4844820",
+    "name": "Nuttelex Lite Spread Tub | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4844820.jpg&w=640&q=90",
+    "barcode": "9310421000123",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233135/nuttelex-lite-margarine-spread",
+    "name": "Nuttelex Lite Margarine Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233135.jpg",
+    "barcode": "9310421000123",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nuttelex-olive-spread-500g-5384679",
+    "name": "Nuttelex Olive Spread | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5384679.jpg&w=640&q=90",
+    "barcode": "9310421000154",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "99",
+        "price_per_unit": "495",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320268/nuttelex-olive-table-spread",
+    "name": "Nuttelex Olive Table Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/320268.jpg",
+    "barcode": "9310421000154",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "96",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nuttelex-original-spread-500g-209161",
+    "name": "Nuttelex Original Spread | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F209161.jpg&w=640&q=90",
+    "barcode": "9310421000017",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41285/nuttelex-polyunsaturated-margarine-spread",
+    "name": "Nuttelex Polyunsaturated Margarine Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041285.jpg",
+    "barcode": "9310421000017",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "104",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/olive-grove-classic-olive-oil-margarine-tub-500g-5448589",
+    "name": "Olive Grove Classic Olive Oil Margarine Tub | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5448589.jpg&w=640&q=90",
+    "barcode": "9310047070234",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15439/olive-grove-classic-spread",
+    "name": "Olive Grove Classic Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/015439.jpg",
+    "barcode": "9310047070234",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/supafry-solid-cooking-oil-500g-189494",
+    "name": "Supafry Solid Cooking Oil | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F189494.jpg&w=640&q=90",
+    "barcode": "9310393131153",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48023/supafry-solid-oil",
+    "name": "Supafry Solid Oil 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048023.jpg",
+    "barcode": "9310393131153",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-traditional-spreadable-butter-blend-500g-7716500",
+    "name": "Western Star Traditional Spreadable Butter Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7716500.jpg&w=640&q=90",
+    "barcode": "9310052122515",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/69756/western-star-original-spreadable-butter-blend-tub",
+    "name": "Western Star Original Spreadable Butter Blend Tub 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/069756.jpg",
+    "barcode": "9310052122515",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-original-spreadable-butter-blend-375g-7716850",
+    "name": "Western Star Original Spreadable Butter Blend | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7716850.jpg&w=640&q=90",
+    "barcode": "9310052122539",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31727/western-star-original-spreadable-butter-blend-tub",
+    "name": "Western Star Original Spreadable Butter Blend Tub 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/031727.jpg",
+    "barcode": "9310052122539",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-original-salted-butter-250g-210590",
+    "name": "Western Star Original Salted Butter | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F210590.jpg&w=640&q=90",
+    "barcode": "9310052181123",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48025/western-star-salted-butter-block-butter-block",
+    "name": "Western Star Salted Butter Block 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048025.jpg",
+    "barcode": "9310052181123",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-original-salted-butter-pat-500g-210604",
+    "name": "Western Star Original Salted Butter Pat | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F210604.jpg&w=640&q=90",
+    "barcode": "9310052163129",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41287/western-star-salted-butter-block-butter-block",
+    "name": "Western Star Salted Butter Block 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041287.jpg",
+    "barcode": "9310052163129",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-spreadable-blend-regular-salt-reduced-375g-7716827",
+    "name": "Western Star Spreadable Blend Regular Salt Reduced | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7716827.jpg&w=640&q=90",
+    "barcode": "9310052122546",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290820/western-star-soft-n-less-salt-butter-spreadable",
+    "name": "Western Star Soft 'N' Less Salt Butter Spreadable 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290820.jpg",
+    "barcode": "9310052122546",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-spreadable-blend-reduced-salt-500g-7716113",
+    "name": "Western Star Spreadable Blend Reduced Salt | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7716113.jpg&w=640&q=90",
+    "barcode": "9310052122522",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/69759/western-star-spreadable-butter-blend-tub-soft-n-less-salt",
+    "name": "Western Star Spreadable Butter Blend Tub Soft 'n' Less Salt 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/069759.jpg",
+    "barcode": "9310052122522",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-supersoft-spreadable-butter-blend-500g-9615296",
+    "name": "Western Star Supersoft Spreadable Butter Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9615296.jpg&w=640&q=90",
+    "barcode": "9310052123239",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/199420/western-star-spreadable-butter-blend-tub-supersoft",
+    "name": "Western Star Spreadable Butter Blend Tub Supersoft 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/199420.jpg",
+    "barcode": "9310052123239",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-unsalted-butter-250g-7739731",
+    "name": "Western Star Unsalted Butter | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7739731.jpg&w=640&q=90",
+    "barcode": "9310052120856",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320271/western-star-unsalted-butter-block-unsalted",
+    "name": "Western Star Unsalted Butter Block 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/320271.jpg",
+    "barcode": "9310052120856",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-chef's-choice-unsalted-cultured-butter-pat-250g-190100",
+    "name": "Western Star Chef's Choice Unsalted Cultured Butter Pat | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F190100.jpg&w=640&q=90",
+    "barcode": "9310052251147",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224659/western-star-unsalted-butter-block-chef-s-choice",
+    "name": "Western Star Unsalted Butter Block Chef's Choice 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224659.jpg",
+    "barcode": "9310052251147",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-chef's-choice-unsalted-cultured-butter-500g-93760",
+    "name": "Western Star Chef's Choice Unsalted Cultured Butter | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F93760.jpg&w=640&q=90",
+    "barcode": "9310052263102",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/712251/western-star-unsalted-butter-block-chef-s-choice",
+    "name": "Western Star Unsalted Butter Block Chef's Choice 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/712251.jpg",
+    "barcode": "9310052263102",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/york-foods-lard-250g-2256468",
+    "name": "York Foods Lard | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2256468.jpg&w=640&q=90",
+    "barcode": "9325651000300",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "194",
+        "price_per_unit": "486",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/794705/york-foods-lard",
+    "name": "York Foods Lard 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/794705.jpg",
+    "barcode": "9325651000300",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "194",
+        "price_per_unit": "485",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bertolli-olive-oil-margarine-spread-classic-500g-9643622",
+    "name": "Bertolli Olive Oil Margarine Spread Classic | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9643622.jpg&w=640&q=90",
+    "barcode": "9354237000212",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341120/bertolli-classic-olive-oil-spread-margarine-classic",
+    "name": "Bertolli Classic Olive Oil Spread Margarine Classic 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/341120.jpg",
+    "barcode": "9354237000212",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-margarine-spread-buttery-1kg-3515299",
+    "name": "Flora Margarine Spread Buttery | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3515299.jpg&w=640&q=90",
+    "barcode": "9354237000342",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "79",
+        "price_per_unit": "790",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/762296/flora-margarine-spread-buttery",
+    "name": "Flora Margarine Spread Buttery 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/762296.jpg",
+    "barcode": "9354237000342",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "895",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-proactiv-margarine-spread-buttery-250g-2941156",
+    "name": "Flora ProActiv Margarine Spread Buttery | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2941156.jpg&w=640&q=90",
+    "barcode": "9354237000052",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/580630/flora-proactiv-margarine-buttery",
+    "name": "Flora Proactiv Margarine Buttery 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/580630.jpg",
+    "barcode": "9354237000052",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-unsalted-400g-6892100",
+    "name": "Lurpak Butter Unsalted | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6892100.jpg&w=640&q=90",
+    "barcode": "5740900403727",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/150739/lurpak-butter-unsalted",
+    "name": "Lurpak Butter Unsalted 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/150739.jpg",
+    "barcode": "5740900403727",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-garlic-and-herb-butter-stick-125g-6820266",
+    "name": "Mainland Garlic & Herb Butter Stick | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6820266.jpg&w=640&q=90",
+    "barcode": "9310053106507",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221157/mainland-garlic-herb-butter-block-grass-fed",
+    "name": "Mainland Garlic & Herb Butter Block Grass Fed 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221157.jpg",
+    "barcode": "9310053106507",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-organic-salted-butter-250g-1708076",
+    "name": "Mainland Organic Salted Butter | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1708076.jpg&w=640&q=90",
+    "barcode": "9310053102110",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799120/mainland-organic-butter-block-butter",
+    "name": "Mainland Organic Butter Block 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799120.jpg",
+    "barcode": "9310053102110",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "240",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-organic-spreadable-250g-2458600",
+    "name": "Mainland Organic Spreadable | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2458600.jpg&w=640&q=90",
+    "barcode": "9310053103643",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899791/mainland-organic-spreadable-butter-tub-spreadable-butter",
+    "name": "Mainland Organic Spreadable Butter Tub 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/899791.jpg",
+    "barcode": "9310053103643",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nuttelex-buttery-1kg-4514859",
+    "name": "Nuttelex Buttery | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4514859.jpg&w=640&q=90",
+    "barcode": "9310421000680",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85577/nuttelex-buttery",
+    "name": "Nuttelex Buttery 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/085577.jpg",
+    "barcode": "9310421000680",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "80",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tablelands-reduce-cholesterol-spread-500g-7789048",
+    "name": "Tablelands Reduce Cholesterol Spread | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7789048.jpg&w=640&q=90",
+    "barcode": "9310947004643",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/348995/tablelands-health-smart-reduced-cholesterol-spread",
+    "name": "Tablelands Health Smart Reduced Cholesterol Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/348995.jpg",
+    "barcode": "9310947004643",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "90",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tru-blue-garlic-butter-spread-150g-6801964",
+    "name": "Tru-Blue Garlic Butter Spread | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6801964.jpg&w=640&q=90",
+    "barcode": "9311901100128",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71247/tru-blu-garlic-butter",
+    "name": "Tru Blu Garlic Butter 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/071247.jpg",
+    "barcode": "9311901100128",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "223",
+        "price_per_unit": "335",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/western-star-spreadable-butter-blend-375g-9615263",
+    "name": "Western Star Spreadable Butter Blend | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9615263.jpg&w=640&q=90",
+    "barcode": "9310052123222",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/199418/western-star-spreadable-butter-blend-tub-supersoft",
+    "name": "Western Star Spreadable Butter Blend Tub Supersoft 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/199418.jpg",
+    "barcode": "9310052123222",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-proactiv-margarine-spread-original-750g-1991953",
+    "name": "Flora ProActiv Margarine Spread Original | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1991953.jpg&w=640&q=90",
+    "barcode": "9354237000045",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700518/flora-proactiv-margarine-original",
+    "name": "Flora Proactiv Margarine Original 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700518.jpg",
+    "barcode": "9354237000045",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/meadow-lea-original-margarine-spread-1kg-224267",
+    "name": "Meadow Lea Original Margarine Spread | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F224267.jpg&w=640&q=90",
+    "barcode": "9310047010513",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "67",
+        "price_per_unit": "665",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744831/meadowlea-original-spread-original",
+    "name": "Meadowlea Original Spread Original 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/744831.jpg",
+    "barcode": "9310047010513",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "59",
+        "price_per_unit": "590",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/duck-river-butter-pat-250g-323203",
+    "name": "Duck River Butter Pat | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F323203.jpg&w=640&q=90",
+    "barcode": "9310585001127",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120047/duck-river-salted-butter-block",
+    "name": "Duck River Salted Butter Block 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/120047.jpg",
+    "barcode": "9310585001127",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "208",
+        "price_per_unit": "520",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/duck-river-butter-pat-500g-323236",
+    "name": "Duck River Butter Pat | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F323236.jpg&w=640&q=90",
+    "barcode": "9310585001110",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132045/duck-river-salted-butter-block",
+    "name": "Duck River Salted Butter Block 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/132045.jpg",
+    "barcode": "9310585001110",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/duck-river-soft-butter-blend-tub-500g-5528123",
+    "name": "Duck River Soft Butter Blend Tub | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5528123.jpg&w=640&q=90",
+    "barcode": "9310585001288",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131339/duck-river-soft-spreadable-butter-tub-butter",
+    "name": "Duck River Soft Spreadable Butter Tub 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/131339.jpg",
+    "barcode": "9310585001288",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/duck-river-salt-reduced-butter-blend-tub-500g-5528189",
+    "name": "Duck River Salt Reduced Butter Blend Tub | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5528189.jpg&w=640&q=90",
+    "barcode": "9310585001295",
+    "shop": "coles",
+    "category_id": "1300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131341/duck-river-soft-spreadable-butter-tub-salt-reduced",
+    "name": "Duck River Soft Spreadable Butter Tub Salt Reduced 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/131341.jpg",
+    "barcode": "9310585001295",
+    "shop": "Woolworths",
+    "category_id": "1_6E4F4E4",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

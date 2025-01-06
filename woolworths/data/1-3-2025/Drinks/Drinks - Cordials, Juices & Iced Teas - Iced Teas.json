@@ -1,0 +1,1406 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804703/allpress-espresso-iced-coffee-latte",
+    "name": "Allpress Espresso Iced Coffee Latte 240mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804703.jpg",
+    "source_id": "Woolworths - 804703",
+    "barcode": "9421907274324",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804463/allpress-espresso-iced-coffee-mocha",
+    "name": "Allpress Espresso Iced Coffee Mocha 240mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804463.jpg",
+    "source_id": "Woolworths - 804463",
+    "barcode": "9421907274331",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/69391/arizona-iced-tea-peach",
+    "name": "Arizona Iced Tea Peach 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/069391.jpg",
+    "source_id": "Woolworths - 69391",
+    "barcode": "613008740696",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "460",
+        "price_per_unit": "307",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305223/lipton-ice-tea-lemon-tea-iced-tea-bottle-lemon",
+    "name": "Lipton Ice Tea Lemon Tea Iced Tea Bottle Lemon 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/305223.jpg",
+    "source_id": "Woolworths - 305223",
+    "barcode": "9310021039080",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201688/lipton-ice-tea-lemon-tea-iced-tea-bottle-lemon",
+    "name": "Lipton Ice Tea Lemon Tea Iced Tea Bottle Lemon 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/201688.jpg",
+    "source_id": "Woolworths - 201688",
+    "barcode": "9310021039028",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "570",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221228/lipton-ice-tea-lipton-sugar-free-ice-tea-lemon-iced-tea-bottle",
+    "name": "Lipton Ice Tea Lipton Sugar Free Ice Tea Lemon Iced Tea Bottle 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221228.jpg",
+    "source_id": "Woolworths - 221228",
+    "barcode": "9358155000125",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221517/lipton-ice-tea-no-sugar-lemon-iced-tea-bottle",
+    "name": "Lipton Ice Tea No Sugar Lemon Iced Tea Bottle 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221517.jpg",
+    "source_id": "Woolworths - 221517",
+    "barcode": "9358155000132",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221667/lipton-ice-tea-no-sugar-peach-tea-iced-tea-bottle",
+    "name": "Lipton Ice Tea No Sugar Peach Tea Iced Tea Bottle 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221667.jpg",
+    "source_id": "Woolworths - 221667",
+    "barcode": "9358155000101",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221029/lipton-ice-tea-no-sugar-peach-tea-iced-tea-bottle",
+    "name": "Lipton Ice Tea No Sugar Peach Tea Iced Tea Bottle 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221029.jpg",
+    "source_id": "Woolworths - 221029",
+    "barcode": "9358155000118",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "570",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201689/lipton-ice-tea-peach-tea-iced-tea-bottle-ice-tea",
+    "name": "Lipton Ice Tea Peach Tea Iced Tea Bottle Ice Tea 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/201689.jpg",
+    "source_id": "Woolworths - 201689",
+    "barcode": "9310021039035",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "285",
+        "price_per_unit": "570",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305224/lipton-ice-tea-peach-tea-iced-tea-bottle-peach",
+    "name": "Lipton Ice Tea Peach Tea Iced Tea Bottle Peach 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/305224.jpg",
+    "source_id": "Woolworths - 305224",
+    "barcode": "9310021039097",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884062/lipton-iced-tea-no-sugar-peach-cans",
+    "name": "Lipton Iced Tea No Sugar Peach Cans 240mL x 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/884062.jpg",
+    "source_id": "Woolworths - 884062",
+    "barcode": "9358155000279",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882229/naked-life-iced-tea-sugar-free-peach-peach-flavour",
+    "name": "Naked Life Iced Tea Sugar Free Peach Peach Flavour 330mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/882229.jpg",
+    "source_id": "Woolworths - 882229",
+    "barcode": "9353517001758",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122299/suntory-boss-coffee-iced-latte-cans",
+    "name": "Suntory Boss Coffee Iced Latte Cans 237ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/122299.jpg",
+    "source_id": "Woolworths - 122299",
+    "barcode": "9415767068216",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1345",
+        "price_per_unit": "142",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/275744/t2-tea-iced-tea-peach-amore-raspberry-low-sugar-ice-tea-cans",
+    "name": "T2 Tea Iced Tea Peach Amore Raspberry Low Sugar Ice Tea Cans 240mL x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/275744.jpg",
+    "source_id": "Woolworths - 275744",
+    "barcode": "9358155000170",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "990",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/275313/t2-tea-watermelon-fiesta-iced-herbal-drink-low-sugar-multipack-cans",
+    "name": "T2 Tea Watermelon Fiesta Iced Herbal Drink Low Sugar Multipack Cans 240mL x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/275313.jpg",
+    "source_id": "Woolworths - 275313",
+    "barcode": "9358155000217",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "990",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317793/lipton-ice-tea-mango-tea-iced-tea-bottle-mango",
+    "name": "Lipton Ice Tea Mango Tea Iced Tea Bottle Mango 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/317793.jpg",
+    "source_id": "Woolworths - 317793",
+    "barcode": "9310021041540",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341058/lipton-ice-tea-raspberry-tea-iced-tea-bottle-raspberry",
+    "name": "Lipton Ice Tea Raspberry Tea Iced Tea Bottle Raspberry 1.5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/341058.jpg",
+    "source_id": "Woolworths - 341058",
+    "barcode": "9310021043476",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/887525/lipton-iced-tea-no-sugar-lemon-cans",
+    "name": "Lipton Iced Tea No Sugar Lemon Cans 240mL x 6 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/887525.jpg",
+    "source_id": "Woolworths - 887525",
+    "barcode": "9358155000255",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "694",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306620/quarterpast-apple-iced-black-tea",
+    "name": "Quarterpast Apple Iced Black Tea 360ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306620.jpg",
+    "source_id": "Woolworths - 306620",
+    "barcode": "9420055054109",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307852/quarterpast-iced-tea-concentrate-peach",
+    "name": "Quarterpast Iced Tea Concentrate Peach 360ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307852.jpg",
+    "source_id": "Woolworths - 307852",
+    "barcode": "9420055054123",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222977/suntory-boss-coffee-iced-vanilla-latte-cans",
+    "name": "Suntory Boss Coffee Iced Vanilla Latte Cans 237ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/222977.jpg",
+    "source_id": "Woolworths - 222977",
+    "barcode": "9415767068223",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "1345",
+        "price_per_unit": "1419",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883174/t2-tea-iced-green-tea-very-berry-blossom",
+    "name": "T2 Tea Iced Green Tea Very Berry Blossom 240ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/883174.jpg",
+    "source_id": "Woolworths - 883174",
+    "barcode": "9358155000231",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "990",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1042",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804305/allpress-espresso-iced-coffee-black",
+    "name": "Allpress Espresso Iced Coffee Black 240mL x 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804305.jpg",
+    "source_id": "Woolworths - 804305",
+    "barcode": "9421907274317",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "1510",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387233/boss-iced-double-espresso",
+    "name": "Boss Iced Double Espresso 237ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387233.jpg",
+    "source_id": "Woolworths - 387233",
+    "barcode": "9415767068162",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "1477",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/886907/naked-life-sugar-free-iced-tea-lemon",
+    "name": "Naked Life Sugar Free Iced Tea Lemon 330ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/886907.jpg",
+    "source_id": "Woolworths - 886907",
+    "barcode": "9353517001765",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "606",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122693/suntory-boss-coffee-iced-long-black-cans",
+    "name": "Suntory Boss Coffee Iced Long Black Cans 237ml x4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/122693.jpg",
+    "source_id": "Woolworths - 122693",
+    "barcode": "9415767068209",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

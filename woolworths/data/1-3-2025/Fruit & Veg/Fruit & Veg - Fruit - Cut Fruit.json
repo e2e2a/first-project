@@ -1,0 +1,254 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70435/perfection-fruit-duo-fresh-cut",
+    "name": "Perfection Fruit Duo Fresh Cut 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/070435.jpg",
+    "source_id": "Woolworths - 70435",
+    "barcode": "9339687137961",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73195/woolworths-fresh-pineapple",
+    "name": "Woolworths Fresh Pineapple 200G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073195.jpg",
+    "source_id": "Woolworths - 73195",
+    "barcode": "9339687137992",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/515705/woolworths-fruit-platter",
+    "name": "Woolworths Fruit Platter 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/515705.jpg",
+    "source_id": "Woolworths - 515705",
+    "barcode": "9300633582012",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73197/woolworths-good-to-go-fresh-rockmelon",
+    "name": "Woolworths Good To Go Fresh Rockmelon 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073197.jpg",
+    "source_id": "Woolworths - 73197",
+    "barcode": "9339687138012",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73192/woolworths-good-to-go-seasonal-fruit-salad",
+    "name": "Woolworths Good To Go Seasonal Fruit Salad 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073192.jpg",
+    "source_id": "Woolworths - 73192",
+    "barcode": "9339687137978",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73194/woolworths-good-to-go-seasonal-melon-mix",
+    "name": "Woolworths Good To Go Seasonal Melon Mix 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073194.jpg",
+    "source_id": "Woolworths - 73194",
+    "barcode": "9339687137985",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/73196/woolworths-mixed-fruit-salad-with-passionfruit",
+    "name": "Woolworths Mixed Fruit Salad With Passionfruit 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/073196.jpg",
+    "source_id": "Woolworths - 73196",
+    "barcode": "9339687138005",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/880303/perfection-freshly-cut-watermelon-mint",
+    "name": "Perfection Freshly Cut Watermelon & Mint 220g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/880303.jpg",
+    "source_id": "Woolworths - 880303",
+    "barcode": "9339687139019",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

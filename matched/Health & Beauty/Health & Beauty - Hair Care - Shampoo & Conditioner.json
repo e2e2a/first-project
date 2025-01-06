@@ -1,0 +1,4510 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/alpecin-caffeine-c1-shampoo-250ml-3053422",
+    "name": "Alpecin Caffeine C1 Shampoo | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3053422.jpg&w=640&q=90",
+    "barcode": "4008666210449",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "560",
+        "price_per_unit": "1400",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "560",
+        "price_per_unit": "1400",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927489/alpecin-caffeine-shampoo",
+    "name": "Alpecin Caffeine Shampoo 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/927489.jpg",
+    "barcode": "4008666210449",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-daily-care-conditioner-320ml-2939824",
+    "name": "Dove Daily Care Conditioner | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2939824.jpg&w=640&q=90",
+    "barcode": "8851932374996",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "809",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/608986/dove-conditioner-daily-care-with-lightweight-technology",
+    "name": "Dove Conditioner Daily Care With Lightweight Technology 320ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/608986.jpg",
+    "barcode": "8851932374996",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-conditioner-daily-care-820ml-4962849",
+    "name": "Dove Conditioner Daily Care | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962849.jpg&w=640&q=90",
+    "barcode": "8851932438971",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198258/dove-daily-care-conditioner-with-lightweight-technology",
+    "name": "Dove Daily Care Conditioner With Lightweight Technology 820ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198258.jpg",
+    "barcode": "8851932438971",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-shampoo-daily-care-820ml-4962791",
+    "name": "Dove Shampoo Daily Care | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962791.jpg&w=640&q=90",
+    "barcode": "8851932438964",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198257/dove-daily-care-shampoo-with-lightweight-technology",
+    "name": "Dove Daily Care Shampoo With Lightweight Technology 820ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198257.jpg",
+    "barcode": "8851932438964",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-nutritive-solutions-conditioner-intensive-repair-320ml-2103365",
+    "name": "Dove Nutritive Solutions Conditioner Intensive Repair | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2103365.jpg&w=640&q=90",
+    "barcode": "8851932348393",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "809",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799320/dove-intensive-repair-conditioner-with-smart-target-technology",
+    "name": "Dove Intensive Repair Conditioner With Smart Target Technology 320ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799320.jpg",
+    "barcode": "8851932348393",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-conditioner-intensive-repair-820ml-4962850",
+    "name": "Dove Conditioner Intensive Repair | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962850.jpg&w=640&q=90",
+    "barcode": "8851932438995",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198256/dove-intensive-repair-conditioner-with-smart-target-technology",
+    "name": "Dove Intensive Repair Conditioner With Smart Target Technology 820mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198256.jpg",
+    "barcode": "8851932438995",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-hair-therapy-intensive-repair-shampoo-320ml-2103467",
+    "name": "Dove Hair Therapy Intensive Repair Shampoo | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2103467.jpg&w=640&q=90",
+    "barcode": "8851932348317",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "809",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799295/dove-intensive-repair-shampoo-with-smart-target-technology",
+    "name": "Dove Intensive Repair Shampoo With Smart Target Technology 320ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799295.jpg",
+    "barcode": "8851932348317",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-shampoo-intensive-repair-820ml-4962816",
+    "name": "Dove Shampoo Intensive Repair | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962816.jpg&w=640&q=90",
+    "barcode": "8851932438988",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198255/dove-intensive-repair-shampoo-with-smart-target-technology",
+    "name": "Dove Intensive Repair Shampoo With Smart Target Technology 820ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198255.jpg",
+    "barcode": "8851932438988",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-nutritive-solutions-daily-moisture-conditioner-320ml-2103398",
+    "name": "Dove Nutritive Solutions Daily Moisture Conditioner | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2103398.jpg&w=640&q=90",
+    "barcode": "8851932348386",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "809",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799297/dove-nourishing-moisture-conditioner-for-dry-hair",
+    "name": "Dove Nourishing Moisture Conditioner For Dry Hair 320ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799297.jpg",
+    "barcode": "8851932348386",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-conditioner-nourishing-moisture-820ml-4962838",
+    "name": "Dove Conditioner Nourishing Moisture | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962838.jpg&w=640&q=90",
+    "barcode": "8851932438957",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200231/dove-nourishing-moisture-conditioner-for-dry-hair",
+    "name": "Dove Nourishing Moisture Conditioner For Dry Hair 820 ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/200231.jpg",
+    "barcode": "8851932438957",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-nutritive-solutions-daily-moisture-shampoo-320ml-2103478",
+    "name": "Dove Nutritive Solutions Daily Moisture Shampoo | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2103478.jpg&w=640&q=90",
+    "barcode": "8851932348300",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "809",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799239/dove-nourishing-moisture-shampoo-with-pro-moisture-complex",
+    "name": "Dove Nourishing Moisture Shampoo With Pro Moisture Complex 320ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799239.jpg",
+    "barcode": "8851932348300",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-shampoo-nourishing-moisture-820ml-4962780",
+    "name": "Dove Shampoo Nourishing Moisture | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962780.jpg&w=640&q=90",
+    "barcode": "8851932438940",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201098/dove-nourishing-moisture-shampoo-with-pro-moisture-complex",
+    "name": "Dove Nourishing Moisture Shampoo With Pro Moisture Complex 820ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/201098.jpg",
+    "barcode": "8851932438940",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-shampoo-restoring-ritual-820ml-4962827",
+    "name": "Dove Shampoo Restoring Ritual | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962827.jpg&w=640&q=90",
+    "barcode": "8851932439008",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198253/dove-nourishing-secrets-shampoo-restoring-ritual",
+    "name": "Dove Nourishing Secrets Shampoo Restoring Ritual 820 Ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198253.jpg",
+    "barcode": "8851932439008",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-conditioner-restoring-ritual-820ml-4962860",
+    "name": "Dove Conditioner Restoring Ritual | 820mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4962860.jpg&w=640&q=90",
+    "barcode": "8851932439015",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "820ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198254/dove-restoring-ritual-conditioner-with-coconut-oil",
+    "name": "Dove Restoring Ritual Conditioner With Coconut Oil 820ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198254.jpg",
+    "barcode": "8851932439015",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "218",
+        "price_per_unit": "1785",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dove-daily-care-shampoo-320ml-2939041",
+    "name": "Dove Daily Care Shampoo | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2939041.jpg&w=640&q=90",
+    "barcode": "8851932374989",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "253",
+        "price_per_unit": "809",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609020/dove-shampoo-daily-care-with-lightweight-technology",
+    "name": "Dove Shampoo Daily Care With Lightweight Technology 320ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/609020.jpg",
+    "barcode": "8851932374989",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "241",
+        "price_per_unit": "770",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-paris-elvive-hyaluron-conditioner-700ml-6313541",
+    "name": "L'Oreal Paris Elvive Hyaluron Conditioner | 700mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6313541.jpg&w=640&q=90",
+    "barcode": "8901526600892",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "700ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "1260",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265754/elvive-hyaluron-plump-conditioner",
+    "name": "Elvive Hyaluron Plump Conditioner 700ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265754.jpg",
+    "barcode": "8901526600892",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-paris-elvive-hyaluron-shampoo-700ml-6313552",
+    "name": "L'Oreal Paris Elvive Hyaluron Shampoo | 700mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6313552.jpg&w=640&q=90",
+    "barcode": "8901526600908",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "700ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "1260",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265755/elvive-hyaluron-plump-shampoo",
+    "name": "Elvive Hyaluron Plump Shampoo 700ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265755.jpg",
+    "barcode": "8901526600908",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "171",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fudge-professional-clean-blonde-damage-rewind-violet-purple-toning-conditioner-250ml-3980481",
+    "name": "Fudge Professional Clean Blonde Damage Rewind Violet Purple To ... 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3980481.jpg&w=640&q=90",
+    "barcode": "5060420335552",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1218",
+        "price_per_unit": "3045",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141050/fudge-professional-clean-blonde-damage-rewind-toning-purple-conditioner",
+    "name": "Fudge Professional Clean Blonde Damage Rewind Toning Purple Conditioner 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141050.jpg",
+    "barcode": "5060420335552",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fudge-professional-clean-blonde-damage-rewind-violet-purple-toning-shampoo-250ml-3980426",
+    "name": "Fudge Professional Clean Blonde Damage Rewind Violet Purple To ... 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3980426.jpg&w=640&q=90",
+    "barcode": "5060420335545",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1160",
+        "price_per_unit": "2900",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1218",
+        "price_per_unit": "3045",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141270/fudge-professional-clean-blonde-damage-rewind-toning-purple-shampoo",
+    "name": "Fudge Professional Clean Blonde Damage Rewind Toning Purple Shampoo 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141270.jpg",
+    "barcode": "5060420335545",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "540",
+        "price_per_unit": "1350",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fudge-professional-clean-blonde-violet-purple-toning-conditioner-250ml-3980459",
+    "name": "Fudge Professional Clean Blonde Violet Purple Toning Conditio ... 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3980459.jpg&w=640&q=90",
+    "barcode": "5060420335804",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1092",
+        "price_per_unit": "2730",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141373/fudge-professional-clean-blonde-toning-purple-conditioner",
+    "name": "Fudge Professional Clean Blonde Toning Purple Conditioner 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141373.jpg",
+    "barcode": "5060420335804",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fudge-professional-clean-blonde-violet-purple-toning-shampoo-250ml-3980390",
+    "name": "Fudge Professional Clean Blonde Violet Purple Toning Shampoo | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3980390.jpg&w=640&q=90",
+    "barcode": "5060420335538",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1040",
+        "price_per_unit": "2600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1092",
+        "price_per_unit": "2730",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141383/fudge-professional-clean-blonde-toning-purple-shampoo",
+    "name": "Fudge Professional Clean Blonde Toning Purple Shampoo 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141383.jpg",
+    "barcode": "5060420335538",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-coconut-water-conditioner-315ml-3302764",
+    "name": "Garnier Fructis Coconut Water Conditioner | 315mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3302764.jpg&w=640&q=90",
+    "barcode": "8901526537068",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "315ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "186",
+        "price_per_unit": "585",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802560/garnier-fructis-coconut-water-conditioner",
+    "name": "Garnier Fructis Coconut Water Conditioner 315ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802560.jpg",
+    "barcode": "8901526537068",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "279",
+        "price_per_unit": "880",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-coconut-water-conditioner-850ml-3303315",
+    "name": "Garnier Fructis Coconut Water Conditioner | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303315.jpg&w=640&q=90",
+    "barcode": "8901526538768",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802575/garnier-fructis-coconut-water-conditioner",
+    "name": "Garnier Fructis Coconut Water Conditioner 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802575.jpg",
+    "barcode": "8901526538768",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-coconut-water-shampoo-315ml-3302742",
+    "name": "Garnier Fructis Coconut Water Shampoo | 315mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3302742.jpg&w=640&q=90",
+    "barcode": "8901526536764",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "315ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "186",
+        "price_per_unit": "585",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802539/garnier-fructis-coconut-water-shampoo-shampoo",
+    "name": "Garnier Fructis Coconut Water Shampoo Shampoo 315ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802539.jpg",
+    "barcode": "8901526536764",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "279",
+        "price_per_unit": "880",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-coconut-water-shampoo-850ml-3303224",
+    "name": "Garnier Fructis Coconut Water Shampoo | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303224.jpg&w=640&q=90",
+    "barcode": "8901526537365",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802576/garnier-fructis-coconut-water-shampoo-shampoo",
+    "name": "Garnier Fructis Coconut Water Shampoo Shampoo 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802576.jpg",
+    "barcode": "8901526537365",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-full-and-luscious-conditioner-315ml-3303064",
+    "name": "Garnier Fructis Full & Luscious Conditioner | 315mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303064.jpg&w=640&q=90",
+    "barcode": "8901526537167",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "315ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "186",
+        "price_per_unit": "585",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802562/garnier-fructis-full-luscious-conditioner",
+    "name": "Garnier Fructis Full & Luscious Conditioner 315ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802562.jpg",
+    "barcode": "8901526537167",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "279",
+        "price_per_unit": "880",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-full-and-luscious-conditioner-850ml-3303337",
+    "name": "Garnier Fructis Full & Luscious Conditioner | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303337.jpg&w=640&q=90",
+    "barcode": "8901526537716",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804089/garnier-fructis-full-luscious-conditioner",
+    "name": "Garnier Fructis Full & Luscious Conditioner 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804089.jpg",
+    "barcode": "8901526537716",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-full-and-luscious-shampoo-315ml-3303122",
+    "name": "Garnier Fructis Full & Luscious Shampoo | 315mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303122.jpg&w=640&q=90",
+    "barcode": "8901526536863",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "315ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "186",
+        "price_per_unit": "585",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802561/garnier-fructis-full-luscious-shampoo",
+    "name": "Garnier Fructis Full & Luscious Shampoo 315ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802561.jpg",
+    "barcode": "8901526536863",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "279",
+        "price_per_unit": "880",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-full-and-luscious-shampoo-850ml-3303246",
+    "name": "Garnier Fructis Full & Luscious Shampoo | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303246.jpg&w=640&q=90",
+    "barcode": "8901526537464",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804101/garnier-fructis-full-luscious-shampoo",
+    "name": "Garnier Fructis Full & Luscious Shampoo 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/804101.jpg",
+    "barcode": "8901526537464",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-banana-conditioner-350ml-4453787",
+    "name": "Garnier Fructis Banana Conditioner | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4453787.jpg&w=640&q=90",
+    "barcode": "3600542318662",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "233",
+        "price_per_unit": "815",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151100/garnier-fructis-hair-food-banana-conditioner",
+    "name": "Garnier Fructis Hair Food Banana Conditioner 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151100.jpg",
+    "barcode": "3600542318662",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "409",
+        "price_per_unit": "1430",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-banana-shampoo-350ml-4453710",
+    "name": "Garnier Fructis Banana Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4453710.jpg&w=640&q=90",
+    "barcode": "3600542318655",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "233",
+        "price_per_unit": "815",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151020/garnier-fructis-hair-food-banana-shampoo",
+    "name": "Garnier Fructis Hair Food Banana Shampoo 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151020.jpg",
+    "barcode": "3600542318655",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "409",
+        "price_per_unit": "1430",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-watermelon-conditioner-350ml-4453754",
+    "name": "Garnier Fructis Watermelon Conditioner | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4453754.jpg&w=640&q=90",
+    "barcode": "3600542406802",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "233",
+        "price_per_unit": "815",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/138033/garnier-fructis-hair-food-volumising-watermelon-conditioner",
+    "name": "Garnier Fructis Hair Food Volumising Watermelon Conditioner 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/138033.jpg",
+    "barcode": "3600542406802",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "409",
+        "price_per_unit": "1430",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-watermelon-shampoo-350ml-4453721",
+    "name": "Garnier Fructis Watermelon Shampoo | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4453721.jpg&w=640&q=90",
+    "barcode": "3600542406796",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "233",
+        "price_per_unit": "815",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/138032/garnier-fructis-hair-food-volumising-watermelon-shampoo",
+    "name": "Garnier Fructis Hair Food Volumising Watermelon Shampoo 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/138032.jpg",
+    "barcode": "3600542406796",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "409",
+        "price_per_unit": "1430",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-normal-conditioner-315ml-3303086",
+    "name": "Garnier Fructis Normal Conditioner | 315mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303086.jpg&w=640&q=90",
+    "barcode": "8901526537266",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "315ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "186",
+        "price_per_unit": "585",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802535/garnier-fructis-normal-strength-shine-conditioner",
+    "name": "Garnier Fructis Normal Strength & Shine Conditioner 315ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802535.jpg",
+    "barcode": "8901526537266",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "279",
+        "price_per_unit": "880",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-normal-conditioner-850ml-3303359",
+    "name": "Garnier Fructis Normal Conditioner | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303359.jpg&w=640&q=90",
+    "barcode": "8901526538812",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802570/garnier-fructis-normal-strength-shine-conditioner",
+    "name": "Garnier Fructis Normal Strength & Shine Conditioner 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802570.jpg",
+    "barcode": "8901526538812",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-normal-shampoo-315ml-3303100",
+    "name": "Garnier Fructis Normal Shampoo | 315mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303100.jpg&w=640&q=90",
+    "barcode": "8901526536962",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "315ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "178",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "186",
+        "price_per_unit": "585",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802536/garnier-fructis-normal-strength-shine-shampoo",
+    "name": "Garnier Fructis Normal Strength & Shine Shampoo 315ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802536.jpg",
+    "barcode": "8901526536962",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "279",
+        "price_per_unit": "880",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-normal-shampoo-850ml-3303268",
+    "name": "Garnier Fructis Normal Shampoo | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303268.jpg&w=640&q=90",
+    "barcode": "8901526537563",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802569/garnier-fructis-normal-strength-shine-shampoo",
+    "name": "Garnier Fructis Normal Strength & Shine Shampoo 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802569.jpg",
+    "barcode": "8901526537563",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-nutri-repair-3-conditioner-850ml-3303304",
+    "name": "Garnier Fructis Nutri-Repair 3 Conditioner | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303304.jpg&w=640&q=90",
+    "barcode": "8901526537815",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802572/garnier-fructis-nutri-repair-3-conditioner",
+    "name": "Garnier Fructis Nutri-Repair 3 Conditioner 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802572.jpg",
+    "barcode": "8901526537815",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-coconut-water-nutri-repair-shampoo-850ml-3303279",
+    "name": "Garnier Fructis Coconut Water Nutri-Repair Shampoo | 850mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3303279.jpg&w=640&q=90",
+    "barcode": "8901526537617",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "850ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "1190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "147",
+        "price_per_unit": "1249",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802571/garnier-fructis-nutri-repair-3-shampoo",
+    "name": "Garnier Fructis Nutri-Repair 3 Shampoo 850ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802571.jpg",
+    "barcode": "8901526537617",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1870",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-hair-food-conditioner-pineapple-350ml-6313574",
+    "name": "Garnier Fructis Hair Food Conditioner Pineapple | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6313574.jpg&w=640&q=90",
+    "barcode": "3600542513364",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "233",
+        "price_per_unit": "815",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265757/garnier-pineapple-hair-food-conditioner",
+    "name": "Garnier Pineapple Hair Food Conditioner 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265757.jpg",
+    "barcode": "3600542513364",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "409",
+        "price_per_unit": "1430",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-fructis-hair-food-shampoo-pineapple-350ml-6313563",
+    "name": "Garnier Fructis Hair Food Shampoo Pineapple | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6313563.jpg&w=640&q=90",
+    "barcode": "3600542513357",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "223",
+        "price_per_unit": "780",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "233",
+        "price_per_unit": "815",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265756/garnier-pineapple-hair-food-shampoo",
+    "name": "Garnier Pineapple Hair Food Shampoo 350ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265756.jpg",
+    "barcode": "3600542513357",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "371",
+        "price_per_unit": "1300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "409",
+        "price_per_unit": "1430",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

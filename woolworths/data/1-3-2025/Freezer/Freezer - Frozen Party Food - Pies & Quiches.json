@@ -1,0 +1,50 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785276/four-n-twenty-king-size-sausage-roll-single-wrap-chilled-meal",
+    "name": "Four'N Twenty King Size Sausage Roll Single Wrap Chilled Meal 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/785276.jpg",
+    "source_id": "Woolworths - 785276",
+    "barcode": "9311008012188",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

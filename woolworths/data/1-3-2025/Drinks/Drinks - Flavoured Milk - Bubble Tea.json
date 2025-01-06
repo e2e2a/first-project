@@ -1,0 +1,164 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/182239/chatime-mango-iced-bubble-tea-with-popping-pearls",
+    "name": "Chatime Mango Iced Bubble Tea With Popping Pearls 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/182239.jpg",
+    "source_id": "Woolworths - 182239",
+    "barcode": "794712971801",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227824/chatime-passionfruit-iced-bubble-tea",
+    "name": "Chatime Passionfruit Iced Bubble Tea 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227824.jpg",
+    "source_id": "Woolworths - 227824",
+    "barcode": "9359338000079",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/183137/chatime-peach-iced-bubble-tea-with-popping-pearls",
+    "name": "Chatime Peach Iced Bubble Tea With Popping Pearls 4 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/183137.jpg",
+    "source_id": "Woolworths - 183137",
+    "barcode": "794712971818",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

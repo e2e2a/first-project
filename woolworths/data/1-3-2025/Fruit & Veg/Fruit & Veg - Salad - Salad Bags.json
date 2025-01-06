@@ -1,0 +1,854 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717237/macro-certified-organic-baby-spinach",
+    "name": "Macro Certified Organic Baby Spinach 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717237.jpg",
+    "source_id": "Woolworths - 717237",
+    "barcode": "9300633285418",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717238/macro-certified-organic-salad-mix",
+    "name": "Macro Certified Organic Salad Mix 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717238.jpg",
+    "source_id": "Woolworths - 717238",
+    "barcode": "9300633285425",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/651491/macro-organic-coleslaw-kale-slaw-kit",
+    "name": "Macro Organic Coleslaw & Kale Slaw Kit 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/651491.jpg",
+    "source_id": "Woolworths - 651491",
+    "barcode": "9300633685966",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/447762/woolworths-baby-leaf-mix-salad-mix",
+    "name": "Woolworths Baby Leaf Mix With Carrot 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/447762.jpg",
+    "source_id": "Woolworths - 447762",
+    "barcode": "9300633598976",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524322/woolworths-baby-leaf-spinach",
+    "name": "Woolworths Baby Leaf Spinach 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/524322.jpg",
+    "source_id": "Woolworths - 524322",
+    "barcode": "9300633614867",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317566/woolworths-baby-leaf-with-beetroot-carrot",
+    "name": "Woolworths Baby Leaf With Beetroot & Carrot 180g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/317566.jpg",
+    "source_id": "Woolworths - 317566",
+    "barcode": "9300633101435",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/379515/woolworths-baby-spinach",
+    "name": "Woolworths Baby Spinach 60g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/379515.jpg",
+    "source_id": "Woolworths - 379515",
+    "barcode": "9317466301543",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524336/woolworths-baby-spinach-spinach",
+    "name": "Woolworths Baby Spinach Spinach 280g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/524336.jpg",
+    "source_id": "Woolworths - 524336",
+    "barcode": "9300633614850",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "1786",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290118/woolworths-gourmet-baby-kale-leaf-mix",
+    "name": "Woolworths Gourmet Baby Kale Leaf Mix 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/290118.jpg",
+    "source_id": "Woolworths - 290118",
+    "barcode": "9339687343348",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827628/woolworths-leafy-mix-salad",
+    "name": "Woolworths Leafy Mix Salad 120g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/827628.jpg",
+    "source_id": "Woolworths - 827628",
+    "barcode": "9300633619169",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/714823/woolworths-leafy-mix-salad",
+    "name": "Woolworths Leafy Mix Salad 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/714823.jpg",
+    "source_id": "Woolworths - 714823",
+    "barcode": "9300633281540",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847873/woolworths-lettuce-butter",
+    "name": "Woolworths Lettuce Butter 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/847873.jpg",
+    "source_id": "Woolworths - 847873",
+    "barcode": "9339687084050",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210688/woolworths-lettuce-gourmet-leaf-mix",
+    "name": "Woolworths Lettuce Gourmet Leaf Mix 170g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/210688.jpg",
+    "source_id": "Woolworths - 210688",
+    "barcode": "9339687301461",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "2353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/447755/woolworths-lettuce-iceberg-blend-lettuce-blend",
+    "name": "Woolworths Lettuce Iceberg Blend Lettuce Blend 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/447755.jpg",
+    "source_id": "Woolworths - 447755",
+    "barcode": "9300633598969",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/638009/woolworths-lettuce-iceberg-shredded-lettuce",
+    "name": "Woolworths Lettuce Iceberg Shredded Lettuce 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/638009.jpg",
+    "source_id": "Woolworths - 638009",
+    "barcode": "9300633682828",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/426911/macro-organic-gourmet-salad-mix",
+    "name": "Macro Organic Gourmet Salad Mix 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/426911.jpg",
+    "source_id": "Woolworths - 426911",
+    "barcode": "9300633584412",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

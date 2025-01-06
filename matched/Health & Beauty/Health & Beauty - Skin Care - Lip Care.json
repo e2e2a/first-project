@@ -1,0 +1,738 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/blistex-lip-balm-spf15-intensive-repair-7g-7220333",
+    "name": "Blistex Lip Balm SPF15 Intensive Repair | 7g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7220333.jpg&w=640&q=90",
+    "barcode": "9313501031178",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "7g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "8571",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "8571",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "8571",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "9000",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321393/blistex-intensive-repair-spf15",
+    "name": "Blistex Intensive Repair Spf15 7g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/321393.jpg",
+    "barcode": "9313501031178",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "429",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blistex-lip-conditioner-7g-8901904",
+    "name": "Blistex Lip Conditioner | 7g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8901904.jpg&w=640&q=90",
+    "barcode": "9313501311638",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "7g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "9286",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "9286",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "9286",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "9286",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "9286",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "9286",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "9757",
+        "price_per_unit": "683",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340730/blistex-lip-conditioner",
+    "name": "Blistex Lip Conditioner 7g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/340730.jpg",
+    "barcode": "9313501311638",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "464",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blistex-lip-balm-conditioning-4.25g-4510348",
+    "name": "Blistex Lip Balm Conditioning | 4.25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4510348.jpg&w=640&q=90",
+    "barcode": "9313501311645",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "4.25g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "NSW",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "QLD",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "WA",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "SA",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "TAS",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "ACT",
+        "price": "12941",
+        "price_per_unit": "550",
+        "price_unit": ".g"
+      },
+      {
+        "state": "NT",
+        "price": "13600",
+        "price_per_unit": "578",
+        "price_unit": ".g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/322698/blistex-lip-conditioning-balm",
+    "name": "Blistex Lip Conditioning Balm Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/322698.jpg",
+    "barcode": "9313501311645",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "647",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "647",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "647",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "647",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blistex-ultra-lip-balm-spf-50+-4.25g-8903386",
+    "name": "Blistex Ultra Lip Balm SPF 50+ | 4.25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8903386.jpg&w=640&q=90",
+    "barcode": "9313501031130",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "4.25g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "11765",
+        "price_per_unit": "500",
+        "price_unit": ".g"
+      },
+      {
+        "state": "NSW",
+        "price": "11765",
+        "price_per_unit": "500",
+        "price_unit": ".g"
+      },
+      {
+        "state": "QLD",
+        "price": "11765",
+        "price_per_unit": "500",
+        "price_unit": ".g"
+      },
+      {
+        "state": "WA",
+        "price": "11765",
+        "price_per_unit": "500",
+        "price_unit": ".g"
+      },
+      {
+        "state": "SA",
+        "price": "11765",
+        "price_per_unit": "500",
+        "price_unit": ".g"
+      },
+      {
+        "state": "ACT",
+        "price": "11765",
+        "price_per_unit": "500",
+        "price_unit": ".g"
+      },
+      {
+        "state": "NT",
+        "price": "12353",
+        "price_per_unit": "525",
+        "price_unit": ".g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142893/blistex-ultra-lip-balm-spf50-",
+    "name": "Blistex Ultra Lip Balm Spf50+ 4.25g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/142893.jpg",
+    "barcode": "9313501031130",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "588",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "588",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "588",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "588",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "588",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "588",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "612",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dermal-therapy-lip-balm-original-10g-3240984",
+    "name": "Dermal Therapy Lip Balm Original | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3240984.jpg&w=640&q=90",
+    "barcode": "9329224000773",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6300",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108822/dermal-therapy-lip-balm",
+    "name": "Dermal Therapy Lip Balm 10g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108822.jpg",
+    "barcode": "9329224000773",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dermal-therapy-lip-balm-berry-10g-7043318",
+    "name": "Dermal Therapy Lip Balm Berry | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7043318.jpg&w=640&q=90",
+    "barcode": "9329224002463",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "6000",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6300",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277131/dermal-therapy-lip-balm-berry",
+    "name": "Dermal Therapy Lip Balm Berry 10g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/277131.jpg",
+    "barcode": "9329224002463",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dermal-therapy-lip-balm-spf50+-10g-7043340",
+    "name": "Dermal Therapy Lip Balm Spf50+ | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7043340.jpg&w=640&q=90",
+    "barcode": "9329224002524",
+    "shop": "coles",
+    "category_id": "15083",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "7000",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "7000",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "7000",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "7350",
+        "price_per_unit": "735",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/276201/dermal-therapy-spf-50-lip-balm",
+    "name": "Dermal Therapy Spf 50+ Lip Balm 10g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/276201.jpg",
+    "barcode": "9329224002524",
+    "shop": "Woolworths",
+    "category_id": "1_894D0A8",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

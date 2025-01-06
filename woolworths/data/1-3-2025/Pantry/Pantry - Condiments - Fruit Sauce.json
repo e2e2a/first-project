@@ -1,0 +1,524 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25528/ocean-spray-fruit-sauce-cranberry-whole-berry",
+    "name": "Ocean Spray Fruit Sauce Cranberry Whole Berry 275g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/025528.jpg",
+    "source_id": "Woolworths - 25528",
+    "barcode": "9331200777951",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/580017/ogilvie-co-preserved-lemons",
+    "name": "Ogilvie & Co. Preserved Lemons 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/580017.jpg",
+    "source_id": "Woolworths - 580017",
+    "barcode": "9321237010770",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129577/tar10-mango-lime-dressing",
+    "name": "Tar10 Mango & Lime Dressing 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/129577.jpg",
+    "source_id": "Woolworths - 129577",
+    "barcode": "9343025000565",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230514/woolworths-apple-sauce",
+    "name": "Woolworths Apple Sauce 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230514.jpg",
+    "source_id": "Woolworths - 230514",
+    "barcode": "9300633910167",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/946104/your-condiment-co-cranberry-sauce",
+    "name": "Your Condiment Co Cranberry Sauce 275g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/946104.jpg",
+    "source_id": "Woolworths - 946104",
+    "barcode": "9359676000045",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720125/fountain-plum-sauce-sauce",
+    "name": "Fountain Plum Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720125.jpg",
+    "source_id": "Woolworths - 720125",
+    "barcode": "9300681196537",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67824/ocean-spray-fruit-sauce-cranberry-jellied",
+    "name": "Ocean Spray Fruit Sauce Cranberry Jellied 275g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/067824.jpg",
+    "source_id": "Woolworths - 67824",
+    "barcode": "9331200777968",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743976/three-threes-apple-sauce-country-style",
+    "name": "Three Threes Apple Sauce Country Style Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/743976.jpg",
+    "source_id": "Woolworths - 743976",
+    "barcode": "9310480334108",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/69528/three-threes-australian-apple-sauce-apple",
+    "name": "Three Threes Australian Apple Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/069528.jpg",
+    "source_id": "Woolworths - 69528",
+    "barcode": "9310480333378",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "122",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230513/woolworths-cranberry-sauce",
+    "name": "Woolworths Cranberry Sauce 275g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230513.jpg",
+    "source_id": "Woolworths - 230513",
+    "barcode": "9300633910150",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

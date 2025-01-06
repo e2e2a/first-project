@@ -1,0 +1,3590 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169513/5star-3in1-degreaser",
+    "name": "5Star 3In1 Degreaser 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169513.jpg",
+    "source_id": "Woolworths - 169513",
+    "barcode": "9322902035098",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/285389/5star-car-wash-super-concentrate",
+    "name": "5Star Car Wash Super Concentrate 1.5L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/285389.jpg",
+    "source_id": "Woolworths - 285389",
+    "barcode": "9322902034077",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "53",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "53",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "53",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169516/5star-tyre-shine",
+    "name": "5Star Tyre Shine 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169516.jpg",
+    "source_id": "Woolworths - 169516",
+    "barcode": "9322902035319",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/286297/5star-wash-wax-super-concentrate",
+    "name": "5Star Wash & Wax Super Concentrate 1.5L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/286297.jpg",
+    "source_id": "Woolworths - 286297",
+    "barcode": "9322902034084",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "57",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "57",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "57",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15107/aion-plas-chamois-synthetic",
+    "name": "Aion Plas Chamois Synthetic Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/015107.jpg",
+    "source_id": "Woolworths - 15107",
+    "barcode": "9312245200055",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/576168/ambi-pur-car-air-freshener-mini-clip-thai-dragon-fruit",
+    "name": "Ambi Pur Car Air Freshener Mini Clip Thai Dragon Fruit 2ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/576168.jpg",
+    "source_id": "Woolworths - 576168",
+    "barcode": "4902430377423",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503678/ambi-pur-car-air-freshener-premium-clip-aqua",
+    "name": "Ambi Pur Car Air Freshener Premium Clip Aqua 7.5ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/503678.jpg",
+    "source_id": "Woolworths - 503678",
+    "barcode": "4902430571883",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "1173",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/507554/ambi-pur-car-refill-aqua",
+    "name": "Ambi Pur Car Refill Aqua 7.5ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/507554.jpg",
+    "source_id": "Woolworths - 507554",
+    "barcode": "4902430571906",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "890",
+        "price_per_unit": "1187",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1333",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "890",
+        "price_per_unit": "1187",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758141/ambi-pur-mini-clip-car-air-freshener-sky-breeze",
+    "name": "Ambi Pur Mini Clip Car Air Freshener Sky Breeze 2ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758141.jpg",
+    "source_id": "Woolworths - 758141",
+    "barcode": "4902430377409",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106195/ambi-pur-mini-clip-car-mould-fighter-aqua-violet-jasmine",
+    "name": "Ambi Pur Mini Clip Car Mould Fighter Aqua & Violet Jasmine Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/106195.jpg",
+    "source_id": "Woolworths - 106195",
+    "barcode": "4902430190046",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "2727",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250458/ambi-pur-premium-clip-car-air-freshener-refill-vanilla-voyage",
+    "name": "Ambi Pur Premium Clip Car Air Freshener Refill Vanilla Voyage 2 x7.5ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250458.jpg",
+    "source_id": "Woolworths - 250458",
+    "barcode": "4902430571760",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "636",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "890",
+        "price_per_unit": "636",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "890",
+        "price_per_unit": "636",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210226/ambi-pur-premium-clip-car-air-freshener-vanilla-voyage",
+    "name": "Ambi Pur Premium Clip Car Air Freshener Vanilla Voyage 7.5ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/210226.jpg",
+    "source_id": "Woolworths - 210226",
+    "barcode": "4902430571418",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "1257",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167831/armor-all-beeswax-leather-wipes",
+    "name": "Armor All Beeswax Leather Wipes 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/167831.jpg",
+    "source_id": "Woolworths - 167831",
+    "barcode": "5020144800064",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178907/armor-all-car-care-all-wheel-cleaner",
+    "name": "Armor All Car Care All Wheel Cleaner 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/178907.jpg",
+    "source_id": "Woolworths - 178907",
+    "barcode": "9345216000194",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1850",
+        "price_per_unit": "370",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4150/armor-all-car-care-car-wash",
+    "name": "Armor All Car Care Car Wash 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/004150.jpg",
+    "source_id": "Woolworths - 4150",
+    "barcode": "9345216000002",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11758/armor-all-car-care-glass-cleaner",
+    "name": "Armor All Car Care Glass Cleaner 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/011758.jpg",
+    "source_id": "Woolworths - 11758",
+    "barcode": "70612440020",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "320",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4152/armor-all-car-care-multi-purpose-cleaner",
+    "name": "Armor All Car Care Multi Purpose Cleaner 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/004152.jpg",
+    "source_id": "Woolworths - 4152",
+    "barcode": "70612305404",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "330",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "330",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1650",
+        "price_per_unit": "330",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99691/armor-all-car-care-protectant",
+    "name": "Armor All Car Care Protectant 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/099691.jpg",
+    "source_id": "Woolworths - 99691",
+    "barcode": "70612102584",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "480",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2690/armor-all-car-care-tyre-foam",
+    "name": "Armor All Car Care Tyre Foam 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/002690.jpg",
+    "source_id": "Woolworths - 2690",
+    "barcode": "70612405159",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259440/armor-all-car-care-wax-polish-high-performance",
+    "name": "Armor All Car Care Wax & Polish High Performance 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/259440.jpg",
+    "source_id": "Woolworths - 259440",
+    "barcode": "9345216000279",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2650",
+        "price_per_unit": "530",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "2650",
+        "price_per_unit": "530",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "2650",
+        "price_per_unit": "530",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200514/armor-all-car-care-windscreen-wash",
+    "name": "Armor All Car Care Windscreen Wash 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/200514.jpg",
+    "source_id": "Woolworths - 200514",
+    "barcode": "9345216000200",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108067/armor-all-carpet-upholstery-foam-cleaner",
+    "name": "Armor All Carpet & Upholstery Foam Cleaner 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108067.jpg",
+    "source_id": "Woolworths - 108067",
+    "barcode": "9345216002419",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2250",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/637296/armor-all-cleaning-wipes",
+    "name": "Armor All Cleaning Wipes 30 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/637296.jpg",
+    "source_id": "Woolworths - 637296",
+    "barcode": "5020144232261",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/421256/armor-all-cream-cut-polish",
+    "name": "Armor All Cream Cut & Polish 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/421256.jpg",
+    "source_id": "Woolworths - 421256",
+    "barcode": "9345216000750",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2200",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57277/armor-all-extreme-tyre-shine",
+    "name": "Armor All Extreme Tyre Shine 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/057277.jpg",
+    "source_id": "Woolworths - 57277",
+    "barcode": "9345216000187",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1950",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167829/armor-all-gloss-finish-protectant-wipes",
+    "name": "Armor All Gloss Finish Protectant Wipes 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/167829.jpg",
+    "source_id": "Woolworths - 167829",
+    "barcode": "5020144800002",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/419423/armor-all-new-car-air-freshener",
+    "name": "Armor All New Car Air Freshener Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/419423.jpg",
+    "source_id": "Woolworths - 419423",
+    "barcode": "9345216001641",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "4400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "4400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "4400",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108258/armor-all-protectant-matte-finish",
+    "name": "Armor All Protectant Matte Finish 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108258.jpg",
+    "source_id": "Woolworths - 108258",
+    "barcode": "9345216002099",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "2550",
+        "price_per_unit": "510",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/489683/armor-all-protectant-spray",
+    "name": "Armor All Protectant Spray 300mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/489683.jpg",
+    "source_id": "Woolworths - 489683",
+    "barcode": "5020144232599",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174342/armor-all-speed-wax-spray-on-detailer",
+    "name": "Armor All Speed Wax Spray On Detailer 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/174342.jpg",
+    "source_id": "Woolworths - 174342",
+    "barcode": "9345216002563",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167830/armor-all-streak-free-glass-wipes",
+    "name": "Armor All Streak Free Glass Wipes 30 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/167830.jpg",
+    "source_id": "Woolworths - 167830",
+    "barcode": "5020144800019",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/650088/armor-all-summer-melons-air-freshener",
+    "name": "Armor All Summer Melons Air Freshener Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/650088.jpg",
+    "source_id": "Woolworths - 650088",
+    "barcode": "9345216001825",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "10ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "4400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "4400",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "4400",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388439/armor-all-super-heavy-duty-car-wash",
+    "name": "Armor All Super Heavy Duty Car Wash 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/388439.jpg",
+    "source_id": "Woolworths - 388439",
+    "barcode": "9345216002181",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390947/armor-all-ultra-shine-car-wash-wax",
+    "name": "Armor All Ultra Shine Car Wash & Wax",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390947.jpg",
+    "source_id": "Woolworths - 390947",
+    "barcode": "9345216003089",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/416589/armor-all-wash-wax-proglide",
+    "name": "Armor All Wash & Wax Proglide 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/416589.jpg",
+    "source_id": "Woolworths - 416589",
+    "barcode": "9345216001528",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1750",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481190/bundaberg-carded-air-freshener-assorted",
+    "name": "Bundaberg Carded Air Freshener Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/481190.jpg",
+    "source_id": "Woolworths - 481190",
+    "barcode": "9333195027707",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236192/chupa-chups-hanging-air-freshener-vanilla",
+    "name": "Chupa Chups Hanging Air Freshener Vanilla Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/236192.jpg",
+    "source_id": "Woolworths - 236192",
+    "barcode": "9333195025246",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/17230/cleanteam-car-care-radiator-coolant",
+    "name": "CleanTeam Car Care Radiator Coolant 5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/017230.jpg",
+    "source_id": "Woolworths - 17230",
+    "barcode": "9322902031274",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288634/gulf-western-20w-50-xmp-motor-oil-sl-cf",
+    "name": "Gulf Western 20w-50 Xmp Motor Oil Sl / Cf 4l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/288634.jpg",
+    "source_id": "Woolworths - 288634",
+    "barcode": "9332570000298",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "3500",
+        "price_per_unit": "88",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/289244/gulf-western-air-cooled-two-stroke-oil",
+    "name": "Gulf Western Air Cooled Two Stroke Oil 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/289244.jpg",
+    "source_id": "Woolworths - 289244",
+    "barcode": "9332570002155",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/420723/gulf-western-motor-oil-15w-40",
+    "name": "Gulf Western Motor Oil 15w - 40 4l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/420723.jpg",
+    "source_id": "Woolworths - 420723",
+    "barcode": "9332570003503",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230601/jack-hammer-kn95-face-masks",
+    "name": "Jack Hammer Kn95 Face Masks 3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230601.jpg",
+    "source_id": "Woolworths - 230601",
+    "barcode": "9311436303568",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106280/jelly-belly-3d-car-air-freshener-bubblegum",
+    "name": "Jelly Belly 3d Car Air Freshener Bubblegum Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/106280.jpg",
+    "source_id": "Woolworths - 106280",
+    "barcode": "5010555152166",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108513/jelly-belly-3d-car-air-freshener-tutti-frutti",
+    "name": "Jelly Belly 3d Car Air Freshener Tutti Frutti Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108513.jpg",
+    "source_id": "Woolworths - 108513",
+    "barcode": "5010555152159",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/107924/jelly-belly-3d-car-air-freshener-very-cherry",
+    "name": "Jelly Belly 3d Car Air Freshener Very Cherry Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/107924.jpg",
+    "source_id": "Woolworths - 107924",
+    "barcode": "5010555152104",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225677/jelly-belly-air-freshener-can-blueberry",
+    "name": "Jelly Belly Air Freshener Can Blueberry 70g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/225677.jpg",
+    "source_id": "Woolworths - 225677",
+    "barcode": "5010555155143",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225924/jelly-belly-air-freshener-can-tutti-frutti",
+    "name": "Jelly Belly Air Freshener Can Tutti Frutti 70g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/225924.jpg",
+    "source_id": "Woolworths - 225924",
+    "barcode": "5010555155150",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/494622/jelly-belly-air-freshener-duo-berry-lemonade",
+    "name": "Jelly Belly Air Freshener Duo Berry Lemonade 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/494622.jpg",
+    "source_id": "Woolworths - 494622",
+    "barcode": "5010555986723",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/488246/jelly-belly-air-freshener-duo-strawberry-shortcake",
+    "name": "Jelly Belly Air Freshener Duo Strawberry Shortcake 2 pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/488246.jpg",
+    "source_id": "Woolworths - 488246",
+    "barcode": "5010555986730",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108572/jelly-belly-duo-mini-car-air-freshener-island-punch",
+    "name": "Jelly Belly Duo Mini Car Air Freshener Island Punch Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108572.jpg",
+    "source_id": "Woolworths - 108572",
+    "barcode": "5010555157550",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277086/jelly-belly-duo-vent-air-freshener-bubble-gum",
+    "name": "Jelly Belly Duo Vent Air Freshener Bubble Gum Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/277086.jpg",
+    "source_id": "Woolworths - 277086",
+    "barcode": "5010555157161",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "6786",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140456/jelly-belly-hanging-air-freshener-blueberry",
+    "name": "Jelly Belly Hanging Air Freshener Blueberry Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140456.jpg",
+    "source_id": "Woolworths - 140456",
+    "barcode": "5010555152142",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203032/kenco-forest-fresh-air-freshener-watermelon",
+    "name": "Kenco Forest Fresh Air Freshener Watermelon Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/203032.jpg",
+    "source_id": "Woolworths - 203032",
+    "barcode": "9311412400014",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/520561/kenco-jumbo-sponge",
+    "name": "Kenco Jumbo Sponge each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/520561.jpg",
+    "source_id": "Woolworths - 520561",
+    "barcode": "9312790555679",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/541062/kenco-premium-wheel-brush",
+    "name": "Kenco Premium Wheel Brush each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/541062.jpg",
+    "source_id": "Woolworths - 541062",
+    "barcode": "9312790555686",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/29795/little-trees-car-air-freshener-assorted",
+    "name": "Little Trees Car Air Freshener Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/029795.jpg",
+    "source_id": "Woolworths - 29795",
+    "barcode": "76171101006",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684976/little-trees-fiber-can-air-freshener-black-ice",
+    "name": "Little Trees Fiber Can Air Freshener Black Ice 30g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/684976.jpg",
+    "source_id": "Woolworths - 684976",
+    "barcode": "76171178558",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "825",
+        "price_per_unit": "28",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "825",
+        "price_per_unit": "28",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "825",
+        "price_per_unit": "28",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "825",
+        "price_per_unit": "28",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "825",
+        "price_per_unit": "28",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "825",
+        "price_per_unit": "28",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116044/little-trees-fiber-can-air-freshener-cherry-blast",
+    "name": "Little Trees Fiber Can Air Freshener Cherry Blast 30g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/116044.jpg",
+    "source_id": "Woolworths - 116044",
+    "barcode": "76171178114",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236517/little-trees-fiber-can-air-freshener-new-car",
+    "name": "Little Trees Fiber Can Air Freshener New Car 30g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/236517.jpg",
+    "source_id": "Woolworths - 236517",
+    "barcode": "76171178893",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "825",
+        "price_per_unit": "2750",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/604595/little-trees-fresh-link-air-freshener-cherry",
+    "name": "Little Trees Fresh Link Air Freshener Cherry each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/604595.jpg",
+    "source_id": "Woolworths - 604595",
+    "barcode": "76171529114",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": "715",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "715",
+        "price_per_unit": "715",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "715",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/501338/little-trees-vent-clip-new-car-fragrance",
+    "name": "Little Trees Vent Clip New Car Fragrance Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/501338.jpg",
+    "source_id": "Woolworths - 501338",
+    "barcode": "76171520333",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/501335/little-trees-vent-clip-vanilla-fragrance",
+    "name": "Little Trees Vent Clip Vanilla Fragrance Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/501335.jpg",
+    "source_id": "Woolworths - 501335",
+    "barcode": "76171520319",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/494629/maison-muse-car-air-freshener-coconut-sea-salt",
+    "name": "Maison & Muse Car Air Freshener Coconut & Sea Salt each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/494629.jpg",
+    "source_id": "Woolworths - 494629",
+    "barcode": "9421035733601",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/500877/maison-muse-car-air-freshener-mild-vanilla-caramel",
+    "name": "Maison & Muse Car Air Freshener Mild Vanilla & Caramel each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/500877.jpg",
+    "source_id": "Woolworths - 500877",
+    "barcode": "9421035733571",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503939/maison-muse-liquid-car-vent-clip-air-freshener-guava-elderflower",
+    "name": "Maison & Muse Liquid Car Vent Clip Air Freshener Guava & Elderflower each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/503939.jpg",
+    "source_id": "Woolworths - 503939",
+    "barcode": "9421035733632",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/502583/maison-muse-liquid-car-vent-clip-air-freshener-vanilla-caramel",
+    "name": "Maison & Muse Liquid Car Vent Clip Air Freshener Vanilla & Caramel each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/502583.jpg",
+    "source_id": "Woolworths - 502583",
+    "barcode": "9421035733663",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320892/mr-clean-car-care-miracle-carwash-pad",
+    "name": "Mr. Clean Car Care Miracle Carwash Pad Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/320892.jpg",
+    "source_id": "Woolworths - 320892",
+    "barcode": "9323461000220",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503586/mr-clean-car-wash-sponge",
+    "name": "Mr. Clean Car Wash Sponge each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/503586.jpg",
+    "source_id": "Woolworths - 503586",
+    "barcode": "9323461105987",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693178/mr-clean-chamois",
+    "name": "Mr. Clean Chamois 1Ea",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/693178.jpg",
+    "source_id": "Woolworths - 693178",
+    "barcode": "9323461004501",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55057/mr-clean-glass-cloth",
+    "name": "Mr. Clean Glass Cloth 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055057.jpg",
+    "source_id": "Woolworths - 55057",
+    "barcode": "9323461105949",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55055/mr-clean-microfibre-cloth",
+    "name": "Mr. Clean Microfibre Cloth Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/055055.jpg",
+    "source_id": "Woolworths - 55055",
+    "barcode": "9323461105956",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504143/mr-clean-microfibre-drying-towel",
+    "name": "Mr. Clean Microfibre Drying Towel each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/504143.jpg",
+    "source_id": "Woolworths - 504143",
+    "barcode": "9323461005997",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279074/myne-air-freshener-strawberry-wax",
+    "name": "Myne Air Freshener Strawberry Wax Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/279074.jpg",
+    "source_id": "Woolworths - 279074",
+    "barcode": "9333195025895",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481101/myne-coffee-carded-air-freshener-assorted",
+    "name": "Myne Coffee Carded Air Freshener Assorted each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/481101.jpg",
+    "source_id": "Woolworths - 481101",
+    "barcode": "9333195027745",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/235755/myne-gecko-air-freshener-assorted",
+    "name": "Myne Gecko Air Freshener Assorted Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/235755.jpg",
+    "source_id": "Woolworths - 235755",
+    "barcode": "9333195022993",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227124/oakwood-automotive-leather-protection-pack",
+    "name": "Oakwood Automotive Leather Protection Pack Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/227124.jpg",
+    "source_id": "Woolworths - 227124",
+    "barcode": "9337198006332",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346600/pink-ribbon-air-freshener-summer-breeze",
+    "name": "Pink Ribbon Air Freshener Summer Breeze Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/346600.jpg",
+    "source_id": "Woolworths - 346600",
+    "barcode": "9312790518346",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/970898/wd-40-bike-chain-lubricant",
+    "name": "WD-40 Bike Chain Lubricant 150g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/970898.jpg",
+    "source_id": "Woolworths - 970898",
+    "barcode": "9312240410091",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "0",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": null,
+        "price_unit": ""
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98317/wd-40-lubricant-multi-purpose",
+    "name": "WD-40 Lubricant Multi Purpose 255g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/098317.jpg",
+    "source_id": "Woolworths - 98317",
+    "barcode": "9312240610026",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58182/wd-40-low-odour",
+    "name": "WD-40 Wd-40 Low Odour 255g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/058182.jpg",
+    "source_id": "Woolworths - 58182",
+    "barcode": "9312240621046",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "373",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

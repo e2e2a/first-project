@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/australias-own-chocolate-kids-milk-200ml-6-pack-4311363",
+    "name": "Australias Own Chocolate Kids Milk 200mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4311363.jpg&w=640&q=90",
+    "source_id": "Coles - 4311363",
+    "barcode": "9315090213171",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "442",
+        "price_per_unit": "530",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "543",
+        "price_per_unit": "651",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australias-own-strawberry-kids-milk-200ml-6-pack-4311385",
+    "name": "Australias Own Strawberry Kids Milk 200mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4311385.jpg&w=640&q=90",
+    "source_id": "Coles - 4311385",
+    "barcode": "9315090213188",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "442",
+        "price_per_unit": "530",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "543",
+        "price_per_unit": "651",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

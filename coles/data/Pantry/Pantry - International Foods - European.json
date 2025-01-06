@@ -1,0 +1,944 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-bake-almond-fingers-6-pack-280g-5161460",
+    "name": "Fresh Bake Almond Fingers 6 Pack | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5161460.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9336548006978",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "102",
+        "price_per_unit": "285",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heidi-iced-spicy-gingerbread-pfeffernusse-200g-9594935",
+    "name": "Heidi Iced Spicy Gingerbread Pfeffernusse | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9594935.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9336548006824",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "175",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/van-houten-cacao-powder-250g-4883630",
+    "name": "Van Houten Cacao Powder | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4883630.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "7350022390393",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lorenz-saltletts-sticks-75g-5882381",
+    "name": "Lorenz Saltletts Sticks | 75g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5882381.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "4017100672101",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "252",
+        "price_per_unit": "189",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marco-polo-sauerkraut-pickle-900g-4500810",
+    "name": "Marco Polo Sauerkraut Pickle | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4500810.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9315248112493",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-apple-sauce-710g-9594367",
+    "name": "The Dutch Company Apple Sauce | 710g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9594367.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9336548006787",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "710g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "62",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marco-polo-polenta-750g-8605027",
+    "name": "Marco Polo Polenta | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8605027.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9315248199654",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-syrup-wafers-125g-4179062",
+    "name": "The Dutch Company Syrup Wafers | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4179062.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9336548001232",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-dark-chocolate-sprinkles-200g-9578633",
+    "name": "The Dutch Company Dark Chocolate Sprinkles | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9578633.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9336548004226",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "255",
+        "price_per_unit": "510",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/royal-kerry-roasted-red-peppers-pickle-1kg-1852356",
+    "name": "Royal Kerry Roasted Red Peppers Pickle | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1852356.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9315248114305",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "810",
+        "price_per_unit": "810",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-meat-paste-95g-6093321",
+    "name": "Podravka Meat Paste | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6093321.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3858886469209",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "221",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-rusks-toast-100g-9594549",
+    "name": "The Dutch Company Rusks Toast | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9594549.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9336548007821",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/drava-liver-paste-95g-8227928",
+    "name": "Drava Liver Paste | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8227928.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9311187509721",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2579",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garden-fresh-dill-gherkins-pickle-670g-7774437",
+    "name": "Garden Fresh Dill Gherkins Pickle | 670g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7774437.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9311187500162",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "670g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "552",
+        "price_per_unit": "370",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kras-napolitanke-wafers-hazelnut-327g-6841222",
+    "name": "Kras Napolitanke Wafers Hazelnut | 327g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6841222.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3850102001859",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "327g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "183",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "183",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "183",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "193",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bolletje-rye-bread-500g-6578284",
+    "name": "Bolletje Rye Bread | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6578284.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "8710482534451",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-licorice-cats-100g-9595053",
+    "name": "The Dutch Company Licorice Cats | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9595053.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9313897070638",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitaminka-stobi-flips-with-peanuts-snack-40g-1852367",
+    "name": "Vitaminka Stobi Flips With Peanuts Snack | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1852367.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "5310005003100",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "130",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-chicken-paste-95g-9026761",
+    "name": "Podravka Chicken Paste | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9026761.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3858886469360",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "253",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daim-chocolate-bar-56g-3656519",
+    "name": "Daim Chocolate Bar | 56g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3656519.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "7310511257507",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "56g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/garden-fresh-polish-dill-cucumbers-pickle-850g-1133430",
+    "name": "Garden Fresh Polish Dill Cucumbers Pickle | 850g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1133430.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "5900919068519",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "565",
+        "price_per_unit": "480",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-chicken-noodle-soup-62g-6093015",
+    "name": "Podravka Chicken Noodle Soup | 62g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6093015.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3850104028243",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "62g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "444",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marco-polo-pelagonia-white-beans-375g-9178850",
+    "name": "Marco Polo Pelagonia White Beans | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9178850.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9315248110413",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "787",
+        "price_per_unit": "295",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-licorice-coins-100g-9595042",
+    "name": "The Dutch Company Licorice Coins | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9595042.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9311589000260",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nyakers-ginger-snaps-almond-150g-3710013",
+    "name": "Nyakers Ginger Snaps Almond | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3710013.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "233",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-svatovska-juha-vegetable-soup-with-semolina-dumplings-58g-9580410",
+    "name": "Podravka Svatovska Juha Vegetable Soup With Semolina Dumplings | 58g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9580410.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3850104249686",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "58g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "388",
+        "price_per_unit": "225",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/drava-chicken-pate-95g-7402920",
+    "name": "Drava Chicken Pate | 95g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7402920.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9311187509714",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2579",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marco-polo-pelagonia-borlotti-beans-375g-9178770",
+    "name": "Marco Polo Pelagonia Borlotti Beans | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9178770.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9315248110420",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "787",
+        "price_per_unit": "295",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/delamaris-salad-picnic-mackerel-125g-424390",
+    "name": "Delamaris Salad Picnic Mackerel | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F424390.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3838929568656",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2720",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lorenz-saltletts-cocktail-mix-180g-5882392",
+    "name": "Lorenz Saltletts Cocktail Mix | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5882392.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "5905187500129",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "272",
+        "price_per_unit": "489",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-proljetna-spring-vegetable-soup-60g-6093853",
+    "name": "Podravka Proljetna Spring Vegetable Soup | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6093853.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3850104295201",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "270",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/delamaris-salad-provencale-mackerel-125g-424379",
+    "name": "Delamaris Salad Provencale Mackerel | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F424379.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "3838929568649",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2720",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-dutch-company-speculaas-spiced-cookies-450gram-9030576",
+    "name": "The Dutch Company Speculaas Spiced Cookies | 450GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "450gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "144",
+        "price_per_unit": "650",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/quality-street-matchmakers-orange-120gram-8961961",
+    "name": "Quality Street Matchmakers Orange | 120GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "543",
+        "price_per_unit": "651",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/quality-street-matchmaker-hazelnut-120gram-8982983",
+    "name": "Quality Street Matchmaker H ... 120GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "543",
+        "price_per_unit": "651",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/walters-nougat-gbox-hnut-macadamia-almond-120gram-8894398",
+    "name": "Walters Nougat G/box H ... 120GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "833",
+        "price_per_unit": "1000",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/olympian-foods-almond-crescents-400gram-8996230",
+    "name": "Olympian Foods Almond Crescents | 400GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "400gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bailey's-luxury-fudge-irish-cream-170gram-8962079",
+    "name": "Bailey's Luxury Fudge Irish Cream | 170GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "170gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "853",
+        "price_per_unit": "1450",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "853",
+        "price_per_unit": "1450",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "853",
+        "price_per_unit": "1450",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "853",
+        "price_per_unit": "1450",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "896",
+        "price_per_unit": "1523",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nyakers-ginger-snaps-heart-tin-400g-8962170",
+    "name": "Nyakers Ginger Snaps Heart Tin | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8962170.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "313",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "313",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "313",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "313",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "328",
+        "price_per_unit": "1313",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/aero-bubbles-peppermint-giant-tube-70gram-8962024",
+    "name": "Aero Bubbles Peppermint Giant Tube | 70GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "70gram",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "571",
+        "price_per_unit": "400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "571",
+        "price_per_unit": "400",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rolo-giant-tube-.-80gram-8962046",
+    "name": "Rolo Giant Tube . | 80GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "80gram",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-munchies-giant-tube-80gram-8962035",
+    "name": "Nestle Munchies Giant Tube | 80GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "80gram",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cahcet-candy-gift-box-milk-choc-whazelnut-100gram-8962068",
+    "name": "Cahcet Candy Gift Box Milk Choc W/hazelnut | 100GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "100gram",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "1575",
+        "price_per_unit": "1575",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/quality-street-matchmaker-mint-120gram-8961983",
+    "name": "Quality Street Matchmaker Mint | 120GRAM",
+    "image_url": "N/A",
+    "source_id": "Coles - undefined",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "120gram",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "517",
+        "price_per_unit": "620",
+        "price_unit": "gram"
+      }
+    ]
+  }
+]

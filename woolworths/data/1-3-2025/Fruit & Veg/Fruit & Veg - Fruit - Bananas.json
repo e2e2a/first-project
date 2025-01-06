@@ -1,0 +1,356 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133390/banana-lady-finger",
+    "name": "Banana Lady Finger Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133390.jpg",
+    "source_id": "Woolworths - 133390",
+    "barcode": "0264233000002",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "128",
+        "price_per_unit": "128",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "128",
+        "price_per_unit": "128",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "128",
+        "price_per_unit": "128",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "144",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "128",
+        "price_per_unit": "128",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "128",
+        "price_per_unit": "128",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "144",
+        "price_per_unit": "144",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180148/banana-red-tipped",
+    "name": "Banana Red Tipped Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180148.jpg",
+    "source_id": "Woolworths - 180148",
+    "barcode": "0267128000002",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "108",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "108",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "108",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "108",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106218/bananas-kids",
+    "name": "Bananas Kids 5 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/106218.jpg",
+    "source_id": "Woolworths - 106218",
+    "barcode": "9334969003507",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133211/cavendish-bananas",
+    "name": "Cavendish Bananas Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133211.jpg",
+    "source_id": "Woolworths - 133211",
+    "barcode": "0264011000002",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/157649/eat-later-cavendish-bananas",
+    "name": "Eat Later Cavendish Bananas Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/157649.jpg",
+    "source_id": "Woolworths - 157649",
+    "barcode": "0261363000001",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306510/macro-organic-banana",
+    "name": "Macro Organic Banana Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306510.jpg",
+    "source_id": "Woolworths - 306510",
+    "barcode": "0268095000002",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "135",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "135",
+        "price_per_unit": "135",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "135",
+        "price_per_unit": "135",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/508279/carnarvon-bananas-banana",
+    "name": "Carnarvon Bananas 750G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/508279.jpg",
+    "source_id": "Woolworths - 508279",
+    "barcode": "9317645000922",
+    "category_id": "1-E5BEE36E",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "533",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

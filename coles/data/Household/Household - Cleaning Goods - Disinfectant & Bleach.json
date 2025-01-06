@@ -1,0 +1,758 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-bleach-lemon-2l-8681637",
+    "name": "Coles Simply Bleach Lemon | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8681637.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300601261611",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "85",
+        "price_per_unit": "170",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultra-disinfectant-bleach-cleaner-1.25l-7703563",
+    "name": "Coles Ultra Disinfectant Bleach Cleaner | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7703563.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310645179568",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.25l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "20",
+        "price_per_unit": "250",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-lemon-2.5l-170350",
+    "name": "White King Bleach Lemon | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F170350.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9333441000973",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "202",
+        "price_per_unit": "504",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/domestos-multipurpose-thick-bleach-disinfectant-regular-1.25l-5075460",
+    "name": "Domestos Multipurpose Thick Bleach Disinfectant Regular | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5075460.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300663238644",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.25l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "55",
+        "price_per_unit": "693",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-regular-2.5l-170339",
+    "name": "White King Bleach Regular | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F170339.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9333441000959",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "202",
+        "price_per_unit": "504",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-mould-and-soap-scum-remover-500ml-2107821",
+    "name": "White King Mould & Soap Scum Remover | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2107821.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9333441000768",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "105",
+        "price_per_unit": "525",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/domestos-multipurpose-thick-bleach-disinfectant-mountain-fresh-1.25l-5228334",
+    "name": "Domestos Multipurpose Thick Bleach Disinfectant Mountain Fresh | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5228334.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300663238668",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.25l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "660",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "55",
+        "price_per_unit": "693",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-lavender-2.5l-5986864",
+    "name": "White King Bleach Lavender | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5986864.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9333441000881",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "202",
+        "price_per_unit": "504",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/easy-off-bam-cleaning-products-bleach-trigger-750ml-5020912",
+    "name": "Easy Off Bam Cleaning Products Bleach Trigger | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5020912.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300701142025",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "113",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "119",
+        "price_per_unit": "893",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-tablets-lemon-40-pack-8976415",
+    "name": "White King Bleach Tablets Lemon | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8976415.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9333441001697",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "11",
+        "price_per_unit": "425",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "11",
+        "price_per_unit": "445",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-detergent-1.25l-5454606",
+    "name": "White King Bleach Detergent | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5454606.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9333441013270",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "1.25l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "252",
+        "price_per_unit": "315",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vanish-napisan-gold-multi-power-stain-remover-and-laundry-booster-2l-6263217",
+    "name": "Vanish Napisan Gold Multi Power Stain Remover & Laundry ... 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6263217.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9300701503420",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "1680",
+        "price_per_unit": "3360",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bluo-liquid-blue-laundry-soaker-250ml-170328",
+    "name": "Bluo Liquid Blue Laundry Soaker | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F170328.jpg&w=640&q=90",
+    "source_id": "Coles - undefined",
+    "barcode": "9310225101026",
+    "category_id": "14003",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "1560",
+        "price_per_unit": "390",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "1576",
+        "price_per_unit": "394",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/olga's-fine-foods-beef-chevapchichi-400g-6797878",
+    "name": "Olga's Fine Foods Beef Chevapchichi | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6797878.jpg&w=640&q=90",
+    "barcode": "9319139000074",
+    "shop": "coles",
+    "category_id": "7238",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "720",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/593303/olga-s-fine-foods-beef-chevapchichi",
+    "name": "Olga's Fine Foods Beef Chevapchichi 400G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/593303.jpg",
+    "barcode": "9319139000074",
+    "shop": "Woolworths",
+    "category_id": "1_D5A2236",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2175",
+        "price_per_unit": "870",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2175",
+        "price_per_unit": "870",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/olga's-fine-foods-chicken-patties-500g-8698141",
+    "name": "Olga's Fine Foods Chicken Patties | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8698141.jpg&w=640&q=90",
+    "barcode": "9319139005055",
+    "shop": "coles",
+    "category_id": "7238",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802206/olga-s-fine-foods-rspca-chicken-patty",
+    "name": "Olga's Fine Foods RSPCA Chicken Patty 500G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802206.jpg",
+    "barcode": "9319139005055",
+    "shop": "Woolworths",
+    "category_id": "1_D5A2236",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

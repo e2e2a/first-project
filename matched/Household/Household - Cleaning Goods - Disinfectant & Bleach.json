@@ -1,0 +1,214 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-lemon-2.5l-170350",
+    "name": "White King Bleach Lemon | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F170350.jpg&w=640&q=90",
+    "barcode": "9333441000973",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "202",
+        "price_per_unit": "504",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37801/white-king-premium-bleach-lemon",
+    "name": "White King Premium Bleach Lemon 2.5L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037801.jpg",
+    "barcode": "9333441000973",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-regular-2.5l-170339",
+    "name": "White King Bleach Regular | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F170339.jpg&w=640&q=90",
+    "barcode": "9333441000959",
+    "shop": "coles",
+    "category_id": "14003",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NSW",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "202",
+        "price_per_unit": "504",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44100/white-king-premium-bleach-regular",
+    "name": "White King Premium Bleach Regular 2.5L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/044100.jpg",
+    "barcode": "9333441000959",
+    "shop": "Woolworths",
+    "category_id": "1_2432B58",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "192",
+        "price_per_unit": "480",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

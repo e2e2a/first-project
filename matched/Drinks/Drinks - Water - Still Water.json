@@ -1,0 +1,424 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/frantelle-australian-still-spring-water-bottles-multipack-600ml-x-24-pack-24-pack-4978690",
+    "name": "Frantelle Australian Still Spring Water Bottles Multipack 600 ... 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4978690.jpg&w=640&q=90",
+    "barcode": "9315626022048",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "770",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219582/frantelle-australian-still-spring-water-bottles-multipack",
+    "name": "Frantelle Australian Still Spring Water Bottles Multipack 600ml x 24 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/219582.jpg",
+    "barcode": "9315626022048",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "770",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pureau-ultra-pure-water-5l-5284754",
+    "name": "Pureau Ultra Pure Water | 5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5284754.jpg&w=640&q=90",
+    "barcode": "9311357000034",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38724/pureau-pure-water",
+    "name": "Pureau Pure Water 5l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038724.jpg",
+    "barcode": "9311357000034",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pureau-nobles-water-ultra-pure-10l-7611636",
+    "name": "Pureau Nobles Water Ultra Pure | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7611636.jpg&w=640&q=90",
+    "barcode": "9311357000041",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "111",
+        "price_per_unit": "1110",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94005/pureau-pure-water-water",
+    "name": "Pureau Pure Water Water 10l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/094005.jpg",
+    "barcode": "9311357000041",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "111",
+        "price_per_unit": "1110",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/noosa-beverages-natural-premium-spring-water-3l-7431328",
+    "name": "Noosa Beverages Natural Premium Spring Water | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7431328.jpg&w=640&q=90",
+    "barcode": "9316555002507",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "340",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/803866/noosa-natural-spring-water",
+    "name": "Noosa Natural Spring Water 3l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/803866.jpg",
+    "barcode": "9316555002507",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marble-hill-natural-spring-water-10l-5136735",
+    "name": "Marble Hill Natural Spring Water | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5136735.jpg&w=640&q=90",
+    "barcode": "9312983000016",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "38",
+        "price_per_unit": "380",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "40",
+        "price_per_unit": "399",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92793/marble-hill-natural-spring-water",
+    "name": "Marble Hill Natural Spring Water 10l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092793.jpg",
+    "barcode": "9312983000016",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "38",
+        "price_per_unit": "380",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "40",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

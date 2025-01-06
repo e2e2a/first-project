@@ -1,0 +1,4400 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-urban-coffee-culture-strong-beans-1kg-7656656",
+    "name": "Coles Urban Coffee Culture Strong Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7656656.jpg&w=640&q=90",
+    "source_id": "Coles - 7656656",
+    "barcode": "9310645261126",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "1575",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-crema-coffee-beans-1kg-1336197",
+    "name": "Grinders Crema Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1336197.jpg&w=640&q=90",
+    "source_id": "Coles - 1336197",
+    "barcode": "9329214001018",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st-ali-orthodox-blend-coffee-beans-500g-8071294",
+    "name": "St Ali Orthodox Blend Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8071294.jpg&w=640&q=90",
+    "source_id": "Coles - 8071294",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "3675",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st-ali-good-vibrations-coffee-beans-250g-4823467",
+    "name": "St Ali Good Vibrations Coffee Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4823467.jpg&w=640&q=90",
+    "source_id": "Coles - 4823467",
+    "barcode": "9355572000721",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st-ali-italo-disco-coffee-beans-250g-3984416",
+    "name": "St Ali Italo Disco Coffee Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3984416.jpg&w=640&q=90",
+    "source_id": "Coles - 3984416",
+    "barcode": "9355572000400",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "760",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st-ali-feels-good-blend-coffee-beans-500g-8071782",
+    "name": "St Ali Feels Good Blend Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8071782.jpg&w=640&q=90",
+    "source_id": "Coles - 8071782",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st-ali-wide-awake-blend-coffee-beans-500g-8071750",
+    "name": "St Ali Wide Awake Blend Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8071750.jpg&w=640&q=90",
+    "source_id": "Coles - 8071750",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "3675",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-espresso-coffee-beans-1kg-2686933",
+    "name": "Grinders Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2686933.jpg&w=640&q=90",
+    "source_id": "Coles - 2686933",
+    "barcode": "9329214001049",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-rich-espresso-coffee-beans-1kg-3516065",
+    "name": "Grinders Rich Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3516065.jpg&w=640&q=90",
+    "source_id": "Coles - 3516065",
+    "barcode": "9329214006068",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "2450",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-urban-coffee-culture-medium-roast-beans-1kg-3616321",
+    "name": "Coles Urban Coffee Culture Medium Roast Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3616321.jpg&w=640&q=90",
+    "source_id": "Coles - 3616321",
+    "barcode": "9310645277905",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "1500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "1575",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-organic-espresso-coffee-beans-1kg-2002095",
+    "name": "Vittoria Organic Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2002095.jpg&w=640&q=90",
+    "source_id": "Coles - 2002095",
+    "barcode": "9310631627691",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "5250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-espresso-coffee-beans-1kg-9184897",
+    "name": "Vittoria Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9184897.jpg&w=640&q=90",
+    "source_id": "Coles - 9184897",
+    "barcode": "9310631000814",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-medium-roast-smooth-and-aromatic-coffee-beans-1kg-8967050",
+    "name": "Lavazza Medium Roast Smooth And Aromatic Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8967050.jpg&w=640&q=90",
+    "source_id": "Coles - 8967050",
+    "barcode": "8000070019744",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "4800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "504",
+        "price_per_unit": "5040",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-mountain-grown-coffee-beans-1kg-8686572",
+    "name": "Vittoria Mountain Grown Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8686572.jpg&w=640&q=90",
+    "source_id": "Coles - 8686572",
+    "barcode": "9310631622764",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "515",
+        "price_per_unit": "5145",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-mediumdark-beans-1kg-5556286",
+    "name": "Daley Street Medium/Dark Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5556286.jpg&w=640&q=90",
+    "source_id": "Coles - 5556286",
+    "barcode": "9310645392240",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "368",
+        "price_per_unit": "3675",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-special-italian-blend-coffee-beans-1kg-443770",
+    "name": "Vittoria Special Italian Blend Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F443770.jpg&w=640&q=90",
+    "source_id": "Coles - 443770",
+    "barcode": "9310631000753",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "2400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "252",
+        "price_per_unit": "2520",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-organic-coffee-beans-1kg-6205946",
+    "name": "Lavazza Espresso Barista Organic Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6205946.jpg&w=640&q=90",
+    "source_id": "Coles - 6205946",
+    "barcode": "8000070067028",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "378",
+        "price_per_unit": "3780",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-intenso-coffee-beans-500g-4875096",
+    "name": "Lavazza Espresso Barista Intenso Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4875096.jpg&w=640&q=90",
+    "source_id": "Coles - 4875096",
+    "barcode": "8000070050983",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "546",
+        "price_per_unit": "2730",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harris-strong-coffee-beans-1kg-3755350",
+    "name": "Harris Strong Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3755350.jpg&w=640&q=90",
+    "source_id": "Coles - 3755350",
+    "barcode": "9310200009392",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "3200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "3200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "3200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "3200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "336",
+        "price_per_unit": "3360",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-espresso-coffee-beans-500g-3208358",
+    "name": "Vittoria Espresso Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3208358.jpg&w=640&q=90",
+    "source_id": "Coles - 3208358",
+    "barcode": "9310631615100",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "462",
+        "price_per_unit": "2310",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-dark-roast-beans-1kg-5556300",
+    "name": "Daley Street Dark Roast Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5556300.jpg&w=640&q=90",
+    "source_id": "Coles - 5556300",
+    "barcode": "9310645392257",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "368",
+        "price_per_unit": "3675",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dc-coffee-beans-darkness-250g-3354746",
+    "name": "DC Coffee Beans Darkness | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3354746.jpg&w=640&q=90",
+    "source_id": "Coles - 3354746",
+    "barcode": "9310175131180",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-qualita-oro-medium-roast-smooth-coffee-beans-500g-6851099",
+    "name": "Lavazza Qualita Oro Medium Roast Smooth Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6851099.jpg&w=640&q=90",
+    "source_id": "Coles - 6851099",
+    "barcode": "8000070019690",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "2625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-organic-coffee-beans-1kg-3516054",
+    "name": "Grinders Organic Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3516054.jpg&w=640&q=90",
+    "source_id": "Coles - 3516054",
+    "barcode": "9329214005818",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "259",
+        "price_per_unit": "2590",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-mediumdark-coffee-beans-200g-3752534",
+    "name": "Daley Street Medium/Dark Coffee Beans | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3752534.jpg&w=640&q=90",
+    "source_id": "Coles - 3752534",
+    "barcode": "9310645292113",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-intenso-coffee-beans-1kg-3756557",
+    "name": "Lavazza Espresso Barista Intenso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3756557.jpg&w=640&q=90",
+    "source_id": "Coles - 3756557",
+    "barcode": "8000070038370",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-cafe-q-cremello-coffee-beans-500g-6331113",
+    "name": "Grinders Cafe Q Cremello Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6331113.jpg&w=640&q=90",
+    "source_id": "Coles - 6331113",
+    "barcode": "9329214006891",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-latte-beans-coffee-1kg-4824390",
+    "name": "Vittoria Latte Beans Coffee | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4824390.jpg&w=640&q=90",
+    "source_id": "Coles - 4824390",
+    "barcode": "9310631635917",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "2800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-gran-crema-coffee-beans-1kg-3756513",
+    "name": "Lavazza Espresso Barista Gran Crema Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3756513.jpg&w=640&q=90",
+    "source_id": "Coles - 3756513",
+    "barcode": "8000070025066",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-cafe-q-cremello-coffee-beans-1kg-6330788",
+    "name": "Grinders Cafe Q Cremello Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6330788.jpg&w=640&q=90",
+    "source_id": "Coles - 6330788",
+    "barcode": "9329214006884",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "376",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dc-coffee-ground-darkness-250g-3354860",
+    "name": "DC Coffee Ground Darkness | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3354860.jpg&w=640&q=90",
+    "source_id": "Coles - 3354860",
+    "barcode": "9310175131241",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-supreme-coffee-beans-500g-8057340",
+    "name": "Vittoria Supreme Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057340.jpg&w=640&q=90",
+    "source_id": "Coles - 8057340",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "2625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st-ali-italo-disco-coffee-beans-500g-4823445",
+    "name": "St Ali Italo Disco Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4823445.jpg&w=640&q=90",
+    "source_id": "Coles - 4823445",
+    "barcode": "9355572000585",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "3675",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jed's-no.5-extra-strong-coffee-beans-1kg-6314216",
+    "name": "Jed's No.5 Extra Strong Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6314216.jpg&w=640&q=90",
+    "source_id": "Coles - 6314216",
+    "barcode": "9310200011098",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-gran-crema-coffee-beans-500g-6205980",
+    "name": "Lavazza Espresso Barista Gran Crema Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6205980.jpg&w=640&q=90",
+    "source_id": "Coles - 6205980",
+    "barcode": "8000070067417",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "546",
+        "price_per_unit": "2730",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-perfetto-beans-1kg-3756502",
+    "name": "Lavazza Espresso Barista Perfetto Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3756502.jpg&w=640&q=90",
+    "source_id": "Coles - 3756502",
+    "barcode": "8000070025035",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "3000",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-dark-roast-coffee-beans-200g-3956160",
+    "name": "Daley Street Dark Roast Coffee Beans | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3956160.jpg&w=640&q=90",
+    "source_id": "Coles - 3956160",
+    "barcode": "9310645328942",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dc-coffee-ground-duchess-250g-3354881",
+    "name": "DC Coffee Ground Duchess | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3354881.jpg&w=640&q=90",
+    "source_id": "Coles - 3354881",
+    "barcode": "9310175131258",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jed's-no.3-strong-coffee-beans-1kg-6314180",
+    "name": "Jed's No.3 Strong Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6314180.jpg&w=640&q=90",
+    "source_id": "Coles - 6314180",
+    "barcode": "9310200011036",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-decaf-coffee-beans-500g-8057282",
+    "name": "Vittoria Decaf Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057282.jpg&w=640&q=90",
+    "source_id": "Coles - 8057282",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "578",
+        "price_per_unit": "2888",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-espresso-magic-coffee-500g-8057330",
+    "name": "Vittoria Espresso Magic Coffee | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057330.jpg&w=640&q=90",
+    "source_id": "Coles - 8057330",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "2625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/urban-coffee-culture-strong-beans-250g-7646801",
+    "name": "Urban Coffee Culture Strong Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7646801.jpg&w=640&q=90",
+    "source_id": "Coles - 7646801",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "189",
+        "price_per_unit": "473",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-medium-coffee-beans-200g-3752578",
+    "name": "Daley Street Medium Coffee Beans | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3752578.jpg&w=640&q=90",
+    "source_id": "Coles - 3752578",
+    "barcode": "9310645292120",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-deluxe-coffee-beans-500g-8057373",
+    "name": "Vittoria Deluxe Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057373.jpg&w=640&q=90",
+    "source_id": "Coles - 8057373",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "2625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-q-graders-cremorne-coffee-beans-250g-5993269",
+    "name": "Daley Street Q-graders Cremorne Coffee Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5993269.jpg&w=640&q=90",
+    "source_id": "Coles - 5993269",
+    "barcode": "9310645403601",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "950",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jed's-no.x-extreme-coffee-beans-1kg-6314227",
+    "name": "Jed's No.X Extreme Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6314227.jpg&w=640&q=90",
+    "source_id": "Coles - 6314227",
+    "barcode": "9310200011159",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dc-coffee-beans-duchess-250g-3354768",
+    "name": "DC Coffee Beans Duchess | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3354768.jpg&w=640&q=90",
+    "source_id": "Coles - 3354768",
+    "barcode": "9310175131197",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caffe-aurora-italian-blend-beans-coffee-1kg-4824415",
+    "name": "Caffe Aurora Italian Blend Beans Coffee | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4824415.jpg&w=640&q=90",
+    "source_id": "Coles - 4824415",
+    "barcode": "9310631635719",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "326",
+        "price_per_unit": "3255",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-perfetto-beans-500g-4873658",
+    "name": "Lavazza Espresso Barista Perfetto Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4873658.jpg&w=640&q=90",
+    "source_id": "Coles - 4873658",
+    "barcode": "8000070046443",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "546",
+        "price_per_unit": "2730",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/five-senses-sightseer-coffee-250g-4930547",
+    "name": "Five Senses Sightseer Coffee | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4930547.jpg&w=640&q=90",
+    "source_id": "Coles - 4930547",
+    "barcode": "9331774002114",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-decaf-beans-200g-7647327",
+    "name": "Daley Street Decaf Beans | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7647327.jpg&w=640&q=90",
+    "source_id": "Coles - 7647327",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "945",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/five-senses-all-aboard-coffee-250g-4930525",
+    "name": "Five Senses All Aboard Coffee | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4930525.jpg&w=640&q=90",
+    "source_id": "Coles - 4930525",
+    "barcode": "9331774002015",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-classique-coffee-beans-500g-8057668",
+    "name": "L'or Classique Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057668.jpg&w=640&q=90",
+    "source_id": "Coles - 8057668",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jed's-no.4-very-strong-coffee-beans-1kg-6314205",
+    "name": "Jed's No.4 Very Strong Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6314205.jpg&w=640&q=90",
+    "source_id": "Coles - 6314205",
+    "barcode": "9310200011067",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yellowline-signature-coffee-beans-500g-8018440",
+    "name": "Yellowline Signature Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8018440.jpg&w=640&q=90",
+    "source_id": "Coles - 8018440",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "460",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-cafe-q-darkoko-coffee-beans-1kg-6329687",
+    "name": "Grinders Cafe Q Darkoko Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6329687.jpg&w=640&q=90",
+    "source_id": "Coles - 6329687",
+    "barcode": "9329214006860",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "365",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "365",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "365",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "365",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "365",
+        "price_per_unit": "3760",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-colombia-coffee-beans-500g-8057679",
+    "name": "L'or Colombia Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057679.jpg&w=640&q=90",
+    "source_id": "Coles - 8057679",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wide-open-road-bathysphere-espresso-blend-250g-8570534",
+    "name": "Wide Open Road Bathysphere Espresso Blend | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8570534.jpg&w=640&q=90",
+    "source_id": "Coles - 8570534",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wide-open-road-shady-lane-espresso-blend-250g-8573180",
+    "name": "Wide Open Road Shady Lane Espresso Blend | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8573180.jpg&w=640&q=90",
+    "source_id": "Coles - 8573180",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wide-open-road-moon-pix-filter-blend-250g-8573260",
+    "name": "Wide Open Road Moon Pix Filter Blend | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8573260.jpg&w=640&q=90",
+    "source_id": "Coles - 8573260",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yellowline-decaf-coffee-beans-1kg-8018484",
+    "name": "Yellowline Decaf Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8018484.jpg&w=640&q=90",
+    "source_id": "Coles - 8018484",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/daley-street-q-graders-cremorne-coffee-beans-1kg-7647349",
+    "name": "Daley Street Q-Graders Cremorne Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7647349.jpg&w=640&q=90",
+    "source_id": "Coles - 7647349",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "473",
+        "price_per_unit": "4725",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-cafe-blend-whole-beans-1000g-8101012",
+    "name": "Mylk Coffee Cafe Blend Whole Beans | 1000g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8101012.jpg&w=640&q=90",
+    "source_id": "Coles - 8101012",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1000g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/1645-reserve-coffee-340g-8744599",
+    "name": "1645 Reserve Coffee | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8744599.jpg&w=640&q=90",
+    "source_id": "Coles - 8744599",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "397",
+        "price_per_unit": "1350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-cafe-blend-whole-beans-250g-8100519",
+    "name": "Mylk Coffee Cafe Blend Whole Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8100519.jpg&w=640&q=90",
+    "source_id": "Coles - 8100519",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-onyx-coffee-beans-500g-8057657",
+    "name": "L'or Onyx Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8057657.jpg&w=640&q=90",
+    "source_id": "Coles - 8057657",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "312",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-mrs-robinson-espresso-blend-whole-bean-250g-8413810",
+    "name": "23 Degrees Coffee Roasters Mrs Robinson Espresso Blend W ... 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413810.jpg&w=640&q=90",
+    "source_id": "Coles - 8413810",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/1645-decaf-coffee-340g-8744668",
+    "name": "1645 Decaf Coffee | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8744668.jpg&w=640&q=90",
+    "source_id": "Coles - 8744668",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "574",
+        "price_per_unit": "1950",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yellowline-decaf-coffee-beans-250g-8018531",
+    "name": "Yellowline Decaf Coffee Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8018531.jpg&w=640&q=90",
+    "source_id": "Coles - 8018531",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-cafe-blend-whole-beans-500g-8100530",
+    "name": "Mylk Coffee Cafe Blend Whole Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8100530.jpg&w=640&q=90",
+    "source_id": "Coles - 8100530",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yellowline-decaf-coffee-beans-500g-8018509",
+    "name": "Yellowline Decaf Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8018509.jpg&w=640&q=90",
+    "source_id": "Coles - 8018509",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "2700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-capri-coffee-beans-500g-8093399",
+    "name": "Lavazza Tales Of Italy Capri Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093399.jpg&w=640&q=90",
+    "source_id": "Coles - 8093399",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "609",
+        "price_per_unit": "3045",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caffe-aurora-prima-qualita-blend-coffee-beans-1kg-4875802",
+    "name": "Caffe Aurora Prima Qualita Blend Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4875802.jpg&w=640&q=90",
+    "source_id": "Coles - 4875802",
+    "barcode": "9310631635733",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "326",
+        "price_per_unit": "3255",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caffe-aurora-espresso-blend-coffee-beans-1kg-4875824",
+    "name": "Caffe Aurora Espresso Blend Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4875824.jpg&w=640&q=90",
+    "source_id": "Coles - 4875824",
+    "barcode": "9310631635771",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "310",
+        "price_per_unit": "3100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "326",
+        "price_per_unit": "3255",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dukes-market-blend-organic-beans-500g-8153322",
+    "name": "Dukes Market Blend Organic Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8153322.jpg&w=640&q=90",
+    "source_id": "Coles - 8153322",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/st.-ali-good-vibrations-coffee-beans-500gram-500gram-6389394",
+    "name": "St. Ali Good Vibrations Coffee Beans 500gram | 500GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6389394.jpg&w=640&q=90",
+    "source_id": "Coles - 6389394",
+    "barcode": "9355572001216",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "3500",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dukes-highwire-blend-organic-beans-500g-8153344",
+    "name": "Dukes Highwire Blend Organic Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8153344.jpg&w=640&q=90",
+    "source_id": "Coles - 8153344",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/five-senses-all-aboard-coffee-1kg-4930514",
+    "name": "Five Senses All Aboard Coffee | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4930514.jpg&w=640&q=90",
+    "source_id": "Coles - 4930514",
+    "barcode": "9331774002053",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "364",
+        "price_per_unit": "3640",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "364",
+        "price_per_unit": "3640",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inglewood-downtown-seasonal-espresso-whole-beans-1kg-8074408",
+    "name": "Inglewood Downtown Seasonal Espresso Whole Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8074408.jpg&w=640&q=90",
+    "source_id": "Coles - 8074408",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pablo-and-rusty's-porter-st-specialty-coffee-beans-1kg-8410607",
+    "name": "Pablo And Rusty's Porter St Specialty Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8410607.jpg&w=640&q=90",
+    "source_id": "Coles - 8410607",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-morning-glory-espresso-blend-whole-bean-1kg-8413809",
+    "name": "23 Degrees Coffee Roasters Morning Glory Espresso Blend Wh ... 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413809.jpg&w=640&q=90",
+    "source_id": "Coles - 8413809",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "5400",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-little-ripper-espresso-blend-whole-bean-250g-8413773",
+    "name": "23 Degrees Coffee Roasters Little Ripper Espresso Blend W ... 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413773.jpg&w=640&q=90",
+    "source_id": "Coles - 8413773",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/1645-classic-coffee-340g-8744577",
+    "name": "1645 Classic Coffee | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8744577.jpg&w=640&q=90",
+    "source_id": "Coles - 8744577",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "456",
+        "price_per_unit": "1550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yellowline-signature-coffee-beans-250g-8018473",
+    "name": "Yellowline Signature Coffee Beans | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8018473.jpg&w=640&q=90",
+    "source_id": "Coles - 8018473",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "640",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/1645-organic-coffee-340g-8744657",
+    "name": "1645 Organic Coffee | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8744657.jpg&w=640&q=90",
+    "source_id": "Coles - 8744657",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "544",
+        "price_per_unit": "1850",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-cafe-q-classico-beans-500g-8058569",
+    "name": "Grinders Cafe-Q Classico Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8058569.jpg&w=640&q=90",
+    "source_id": "Coles - 8058569",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-supreme-blend-whole-beans-500g-8101872",
+    "name": "Mylk Coffee Supreme Blend Whole Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8101872.jpg&w=640&q=90",
+    "source_id": "Coles - 8101872",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-alluring-napoli-premium-coffee-beans-500g-6277834",
+    "name": "Lavazza Tales Of Italy Alluring Napoli Premium Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6277834.jpg&w=640&q=90",
+    "source_id": "Coles - 6277834",
+    "barcode": "8000070069169",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "609",
+        "price_per_unit": "3045",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-eternal-roma-premium-coffee-beans-500g-6277878",
+    "name": "Lavazza Tales Of Italy Eternal Roma Premium Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6277878.jpg&w=640&q=90",
+    "source_id": "Coles - 6277878",
+    "barcode": "8000070069244",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "609",
+        "price_per_unit": "3045",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-big-dog-strong-blend-500g-8067581",
+    "name": "Wolff Coffee Big Dog Strong Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8067581.jpg&w=640&q=90",
+    "source_id": "Coles - 8067581",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "610",
+        "price_per_unit": "3050",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-zero-caffeine-blend-500g-8049207",
+    "name": "Wolff Coffee Zero Caffeine Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8049207.jpg&w=640&q=90",
+    "source_id": "Coles - 8049207",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-low-caffeine-blend-500g-8067480",
+    "name": "Wolff Coffee Low Caffeine Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8067480.jpg&w=640&q=90",
+    "source_id": "Coles - 8067480",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-hero-caffeine-blend-500g-8067548",
+    "name": "Wolff Coffee Hero Caffeine Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8067548.jpg&w=640&q=90",
+    "source_id": "Coles - 8067548",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "630",
+        "price_per_unit": "3150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-lil-red-blend-500g-8068835",
+    "name": "Wolff Coffee Lil Red Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8068835.jpg&w=640&q=90",
+    "source_id": "Coles - 8068835",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "640",
+        "price_per_unit": "3200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dukes-blend-organic-coffee-beans-500g-8153130",
+    "name": "Dukes Blend Organic Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8153130.jpg&w=640&q=90",
+    "source_id": "Coles - 8153130",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "3400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-edelweiss-blend-500g-8067785",
+    "name": "Wolff Coffee Edelweiss Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8067785.jpg&w=640&q=90",
+    "source_id": "Coles - 8067785",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "3450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/1645-reserve-coffee-900g-8744624",
+    "name": "1645 Reserve Coffee | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8744624.jpg&w=640&q=90",
+    "source_id": "Coles - 8744624",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "3450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/1645-classic-coffee-900g-8744588",
+    "name": "1645 Classic Coffee | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8744588.jpg&w=640&q=90",
+    "source_id": "Coles - 8744588",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "439",
+        "price_per_unit": "3950",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yellowline-signature-coffee-beans-1kg-8018429",
+    "name": "Yellowline Signature Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8018429.jpg&w=640&q=90",
+    "source_id": "Coles - 8018429",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "4000",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-supreme-blend-whole-beans-1000g-8102321",
+    "name": "Mylk Coffee Supreme Blend Whole Beans | 1000g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8102321.jpg&w=640&q=90",
+    "source_id": "Coles - 8102321",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1000g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-costa-rica-ra-whole-beans-1000g-8102398",
+    "name": "Mylk Coffee Costa Rica Ra Whole Beans | 1000g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8102398.jpg&w=640&q=90",
+    "source_id": "Coles - 8102398",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1000g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-colombian-whole-beans-1000g-8102412",
+    "name": "Mylk Coffee Colombian Whole Beans | 1000g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8102412.jpg&w=640&q=90",
+    "source_id": "Coles - 8102412",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1000g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mylk-coffee-ethiopian-whole-beans-1000g-8102434",
+    "name": "Mylk Coffee Ethiopian Whole Beans | 1000g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8102434.jpg&w=640&q=90",
+    "source_id": "Coles - 8102434",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1000g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "4500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pablo-and-rusty's-pioneer-coffee-beans-1kg-8059517",
+    "name": "Pablo And Rusty's Pioneer Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8059517.jpg&w=640&q=90",
+    "source_id": "Coles - 8059517",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pablo-and-rusty's-trailblazer-specialty-coffee-beans-1kg-8059539",
+    "name": "Pablo And Rusty's Trailblazer Specialty Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8059539.jpg&w=640&q=90",
+    "source_id": "Coles - 8059539",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "4900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-little-ripper-espresso-blend-whole-bean-1kg-8413795",
+    "name": "23 Degrees Coffee Roasters Little Ripper Espresso Blend Wh ... 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413795.jpg&w=640&q=90",
+    "source_id": "Coles - 8413795",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "5200",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-brazil-whole-bean-1kg-8413977",
+    "name": "23 Degrees Coffee Roasters Brazil Whole Bean | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413977.jpg&w=640&q=90",
+    "source_id": "Coles - 8413977",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "5400",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-big-dog-strong-blend-1kg-8067650",
+    "name": "Wolff Coffee Big Dog Strong Blend | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8067650.jpg&w=640&q=90",
+    "source_id": "Coles - 8067650",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "5500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-lil-red-blend-1kg-8068846",
+    "name": "Wolff Coffee Lil Red Blend | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8068846.jpg&w=640&q=90",
+    "source_id": "Coles - 8068846",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "5700",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-mrs-robinson-espresso-blend-whole-bean-1kg-8413955",
+    "name": "23 Degrees Coffee Roasters Mrs Robinson Espresso Blend Wh ... 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413955.jpg&w=640&q=90",
+    "source_id": "Coles - 8413955",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "5900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-organic-bees-knees-espresso-blend-whole-beans-1kg-8413966",
+    "name": "23 Degrees Coffee Roasters Organic Bees Knees Espresso Ble ... 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413966.jpg&w=640&q=90",
+    "source_id": "Coles - 8413966",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "5900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-organic-peru-whole-bean-1kg-8413988",
+    "name": "23 Degrees Coffee Roasters Organic Peru Whole Bean | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8413988.jpg&w=640&q=90",
+    "source_id": "Coles - 8413988",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "5900",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wolff-coffee-edelweiss-blend-1kg-8067967",
+    "name": "Wolff Coffee Edelweiss Blend | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8067967.jpg&w=640&q=90",
+    "source_id": "Coles - 8067967",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "6800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/23-degrees-coffee-roasters-women-coffee-browers-whole-bean-1kg-8414007",
+    "name": "23 Degrees Coffee Roasters Women Coffee Browers Whole Bean | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8414007.jpg&w=640&q=90",
+    "source_id": "Coles - 8414007",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "780",
+        "price_per_unit": "7800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-coffee-beans-1kg-7647305",
+    "name": "Coles Simply Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7647305.jpg&w=640&q=90",
+    "source_id": "Coles - 7647305",
+    "barcode": "",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "1200",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "126",
+        "price_per_unit": "1260",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-urban-coffee-culture-organic-coffee-beans-1-kg-3956159",
+    "name": "Coles Urban Coffee Culture Organic Coffee Beans | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3956159.jpg&w=640&q=90",
+    "source_id": "Coles - 3956159",
+    "barcode": "9310645328935",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "2000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "2000",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "2000",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-cafe-q-darkoko-coffee-beans-500g-6329698",
+    "name": "Grinders Cafe Q Darkoko Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6329698.jpg&w=640&q=90",
+    "source_id": "Coles - 6329698",
+    "barcode": "9329214006877",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "416",
+        "price_per_unit": "2080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brasilia-coffee-beans-espresso-supa-crema-500g-6864534",
+    "name": "Brasilia Coffee Beans Espresso Supa Crema | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6864534.jpg&w=640&q=90",
+    "source_id": "Coles - 6864534",
+    "barcode": "9312731006024",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brasilia-coffee-beans-italian-espresso-blend-500g-7940605",
+    "name": "Brasilia Coffee Beans Italian Espresso Blend | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7940605.jpg&w=640&q=90",
+    "source_id": "Coles - 7940605",
+    "barcode": "9312731007021",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brasilia-blue-mountain-style-coffee-beans-500g-6864498",
+    "name": "Brasilia Blue Mountain Style Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6864498.jpg&w=640&q=90",
+    "source_id": "Coles - 6864498",
+    "barcode": "9312731003054",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cucina-classica-crema-dark-roast-coffee-beans-500g-1142703",
+    "name": "Cucina Classica Crema Dark Roast Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1142703.jpg&w=640&q=90",
+    "source_id": "Coles - 1142703",
+    "barcode": "9345682001664",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brasilia-italian-espresso-coffee-beans-1kg-7940616",
+    "name": "Brasilia Italian Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7940616.jpg&w=640&q=90",
+    "source_id": "Coles - 7940616",
+    "barcode": "9312731000466",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cucina-classica-espresso-dark-roast-coffee-beans-500g-1142689",
+    "name": "Cucina Classica Espresso Dark Roast Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1142689.jpg&w=640&q=90",
+    "source_id": "Coles - 1142689",
+    "barcode": "9345682001497",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "1900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brasilia-blue-mountain-style-coffee-beans-1kg-6860748",
+    "name": "Brasilia Blue Mountain Style Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6860748.jpg&w=640&q=90",
+    "source_id": "Coles - 6860748",
+    "barcode": "9312731000442",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "2250",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

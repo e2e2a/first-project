@@ -1,0 +1,464 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/pampas-frozen-puff-pastry-sheets-extra-light-6-pack-1kg-9514561",
+    "name": "Pampas Frozen Puff Pastry Sheets Extra Light 6 pack | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9514561.jpg&w=640&q=90",
+    "barcode": "9310002088502",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186550/pampas-puff-pastry-reduced-fat",
+    "name": "Pampas Puff Pastry Reduced Fat 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186550.jpg",
+    "barcode": "9310002088502",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "57",
+        "price_per_unit": "570",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/careme-pastry-all-butter-puff-pastry-375g-3241262",
+    "name": "Careme Pastry All Butter Puff Pastry | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3241262.jpg&w=640&q=90",
+    "barcode": "9339098000007",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/303851/careme-all-butter-puff-pastry-sheet",
+    "name": "Careme All Butter Puff Pastry Sheet 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/303851.jpg",
+    "barcode": "9339098000007",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/careme-sour-cream-shortcrust-pastry-375g-3241295",
+    "name": "Careme Sour Cream Shortcrust Pastry | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3241295.jpg&w=640&q=90",
+    "barcode": "9339098001066",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/814009/careme-spelt-butter-puff-pastry",
+    "name": "Careme Spelt Butter Puff Pastry 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814009.jpg",
+    "barcode": "9339098001066",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "293",
+        "price_per_unit": "1100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pampas-frozen-pastry-puff-550g-6362730",
+    "name": "Pampas Frozen Pastry Puff | 550g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6362730.jpg&w=640&q=90",
+    "barcode": "9310047211323",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301061/pampas-butter-puff-pastry",
+    "name": "Pampas Butter Puff Pastry 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/301061.jpg",
+    "barcode": "9310047211323",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "660",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pampas-frozen-puff-pastry-sheets-10-pack-1.6kg-8469177",
+    "name": "Pampas Frozen Puff Pastry Sheets 10 pack | 1.6kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8469177.jpg&w=640&q=90",
+    "barcode": "9310002011159",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "1.6kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83512/pampas-puff-pastry-10-sheets",
+    "name": "Pampas Puff Pastry 10 Sheets 1.6kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/083512.jpg",
+    "barcode": "9310002011159",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "53",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pampas-frozen-shortcrust-pastry-sheets-5-pack-1kg-4972387",
+    "name": "Pampas Frozen Shortcrust Pastry Sheets 5 pack | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4972387.jpg&w=640&q=90",
+    "barcode": "9310002011265",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32897/pampas-shortcrust-pastry-5-sheets",
+    "name": "Pampas Shortcrust Pastry 5 Sheets 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032897.jpg",
+    "barcode": "9310002011265",
+    "shop": "Woolworths",
+    "category_id": "1_ACA2FC2",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "62",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

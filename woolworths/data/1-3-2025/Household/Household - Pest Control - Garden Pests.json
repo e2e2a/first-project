@@ -1,0 +1,452 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/492620/brunnings-rose-spray-rtu",
+    "name": "Brunnings Rose Spray Rtu 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/492620.jpg",
+    "source_id": "Woolworths - 492620",
+    "barcode": "9310522030456",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12416/brunnings-bug-fungus-kill-rtu",
+    "name": "Brunnings Bug & Fungus Kill Rtu 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/012416.jpg",
+    "source_id": "Woolworths - 12416",
+    "barcode": "9310522028088",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799/brunnings-white-oil-aerosol",
+    "name": "Brunnings White Oil Aerosol 400g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/000799.jpg",
+    "source_id": "Woolworths - 799",
+    "barcode": "9310522030739",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166822/yates-ant-flea-tick-killer-fast-action",
+    "name": "Yates Ant Flea & Tick Killer Fast Action 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166822.jpg",
+    "source_id": "Woolworths - 166822",
+    "barcode": "9310428563430",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1230",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1230",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1230",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1230",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1230",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1230",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/352346/yates-blitzem-garden-snail-slug-pellets",
+    "name": "Yates Blitzem Garden Snail & Slug Pellets 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/352346.jpg",
+    "source_id": "Woolworths - 352346",
+    "barcode": "9310428097409",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166912/yates-blitzem-wasp-killer-nest-destroyer",
+    "name": "Yates Blitzem Wasp Killer & Nest Destroyer 350g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166912.jpg",
+    "source_id": "Woolworths - 166912",
+    "barcode": "9310428563447",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1530",
+        "price_per_unit": "437",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1530",
+        "price_per_unit": "437",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1530",
+        "price_per_unit": "437",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1530",
+        "price_per_unit": "437",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1530",
+        "price_per_unit": "437",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1530",
+        "price_per_unit": "437",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/181992/yates-insect-control-control-spray",
+    "name": "Yates Insect Control Control Spray 750ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/181992.jpg",
+    "source_id": "Woolworths - 181992",
+    "barcode": "9310428428074",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1430",
+        "price_per_unit": "191",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1430",
+        "price_per_unit": "191",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1430",
+        "price_per_unit": "191",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1430",
+        "price_per_unit": "191",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1430",
+        "price_per_unit": "191",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1430",
+        "price_per_unit": "191",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/492044/yates-insect-spray-nature-s-way-all-purpose",
+    "name": "Yates Insect Spray Nature's Way All Purpose 750ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/492044.jpg",
+    "source_id": "Woolworths - 492044",
+    "barcode": "9310428551000",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1650",
+        "price_per_unit": "220",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1650",
+        "price_per_unit": "220",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1650",
+        "price_per_unit": "220",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1650",
+        "price_per_unit": "220",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "220",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1650",
+        "price_per_unit": "220",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195211/yates-pyrethrum-insect-control-spray-bottle-refill",
+    "name": "Yates Pyrethrum Insect Control Spray Bottle & Refill 2x750ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/195211.jpg",
+    "source_id": "Woolworths - 195211",
+    "barcode": "9310428441172",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1750",
+        "price_per_unit": "117",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1750",
+        "price_per_unit": "117",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1750",
+        "price_per_unit": "117",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1750",
+        "price_per_unit": "117",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1750",
+        "price_per_unit": "117",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503940/yates-advanced-garden-insect-killer",
+    "name": "Yates Advanced Garden Insect Killer 750mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/503940.jpg",
+    "source_id": "Woolworths - 503940",
+    "barcode": "9310428565793",
+    "category_id": "1_2432B58",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "193",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

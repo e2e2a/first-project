@@ -1,0 +1,734 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/weis-mango-ice-cream-bars-4-pack-280ml-424685",
+    "name": "Weis Mango Ice Cream Bars 4 Pack | 280mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F424685.jpg&w=640&q=90",
+    "source_id": "Coles - 424685",
+    "barcode": "9310541000515",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/twisted-licks-coconut-dipped-4-pack-320ml-8894503",
+    "name": "Twisted Licks Coconut Dipped 4 Pack | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8894503.jpg&w=640&q=90",
+    "source_id": "Coles - 8894503",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "297",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles.-mango-sorbet-6pk-360ml-1467195",
+    "name": "Coles. Mango Sorbet 6pk | 360mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1467195.jpg&w=640&q=90",
+    "source_id": "Coles - 1467195",
+    "barcode": "9300601968107",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "360ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/weis-ice-cream-mini-bars-mango-6-pack-264ml-6172508",
+    "name": "Weis Ice Cream Mini Bars Mango 6 Pack | 264mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6172508.jpg&w=640&q=90",
+    "source_id": "Coles - 6172508",
+    "barcode": "9300830050574",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "264ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/weis-sorbet-mango-1l-7014681",
+    "name": "Weis Sorbet Mango | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7014681.jpg&w=640&q=90",
+    "source_id": "Coles - 7014681",
+    "barcode": "9310541000904",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "1000",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-skinny-cow-vanilla-carameldouble-choc-ice-cream-variety-4-pack-640ml-7082852",
+    "name": "Peters Skinny Cow Vanilla Caramel/Double Choc Ice Cream Variety 4 ... 640mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7082852.jpg&w=640&q=90",
+    "source_id": "Coles - 7082852",
+    "barcode": "9347043002655",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "640ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/magnum-ice-cream-dairy-free-classic-3pack-270ml-3399347",
+    "name": "Magnum Ice Cream Dairy Free Classic 3Pack | 270mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3399347.jpg&w=640&q=90",
+    "source_id": "Coles - 3399347",
+    "barcode": "8714100658420",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "270ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1080",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/magnum-ice-cream-dairy-free-almond-3pack-270ml-3399358",
+    "name": "Magnum Ice Cream Dairy Free Almond 3Pack | 270mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3399358.jpg&w=640&q=90",
+    "source_id": "Coles - 3399358",
+    "barcode": "8714100658499",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "270ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "1000",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "1080",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/weis-fruit-ice-fruito-bars-4-pack-280ml-424674",
+    "name": "Weis Fruit Ice Fruito Bars 4 pack | 280mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F424674.jpg&w=640&q=90",
+    "source_id": "Coles - 424674",
+    "barcode": "9310541000522",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "339",
+        "price_per_unit": "950",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-skinny-cow-vanilla-choc-sundae-with-peanuts-ice-cream-4-pack-640ml-7082863",
+    "name": "Peters Skinny Cow Vanilla Choc Sundae With Peanuts Ice Cre ... 640mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7082863.jpg&w=640&q=90",
+    "source_id": "Coles - 7082863",
+    "barcode": "9347043002662",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "640ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "109",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-plant-based-vanilla-brownie-ice-cream-4-pack-360ml-3883973",
+    "name": "Connoisseur Plant Based Vanilla Brownie Ice Cream 4 Pack | 360mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3883973.jpg&w=640&q=90",
+    "source_id": "Coles - 3883973",
+    "barcode": "9347042002939",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "360ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "333",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "1296",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-blueberry-sorbet-sticks-420ml-8556760",
+    "name": "Coles Blueberry Sorbet Sticks | 420mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8556760.jpg&w=640&q=90",
+    "source_id": "Coles - 8556760",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "420ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "143",
+        "price_per_unit": "600",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brown-brothers-moscato-mango-swirl-750ml-1-each-8890433",
+    "name": "Brown Brothers Moscato Mango Swirl 750mL | 1 Each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8890433.jpg&w=640&q=90",
+    "source_id": "Coles - 8890433",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "1500",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "1500",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-toothpaste-bluey-mild-mint-gel-90g-3991681",
+    "name": "Colgate Kids Toothpaste Bluey Mild Mint Gel | 90g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3991681.jpg&w=640&q=90",
+    "source_id": "Coles - 3991681",
+    "barcode": "8850006937594",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "306",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-maximum-cavity-protection-toothpaste-great-regular-flavour-pump-130g-238749",
+    "name": "Colgate Maximum Cavity Protection Toothpaste Great Regular Fla ... 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F238749.jpg&w=640&q=90",
+    "source_id": "Coles - 238749",
+    "barcode": "9326689000461",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "462",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "485",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-sensitive-pro-relief-multiprotection-toothpaste-50g-7699728",
+    "name": "Colgate Sensitive Pro Relief Multiprotection Toothpaste | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7699728.jpg&w=640&q=90",
+    "source_id": "Coles - 7699728",
+    "barcode": "9300632072675",
+    "category_id": "15083",
+    "shop": "coles",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

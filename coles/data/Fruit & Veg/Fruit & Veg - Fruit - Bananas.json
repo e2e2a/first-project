@@ -1,0 +1,266 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-approx.-170g-409499",
+    "name": "Coles Bananas | approx 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F409499.jpg&w=640&q=90",
+    "source_id": "Coles - 409499",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "68",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "68",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-mini-pack-750g-2511791",
+    "name": "Coles Bananas Mini Pack | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2511791.jpg&w=640&q=90",
+    "source_id": "Coles - 2511791",
+    "barcode": "9300601464487",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "533",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lady-finger-bananas-approx.-140g-132056",
+    "name": "Coles Lady Finger Bananas | approx 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F132056.jpg&w=640&q=90",
+    "source_id": "Coles - 132056",
+    "barcode": "9369998071104",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "97",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "97",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "97",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-red-tipped-approx.-180g-each-9174565",
+    "name": "Coles Bananas Red Tipped | approx 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9174565.jpg&w=640&q=90",
+    "source_id": "Coles - 9174565",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "106",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "106",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "106",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "106",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-banana-box-15kg-1-each-9561980",
+    "name": "Coles Banana Box 15kg | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9561980.jpg&w=640&q=90",
+    "source_id": "Coles - 9561980",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": "6750",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": "6750",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": null,
+        "price_per_unit": "6750",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": "6000",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": null,
+        "price_per_unit": "6750",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": "6000",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": "6750",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-prepacked-750g-7017500",
+    "name": "Coles Bananas Prepacked | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7017500.jpg&w=640&q=90",
+    "source_id": "Coles - 7017500",
+    "barcode": "9342264000206",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

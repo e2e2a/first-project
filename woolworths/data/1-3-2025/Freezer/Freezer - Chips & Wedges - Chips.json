@@ -1,0 +1,1988 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/822847/birds-eye-deli-sweet-potato-chips",
+    "name": "Birds Eye Deli Sweet Potato Chips 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/822847.jpg",
+    "source_id": "Woolworths - 822847",
+    "barcode": "9310081123187",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "1225",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/179560/birds-eye-golden-crunch-straight-cut-chips",
+    "name": "Birds Eye Golden Crunch Straight Cut Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/179560.jpg",
+    "source_id": "Woolworths - 179560",
+    "barcode": "9310081128809",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "544",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180592/birds-eye-golden-crunch-thin-crispy-chips",
+    "name": "Birds Eye Golden Crunch Thin & Crispy Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180592.jpg",
+    "source_id": "Woolworths - 180592",
+    "barcode": "9310081128830",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "544",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/639533/essentials-french-fries",
+    "name": "Essentials French Fries 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/639533.jpg",
+    "source_id": "Woolworths - 639533",
+    "barcode": "9300633683252",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249351/mccain-beer-batter-steakhouse-chips",
+    "name": "McCain Beer Batter Steakhouse Chips 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249351.jpg",
+    "source_id": "Woolworths - 249351",
+    "barcode": "9310174022885",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "610",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/822845/mccain-pub-style-extra-crispy-chips",
+    "name": "McCain Pub Style Extra Crispy Chips 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/822845.jpg",
+    "source_id": "Woolworths - 822845",
+    "barcode": "9310174173358",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "840",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662935/mccain-superfries-crinkle-cut",
+    "name": "McCain Superfries Crinkle Cut 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/662935.jpg",
+    "source_id": "Woolworths - 662935",
+    "barcode": "9310174157488",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662937/mccain-superfries-shoestring",
+    "name": "McCain Superfries Shoestring 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/662937.jpg",
+    "source_id": "Woolworths - 662937",
+    "barcode": "9310174157495",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682739/birds-eye-deli-seasoned-chips",
+    "name": "Birds Eye Deli Seasoned Chips Golden Ale Beer Batter 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/682739.jpg",
+    "source_id": "Woolworths - 682739",
+    "barcode": "9310081105985",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/752330/birds-eye-deli-seasoned-chips-parmesan-garlic-basil",
+    "name": "Birds Eye Deli Seasoned Chips Parmesan, Garlic & Basil 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/752330.jpg",
+    "source_id": "Woolworths - 752330",
+    "barcode": "9310081457763",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/752346/birds-eye-deli-seasoned-chips-sea-salt-rosemary",
+    "name": "Birds Eye Deli Seasoned Chips Sea Salt & Rosemary 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/752346.jpg",
+    "source_id": "Woolworths - 752346",
+    "barcode": "9310081457756",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180652/birds-eye-golden-crunch-crinkle-cut-chips",
+    "name": "Birds Eye Golden Crunch Crinkle Cut Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180652.jpg",
+    "source_id": "Woolworths - 180652",
+    "barcode": "9310081128823",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "460",
+        "price_per_unit": "511",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "544",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260900/mccain-beer-batter-chips-shoestring",
+    "name": "McCain Beer Batter Chips Shoestring 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/260900.jpg",
+    "source_id": "Woolworths - 260900",
+    "barcode": "9310174022281",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "610",
+        "price_per_unit": "813",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905553/mccain-pub-style-crispy-broccoli-fries",
+    "name": "McCain Pub Style Crispy Broccoli Fries 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/905553.jpg",
+    "source_id": "Woolworths - 905553",
+    "barcode": "9310174117680",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893504/mccain-pub-style-crispy-cauliflower-fries",
+    "name": "McCain Pub Style Crispy Cauliflower Fries 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/893504.jpg",
+    "source_id": "Woolworths - 893504",
+    "barcode": "9310174117505",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34936/mccain-pub-style-fries",
+    "name": "McCain Pub Style Fries 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/034936.jpg",
+    "source_id": "Woolworths - 34936",
+    "barcode": "9310174001477",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "840",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/854298/mccain-straight-sweet-potato-chips",
+    "name": "McCain Straight Sweet Potato Chips 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/854298.jpg",
+    "source_id": "Woolworths - 854298",
+    "barcode": "9310174154128",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662933/mccain-superfries-straight-cut",
+    "name": "McCain Superfries Straight Cut 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/662933.jpg",
+    "source_id": "Woolworths - 662933",
+    "barcode": "9310174157471",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203209/potato-utopia-crispy-seasoned-fries",
+    "name": "Potato Utopia Crispy Seasoned Fries 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/203209.jpg",
+    "source_id": "Woolworths - 203209",
+    "barcode": "9357668000059",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296345/potato-utopia-potato-crunchies-cheddar-cheese",
+    "name": "Potato Utopia Potato Crunchies Cheddar Cheese 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296345.jpg",
+    "source_id": "Woolworths - 296345",
+    "barcode": "9357668000134",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296342/potato-utopia-rustic-skin-on-fries",
+    "name": "Potato Utopia Rustic Skin On Fries 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296342.jpg",
+    "source_id": "Woolworths - 296342",
+    "barcode": "9357668000370",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296348/potato-utopia-steakhouse-fries",
+    "name": "Potato Utopia Steakhouse Fries 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296348.jpg",
+    "source_id": "Woolworths - 296348",
+    "barcode": "9357668000363",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219725/strong-roots-crispy-skinny-fries",
+    "name": "Strong Roots Crispy Skinny Fries 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/219725.jpg",
+    "source_id": "Woolworths - 219725",
+    "barcode": "5391528181353",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "933",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219431/strong-roots-oven-baked-sweet-potato-fries",
+    "name": "Strong Roots Oven Baked Sweet Potato Fries 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/219431.jpg",
+    "source_id": "Woolworths - 219431",
+    "barcode": "5391528181292",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "1470",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219726/strong-roots-proper-chips",
+    "name": "Strong Roots Proper Chips 650g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/219726.jpg",
+    "source_id": "Woolworths - 219726",
+    "barcode": "5391528181315",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1077",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "735",
+        "price_per_unit": "1131",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129039/woolworths-australian-beer-batter-steakhouse-chips",
+    "name": "Woolworths Australian Beer Batter Steakhouse Chips 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/129039.jpg",
+    "source_id": "Woolworths - 129039",
+    "barcode": "9339687218530",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/489678/woolworths-crispy-crinkle-cut-chips",
+    "name": "Woolworths Crispy Crinkle Cut Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/489678.jpg",
+    "source_id": "Woolworths - 489678",
+    "barcode": "9339687362646",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503713/woolworths-shoestring-fries",
+    "name": "Woolworths Shoestring Fries 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/503713.jpg",
+    "source_id": "Woolworths - 503713",
+    "barcode": "9339687362783",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802663/birds-eye-microwave-chips-crinkle",
+    "name": "Birds Eye Microwave Chips Crinkle 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802663.jpg",
+    "source_id": "Woolworths - 802663",
+    "barcode": "9310081122432",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "2643",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802660/birds-eye-microwave-chips-shoestring",
+    "name": "Birds Eye Microwave Chips Shoestring 140g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/802660.jpg",
+    "source_id": "Woolworths - 802660",
+    "barcode": "9310081122449",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "2643",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221063/essentials-frozen-crinkle-cut-chips",
+    "name": "Essentials Frozen Crinkle Cut Chips 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/221063.jpg",
+    "source_id": "Woolworths - 221063",
+    "barcode": "9300633906139",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96698/essentials-frozen-straight-cut-potato-chips",
+    "name": "Essentials Frozen Straight Cut Potato Chips 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096698.jpg",
+    "source_id": "Woolworths - 96698",
+    "barcode": "9300633966980",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16536/mccain-straight-cut-healthy-choice",
+    "name": "McCain Straight Cut Healthy Choice 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/016536.jpg",
+    "source_id": "Woolworths - 16536",
+    "barcode": "9310174001347",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "510",
+        "price_per_unit": "510",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662932/mccain-superfries-steak-cut",
+    "name": "McCain Superfries Steak Cut 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/662932.jpg",
+    "source_id": "Woolworths - 662932",
+    "barcode": "9310174157464",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/502401/woolworths-crinkle-cut-chips",
+    "name": "Woolworths Crinkle Cut Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/502401.jpg",
+    "source_id": "Woolworths - 502401",
+    "barcode": "9339687362790",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/500414/woolworths-crispy-straight-cut-chips",
+    "name": "Woolworths Crispy Straight Cut Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/500414.jpg",
+    "source_id": "Woolworths - 500414",
+    "barcode": "9339687362653",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "556",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/502581/woolworths-steakhouse-chips",
+    "name": "Woolworths Steakhouse Chips 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/502581.jpg",
+    "source_id": "Woolworths - 502581",
+    "barcode": "9339687362806",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901499/your-spud-co-hash-browns",
+    "name": "Your Spud Co Hash Browns 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/901499.jpg",
+    "source_id": "Woolworths - 901499",
+    "barcode": "9309001863098",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901497/your-spud-co-potato-tots",
+    "name": "Your Spud Co Potato Tots 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/901497.jpg",
+    "source_id": "Woolworths - 901497",
+    "barcode": "9309001863104",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/125189/bell-farms-sweet-potato-chips",
+    "name": "Bell Farms Sweet Potato Chips 750g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/125189.jpg",
+    "source_id": "Woolworths - 125189",
+    "barcode": "9339687214488",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296225/potato-utopia-beer-battered-flavoured-fries",
+    "name": "Potato Utopia Beer Battered Flavoured Fries 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296225.jpg",
+    "source_id": "Woolworths - 296225",
+    "barcode": "9357668000264",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296344/potato-utopia-potato-crunchies",
+    "name": "Potato Utopia Potato Crunchies 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296344.jpg",
+    "source_id": "Woolworths - 296344",
+    "barcode": "9357668000196",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "671",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296343/potato-utopia-parmesan-garlic-basil-flavoured-fries",
+    "name": "Potato Utopia Parmesan Garlic & Basil Flavoured Fries 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296343.jpg",
+    "source_id": "Woolworths - 296343",
+    "barcode": "9357668000271",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/270990/woolworths-steakhouse-chips",
+    "name": "Woolworths Steakhouse Chips 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/270990.jpg",
+    "source_id": "Woolworths - 270990",
+    "barcode": "9339687329533",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

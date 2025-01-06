@@ -1,0 +1,2030 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173687/chobani-daily-dollop-dog-yoghurt",
+    "name": "Chobani Daily Dollop Dog Yoghurt 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/173687.jpg",
+    "source_id": "Woolworths - 173687",
+    "barcode": "9310653104934",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116583/farmers-market-adult-chilled-fresh-dog-food-homestyle-shreds-real-beef",
+    "name": "Farmers Market Adult Chilled Fresh Dog Food Homestyle Shreds Real Beef 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/116583.jpg",
+    "source_id": "Woolworths - 116583",
+    "barcode": "9319185003302",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/115087/farmers-market-adult-chilled-fresh-dog-food-homestyle-shreds-real-chicken",
+    "name": "Farmers Market Adult Chilled Fresh Dog Food Homestyle Shreds Real Chicken 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/115087.jpg",
+    "source_id": "Woolworths - 115087",
+    "barcode": "9319185003258",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52160/golp-dog-yoghurt-vanilla-lactose-free",
+    "name": "Golp Dog Yoghurt Vanilla Lactose Free 70g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052160.jpg",
+    "source_id": "Woolworths - 52160",
+    "barcode": "9349335000325",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "371",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "371",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "371",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/513374/nature-s-gift-adult-chilled-fresh-dog-food-roll-chicken-vegetables-rice",
+    "name": "Nature's Gift Adult Chilled Fresh Dog Food Roll Chicken Vegetables & Rice 1.4kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/513374.jpg",
+    "source_id": "Woolworths - 513374",
+    "barcode": "9314364335762",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/513258/nature-s-gift-adult-chilled-fresh-dog-food-roll-with-beef-peas-carrots",
+    "name": "Nature's Gift Adult Chilled Fresh Dog Food Roll With Beef Peas Carrots 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/513258.jpg",
+    "source_id": "Woolworths - 513258",
+    "barcode": "9314364335748",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/569474/nature-s-gift-adult-chilled-fresh-dog-food-roll-with-chicken-vegetables",
+    "name": "Nature's Gift Adult Chilled Fresh Dog Food Roll With Chicken & Vegetables 200g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/569474.jpg",
+    "source_id": "Woolworths - 569474",
+    "barcode": "9314364335724",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77866/nature-s-gift-chilled-fresh-dog-food-meatballs-with-chicken",
+    "name": "Nature's Gift Chilled Fresh Dog Food Meatballs With Chicken 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/077866.jpg",
+    "source_id": "Woolworths - 77866",
+    "barcode": "9314364336714",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/788419/natures-goodness-grain-free-puppy-chilled-fresh-dog-food-roll-chicken-vege",
+    "name": "Natures Goodness Grain Free Puppy Chilled Fresh Dog Food Roll Chicken & Vege 680g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/788419.jpg",
+    "source_id": "Woolworths - 788419",
+    "barcode": "9319185728755",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "59",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345587/paws-fresh-adult-chilled-fresh-dog-food-diced-tender-chicken",
+    "name": "Paws Fresh Adult Chilled Fresh Dog Food Diced Tender Chicken 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/345587.jpg",
+    "source_id": "Woolworths - 345587",
+    "barcode": "9316642010095",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355561/paws-fresh-adult-chilled-fresh-dog-food-gourmet-chunky-mince",
+    "name": "Paws Fresh Adult Chilled Fresh Dog Food Gourmet Chunky Mince 600g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/355561.jpg",
+    "source_id": "Woolworths - 355561",
+    "barcode": "9316642010064",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247686/v-i-p-adult-chilled-fresh-dog-food-beef-carrot-meatballs",
+    "name": "V.I.P. Adult Chilled Fresh Dog Food Beef & Carrot Meatballs 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247686.jpg",
+    "source_id": "Woolworths - 247686",
+    "barcode": "9319185006679",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158895/v-i-p-chunkers-adult-chilled-fresh-dog-food-chicken-egg-meatballs",
+    "name": "V.I.P. Chunkers Adult Chilled Fresh Dog Food Chicken&Egg Meatballs 1Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/158895.jpg",
+    "source_id": "Woolworths - 158895",
+    "barcode": "9319185505059",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217233/v-i-p-chunkers-adult-chilled-fresh-dog-food-lamb-veges-meatball",
+    "name": "V.I.P. Chunkers Adult Chilled Fresh Dog Food Lamb & Veges Meatball 1Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/217233.jpg",
+    "source_id": "Woolworths - 217233",
+    "barcode": "9319185505042",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/126832/v-i-p-gourmet-adult-chilled-fresh-dog-food-roll-premium-chicken",
+    "name": "V.I.P. Gourmet Adult Chilled Fresh Dog Food Roll Premium Chicken 3Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/126832.jpg",
+    "source_id": "Woolworths - 126832",
+    "barcode": "9319185000172",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247722/vip-paws-adult-chilled-fresh-dog-cat-food-chicken-mince",
+    "name": "VIP Paws Adult Chilled Fresh Dog & Cat Food Chicken Mince 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247722.jpg",
+    "source_id": "Woolworths - 247722",
+    "barcode": "9319185006631",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247729/vip-paws-adult-chilled-fresh-dog-cat-food-mince",
+    "name": "VIP Paws Adult Chilled Fresh Dog & Cat Food Mince 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247729.jpg",
+    "source_id": "Woolworths - 247729",
+    "barcode": "9316642000362",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46654/4-legs-angus-beef-meatballs",
+    "name": "4 Legs Angus Beef Meatballs 1.3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/046654.jpg",
+    "source_id": "Woolworths - 46654",
+    "barcode": "9316712000957",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109151/4-legs-beef-with-vegetables-dog-meatballs",
+    "name": "4 Legs Beef With Vegetables Dog Meatballs 870g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/109151.jpg",
+    "source_id": "Woolworths - 109151",
+    "barcode": "9316712001008",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/110296/4-legs-chicken-salmon-meatballs-dog-food",
+    "name": "4 Legs Chicken & Salmon Meatballs Dog Food 1.3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/110296.jpg",
+    "source_id": "Woolworths - 110296",
+    "barcode": "9316712000964",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/111462/4-legs-wellness-kangaroo-dog-meatballs",
+    "name": "4 Legs Wellness Kangaroo Dog Meatballs 870g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111462.jpg",
+    "source_id": "Woolworths - 111462",
+    "barcode": "9316712000995",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258295/baxter-s-adult-fresh-chilled-dog-food-roll-chicken-with-rice",
+    "name": "Baxter's Adult Fresh Chilled Dog Food Roll Chicken With Rice 3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/258295.jpg",
+    "source_id": "Woolworths - 258295",
+    "barcode": "9300633948962",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258293/baxter-s-adult-fresh-chilled-dog-food-roll-meat-with-vegetables",
+    "name": "Baxter's Adult Fresh Chilled Dog Food Roll Meat With Vegetables 3kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/258293.jpg",
+    "source_id": "Woolworths - 258293",
+    "barcode": "9300633948955",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905913/farmers-market-for-dogs-chicken-meatballs",
+    "name": "Farmers Market For Dogs Chicken Meatballs 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/905913.jpg",
+    "source_id": "Woolworths - 905913",
+    "barcode": "9319185007799",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744749/fresh-pet-food-co-kangaroo-meaty-bones",
+    "name": "Fresh Pet Food Co Kangaroo Meaty Bones 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/744749.jpg",
+    "source_id": "Woolworths - 744749",
+    "barcode": "9312141000872",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79406/nature-s-gift-adult-chilled-fresh-dog-food-meatballs-with-kangaroo-peas",
+    "name": "Nature's Gift Adult Chilled Fresh Dog Food Meatballs With Kangaroo & Peas 700g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/079406.jpg",
+    "source_id": "Woolworths - 79406",
+    "barcode": "9314364336721",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/513376/nature-s-gift-adult-chilled-fresh-dog-food-roll-with-kangaroo-peas-sweet",
+    "name": "Nature's Gift Adult Chilled Fresh Dog Food Roll With Kangaroo Peas Sweet 1.4kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/513376.jpg",
+    "source_id": "Woolworths - 513376",
+    "barcode": "9314364335779",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59206/nature-s-gift-adult-wet-dog-food-casserole-with-kangaroo-vegetables",
+    "name": "Nature's Gift Adult Wet Dog Food Casserole With Kangaroo & Vegetables 1.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059206.jpg",
+    "source_id": "Woolworths - 59206",
+    "barcode": "9314364336820",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311474/nature-s-gift-slow-cooked-beef-rice-pumpkin-peas-fresh-dog-food",
+    "name": "Nature's Gift Slow Cooked Beef, Rice Pumpkin & Peas Fresh Dog Food 220g x 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311474.jpg",
+    "source_id": "Woolworths - 311474",
+    "barcode": "9314364337537",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311383/nature-s-gift-slow-cooked-chicken-with-lentils-fresh-dog-food",
+    "name": "Nature's Gift Slow Cooked Chicken With Lentils Fresh Dog Food 220g x 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311383.jpg",
+    "source_id": "Woolworths - 311383",
+    "barcode": "9314364337544",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311445/nature-s-gift-slow-cooked-chicken-with-pasta-fresh-dog-food",
+    "name": "Nature's Gift Slow Cooked Chicken With Pasta Fresh Dog Food 220g x 2 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311445.jpg",
+    "source_id": "Woolworths - 311445",
+    "barcode": "9314364337520",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247526/natures-goodness-grain-free-adult-chilled-fresh-dog-food-roll-chicken-duck",
+    "name": "Natures Goodness Grain Free Adult Chilled Fresh Dog Food Roll Chicken & Duck 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/247526.jpg",
+    "source_id": "Woolworths - 247526",
+    "barcode": "9319185006662",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741227/natures-goodness-grain-free-adult-chilled-fresh-dog-food-roll-roast-meat",
+    "name": "Natures Goodness Grain Free Adult Chilled Fresh Dog Food Roll Roast Meat 2.15kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/741227.jpg",
+    "source_id": "Woolworths - 741227",
+    "barcode": "9319185724580",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741258/natures-goodness-grain-free-mature-chilled-fresh-dog-food-roll-turkey",
+    "name": "Natures Goodness Grain Free Mature Chilled Fresh Dog Food Roll Turkey 2.15kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/741258.jpg",
+    "source_id": "Woolworths - 741258",
+    "barcode": "9319185728960",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108621/prime-pantry-chicken-with-broccoli-apple-dog-roll",
+    "name": "Prime Pantry Chicken With Broccoli & Apple Dog Roll 1.7kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/108621.jpg",
+    "source_id": "Woolworths - 108621",
+    "barcode": "9340710005126",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1270",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1270",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1270",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1270",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113122/prime-pantry-snapper-with-vegetables-dog-food-roll",
+    "name": "Prime Pantry Snapper With Vegetables Dog Food Roll 1.7kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/113122.jpg",
+    "source_id": "Woolworths - 113122",
+    "barcode": "9340710005188",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1270",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1270",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908259/regal-dog-food-dinner-loaf-with-chicken",
+    "name": "Regal Dog Food Dinner Loaf With Chicken 2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/908259.jpg",
+    "source_id": "Woolworths - 908259",
+    "barcode": "9345562001371",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "780",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "780",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "780",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38218/regal-easy-pet-pots-vita-mince-chicken-roo",
+    "name": "Regal Easy Pet Pots Vita-Mince Chicken & Roo 90g x8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/038218.jpg",
+    "source_id": "Woolworths - 38218",
+    "barcode": "9345562000589",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "675",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "675",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248121/regal-meatball-toppers-with-beef-for-dogs",
+    "name": "Regal Meatball Toppers With Beef For Dogs 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/248121.jpg",
+    "source_id": "Woolworths - 248121",
+    "barcode": "9345562001234",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "730",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "730",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "730",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "730",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "730",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186278/v-i-p-mega-adult-chilled-fresh-dog-food-roll-beef",
+    "name": "V.I.P. Mega Adult Chilled Fresh Dog Food Roll Beef 3Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/186278.jpg",
+    "source_id": "Woolworths - 186278",
+    "barcode": "9319185000264",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239418/v-i-p-paws-fresh-adult-chilled-fresh-dog-cat-food-lean-mince",
+    "name": "V.I.P. Paws Fresh Adult Chilled Fresh Dog & Cat Food Lean Mince 3Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/239418.jpg",
+    "source_id": "Woolworths - 239418",
+    "barcode": "9316642000294",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "57",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249376/v-i-p-supreme-fresh-adult-chilled-fresh-dog-food-steak-mince",
+    "name": "V.I.P. Supreme Fresh Adult Chilled Fresh Dog Food Steak Mince 800G",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/249376.jpg",
+    "source_id": "Woolworths - 249376",
+    "barcode": "9319185011079",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/107926/4-legs-chicken-with-vegetables-dog-meatballs",
+    "name": "4 Legs Chicken With Vegetables Dog Meatballs 870g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/107926.jpg",
+    "source_id": "Woolworths - 107926",
+    "barcode": "9316712000988",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136980/fresh-pet-food-co-pets-mince",
+    "name": "Fresh Pet Food Co Pets Mince 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/136980.jpg",
+    "source_id": "Woolworths - 136980",
+    "barcode": "9312141000247",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114553/premi-yum-free-range-chicken-mince-for-pets",
+    "name": "Premi-Yum Free Range Chicken Mince For Pets 2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/114553.jpg",
+    "source_id": "Woolworths - 114553",
+    "barcode": "9334864004388",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171102/v-i-p-prota-pak-adult-chilled-fresh-dog-food-roll-chicken-rice",
+    "name": "V.I.P. Prota Pak Adult Chilled Fresh Dog Food Roll Chicken & Rice 3Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/171102.jpg",
+    "source_id": "Woolworths - 171102",
+    "barcode": "9311754555588",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170057/v-i-p-prota-pak-adult-chilled-fresh-dog-food-roll-lamb-veges",
+    "name": "V.I.P. Prota Pak Adult Chilled Fresh Dog Food Roll Lamb & Veges 3Kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170057.jpg",
+    "source_id": "Woolworths - 170057",
+    "barcode": "9311754555564",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310987/premiyum-slow-cooked-chicken-power-bowl-dog-food",
+    "name": "Premiyum Slow Cooked Chicken Power Bowl Dog Food 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310987.jpg",
+    "source_id": "Woolworths - 310987",
+    "barcode": "9334864005934",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112690/regal-premium-pet-mince-chicken-beef-roo",
+    "name": "Regal Premium Pet Mince Chicken, Beef & Roo 3.2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/112690.jpg",
+    "source_id": "Woolworths - 112690",
+    "barcode": "9345562000824",
+    "category_id": "1_61D6FEB",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1670",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1670",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1670",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1670",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

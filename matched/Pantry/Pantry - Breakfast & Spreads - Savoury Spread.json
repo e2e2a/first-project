@@ -1,0 +1,904 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cream-cheese-spread-original-500g-1744739",
+    "name": "Bega Cream Cheese Spread Original | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1744739.jpg&w=640&q=90",
+    "barcode": "9352042001202",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781655/bega-cream-cheese-spread-spread",
+    "name": "Bega Cream Cheese Spread Spread 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/781655.jpg",
+    "barcode": "9352042001202",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-cheesybite-spread-270g-7277239",
+    "name": "Vegemite Cheesybite Spread | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7277239.jpg&w=640&q=90",
+    "barcode": "9352042000441",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "214",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333060/vegemite-cheesy-bite-spread",
+    "name": "Vegemite Cheesy Bite Spread 270g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/333060.jpg",
+    "barcode": "9352042000441",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "204",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-gluten-free-spread-235g-3447643",
+    "name": "Vegemite Gluten Free Spread | 235g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3447643.jpg&w=640&q=90",
+    "barcode": "9352042002094",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "235g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "246",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840274/vegemite-gluten-free-spread",
+    "name": "Vegemite Gluten Free Spread 235g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/840274.jpg",
+    "barcode": "9352042002094",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cream-cheese-spread-bold-500g-1744692",
+    "name": "Bega Cream Cheese Spread Bold | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1744692.jpg&w=640&q=90",
+    "barcode": "9352042001189",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/795867/bega-cream-cheese-spread-bold",
+    "name": "Bega Cream Cheese Spread Bold 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/795867.jpg",
+    "barcode": "9352042001189",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-original-cream-cheese-spread-250g-1744852",
+    "name": "Bega Original Cream Cheese Spread | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1744852.jpg&w=640&q=90",
+    "barcode": "9352042001196",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781650/bega-cream-cheese-spread-spread",
+    "name": "Bega Cream Cheese Spread Spread 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/781650.jpg",
+    "barcode": "9352042001196",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1640",
+        "price_per_unit": "410",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1640",
+        "price_per_unit": "410",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1640",
+        "price_per_unit": "410",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1640",
+        "price_per_unit": "410",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1640",
+        "price_per_unit": "410",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1640",
+        "price_per_unit": "410",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1720",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-chicken-spread-100g-8557730",
+    "name": "Podravka Chicken Spread | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8557730.jpg&w=640&q=90",
+    "barcode": "3858886462729",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "273",
+        "price_per_unit": "273",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/323962/podravka-chicken-paste",
+    "name": "Podravka Chicken Paste 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/323962.jpg",
+    "barcode": "3858886462729",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mighty-mite-yeast-spread-290g-8979752",
+    "name": "Mighty Mite Yeast Spread | 290g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8979752.jpg&w=640&q=90",
+    "barcode": "9310480333477",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "290g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148103/three-threes-mightymite-spread",
+    "name": "Three Threes Mightymite Spread 290g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/148103.jpg",
+    "barcode": "9310480333477",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "109",
+        "price_per_unit": "315",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "121",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "121",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "121",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-40percent-salt-reduced-235g-3741980",
+    "name": "Vegemite 40% Salt Reduced | 235g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3741980.jpg&w=640&q=90",
+    "barcode": "9352042002773",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "235g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "246",
+        "price_per_unit": "578",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97722/vegemite-salt-reduced-40-less-salt",
+    "name": "Vegemite Salt Reduced 40% Less Salt 235g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097722.jpg",
+    "barcode": "9352042002773",
+    "shop": "Woolworths",
+    "category_id": "1_39FD49C",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "234",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

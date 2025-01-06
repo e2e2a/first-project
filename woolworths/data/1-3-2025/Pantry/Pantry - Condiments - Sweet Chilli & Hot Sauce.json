@@ -1,0 +1,3320 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/759137/frank-s-redhot-original-cayenne-pepper-hot-sauce",
+    "name": "Frank's Redhot Original Cayenne Pepper Hot Sauce 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/759137.jpg",
+    "source_id": "Woolworths - 759137",
+    "barcode": "41500885315",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "284",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34420/holbrooks-sauce-worcestershire",
+    "name": "Holbrooks Sauce Worcestershire 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/034420.jpg",
+    "source_id": "Woolworths - 34420",
+    "barcode": "9300623020128",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "128",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "335",
+        "price_per_unit": "134",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37774/holbrooks-sauce-worcestershire",
+    "name": "Holbrooks Sauce Worcestershire 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/037774.jpg",
+    "source_id": "Woolworths - 37774",
+    "barcode": "9310047202048",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "126",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142142/masterfoods-hot-chilli-sauce",
+    "name": "MasterFoods Hot Chilli Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/142142.jpg",
+    "source_id": "Woolworths - 142142",
+    "barcode": "9310012024606",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116737/masterfoods-sweet-chilli-sauce",
+    "name": "MasterFoods Sweet Chilli Sauce 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/116737.jpg",
+    "source_id": "Woolworths - 116737",
+    "barcode": "9310012024248",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "475",
+        "price_per_unit": "95",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/473746/nando-s-perinaise-mild-peri-peri-mayonnaise-sauce",
+    "name": "Nando's Perinaise Mild Peri-Peri Mayonnaise Sauce 265g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/473746.jpg",
+    "source_id": "Woolworths - 473746",
+    "barcode": "6003770011126",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24765/trident-chilli-sauce-sweet-chilli",
+    "name": "Trident Chilli Sauce Sweet Chilli 285ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/024765.jpg",
+    "source_id": "Woolworths - 24765",
+    "barcode": "9310560024264",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "385",
+        "price_per_unit": "135",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "405",
+        "price_per_unit": "142",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296914/woolworths-sweet-chilli-sauce",
+    "name": "Woolworths Sweet Chilli Sauce 280ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296914.jpg",
+    "source_id": "Woolworths - 296914",
+    "barcode": "9300633982447",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "71",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "71",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "71",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "71",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "71",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "71",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/563932/woolworths-sweet-chilli-sauce",
+    "name": "Woolworths Sweet Chilli Sauce 700ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/563932.jpg",
+    "source_id": "Woolworths - 563932",
+    "barcode": "9300633630126",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "295",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230475/woolworths-worcestershire-sauce",
+    "name": "Woolworths Worcestershire Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230475.jpg",
+    "source_id": "Woolworths - 230475",
+    "barcode": "9300633910020",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/168680/abc-chilli-sauce-extra-hot",
+    "name": "ABC Chilli Sauce Extra Hot 340ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/168680.jpg",
+    "source_id": "Woolworths - 168680",
+    "barcode": "711844120075",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "360",
+        "price_per_unit": "107",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171383/billy-b-s-billy-b-s-fermented-hot-sauce",
+    "name": "Billy b's Fermented Hot Sauce 200ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/171383.jpg",
+    "source_id": "Woolworths - 171383",
+    "barcode": "9310347000238",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757902/cholula-hot-sauce",
+    "name": "Cholula Hot Sauce 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/757902.jpg",
+    "source_id": "Woolworths - 757902",
+    "barcode": "7501035026001",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394971/culley-s-cheeky-chipotle-sauce-mild",
+    "name": "Culley's Cheeky Chipotle Sauce Mild 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/394971.jpg",
+    "source_id": "Woolworths - 394971",
+    "barcode": "9421017603144",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390741/culley-s-demure-habanero-hot-sauce-medium-heat",
+    "name": "Culley's Demure Habanero Hot Sauce Medium Heat 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390741.jpg",
+    "source_id": "Woolworths - 390741",
+    "barcode": "9421017603151",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394695/culley-s-furious-reaper-hot-sauce",
+    "name": "Culley's Furious Reaper Hot Sauce 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/394695.jpg",
+    "source_id": "Woolworths - 394695",
+    "barcode": "9421017603120",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/396868/culley-s-malevolent-ghost-hot-sauce-insane-heat",
+    "name": "Culley's Malevolent Ghost Hot Sauce Insane Heat 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/396868.jpg",
+    "source_id": "Woolworths - 396868",
+    "barcode": "9421017603175",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66721/flying-goose-sriracha-sauce-original",
+    "name": "Flying Goose Sriracha Sauce Original 730mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/066721.jpg",
+    "source_id": "Woolworths - 66721",
+    "barcode": "8853662056029",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "995",
+        "price_per_unit": "136",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "995",
+        "price_per_unit": "136",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "995",
+        "price_per_unit": "136",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "995",
+        "price_per_unit": "136",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "995",
+        "price_per_unit": "136",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "995",
+        "price_per_unit": "136",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1045",
+        "price_per_unit": "143",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53869/fountain-hot-chilli-sauce",
+    "name": "Fountain Hot Chilli Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/053869.jpg",
+    "source_id": "Woolworths - 53869",
+    "barcode": "9300681194175",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47106/fountain-sweet-chilli-sauce",
+    "name": "Fountain Sweet Chilli Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/047106.jpg",
+    "source_id": "Woolworths - 47106",
+    "barcode": "9300681197190",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61704/frank-s-redhot-buffalo-wings-hot-sauce",
+    "name": "Frank's Redhot Buffalo Wings Hot Sauce 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/061704.jpg",
+    "source_id": "Woolworths - 61704",
+    "barcode": "41500010212",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "284",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52145/frank-s-redhot-xtra-hot-cayenne-pepper-hot-sauce",
+    "name": "Frank's Redhot Xtra Hot Cayenne Pepper Hot Sauce 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052145.jpg",
+    "source_id": "Woolworths - 52145",
+    "barcode": "41500885339",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "270",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "284",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/522639/heinz-american-mustard-squeeze-bottle",
+    "name": "Heinz American Mustard Squeeze Bottle 220ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/522639.jpg",
+    "source_id": "Woolworths - 522639",
+    "barcode": "9300657036270",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "182",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252148/lea-perrins-worcestershire-sauce",
+    "name": "Lea & Perrins Worcestershire Sauce 290ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252148.jpg",
+    "source_id": "Woolworths - 252148",
+    "barcode": "5000111045414",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "172",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "172",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "172",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "181",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238277/masterfoods-garlic-truffle-flavour-no-rules-sauce",
+    "name": "MasterFoods Garlic & Truffle Flavour No Rules Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/238277.jpg",
+    "source_id": "Woolworths - 238277",
+    "barcode": "9310012061991",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "202",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238293/masterfoods-smokey-chipotle-no-rules-sauce",
+    "name": "MasterFoods Smokey Chipotle No Rules Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/238293.jpg",
+    "source_id": "Woolworths - 238293",
+    "barcode": "9310012061984",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "192",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "202",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166920/nando-s-garlic-medium-peri-peri-chilli-sauce",
+    "name": "Nando's Garlic Medium Peri-Peri Chilli Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166920.jpg",
+    "source_id": "Woolworths - 166920",
+    "barcode": "6003770000649",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717857/nando-s-hot-peri-peri-chilli-sauce-peri-peri-sauce",
+    "name": "Nando's Hot Peri-Peri Chilli Sauce Peri Peri Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/717857.jpg",
+    "source_id": "Woolworths - 717857",
+    "barcode": "6003770000663",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/473749/nando-s-medium-peri-peri-chilli-sauce-peri-peri-sauce",
+    "name": "Nando's Medium Peri-Peri Chilli Sauce Peri Peri Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/473749.jpg",
+    "source_id": "Woolworths - 473749",
+    "barcode": "6003770000168",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/844408/nando-s-mild-peri-peri-chilli-sauce-sauce",
+    "name": "Nando's Mild Peri-Peri Chilli Sauce Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/844408.jpg",
+    "source_id": "Woolworths - 844408",
+    "barcode": "6003770003091",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94176/nando-s-perinaise-garlic-peri-peri-mayonnaise-sauce",
+    "name": "Nando's Perinaise Garlic Peri-Peri Mayonnaise Sauce 265g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/094176.jpg",
+    "source_id": "Woolworths - 94176",
+    "barcode": "6003770013120",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/473744/nando-s-perinaise-hot-peri-peri-mayonnaise-sauce",
+    "name": "Nando's Perinaise Hot Peri-Peri Mayonnaise Sauce 265g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/473744.jpg",
+    "source_id": "Woolworths - 473744",
+    "barcode": "6003770011157",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166921/nando-s-perinaise-hot-peri-peri-mayonnaise-sauce",
+    "name": "Nando's Perinaise Hot Peri-Peri Mayonnaise Sauce 465g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166921.jpg",
+    "source_id": "Woolworths - 166921",
+    "barcode": "6003770009260",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "765",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/880522/nando-s-perinaise-mild-peri-peri-mayonnaise-sauce",
+    "name": "Nando's Perinaise Mild Peri-Peri Mayonnaise Sauce 465g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/880522.jpg",
+    "source_id": "Woolworths - 880522",
+    "barcode": "6003770008867",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "730",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "765",
+        "price_per_unit": "165",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387270/nando-s-sweet-chilli-jam-medium",
+    "name": "Nando's Sweet Chilli Jam Medium 285g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/387270.jpg",
+    "source_id": "Woolworths - 387270",
+    "barcode": "6003770013168",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "540",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "540",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "540",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "540",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "540",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "540",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "565",
+        "price_per_unit": "198",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122172/nando-s-xx-hot-peri-peri-chilli-sauce",
+    "name": "Nando's Xx Hot Peri-Peri Chilli Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/122172.jpg",
+    "source_id": "Woolworths - 122172",
+    "barcode": "6003770002674",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "715",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66161/spring-gully-worcestershire-sauce",
+    "name": "Spring Gully Worcestershire Sauce 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/066161.jpg",
+    "source_id": "Woolworths - 66161",
+    "barcode": "93733526",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53367/tabasco-chilli-sauce-red-pepper",
+    "name": "Tabasco Chilli Sauce Red Pepper 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/053367.jpg",
+    "source_id": "Woolworths - 53367",
+    "barcode": "11210002593",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "633",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "633",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "633",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "633",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "633",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "633",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33129/tabasco-chilli-sauce-red-pepper",
+    "name": "Tabasco Chilli Sauce Red Pepper 60ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033129.jpg",
+    "source_id": "Woolworths - 33129",
+    "barcode": "9300610637001",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "967",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/474369/tabasco-chipotle-sauce",
+    "name": "Tabasco Chipotle Sauce 60ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/474369.jpg",
+    "source_id": "Woolworths - 474369",
+    "barcode": "11210607033",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "967",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48548/tabasco-green-pepper-mild-sauce",
+    "name": "Tabasco Green Pepper Mild Sauce 60ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/048548.jpg",
+    "source_id": "Woolworths - 48548",
+    "barcode": "11210009387",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "917",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "967",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/389064/the-holy-sauce-hot-sriracha-chilli-sauce",
+    "name": "The Holy Sauce Hot Sriracha Chilli Sauce 255ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/389064.jpg",
+    "source_id": "Woolworths - 389064",
+    "barcode": "8437021852424",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "315",
+        "price_per_unit": "124",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/971491/the-holy-sauce-worcestershire-sauce",
+    "name": "The Holy Sauce Worcestershire Sauce 250mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/971491.jpg",
+    "source_id": "Woolworths - 971491",
+    "barcode": "8436606892527",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "265",
+        "price_per_unit": "106",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/241193/tian-hu-sriracha-hot-sauce",
+    "name": "Tian Hu Sriracha Hot Sauce 455ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/241193.jpg",
+    "source_id": "Woolworths - 241193",
+    "barcode": "9337944001079",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "77",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62664/trident-chilli-sauce-sweet-chilli",
+    "name": "Trident Chilli Sauce Sweet Chilli 730ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/062664.jpg",
+    "source_id": "Woolworths - 62664",
+    "barcode": "9310560024271",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "75",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "580",
+        "price_per_unit": "79",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242199/trident-sriracha-hot-chilli-sauce",
+    "name": "Trident Sriracha Hot Chilli Sauce 480ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/242199.jpg",
+    "source_id": "Woolworths - 242199",
+    "barcode": "9310560023649",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "121",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "121",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "121",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "121",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "121",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "121",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "610",
+        "price_per_unit": "127",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/1730/beerenberg-birdseye-habanero-chilli-sauce",
+    "name": "Beerenberg Birdseye & Habanero Chilli Sauce 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/001730.jpg",
+    "source_id": "Woolworths - 1730",
+    "barcode": "9311485502257",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "640",
+        "price_per_unit": "213",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "640",
+        "price_per_unit": "213",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "213",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "640",
+        "price_per_unit": "213",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215154/byron-bay-chilli-co-chilli-sauce-fiery-coconut",
+    "name": "Byron Bay Chilli Co. Chilli Sauce Fiery Coconut 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/215154.jpg",
+    "source_id": "Woolworths - 215154",
+    "barcode": "804798000019",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370947/byron-bay-chilli-co-chilli-sauce-green-jalapeno",
+    "name": "Byron Bay Chilli Co. Chilli Sauce Green Jalapeno 250ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/370947.jpg",
+    "source_id": "Woolworths - 370947",
+    "barcode": "804798003003",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "525",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94921/byron-bay-chilli-co-heavenly-habanero-hot-sauce",
+    "name": "Byron Bay Chilli Co. Heavenly Habanero Hot Sauce 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/094921.jpg",
+    "source_id": "Woolworths - 94921",
+    "barcode": "804798001016",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "475",
+        "price_per_unit": "317",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169908/byron-bay-chilli-co-smoky-chipotle-hot-sauce-with-mango-garlic-hot",
+    "name": "Byron Bay Chilli Co. Smoky Chipotle Hot Sauce With Mango & Garlic Hot 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169908.jpg",
+    "source_id": "Woolworths - 169908",
+    "barcode": "804798004017",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964291/cholula-chilli-garlic-sauce",
+    "name": "Cholula Chilli Garlic Sauce 150mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/964291.jpg",
+    "source_id": "Woolworths - 964291",
+    "barcode": "49733000192",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962055/cholula-chipotle-hot-sauce",
+    "name": "Cholula Chipotle Hot Sauce 150mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/962055.jpg",
+    "source_id": "Woolworths - 962055",
+    "barcode": "49733000208",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/393717/culley-s-dreamy-mango-coco-hot-sauce-low-heat",
+    "name": "Culley's Dreamy Mango Coco Hot Sauce Low Heat 148ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/393717.jpg",
+    "source_id": "Woolworths - 393717",
+    "barcode": "9421017603137",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "541",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972235/frank-s-red-hot-original-sauce",
+    "name": "Frank's Red Hot Original Sauce 354mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/972235.jpg",
+    "source_id": "Woolworths - 972235",
+    "barcode": "41500013558",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "760",
+        "price_per_unit": "215",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "760",
+        "price_per_unit": "215",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "760",
+        "price_per_unit": "215",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "760",
+        "price_per_unit": "215",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "760",
+        "price_per_unit": "215",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "226",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/128015/good-sauce-hot-habanero",
+    "name": "Good Sauce Hot Habanero 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/128015.jpg",
+    "source_id": "Woolworths - 128015",
+    "barcode": "784927404225",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/128055/good-sauce-sweet-chilli",
+    "name": "Good Sauce Sweet Chilli 260g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/128055.jpg",
+    "source_id": "Woolworths - 128055",
+    "barcode": "784927404140",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "385",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "385",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "385",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171174/mingle-better-sweet-chilli-sauce",
+    "name": "Mingle Better Sweet Chilli Sauce 250g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/171174.jpg",
+    "source_id": "Woolworths - 171174",
+    "barcode": "9350465000345",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "595",
+        "price_per_unit": "238",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "595",
+        "price_per_unit": "238",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "595",
+        "price_per_unit": "238",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167094/nando-s-perinaise-vegan-peri-peri-mayonnaise-sauce",
+    "name": "Nando's Perinaise Vegan Peri-Peri Mayonnaise Sauce 265g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/167094.jpg",
+    "source_id": "Woolworths - 167094",
+    "barcode": "6003770013144",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "505",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250694/spring-gully-sweet-chilli-sauce-gluten-free",
+    "name": "Spring Gully Sweet Chilli Sauce Gluten Free 245ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250694.jpg",
+    "source_id": "Woolworths - 250694",
+    "barcode": "9300733004421",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "365",
+        "price_per_unit": "149",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "365",
+        "price_per_unit": "149",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "365",
+        "price_per_unit": "149",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "365",
+        "price_per_unit": "149",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "365",
+        "price_per_unit": "149",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "385",
+        "price_per_unit": "157",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311317/tabasco-habanero-sauce",
+    "name": "Tabasco Habanero Sauce 60ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/311317.jpg",
+    "source_id": "Woolworths - 311317",
+    "barcode": "11210006508",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79955/tabasco-sriracha-sauce",
+    "name": "Tabasco Sriracha Sauce 256ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/079955.jpg",
+    "source_id": "Woolworths - 79955",
+    "barcode": "9311616035593",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "234",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "234",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "234",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "234",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "234",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "605",
+        "price_per_unit": "236",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390922/bunsters-green-gold-hot-sauce-tangy-herby-flavour-bomb",
+    "name": "Bunsters Green & Gold Hot Sauce Tangy Herby Flavour Bomb 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390922.jpg",
+    "source_id": "Woolworths - 390922",
+    "barcode": "9354816077802",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "433",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390417/bunsters-original-hot-sauce-fruity-zesty-flavour-bomb",
+    "name": "Bunsters Original Hot Sauce Fruity Zesty Flavour Bomb 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390417.jpg",
+    "source_id": "Woolworths - 390417",
+    "barcode": "9354816077819",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "433",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390448/bunsters-pretty-hot-sauce-fair-dinkum-heat-flavour",
+    "name": "Bunsters Pretty Hot Sauce Fair Dinkum Heat & Flavour 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/390448.jpg",
+    "source_id": "Woolworths - 390448",
+    "barcode": "9354816077031",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "433",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63974/sriracha-hot-chilli-sauce-ketchup",
+    "name": "Sriracha Hot Chilli Sauce Ketchup 567g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/063974.jpg",
+    "source_id": "Woolworths - 63974",
+    "barcode": "72940748373",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388983/beerenberg-the-chipotle-maple-sauce",
+    "name": "Beerenberg The Chipotle & Maple Sauce 300ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/388983.jpg",
+    "source_id": "Woolworths - 388983",
+    "barcode": "9311485002894",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "740",
+        "price_per_unit": "247",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "740",
+        "price_per_unit": "247",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "740",
+        "price_per_unit": "247",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "775",
+        "price_per_unit": "258",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170378/byron-bay-chilli-co-sizzlin-cayenne-hot-sauce-with-cumin-lime-hot",
+    "name": "Byron Bay Chilli Co. Sizzlin Cayenne Hot Sauce With Cumin & Lime Hot 150ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170378.jpg",
+    "source_id": "Woolworths - 170378",
+    "barcode": "804798002013",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41178/cornwell-s-lancashire-relish",
+    "name": "Cornwell's Lancashire Relish 500ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041178.jpg",
+    "source_id": "Woolworths - 41178",
+    "barcode": "9310159557104",
+    "category_id": "1_39FD49C",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "630",
+        "price_per_unit": "126",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

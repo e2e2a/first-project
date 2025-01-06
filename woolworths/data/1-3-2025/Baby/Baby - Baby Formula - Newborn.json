@@ -1,0 +1,878 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907532/a2-milk-gentle-gold-stage-1-infant-formula-0-6m",
+    "name": "A2 Milk Gentle Gold Stage 1 Infant Formula 0 - 6m 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/907532.jpg",
+    "source_id": "Woolworths - 907532",
+    "barcode": "9421902960888",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3200",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236992/a2-platinum-infant-formula-stage-1",
+    "name": "A2 Platinum Infant Formula Stage 1 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/236992.jpg",
+    "source_id": "Woolworths - 236992",
+    "barcode": "9421902960598",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "4050",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "4255",
+        "price_per_unit": "473",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613484/alula-advance-stage-1-newborn-baby-formula-0-6-months",
+    "name": "Alula Advance+ Stage 1 Newborn Baby Formula 0-6 Months 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/613484.jpg",
+    "source_id": "Woolworths - 613484",
+    "barcode": "9347832001272",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/654782/alula-gold-newborn-0-6-months-infant-formula",
+    "name": "Alula Gold Newborn 0-6 Months Infant Formula 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/654782.jpg",
+    "source_id": "Woolworths - 654782",
+    "barcode": "9347832001210",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2850",
+        "price_per_unit": "317",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2995",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/654785/alula-original-newborn-0-6-months-infant-formula",
+    "name": "Alula Original Newborn 0-6 Months Infant Formula 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/654785.jpg",
+    "source_id": "Woolworths - 654785",
+    "barcode": "9347832001135",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/378531/aptamil-gold-1-baby-infant-formula-from-birth-to-6-months",
+    "name": "Aptamil Gold+ 1 Baby Infant Formula From Birth To 6 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/378531.jpg",
+    "source_id": "Woolworths - 378531",
+    "barcode": "9418783002820",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250240/bellamy-s-organic-organic-infant-baby-formula-stage-1-from-birth-to-6-mo",
+    "name": "Bellamy's Organic Infant Baby Formula Stage 1 From Birth To 6 Mo 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/250240.jpg",
+    "source_id": "Woolworths - 250240",
+    "barcode": "9332045001744",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3780",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/87877/bubs-organic-grass-fed-infant-formula-stage-1",
+    "name": "Bubs Organic Grass Fed Infant Formula Stage 1 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/087877.jpg",
+    "source_id": "Woolworths - 87877",
+    "barcode": "9338078005698",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3675",
+        "price_per_unit": "459",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203449/infacare-comfort-from-birth-0-6-months-infant-formula-stage-1",
+    "name": "Infacare Comfort From Birth 0-6 Months Infant Formula Stage 1 850g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/203449.jpg",
+    "source_id": "Woolworths - 203449",
+    "barcode": "9347832001111",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1735",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743610/karicare-1-baby-infant-formula-from-birth-to-6-months",
+    "name": "Karicare 1 Baby Infant Formula From Birth To 6 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/743610.jpg",
+    "source_id": "Woolworths - 743610",
+    "barcode": "9418783003094",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155539/nestle-nan-comfort-1-from-birth-starter-baby-formula-powder",
+    "name": "Nestle NAN Comfort 1 From Birth Starter Baby Formula Powder 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155539.jpg",
+    "source_id": "Woolworths - 155539",
+    "barcode": "7613287081650",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2205",
+        "price_per_unit": "276",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155536/nestle-nan-optipro-1-from-birth-starter-baby-formula-powder",
+    "name": "Nestle NAN Optipro 1 From Birth Starter Baby Formula Powder 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155536.jpg",
+    "source_id": "Woolworths - 155536",
+    "barcode": "7613287517388",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2900",
+        "price_per_unit": "363",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3045",
+        "price_per_unit": "381",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155532/nestle-nan-supremepro-1-from-birth-premium-starter-baby-formula",
+    "name": "Nestle NAN Supremepro 1 From Birth Premium Starter Baby Formula 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155532.jpg",
+    "source_id": "Woolworths - 155532",
+    "barcode": "7613039679661",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3990",
+        "price_per_unit": "499",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151742/aptamil-profutura-1-premium-infant-formula-from-birth-to-6-months",
+    "name": "Aptamil Profutura 1 Premium Infant Formula From Birth To 6 Months 900g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/151742.jpg",
+    "source_id": "Woolworths - 151742",
+    "barcode": "9418783008853",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "4500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "4720",
+        "price_per_unit": "524",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161129/nutura-organic-infant-formula-0-6-months",
+    "name": "Nutura Organic Infant Formula 0-6 Months 800g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/161129.jpg",
+    "source_id": "Woolworths - 161129",
+    "barcode": "9350758000618",
+    "category_id": "1_717A94B",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3800",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

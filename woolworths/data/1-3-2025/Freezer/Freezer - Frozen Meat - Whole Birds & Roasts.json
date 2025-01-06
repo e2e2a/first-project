@@ -1,0 +1,152 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41929/ingham-s-frozen-turkey-breast-traditional-roast",
+    "name": "Ingham's Frozen Turkey Breast Traditional Roast 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041929.jpg",
+    "source_id": "Woolworths - 41929",
+    "barcode": "9310037149247",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964160/ingham-s-buttermilk-chicken-tenders",
+    "name": "Ingham's Buttermilk Chicken Tenders 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/964160.jpg",
+    "source_id": "Woolworths - 964160",
+    "barcode": "9358553100588",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962016/ingham-s-spicy-buttermilk-chicken-tenders",
+    "name": "Ingham's Spicy Buttermilk Chicken Tenders 550g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/962016.jpg",
+    "source_id": "Woolworths - 962016",
+    "barcode": "9358553100595",
+    "category_id": "1_ACA2FC2",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "2636",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

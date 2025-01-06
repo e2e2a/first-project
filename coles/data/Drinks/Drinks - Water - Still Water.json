@@ -1,0 +1,626 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spring-water-24x600ml-24-pack-7906946",
+    "name": "Coles Spring Water 24X600mL | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7906946.jpg&w=640&q=90",
+    "source_id": "Coles - 7906946",
+    "barcode": "9310645401485",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "66",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "66",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "66",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "66",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "44",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "66",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "69",
+        "price_per_unit": "998",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "66",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spring-water-8x1.5l-8-pack-7906196",
+    "name": "Coles Spring Water 8x1.5L | 8 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7906196.jpg&w=640&q=90",
+    "source_id": "Coles - 7906196",
+    "barcode": "9300601437245",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "8pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "53",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "53",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "53",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "53",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "46",
+        "price_per_unit": "550",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "53",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "56",
+        "price_per_unit": "672",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "53",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pureau-nobles-water-ultra-pure-10l-7611636",
+    "name": "Pureau Nobles Water Ultra Pure | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7611636.jpg&w=640&q=90",
+    "source_id": "Coles - 7611636",
+    "barcode": "9311357000041",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "111",
+        "price_per_unit": "1110",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "96",
+        "price_per_unit": "960",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pureau-pure-water-600ml-6-pack-8539046",
+    "name": "Pureau Pure Water 600mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8539046.jpg&w=640&q=90",
+    "source_id": "Coles - 8539046",
+    "barcode": "9311357000102",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "139",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "139",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "192",
+        "price_per_unit": "690",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "139",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "139",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "139",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "139",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/frantelle-australian-still-spring-water-bottles-multipack-600ml-x-24-pack-24-pack-4978690",
+    "name": "Frantelle Australian Still Spring Water Bottles Multipack 600 ... 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4978690.jpg&w=640&q=90",
+    "source_id": "Coles - 4978690",
+    "barcode": "9315626022048",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "53",
+        "price_per_unit": "770",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "76",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pureau-ultra-pure-water-5l-5284754",
+    "name": "Pureau Ultra Pure Water | 5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5284754.jpg&w=640&q=90",
+    "source_id": "Coles - 5284754",
+    "barcode": "9311357000034",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "117",
+        "price_per_unit": "585",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/aka+-alkaline-6x1l-6-pack-4661897",
+    "name": "Aka+ Alkaline 6x1L | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4661897.jpg&w=640&q=90",
+    "source_id": "Coles - 4661897",
+    "barcode": "9310645351407",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "183",
+        "price_per_unit": "1100",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "1260",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-water-spring-natural-10l-4874479",
+    "name": "Coles Water Spring Natural | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4874479.jpg&w=640&q=90",
+    "source_id": "Coles - 4874479",
+    "barcode": "9310645352572",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "48",
+        "price_per_unit": "475",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "44",
+        "price_per_unit": "440",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "48",
+        "price_per_unit": "475",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "48",
+        "price_per_unit": "475",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-water-multipack-24x350ml-24-pack-6103549",
+    "name": "Coles Water Multipack 24X350mL | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6103549.jpg&w=640&q=90",
+    "source_id": "Coles - 6103549",
+    "barcode": "9300601449842",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "117",
+        "price_per_unit": "980",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "117",
+        "price_per_unit": "980",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "117",
+        "price_per_unit": "980",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "76",
+        "price_per_unit": "640",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "980",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "123",
+        "price_per_unit": "1029",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "117",
+        "price_per_unit": "980",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spring-water-4l-7083061",
+    "name": "Coles Spring Water | 4L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7083061.jpg&w=640&q=90",
+    "source_id": "Coles - 7083061",
+    "barcode": "9310645426457",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "4l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "95",
+        "price_per_unit": "380",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "95",
+        "price_per_unit": "380",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "95",
+        "price_per_unit": "380",
+        "price_unit": "l"
+      },
+      {
+        "state": "VIC",
+        "price": "95",
+        "price_per_unit": "380",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/noosa-beverages-natural-premium-spring-water-3l-7431328",
+    "name": "Noosa Beverages Natural Premium Spring Water | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7431328.jpg&w=640&q=90",
+    "source_id": "Coles - 7431328",
+    "barcode": "9316555002507",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "340",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marble-hill-natural-spring-water-10l-5136735",
+    "name": "Marble Hill Natural Spring Water | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5136735.jpg&w=640&q=90",
+    "source_id": "Coles - 5136735",
+    "barcode": "9312983000016",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "38",
+        "price_per_unit": "380",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "40",
+        "price_per_unit": "399",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-lofty-natural-spring-water-10l-6666450",
+    "name": "Mount Lofty Natural Spring Water | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6666450.jpg&w=640&q=90",
+    "source_id": "Coles - 6666450",
+    "barcode": "9313136001102",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "45",
+        "price_per_unit": "450",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "47",
+        "price_per_unit": "473",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tasmanian-mountain-natural-spring-water-10l-6963638",
+    "name": "Tasmanian Mountain Natural Spring Water | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6963638.jpg&w=640&q=90",
+    "source_id": "Coles - 6963638",
+    "barcode": "9321014100014",
+    "category_id": "11456",
+    "shop": "coles",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "61",
+        "price_per_unit": "610",
+        "price_unit": "l"
+      }
+    ]
+  }
+]

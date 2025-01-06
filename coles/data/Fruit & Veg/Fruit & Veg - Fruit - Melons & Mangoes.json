@@ -1,0 +1,752 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-seedless-watermelon-cut-approx.-1.8kg-7508229",
+    "name": "Coles Seedless Watermelon Cut | approx 1.8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7508229.jpg&w=640&q=90",
+    "source_id": "Coles - 7508229",
+    "barcode": "9310645204178",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1.8kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "522",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "450",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rockmelon-whole-1-each-428915",
+    "name": "Coles Rockmelon Whole | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F428915.jpg&w=640&q=90",
+    "source_id": "Coles - 428915",
+    "barcode": "9358461000031",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rockmelon-half-1-each-5536970",
+    "name": "Coles Rockmelon Half | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5536970.jpg&w=640&q=90",
+    "source_id": "Coles - 5536970",
+    "barcode": "9300601374434",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-watermelon-seedless-whole-approx.-8kg-each-4205264",
+    "name": "Coles Watermelon Seedless Whole | approx 8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4205264.jpg&w=640&q=90",
+    "source_id": "Coles - 4205264",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "8kgeach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "2320",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-piel-de-sapo-melon-medium-1-each-1252053",
+    "name": "Coles Piel De Sapo Melon Medium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1252053.jpg&w=640&q=90",
+    "source_id": "Coles - 1252053",
+    "barcode": "9358461000024",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-half-honeydew-melon-1-each-5536981",
+    "name": "Fresh Half Honeydew Melon | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5536981.jpg&w=640&q=90",
+    "source_id": "Coles - 5536981",
+    "barcode": "9300601374373",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-honeydew-melon-whole-1-each-5945620",
+    "name": "Coles Honeydew Melon Whole | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5945620.jpg&w=640&q=90",
+    "source_id": "Coles - 5945620",
+    "barcode": "9358461000017",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-medium-calypso-mangoes-1-each-8925050",
+    "name": "Coles Medium Calypso Mangoes | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8925050.jpg&w=640&q=90",
+    "source_id": "Coles - 8925050",
+    "barcode": "9324157301737",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kensington-pride-mangoes-1-each-409772",
+    "name": "Coles Kensington Pride Mangoes | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F409772.jpg&w=640&q=90",
+    "source_id": "Coles - 409772",
+    "barcode": "9369998170180",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-r2e2-mangoes-1-each-5604356",
+    "name": "Coles R2E2 Mangoes | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5604356.jpg&w=640&q=90",
+    "source_id": "Coles - 5604356",
+    "barcode": "9377779485187",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-calypso-mangoe-prepacked-3-pack-3655935",
+    "name": "Coles Calypso Mangoe Prepacked | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3655935.jpg&w=640&q=90",
+    "source_id": "Coles - 3655935",
+    "barcode": "9317948009394",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "197",
+        "price_per_unit": "590",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NSW",
+        "price": "197",
+        "price_per_unit": "590",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "197",
+        "price_per_unit": "590",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "263",
+        "price_per_unit": "790",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "690",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "197",
+        "price_per_unit": "590",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "690",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-honey-gold-mangoes-medium-1-each-4965122",
+    "name": "Coles Honey Gold Mangoes Medium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4965122.jpg&w=640&q=90",
+    "source_id": "Coles - 4965122",
+    "barcode": "9351502000168",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-mangoes-prepacked-1.5kg-3627463",
+    "name": "Coles I'M Perfect Mangoes Prepacked | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3627463.jpg&w=640&q=90",
+    "source_id": "Coles - 3627463",
+    "barcode": "9310645277981",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "660",
+        "price_per_unit": "990",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "990",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "660",
+        "price_per_unit": "990",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "990",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kensington-pride-mangoes-prepacked-4-pack-2832489",
+    "name": "Coles Kensington Pride Mangoes Prepacked | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2832489.jpg&w=640&q=90",
+    "source_id": "Coles - 2832489",
+    "barcode": "9345621005128",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-mangoes-arriba-r2-1-each-3669226",
+    "name": "Fresh Mangoes Arriba R2 | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3669226.jpg&w=640&q=90",
+    "source_id": "Coles - 3669226",
+    "barcode": "9344240000279",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-mangoes-6-pack-9055409",
+    "name": "Fresh Mangoes | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9055409.jpg&w=640&q=90",
+    "source_id": "Coles - 9055409",
+    "barcode": "",
+    "category_id": "2100",
+    "shop": "coles",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "182",
+        "price_per_unit": "1090",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "182",
+        "price_per_unit": "1090",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

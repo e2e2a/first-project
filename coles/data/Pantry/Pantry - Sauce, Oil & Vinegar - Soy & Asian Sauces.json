@@ -1,0 +1,872 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-soy-sauce-500ml-2579434",
+    "name": "Coles Soy Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2579434.jpg&w=640&q=90",
+    "source_id": "Coles - 2579434",
+    "barcode": "9310645116747",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "38",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fountain-soy-sauce-asian-sauces-stir-fry-250ml-5377390",
+    "name": "Fountain Soy Sauce Asian Sauces Stir fry | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5377390.jpg&w=640&q=90",
+    "source_id": "Coles - 5377390",
+    "barcode": "9300681213142",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "152",
+        "price_per_unit": "380",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "399",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-soy-sauce-600ml-8280895",
+    "name": "Kikkoman Soy Sauce | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8280895.jpg&w=640&q=90",
+    "source_id": "Coles - 8280895",
+    "barcode": "4901515118586",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "108",
+        "price_per_unit": "650",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-oyster-sauce-300ml-5332234",
+    "name": "Coles Oyster Sauce | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5332234.jpg&w=640&q=90",
+    "source_id": "Coles - 5332234",
+    "barcode": "9300601411276",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "77",
+        "price_per_unit": "230",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pearl-river-bridge-light-soy-sauce-500ml-404542",
+    "name": "Pearl River Bridge Light Soy Sauce | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F404542.jpg&w=640&q=90",
+    "source_id": "Coles - 404542",
+    "barcode": "9310166010401",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "66",
+        "price_per_unit": "330",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-soy-sauce-1l-459125",
+    "name": "Kikkoman Soy Sauce | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F459125.jpg&w=640&q=90",
+    "source_id": "Coles - 459125",
+    "barcode": "4901515119880",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "NSW",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "QLD",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "WA",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "SA",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "TAS",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "ACT",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      },
+      {
+        "state": "NT",
+        "price": "102",
+        "price_per_unit": "1020",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-gluten-free-soy-sauce-250ml-7834131",
+    "name": "Kikkoman Gluten Free Soy Sauce | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7834131.jpg&w=640&q=90",
+    "source_id": "Coles - 7834131",
+    "barcode": "4901515129889",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "252",
+        "price_per_unit": "630",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "265",
+        "price_per_unit": "662",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-soy-sauce-150ml-128183",
+    "name": "Kikkoman Soy Sauce | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F128183.jpg&w=640&q=90",
+    "source_id": "Coles - 128183",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "327",
+        "price_per_unit": "490",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "343",
+        "price_per_unit": "515",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/conimex-ketjap-manis-sweet-soy-sauce-240ml-202843",
+    "name": "Conimex Ketjap Manis Sweet Soy Sauce | 240mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F202843.jpg&w=640&q=90",
+    "source_id": "Coles - 202843",
+    "barcode": "8714100200261",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "240ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "156",
+        "price_per_unit": "375",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maggi-oyster-sauce-275ml-5196996",
+    "name": "Maggi Oyster Sauce | 275mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5196996.jpg&w=640&q=90",
+    "source_id": "Coles - 5196996",
+    "barcode": "9556001134103",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "275ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "131",
+        "price_per_unit": "360",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "137",
+        "price_per_unit": "378",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-salt-reduced-soy-sauce-250ml-52897",
+    "name": "Kikkoman Salt Reduced Soy Sauce | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F52897.jpg&w=640&q=90",
+    "source_id": "Coles - 52897",
+    "barcode": "4901515118920",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "268",
+        "price_per_unit": "670",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "282",
+        "price_per_unit": "704",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/beerenberg-mango-chutney-280g-6875009",
+    "name": "Beerenberg Mango Chutney | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6875009.jpg&w=640&q=90",
+    "source_id": "Coles - 6875009",
+    "barcode": "9311485000760",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "236",
+        "price_per_unit": "662",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-tamari-soy-sauce-250ml-3498702",
+    "name": "Kikkoman Tamari Soy Sauce | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3498702.jpg&w=640&q=90",
+    "source_id": "Coles - 3498702",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NSW",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "236",
+        "price_per_unit": "590",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "620",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kikkoman-soy-sauce-250ml-197732",
+    "name": "Kikkoman Soy Sauce | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F197732.jpg&w=640&q=90",
+    "source_id": "Coles - 197732",
+    "barcode": "4901515118197",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "244",
+        "price_per_unit": "610",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "244",
+        "price_per_unit": "610",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "244",
+        "price_per_unit": "610",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "244",
+        "price_per_unit": "610",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "244",
+        "price_per_unit": "610",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "244",
+        "price_per_unit": "610",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "256",
+        "price_per_unit": "641",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/killer-condiments-sticky-soy-220g-8015657",
+    "name": "Killer Condiments Sticky Soy | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8015657.jpg&w=640&q=90",
+    "source_id": "Coles - 8015657",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "818",
+        "price_per_unit": "1800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yarra-valley-gourmet-sweet-chilli-sauce-250ml-8425579",
+    "name": "Yarra Valley Gourmet Sweet Chilli Sauce | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8425579.jpg&w=640&q=90",
+    "source_id": "Coles - 8425579",
+    "barcode": "",
+    "category_id": "10302",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "384",
+        "price_per_unit": "960",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

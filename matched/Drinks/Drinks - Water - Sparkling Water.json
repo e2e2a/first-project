@@ -1,0 +1,668 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/capi-all-australian-sparkling-water-750ml-750ml-4465651",
+    "name": "Capi All Australian Sparkling Water 750ml | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4465651.jpg&w=640&q=90",
+    "barcode": "9346801001534",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "270",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "270",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "360",
+        "price_per_unit": "270",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "360",
+        "price_per_unit": "270",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "347",
+        "price_per_unit": "260",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "270",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "373",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "270",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/285271/capi-australian-sparkling-water",
+    "name": "Capi Australian Sparkling Water 750ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/285271.jpg",
+    "barcode": "9346801001534",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "393",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanpellegrino-sparkling-mineral-water-bottle-750ml-3342044",
+    "name": "Sanpellegrino Sparkling Mineral Water Bottle | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3342044.jpg&w=640&q=90",
+    "barcode": "8002270011054",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      },
+      {
+        "state": "QLD",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      },
+      {
+        "state": "WA",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      },
+      {
+        "state": "SA",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      },
+      {
+        "state": "TAS",
+        "price": "413",
+        "price_per_unit": "310",
+        "price_unit": "ml"
+      },
+      {
+        "state": "ACT",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      },
+      {
+        "state": "NT",
+        "price": "455",
+        "price_per_unit": "341",
+        "price_unit": "ml"
+      },
+      {
+        "state": "VIC",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162547/sanpellegrino-sparkling-natural-mineral-water",
+    "name": "Sanpellegrino Sparkling Natural Mineral Water 750mL",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/162547.jpg",
+    "barcode": "8002270011054",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "433",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "453",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanpellegrino-sparkling-mineral-water-750ml-12-pack-3342055",
+    "name": "Sanpellegrino Sparkling Mineral Water 750mL | 12 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3342055.jpg&w=640&q=90",
+    "barcode": "8002270023590",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "12pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "333",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "368",
+        "price_per_unit": "3308",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "333",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307290/sanpellegrino-sparkling-natural-mineral-water",
+    "name": "Sanpellegrino Sparkling Natural Mineral Water 750ml x12 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/307290.jpg",
+    "barcode": "8002270023590",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "333",
+        "price_per_unit": "3000",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "3150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanpellegrino-natural-sparkling-cans-8x330ml-8-pack-4662186",
+    "name": "Sanpellegrino Natural Sparkling Cans 8x330mL | 8 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4662186.jpg&w=640&q=90",
+    "barcode": "8002270286667",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "8pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "620",
+        "price_per_unit": "1638",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80504/sanpellegrino-sparkling-natural-mineral-water-slim-cans",
+    "name": "Sanpellegrino Sparkling Natural Mineral Water Slim Cans 330ml x8 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/080504.jpg",
+    "barcode": "8002270286667",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "591",
+        "price_per_unit": "1560",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "617",
+        "price_per_unit": "1630",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schweppes-natural-mineral-water-300ml-4-pack-7351987",
+    "name": "Schweppes Natural Mineral Water 300mL | 4 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7351987.jpg&w=640&q=90",
+    "barcode": "9315596000596",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "288",
+        "price_per_unit": "345",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "323",
+        "price_per_unit": "388",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253762/schweppes-natural-mineral-water-bottle-glass-multipack",
+    "name": "Schweppes Natural Mineral Water Bottle Glass Multipack 300ml x 4 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/253762.jpg",
+    "barcode": "9315596000596",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "308",
+        "price_per_unit": "370",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schweppes-natural-mineral-water-bottle-1.1l-3014974",
+    "name": "Schweppes Natural Mineral Water Bottle | 1.1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3014974.jpg&w=640&q=90",
+    "barcode": "9315596006376",
+    "shop": "coles",
+    "category_id": "11456",
+    "weight": "1.1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "QLD",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "WA",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "SA",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "TAS",
+        "price": "259",
+        "price_per_unit": "285",
+        "price_unit": ".l"
+      },
+      {
+        "state": "ACT",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      },
+      {
+        "state": "NT",
+        "price": "286",
+        "price_per_unit": "315",
+        "price_unit": ".l"
+      },
+      {
+        "state": "VIC",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/634292/schweppes-natural-mineral-water-bottle-natural",
+    "name": "Schweppes Natural Mineral Water Bottle Natural 1.1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/634292.jpg",
+    "barcode": "9315596006376",
+    "shop": "Woolworths",
+    "category_id": "1_5AF3A0A",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "273",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "286",
+        "price_per_unit": "315",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

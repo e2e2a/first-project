@@ -1,0 +1,3122 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-chicken-breast-nuggets-400g-6324821",
+    "name": "Coles Frozen Chicken Breast Nuggets | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6324821.jpg&w=640&q=90",
+    "source_id": "Coles - 6324821",
+    "barcode": "9300601322275",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tegel-take-outs-louisiana-style-tenders-500g-6943175",
+    "name": "Tegel Take Outs Louisiana Style Tenders | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6943175.jpg&w=640&q=90",
+    "source_id": "Coles - 6943175",
+    "barcode": "9414735952298",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3024",
+        "price_per_unit": "1512",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tegels-take-out-louisiana-chicken-portions-1kg-5989862",
+    "name": "Tegels Take-Out Louisiana Chicken Portions | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5989862.jpg&w=640&q=90",
+    "source_id": "Coles - 5989862",
+    "barcode": "9414735321131",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1512",
+        "price_per_unit": "1512",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-classic-crumb-chicken-breast-tenders-1kg-3230710",
+    "name": "Steggles Frozen Classic Crumb Chicken Breast Tenders | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3230710.jpg&w=640&q=90",
+    "source_id": "Coles - 3230710",
+    "barcode": "9310213542213",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-chicken-dino-snacks-1kg-3088427",
+    "name": "Steggles Frozen Chicken Dino Snacks | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3088427.jpg&w=640&q=90",
+    "source_id": "Coles - 3088427",
+    "barcode": "9310213567513",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-tempura-chicken-breast-nuggets-400g-3088493",
+    "name": "Steggles Frozen Tempura Chicken Breast Nuggets | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3088493.jpg&w=640&q=90",
+    "source_id": "Coles - 3088493",
+    "barcode": "9310213563157",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-crumbed-chicken-breast-fingers-400g-6632528",
+    "name": "Steggles Frozen Crumbed Chicken Breast Fingers | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6632528.jpg&w=640&q=90",
+    "source_id": "Coles - 6632528",
+    "barcode": "9313690171211",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-crumbed-chicken-nuggets-1kg-3081825",
+    "name": "Steggles Frozen Crumbed Chicken Nuggets | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3081825.jpg&w=640&q=90",
+    "source_id": "Coles - 3081825",
+    "barcode": "9310213565755",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-sweet-chilli-tenders-1kg-3088438",
+    "name": "Steggles Sweet Chilli Tenders | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3088438.jpg&w=640&q=90",
+    "source_id": "Coles - 3088438",
+    "barcode": "9310213542206",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/family-fave's-crumbed-chicken-tenders-1kg-4315546",
+    "name": "Family Fave's Crumbed Chicken Tenders | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4315546.jpg&w=640&q=90",
+    "source_id": "Coles - 4315546",
+    "barcode": "9318693048706",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-chicken-goujons-1kg-8434332",
+    "name": "Steggles Chicken Goujons | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8434332.jpg&w=640&q=90",
+    "source_id": "Coles - 8434332",
+    "barcode": "9310213563621",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-tempura-chicken-nuggets-1kg-6943390",
+    "name": "Steggles Tempura Chicken Nuggets | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6943390.jpg&w=640&q=90",
+    "source_id": "Coles - 6943390",
+    "barcode": "9310213544200",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chicken-breast-dino-nuggets-1kg-5746849",
+    "name": "Coles Chicken Breast Dino Nuggets | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5746849.jpg&w=640&q=90",
+    "source_id": "Coles - 5746849",
+    "barcode": "9310645401409",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/family-fave's-sweet-chilli-chicken-tenders-1kg-4315557",
+    "name": "Family Fave's Sweet Chilli Chicken Tenders | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4315557.jpg&w=640&q=90",
+    "source_id": "Coles - 4315557",
+    "barcode": "9318693048713",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-crumbed-nuggets-400g-4314995",
+    "name": "Inghams Crumbed Nuggets | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4314995.jpg&w=640&q=90",
+    "source_id": "Coles - 4314995",
+    "barcode": "9310037145119",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1485",
+        "price_per_unit": "594",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-tempura-chicken-nuggets-400g-3182629",
+    "name": "Coles Tempura Chicken Nuggets | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3182629.jpg&w=640&q=90",
+    "source_id": "Coles - 3182629",
+    "barcode": "9310645232416",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-sweet-chilli-chicken-tenders-1kg-7650194",
+    "name": "Coles Frozen Sweet Chilli Chicken Tenders | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7650194.jpg&w=640&q=90",
+    "source_id": "Coles - 7650194",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-crumbed-chicken-breast-nuggets-400g-3088450",
+    "name": "Steggles Frozen Crumbed Chicken Breast Nuggets | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3088450.jpg&w=640&q=90",
+    "source_id": "Coles - 3088450",
+    "barcode": "9310213562273",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": null,
+        "price_per_unit": null,
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1450",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-frozen-southern-style-chicken-tenders-400g-2726798",
+    "name": "Inghams Frozen Southern Style Chicken Tenders | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2726798.jpg&w=640&q=90",
+    "source_id": "Coles - 2726798",
+    "barcode": "9310037147892",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1485",
+        "price_per_unit": "594",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-chicken-breast-schnitzel-400g-7648272",
+    "name": "Coles Frozen Chicken Breast Schnitzel | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7648272.jpg&w=640&q=90",
+    "source_id": "Coles - 7648272",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-crumbed-chicken-kyiv-350g-5428264",
+    "name": "Coles Crumbed Chicken Kyiv | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5428264.jpg&w=640&q=90",
+    "source_id": "Coles - 5428264",
+    "barcode": "9300601016105",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2143",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-sweet-chilli-chicken-tenders-400g-7650139",
+    "name": "Coles Frozen Sweet Chilli Chicken Tenders | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7650139.jpg&w=640&q=90",
+    "source_id": "Coles - 7650139",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-sweet-chilli-tenders-400g-4314973",
+    "name": "Inghams Sweet Chilli Tenders | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4314973.jpg&w=640&q=90",
+    "source_id": "Coles - 4314973",
+    "barcode": "9310037147953",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1485",
+        "price_per_unit": "594",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-buttermilk-chicken-tenders-400g-3773079",
+    "name": "Coles Frozen Buttermilk Chicken Tenders | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3773079.jpg&w=640&q=90",
+    "source_id": "Coles - 3773079",
+    "barcode": "9310645310350",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-garlic-kiev-350g-3902310",
+    "name": "Steggles Garlic Kiev | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3902310.jpg&w=640&q=90",
+    "source_id": "Coles - 3902310",
+    "barcode": "9310213542497",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "1050",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "1134",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-tempura-chicken-breast-pops-1kg-3236976",
+    "name": "Steggles Frozen Tempura Chicken Breast Pops | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3236976.jpg&w=640&q=90",
+    "source_id": "Coles - 3236976",
+    "barcode": "9310213563836",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-tempura-chicken-nuggets-600gram-8960823",
+    "name": "Inghams Tempura Chicken Nuggets | 600GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8960823.jpg&w=640&q=90",
+    "source_id": "Coles - 8960823",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "600gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "960",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "960",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "960",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "960",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "1728",
+        "price_per_unit": "1037",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-premium-garlic-butter-chicken-kyivs-350g-4315014",
+    "name": "Inghams Premium Garlic Butter Chicken Kyivs | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4315014.jpg&w=640&q=90",
+    "source_id": "Coles - 4315014",
+    "barcode": "9310037086726",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3572",
+        "price_per_unit": "1250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3857",
+        "price_per_unit": "1350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/family-fave's-southern-style-chicken-nuggets-1kg-4315568",
+    "name": "Family Fave's Southern Style Chicken Nuggets | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4315568.jpg&w=640&q=90",
+    "source_id": "Coles - 4315568",
+    "barcode": "9318693048720",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-crumbed-tenders-400g-4314962",
+    "name": "Inghams Crumbed Tenders | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4314962.jpg&w=640&q=90",
+    "source_id": "Coles - 4314962",
+    "barcode": "9310037147960",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1375",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1485",
+        "price_per_unit": "594",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-original-chicken-tenders-400g-7689167",
+    "name": "Coles Frozen Original Chicken Tenders | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7689167.jpg&w=640&q=90",
+    "source_id": "Coles - 7689167",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/family-fave's-chicken-chips-with-ciabatta-crumb-1kg-4315535",
+    "name": "Family Fave's Chicken Chips With Ciabatta Crumb | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4315535.jpg&w=640&q=90",
+    "source_id": "Coles - 4315535",
+    "barcode": "9318693048737",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-tempura-chicken-breast-dino-snacks-400g-5413937",
+    "name": "Steggles Frozen Tempura Chicken Breast Dino Snacks | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5413937.jpg&w=640&q=90",
+    "source_id": "Coles - 5413937",
+    "barcode": "9310213567414",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1620",
+        "price_per_unit": "648",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-chicken-breast-schnitzel-400g-6943426",
+    "name": "Steggles Chicken Breast Schnitzel | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6943426.jpg&w=640&q=90",
+    "source_id": "Coles - 6943426",
+    "barcode": "9310213544224",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-original-chicken-tenders-1kg-7689269",
+    "name": "Coles Frozen Original Chicken Tenders | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7689269.jpg&w=640&q=90",
+    "source_id": "Coles - 7689269",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-southern-style-chicken-pops-400g-3187553",
+    "name": "Coles Southern Style Chicken Pops | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3187553.jpg&w=640&q=90",
+    "source_id": "Coles - 3187553",
+    "barcode": "9310645232690",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ingham's-four-chicken-kyivs-creamy-garlic-600g-9925486",
+    "name": "Ingham's Four Chicken Kyivs Creamy Garlic | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9925486.jpg&w=640&q=90",
+    "source_id": "Coles - 9925486",
+    "barcode": "9310037146055",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1917",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1917",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1917",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1917",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1917",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1917",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2070",
+        "price_per_unit": "1242",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-crumbed-chicken-nuggets-1kg-7650230",
+    "name": "Coles Crumbed Chicken Nuggets | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7650230.jpg&w=640&q=90",
+    "source_id": "Coles - 7650230",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-frozen-flaming-chicken-wing-nibbles-1kg-1873108",
+    "name": "Steggles Frozen Flaming Chicken Wing Nibbles | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1873108.jpg&w=640&q=90",
+    "source_id": "Coles - 1873108",
+    "barcode": "9310213563652",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/family-faves-southern-style-chicken-pops-1kg-8958209",
+    "name": "Family Faves Southern Style Chicken Pops | 1KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8958209.jpg&w=640&q=90",
+    "source_id": "Coles - 8958209",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fropro-fpfc-chicken-tenders-southern-style-300gram-9003314",
+    "name": "Fropro FPFC Chicken Tenders Southern Style | 300GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9003314.jpg&w=640&q=90",
+    "source_id": "Coles - 9003314",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "300gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NSW",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "WA",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "4663",
+        "price_per_unit": "1399",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-habanero-chicken-wings-1kg-6609388",
+    "name": "Steggles Habanero Chicken Wings | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6609388.jpg&w=640&q=90",
+    "source_id": "Coles - 6609388",
+    "barcode": "9310213544088",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-oven-roasted-chicken-wings-1kg-7269296",
+    "name": "Steggles Oven Roasted Chicken Wings | 1KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7269296.jpg&w=640&q=90",
+    "source_id": "Coles - 7269296",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tegel-takeouts-frozen-chicken-tenderloins-ruffle-buttermilk-style-400gram-8954092",
+    "name": "Tegel Takeouts Frozen Chicken Tenderloins Ruffle Butter ... 400GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8954092.jpg&w=640&q=90",
+    "source_id": "Coles - 8954092",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "1296",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/family-faves-southern-style-chicken-portions-1kg-8958220",
+    "name": "Family Faves Southern Style Chicken Portions | 1KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8958220.jpg&w=640&q=90",
+    "source_id": "Coles - 8958220",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fropro-fpfc-sweet-chilli-tenders-300g-8958515",
+    "name": "Fropro FPFC Sweet Chilli Tenders | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8958515.jpg&w=640&q=90",
+    "source_id": "Coles - 8958515",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "4317",
+        "price_per_unit": "1295",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4663",
+        "price_per_unit": "1399",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tegel-take-outs-frozen-chicken-tenderloins-nashville-style-500gram-8954139",
+    "name": "Tegel Take Outs Frozen Chicken Tenderloins Nashville Style | 500GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8954139.jpg&w=640&q=90",
+    "source_id": "Coles - 8954139",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "500gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "1400",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "3024",
+        "price_per_unit": "1512",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-chicken-chippies-400g-7648669",
+    "name": "Coles Frozen Chicken Chippies | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7648669.jpg&w=640&q=90",
+    "source_id": "Coles - 7648669",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-crumbed-chicken-alphabet-nugget-2kg-6943415",
+    "name": "Steggles Crumbed Chicken Alphabet Nugget | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6943415.jpg&w=640&q=90",
+    "source_id": "Coles - 6943415",
+    "barcode": "9310213544194",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "2500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "2700",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tegel-take-outs-karaage-frozen-chicken-chunks-ruffle-360gram-8953635",
+    "name": "Tegel Take Outs Karaage Frozen Chicken Chunks Ruffle | 360GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8953635.jpg&w=640&q=90",
+    "source_id": "Coles - 8953635",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "360gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3333",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "3333",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "3333",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "1296",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-buttermilk-chicken-portions-1kg-8958694",
+    "name": "Steggles Buttermilk Chicken Portions | 1KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8958694.jpg&w=640&q=90",
+    "source_id": "Coles - 8958694",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "1350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1458",
+        "price_per_unit": "1458",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inghams-free-range-chicken-breast-fillet-300g-7694360",
+    "name": "Inghams Free Range Chicken Breast Fillet | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7694360.jpg&w=640&q=90",
+    "source_id": "Coles - 7694360",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3550",
+        "price_per_unit": "1065",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3550",
+        "price_per_unit": "1065",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3550",
+        "price_per_unit": "1065",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3550",
+        "price_per_unit": "1065",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3833",
+        "price_per_unit": "1150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-chicken-salted-chicken-chips-400g-6609366",
+    "name": "Steggles Chicken Salted Chicken Chips | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6609366.jpg&w=640&q=90",
+    "source_id": "Coles - 6609366",
+    "barcode": "9310213543685",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1890",
+        "price_per_unit": "756",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-southwest-chicken-pops-400g-6609424",
+    "name": "Steggles Southwest Chicken Pops | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6609424.jpg&w=640&q=90",
+    "source_id": "Coles - 6609424",
+    "barcode": "9310213544095",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1890",
+        "price_per_unit": "756",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-chicken-parmigiana-pops-400g-8958639",
+    "name": "Steggles Chicken Parmigiana Pops | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8958639.jpg&w=640&q=90",
+    "source_id": "Coles - 8958639",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1875",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1875",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1875",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1875",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2025",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tegel-takeouts-korean-style-frozen-chicken-chunks-ruffle-with-sauce-400gram-8954070",
+    "name": "Tegel Takeouts Korean Style Frozen Chicken Chunks Ruffl ... 400GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8954070.jpg&w=640&q=90",
+    "source_id": "Coles - 8954070",
+    "barcode": "",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "400gram",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "1200",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "1296",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-spinach-and-3-cheese-turkey-breast-1kg-5654900",
+    "name": "Steggles Spinach & 3 Cheese Turkey Breast | 1KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5654900.jpg&w=640&q=90",
+    "source_id": "Coles - 5654900",
+    "barcode": "9310213869617",
+    "category_id": "85471",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

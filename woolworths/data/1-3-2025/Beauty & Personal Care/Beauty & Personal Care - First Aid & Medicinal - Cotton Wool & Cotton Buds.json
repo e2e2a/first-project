@@ -1,0 +1,770 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137657/audisol-ear-wax-remover",
+    "name": "Audisol Ear Wax Remover 20ml",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/137657.jpg",
+    "source_id": "Woolworths - 137657",
+    "barcode": "9351209001604",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100ML",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "VIC",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "1390",
+        "price_per_unit": "6950",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "1460",
+        "price_per_unit": "7300",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791123/help-hand-cotton-balls",
+    "name": "Help@Hand Cotton Balls 200 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/791123.jpg",
+    "source_id": "Woolworths - 791123",
+    "barcode": "9339687020140",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791121/help-hand-cotton-ripple",
+    "name": "Help@Hand Cotton Ripple 100g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/791121.jpg",
+    "source_id": "Woolworths - 791121",
+    "barcode": "9339687020126",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220852/help-hand-cotton-tips",
+    "name": "Help@Hand Cotton Tips 400 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220852.jpg",
+    "source_id": "Woolworths - 220852",
+    "barcode": "9339687304363",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220751/help-hand-cotton-tips-no-plastic-stems",
+    "name": "Help@Hand Cotton Tips No Plastic Stems 200 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220751.jpg",
+    "source_id": "Woolworths - 220751",
+    "barcode": "9339687304356",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791122/help-hand-make-up-pads",
+    "name": "Help@Hand Make Up Pads 80 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/791122.jpg",
+    "source_id": "Woolworths - 791122",
+    "barcode": "9339687020133",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220853/help-hand-makeup-pads",
+    "name": "Help@Hand Makeup Pads 200 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220853.jpg",
+    "source_id": "Woolworths - 220853",
+    "barcode": "9339687304370",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720613/swisspers-cotton-balls-extra-large",
+    "name": "Swisspers Cotton Balls Extra Large 100 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/720613.jpg",
+    "source_id": "Woolworths - 720613",
+    "barcode": "9329414722102",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740153/swisspers-cotton-large-make-up-pads",
+    "name": "Swisspers Cotton Large Make Up Pads 50 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/740153.jpg",
+    "source_id": "Woolworths - 740153",
+    "barcode": "9329414720078",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15722/swisspers-cotton-pads-make-up",
+    "name": "Swisspers Cotton Pads Make Up 80 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/015722.jpg",
+    "source_id": "Woolworths - 15722",
+    "barcode": "9329414000163",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "410",
+        "price_per_unit": "513",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "538",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136913/swisspers-cotton-tips",
+    "name": "Swisspers Cotton Tips 240 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/136913.jpg",
+    "source_id": "Woolworths - 136913",
+    "barcode": "9329414725349",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/805123/swisspers-cotton-tips-with-paper-stems",
+    "name": "Swisspers Cotton Tips With Paper Stems 120 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/805123.jpg",
+    "source_id": "Woolworths - 805123",
+    "barcode": "9329414724281",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "100EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "208",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "265",
+        "price_per_unit": "221",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136745/swisspers-paper-cotton-stems",
+    "name": "Swisspers Paper Cotton Stems 400 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/136745.jpg",
+    "source_id": "Woolworths - 136745",
+    "barcode": "9329414725332",
+    "category_id": "1_9851658",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "710",
+        "price_per_unit": "2",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

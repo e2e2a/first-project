@@ -1,0 +1,506 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893373/liddells-lactose-free-full-cream-long-life-uht-milk",
+    "name": "Liddells Lactose Free Full Cream Long Life UHT Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/893373.jpg",
+    "source_id": "Woolworths - 893373",
+    "barcode": "9300639618661",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893477/liddells-lactose-free-low-fat-long-life-uht-milk",
+    "name": "Liddells Lactose Free Low Fat Long Life Uht Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/893477.jpg",
+    "source_id": "Woolworths - 893477",
+    "barcode": "9300639618678",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/889286/liddells-lactose-free-skim-long-life-uht-milk",
+    "name": "Liddells Lactose Free Skim Long Life UHT Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/889286.jpg",
+    "source_id": "Woolworths - 889286",
+    "barcode": "9300639618654",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/146547/pauls-zymil-lactose-free-low-fat-long-life-milk",
+    "name": "Pauls Zymil Lactose Free Low Fat Long Life Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/146547.jpg",
+    "source_id": "Woolworths - 146547",
+    "barcode": "9310036018377",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113025/pauls-zymil-skim-uht-milk",
+    "name": "Pauls Zymil Skim UHT Milk 1L",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/113025.jpg",
+    "source_id": "Woolworths - 113025",
+    "barcode": "9310036071501",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799811/woolworths-free-from-lactose-full-cream-milk",
+    "name": "Woolworths Free From Lactose Full Cream Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799811.jpg",
+    "source_id": "Woolworths - 799811",
+    "barcode": "9300633785529",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799813/woolworths-free-from-lactose-lite-milk",
+    "name": "Woolworths Free From Lactose Lite Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/799813.jpg",
+    "source_id": "Woolworths - 799813",
+    "barcode": "9300633785536",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205773/zymil-long-life-full-cream-milk-lactose-free",
+    "name": "Zymil Long Life Full Cream Milk Lactose Free 250ml x3 Pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205773.jpg",
+    "source_id": "Woolworths - 205773",
+    "barcode": "9310036072812",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "427",
+        "price_unit": "L"
+      },
+      {
+        "state": "VIC",
+        "price": "320",
+        "price_per_unit": "427",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "427",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "320",
+        "price_per_unit": "427",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "427",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "320",
+        "price_per_unit": "427",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/730998/pauls-zymil-lactose-free-full-cream-long-life-milk",
+    "name": "Pauls Zymil Lactose Free Full Cream Long Life Milk 1l",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/730998.jpg",
+    "source_id": "Woolworths - 730998",
+    "barcode": "9310036045359",
+    "category_id": "1_5AF3A0A",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  }
+]
